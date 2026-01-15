@@ -37,11 +37,13 @@
     "zh": "吟啸"
   },
   "verses": [
-    "secondSamuel 1:17",
-    "secondSamuel 3:33",
-    "secondChronicles 35:25",
-    "jeremiah 9:16",
-    "ezekiel 27:32",
-    "ezekiel 32:16"
+    "secondSamuel 1:17:0",
+    "secondSamuel 3:33:0",
+    "secondChronicles 35:25:0",
+    "jeremiah 9:16:6",
+    "ezekiel 27:32:4",
+    "ezekiel 32:16:2",
+    "ezekiel 32:16:5",
+    "ezekiel 32:16:12"
   ]
 }

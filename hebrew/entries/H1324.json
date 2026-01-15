@@ -37,13 +37,18 @@
   },
   "hebrew": "בַּת",
   "verses": [
-    "firstKings 7:26",
-    "firstKings 7:38",
-    "secondChronicles 2:9",
-    "secondChronicles 4:5",
-    "isaiah 5:10",
-    "ezekiel 45:10",
-    "ezekiel 45:11",
-    "ezekiel 45:14"
+    "firstKings 7:26:9",
+    "firstKings 7:38:5",
+    "secondChronicles 2:9:16",
+    "secondChronicles 2:9:20",
+    "secondChronicles 4:5:9",
+    "isaiah 5:10:5",
+    "ezekiel 45:10:4",
+    "ezekiel 45:11:1",
+    "ezekiel 45:11:8",
+    "ezekiel 45:14:2",
+    "ezekiel 45:14:5",
+    "ezekiel 45:14:9",
+    "ezekiel 45:14:13"
   ]
 }

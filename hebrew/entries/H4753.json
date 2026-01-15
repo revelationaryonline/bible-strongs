@@ -37,16 +37,17 @@
     "zh": "没药"
   },
   "verses": [
-    "exodus 30:23",
-    "esther 2:12",
-    "psalms 45:9",
-    "proverbs 7:17",
-    "solomon 1:13",
-    "solomon 3:6",
-    "solomon 4:6",
-    "solomon 4:14",
-    "solomon 5:1",
-    "solomon 5:5",
-    "solomon 5:13"
+    "exodus 30:23:5",
+    "esther 2:12:24",
+    "psalms 45:9:0",
+    "proverbs 7:17:2",
+    "solomon 1:13:1",
+    "solomon 3:6:8",
+    "solomon 4:6:9",
+    "solomon 4:14:8",
+    "solomon 5:1:5",
+    "solomon 5:5:6",
+    "solomon 5:5:8",
+    "solomon 5:13:8"
   ]
 }

@@ -37,11 +37,13 @@
   },
   "hebrew": "בֵּלְטְשַׁאצַּר",
   "verses": [
-    "daniel 2:26",
-    "daniel 4:5",
-    "daniel 4:6",
-    "daniel 4:15",
-    "daniel 4:16",
-    "daniel 5:12"
+    "daniel 2:26:6",
+    "daniel 4:5:7",
+    "daniel 4:6:0",
+    "daniel 4:15:8",
+    "daniel 4:16:4",
+    "daniel 4:16:13",
+    "daniel 4:16:19",
+    "daniel 5:12:20"
   ]
 }

@@ -37,13 +37,14 @@
     "zh": "惊愕"
   },
   "verses": [
-    "genesis 43:33",
-    "job 26:11",
-    "psalms 48:6",
-    "ecclesiastes 5:7",
-    "isaiah 13:8",
-    "isaiah 29:9",
-    "jeremiah 4:9",
-    "habakkuk 1:5"
+    "genesis 43:33:6",
+    "job 26:11:3",
+    "psalms 48:6:3",
+    "ecclesiastes 5:7:9",
+    "isaiah 13:8:9",
+    "isaiah 29:9:1",
+    "jeremiah 4:9:13",
+    "habakkuk 1:5:3",
+    "habakkuk 1:5:4"
   ]
 }

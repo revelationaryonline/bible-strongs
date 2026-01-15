@@ -37,14 +37,15 @@
   },
   "hebrew": "יֵצֶר",
   "verses": [
-    "genesis 6:5",
-    "genesis 8:21",
-    "deuteronomy 31:21",
-    "firstChronicles 28:9",
-    "firstChronicles 29:18",
-    "psalms 103:14",
-    "isaiah 26:3",
-    "isaiah 29:16",
-    "habakkuk 2:18"
+    "genesis 6:5:8",
+    "genesis 8:21:18",
+    "deuteronomy 31:21:20",
+    "firstChronicles 28:9:18",
+    "firstChronicles 29:18:9",
+    "psalms 103:14:3",
+    "isaiah 26:3:0",
+    "isaiah 29:16:11",
+    "habakkuk 2:18:5",
+    "habakkuk 2:18:12"
   ]
 }

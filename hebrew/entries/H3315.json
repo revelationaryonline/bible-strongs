@@ -37,16 +37,16 @@
   },
   "hebrew": "יֶפֶת",
   "verses": [
-    "genesis 5:32",
-    "genesis 6:10",
-    "genesis 7:13",
-    "genesis 9:18",
-    "genesis 9:23",
-    "genesis 9:27",
-    "genesis 10:1",
-    "genesis 10:2",
-    "genesis 10:21",
-    "firstChronicles 1:4",
-    "firstChronicles 1:5"
+    "genesis 5:32:13",
+    "genesis 6:10:9",
+    "genesis 7:13:7",
+    "genesis 9:18:8",
+    "genesis 9:23:2",
+    "genesis 9:27:2",
+    "genesis 10:1:6",
+    "genesis 10:2:1",
+    "genesis 10:21:9",
+    "firstChronicles 1:4:3",
+    "firstChronicles 1:5:1"
   ]
 }

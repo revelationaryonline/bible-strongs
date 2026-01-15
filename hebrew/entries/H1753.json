@@ -37,11 +37,18 @@
   },
   "hebrew": "דּוּר",
   "verses": [
-    "daniel 2:38",
-    "daniel 3:31",
-    "daniel 4:9",
-    "daniel 4:18",
-    "daniel 4:32",
-    "daniel 6:26"
+    "daniel 2:38:2",
+    "daniel 2:38:3",
+    "daniel 3:31:7",
+    "daniel 3:31:8",
+    "daniel 4:9:12",
+    "daniel 4:9:13",
+    "daniel 4:18:8",
+    "daniel 4:32:1",
+    "daniel 4:32:2",
+    "daniel 4:32:10",
+    "daniel 4:32:11",
+    "daniel 6:26:9",
+    "daniel 6:26:10"
   ]
 }

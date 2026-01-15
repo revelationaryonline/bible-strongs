@@ -37,16 +37,16 @@
     "zh": "正确地说，用大声的语气，即（具体地说）大声；比喻安抚（好像用语言来安抚）。"
   },
   "verses": [
-    "firstChronicles 16:35",
-    "psalms 63:4",
-    "psalms 65:8",
-    "psalms 89:10",
-    "psalms 106:47",
-    "psalms 117:1",
-    "psalms 145:4",
-    "psalms 147:12",
-    "proverbs 29:11",
-    "ecclesiastes 4:2",
-    "ecclesiastes 8:15"
+    "firstChronicles 16:35:11",
+    "psalms 63:4:5",
+    "psalms 65:8:0",
+    "psalms 89:10:7",
+    "psalms 106:47:9",
+    "psalms 117:1:5",
+    "psalms 145:4:2",
+    "psalms 147:12:0",
+    "proverbs 29:11:6",
+    "ecclesiastes 4:2:0",
+    "ecclesiastes 8:15:0"
   ]
 }

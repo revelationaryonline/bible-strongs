@@ -37,11 +37,13 @@
     "zh": "地牢"
   },
   "verses": [
-    "genesis 39:20",
-    "genesis 39:21",
-    "genesis 39:22",
-    "genesis 39:23",
-    "genesis 40:3",
-    "genesis 40:5"
+    "genesis 39:20:7",
+    "genesis 39:20:17",
+    "genesis 39:21:12",
+    "genesis 39:22:3",
+    "genesis 39:22:11",
+    "genesis 39:23:3",
+    "genesis 40:3:8",
+    "genesis 40:5:18"
   ]
 }

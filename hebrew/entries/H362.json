@@ -37,9 +37,11 @@
   },
   "hebrew": "אֵילִם",
   "verses": [
-    "exodus 15:27",
-    "exodus 16:1",
-    "numbers 33:9",
-    "numbers 33:10"
+    "exodus 15:27:1",
+    "exodus 16:1:1",
+    "exodus 16:1:12",
+    "numbers 33:9:3",
+    "numbers 33:9:4",
+    "numbers 33:10:1"
   ]
 }

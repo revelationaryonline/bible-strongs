@@ -37,16 +37,18 @@
     "zh": "牧场（地方或行为）；也是野生动物的出没之地"
   },
   "verses": [
-    "genesis 47:4",
-    "firstChronicles 4:39",
-    "firstChronicles 4:40",
-    "firstChronicles 4:41",
-    "job 39:8",
-    "isaiah 32:14",
-    "lamentations 1:6",
-    "ezekiel 34:14",
-    "ezekiel 34:18",
-    "joel 1:18",
-    "nahum 2:12"
+    "genesis 47:4:8",
+    "firstChronicles 4:39:7",
+    "firstChronicles 4:40:1",
+    "firstChronicles 4:41:24",
+    "job 39:8:2",
+    "isaiah 32:14:15",
+    "lamentations 1:6:12",
+    "ezekiel 34:14:0",
+    "ezekiel 34:14:13",
+    "ezekiel 34:18:2",
+    "ezekiel 34:18:6",
+    "joel 1:18:8",
+    "nahum 2:12:3"
   ]
 }

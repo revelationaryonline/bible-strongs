@@ -37,11 +37,12 @@
   },
   "hebrew": "בְּעִיר",
   "verses": [
-    "genesis 45:17",
-    "exodus 22:4",
-    "numbers 20:4",
-    "numbers 20:8",
-    "numbers 20:11",
-    "psalms 78:48"
+    "genesis 45:17:11",
+    "exodus 22:4:8",
+    "exodus 22:4:9",
+    "numbers 20:4:11",
+    "numbers 20:8:24",
+    "numbers 20:11:14",
+    "psalms 78:48:2"
   ]
 }

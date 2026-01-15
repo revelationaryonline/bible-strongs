@@ -37,16 +37,16 @@
   },
   "hebrew": "אֲנָחָה",
   "verses": [
-    "job 3:24",
-    "job 23:2",
-    "psalms 6:7",
-    "psalms 31:11",
-    "psalms 38:10",
-    "psalms 102:6",
-    "isaiah 21:2",
-    "isaiah 35:10",
-    "isaiah 51:11",
-    "jeremiah 45:3",
-    "lamentations 1:22"
+    "job 3:24:3",
+    "job 23:2:7",
+    "psalms 6:7:1",
+    "psalms 31:11:5",
+    "psalms 38:10:4",
+    "psalms 102:6:1",
+    "isaiah 21:2:13",
+    "isaiah 35:10:15",
+    "isaiah 51:11:15",
+    "jeremiah 45:3:11",
+    "lamentations 1:22:14"
   ]
 }

@@ -37,16 +37,17 @@
   },
   "hebrew": "בּוּז",
   "verses": [
-    "proverbs 1:7",
-    "proverbs 6:30",
-    "proverbs 11:12",
-    "proverbs 13:13",
-    "proverbs 14:21",
-    "proverbs 23:9",
-    "proverbs 23:22",
-    "proverbs 30:17",
-    "solomon 8:1",
-    "solomon 8:7",
-    "zechariah 4:10"
+    "proverbs 1:7:7",
+    "proverbs 6:30:1",
+    "proverbs 11:12:0",
+    "proverbs 13:13:0",
+    "proverbs 14:21:0",
+    "proverbs 23:9:5",
+    "proverbs 23:22:5",
+    "proverbs 30:17:3",
+    "solomon 8:1:12",
+    "solomon 8:7:18",
+    "solomon 8:7:19",
+    "zechariah 4:10:2"
   ]
 }

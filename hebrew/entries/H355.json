@@ -37,13 +37,13 @@
   },
   "hebrew": "אַיָּלָה",
   "verses": [
-    "genesis 49:21",
-    "secondSamuel 22:34",
-    "job 39:1",
-    "psalms 18:34",
-    "psalms 29:9",
-    "solomon 2:7",
-    "solomon 3:5",
-    "habakkuk 3:19"
+    "genesis 49:21:1",
+    "secondSamuel 22:34:3",
+    "job 39:1:6",
+    "psalms 18:34:2",
+    "psalms 29:9:3",
+    "solomon 2:7:6",
+    "solomon 3:5:6",
+    "habakkuk 3:19:5"
   ]
 }

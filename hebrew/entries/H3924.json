@@ -37,12 +37,18 @@
     "zh": "旋"
   },
   "verses": [
-    "exodus 26:4",
-    "exodus 26:5",
-    "exodus 26:10",
-    "exodus 26:11",
-    "exodus 36:11",
-    "exodus 36:12",
-    "exodus 36:17"
+    "exodus 26:4:1",
+    "exodus 26:5:1",
+    "exodus 26:5:6",
+    "exodus 26:5:14",
+    "exodus 26:10:2",
+    "exodus 26:10:10",
+    "exodus 26:11:7",
+    "exodus 36:11:1",
+    "exodus 36:12:1",
+    "exodus 36:12:6",
+    "exodus 36:12:14",
+    "exodus 36:17:1",
+    "exodus 36:17:9"
   ]
 }

@@ -37,17 +37,18 @@
     "zh": "炎症，即溃疡"
   },
   "verses": [
-    "exodus 9:9",
-    "exodus 9:10",
-    "exodus 9:11",
-    "leviticus 13:18",
-    "leviticus 13:19",
-    "leviticus 13:20",
-    "leviticus 13:23",
-    "deuteronomy 28:27",
-    "deuteronomy 28:35",
-    "secondKings 20:7",
-    "job 2:7",
-    "isaiah 38:21"
+    "exodus 9:9:11",
+    "exodus 9:10:12",
+    "exodus 9:11:7",
+    "exodus 9:11:10",
+    "leviticus 13:18:5",
+    "leviticus 13:19:2",
+    "leviticus 13:20:15",
+    "leviticus 13:23:7",
+    "deuteronomy 28:27:2",
+    "deuteronomy 28:35:2",
+    "secondKings 20:7:8",
+    "job 2:7:8",
+    "isaiah 38:21:7"
   ]
 }

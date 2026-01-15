@@ -37,20 +37,21 @@
     "zh": "齐顿人或齐顿居民"
   },
   "verses": [
-    "deuteronomy 3:9",
-    "joshua 13:4",
-    "joshua 13:6",
-    "judges 3:3",
-    "judges 10:12",
-    "judges 18:7",
-    "firstKings 5:20",
-    "firstKings 11:1",
-    "firstKings 11:5",
-    "firstKings 11:33",
-    "firstKings 16:31",
-    "secondKings 23:13",
-    "firstChronicles 22:4",
-    "ezra 3:7",
-    "ezekiel 32:30"
+    "deuteronomy 3:9:0",
+    "joshua 13:4:6",
+    "joshua 13:6:9",
+    "judges 3:3:5",
+    "judges 10:12:0",
+    "judges 18:7:13",
+    "judges 18:7:24",
+    "firstKings 5:20:28",
+    "firstKings 11:1:12",
+    "firstKings 11:5:5",
+    "firstKings 11:33:6",
+    "firstKings 16:31:14",
+    "secondKings 23:13:17",
+    "firstChronicles 22:4:6",
+    "ezra 3:7:7",
+    "ezekiel 32:30:5"
   ]
 }

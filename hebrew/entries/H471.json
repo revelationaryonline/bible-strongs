@@ -37,17 +37,17 @@
   },
   "hebrew": "אֶלְיָקִים",
   "verses": [
-    "secondKings 18:18",
-    "secondKings 18:26",
-    "secondKings 18:37",
-    "secondKings 19:2",
-    "secondKings 23:34",
-    "secondChronicles 36:4",
-    "nehemiah 12:41",
-    "isaiah 22:20",
-    "isaiah 36:3",
-    "isaiah 36:11",
-    "isaiah 36:22",
-    "isaiah 37:2"
+    "secondKings 18:18:5",
+    "secondKings 18:26:1",
+    "secondKings 18:37:1",
+    "secondKings 19:2:2",
+    "secondKings 23:34:4",
+    "secondChronicles 36:4:4",
+    "nehemiah 12:41:1",
+    "isaiah 22:20:5",
+    "isaiah 36:3:2",
+    "isaiah 36:11:1",
+    "isaiah 36:22:1",
+    "isaiah 37:2:2"
   ]
 }

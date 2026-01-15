@@ -37,10 +37,12 @@
   },
   "hebrew": "יָשָׁן",
   "verses": [
-    "leviticus 25:22",
-    "leviticus 26:10",
-    "nehemiah 3:6",
-    "solomon 7:14",
-    "isaiah 22:11"
+    "leviticus 25:22:7",
+    "leviticus 25:22:15",
+    "leviticus 26:10:1",
+    "leviticus 26:10:3",
+    "nehemiah 3:6:2",
+    "solomon 7:14:9",
+    "isaiah 22:11:6"
   ]
 }

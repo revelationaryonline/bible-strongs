@@ -37,17 +37,17 @@
   },
   "hebrew": "אַדֶּרֶת",
   "verses": [
-    "genesis 25:25",
-    "joshua 7:21",
-    "joshua 7:24",
-    "firstKings 19:13",
-    "firstKings 19:19",
-    "secondKings 2:8",
-    "secondKings 2:13",
-    "secondKings 2:14",
-    "ezekiel 17:8",
-    "jonah 3:6",
-    "zechariah 11:3",
-    "zechariah 13:4"
+    "genesis 25:25:4",
+    "joshua 7:21:3",
+    "joshua 7:24:9",
+    "firstKings 19:13:5",
+    "firstKings 19:19:20",
+    "secondKings 2:8:3",
+    "secondKings 2:13:2",
+    "secondKings 2:14:2",
+    "ezekiel 17:8:14",
+    "jonah 3:6:8",
+    "zechariah 11:3:5",
+    "zechariah 13:4:10"
   ]
 }

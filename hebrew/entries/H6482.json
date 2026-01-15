@@ -37,12 +37,13 @@
     "zh": "伤口"
   },
   "verses": [
-    "genesis 4:23",
-    "exodus 21:25",
-    "job 9:17",
-    "proverbs 20:30",
-    "proverbs 23:29",
-    "proverbs 27:6",
-    "isaiah 1:6"
+    "genesis 4:23:14",
+    "exodus 21:25:3",
+    "exodus 21:25:5",
+    "job 9:17:4",
+    "proverbs 20:30:1",
+    "proverbs 23:29:10",
+    "proverbs 27:6:1",
+    "isaiah 1:6:7"
   ]
 }

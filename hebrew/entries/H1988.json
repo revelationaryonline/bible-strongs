@@ -37,16 +37,16 @@
   },
   "hebrew": "הֲלֹם",
   "verses": [
-    "genesis 16:13",
-    "exodus 3:5",
-    "judges 18:3",
-    "judges 20:7",
-    "ruth 2:14",
-    "firstSamuel 10:22",
-    "firstSamuel 14:36",
-    "firstSamuel 14:38",
-    "secondSamuel 7:18",
-    "firstChronicles 17:16",
-    "psalms 73:10"
+    "genesis 16:13:11",
+    "exodus 3:5:3",
+    "judges 18:3:16",
+    "judges 20:7:8",
+    "ruth 2:14:6",
+    "firstSamuel 10:22:5",
+    "firstSamuel 14:36:23",
+    "firstSamuel 14:38:3",
+    "secondSamuel 7:18:16",
+    "firstChronicles 17:16:16",
+    "psalms 73:10:4"
   ]
 }

@@ -37,15 +37,15 @@
   },
   "hebrew": "אֵיפֹה",
   "verses": [
-    "genesis 37:16",
-    "judges 8:18",
-    "ruth 2:19",
-    "firstSamuel 19:22",
-    "secondSamuel 9:4",
-    "job 4:7",
-    "job 38:4",
-    "isaiah 49:21",
-    "jeremiah 3:2",
-    "jeremiah 36:19"
+    "genesis 37:16:8",
+    "judges 8:18:5",
+    "ruth 2:19:3",
+    "firstSamuel 19:22:12",
+    "secondSamuel 9:4:3",
+    "job 4:7:6",
+    "job 38:4:0",
+    "isaiah 49:21:20",
+    "jeremiah 3:2:5",
+    "jeremiah 36:19:11"
   ]
 }

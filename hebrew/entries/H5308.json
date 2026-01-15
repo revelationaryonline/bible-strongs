@@ -37,16 +37,17 @@
     "zh": "{跌倒，有多种用法（非及物动词或因果关系，字面意义或比喻意义）}。"
   },
   "verses": [
-    "ezra 7:20",
-    "daniel 2:46",
-    "daniel 3:5",
-    "daniel 3:6",
-    "daniel 3:7",
-    "daniel 3:10",
-    "daniel 3:11",
-    "daniel 3:15",
-    "daniel 3:23",
-    "daniel 4:28",
-    "daniel 7:20"
+    "ezra 7:20:5",
+    "daniel 2:46:3",
+    "daniel 3:5:14",
+    "daniel 3:6:3",
+    "daniel 3:7:19",
+    "daniel 3:10:22",
+    "daniel 3:11:3",
+    "daniel 3:15:19",
+    "daniel 3:23:7",
+    "daniel 4:28:7",
+    "daniel 7:20:8",
+    "daniel 7:20:9"
   ]
 }

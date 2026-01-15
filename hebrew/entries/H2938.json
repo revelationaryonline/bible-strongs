@@ -37,15 +37,16 @@
   },
   "hebrew": "טָעַם",
   "verses": [
-    "firstSamuel 14:24",
-    "firstSamuel 14:29",
-    "firstSamuel 14:43",
-    "secondSamuel 3:35",
-    "secondSamuel 19:36",
-    "job 12:11",
-    "job 34:3",
-    "psalms 34:9",
-    "proverbs 31:18",
-    "jonah 3:7"
+    "firstSamuel 14:24:20",
+    "firstSamuel 14:29:12",
+    "firstSamuel 14:43:12",
+    "firstSamuel 14:43:13",
+    "secondSamuel 3:35:23",
+    "secondSamuel 19:36:10",
+    "job 12:11:6",
+    "job 34:3:5",
+    "psalms 34:9:0",
+    "proverbs 31:18:0",
+    "jonah 3:7:12"
   ]
 }

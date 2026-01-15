@@ -37,13 +37,15 @@
   },
   "hebrew": "דָּתָן",
   "verses": [
-    "numbers 16:1",
-    "numbers 16:12",
-    "numbers 16:24",
-    "numbers 16:25",
-    "numbers 16:27",
-    "numbers 26:9",
-    "deuteronomy 11:6",
-    "psalms 106:17"
+    "numbers 16:1:8",
+    "numbers 16:12:3",
+    "numbers 16:24:8",
+    "numbers 16:25:4",
+    "numbers 16:27:4",
+    "numbers 16:27:7",
+    "numbers 26:9:3",
+    "numbers 26:9:6",
+    "deuteronomy 11:6:2",
+    "psalms 106:17:3"
   ]
 }

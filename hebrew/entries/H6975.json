@@ -37,17 +37,17 @@
     "zh": "刺儿"
   },
   "verses": [
-    "genesis 3:18",
-    "exodus 22:5",
-    "judges 8:7",
-    "judges 8:16",
-    "secondSamuel 23:6",
-    "psalms 118:12",
-    "isaiah 32:13",
-    "isaiah 33:12",
-    "jeremiah 4:3",
-    "jeremiah 12:13",
-    "ezekiel 28:24",
-    "hosea 10:8"
+    "genesis 3:18:0",
+    "exodus 22:5:4",
+    "judges 8:7:14",
+    "judges 8:16:5",
+    "secondSamuel 23:6:1",
+    "psalms 118:12:4",
+    "isaiah 32:13:3",
+    "isaiah 33:12:4",
+    "jeremiah 4:3:13",
+    "jeremiah 12:13:2",
+    "ezekiel 28:24:7",
+    "hosea 10:8:5"
   ]
 }

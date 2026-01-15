@@ -37,16 +37,18 @@
   },
   "hebrew": "חַנָּה",
   "verses": [
-    "firstSamuel 1:2",
-    "firstSamuel 1:5",
-    "firstSamuel 1:8",
-    "firstSamuel 1:9",
-    "firstSamuel 1:13",
-    "firstSamuel 1:15",
-    "firstSamuel 1:19",
-    "firstSamuel 1:20",
-    "firstSamuel 1:22",
-    "firstSamuel 2:1",
-    "firstSamuel 2:21"
+    "firstSamuel 1:2:5",
+    "firstSamuel 1:2:12",
+    "firstSamuel 1:5:0",
+    "firstSamuel 1:5:7",
+    "firstSamuel 1:8:4",
+    "firstSamuel 1:9:1",
+    "firstSamuel 1:13:0",
+    "firstSamuel 1:15:1",
+    "firstSamuel 1:19:13",
+    "firstSamuel 1:20:4",
+    "firstSamuel 1:22:0",
+    "firstSamuel 2:1:1",
+    "firstSamuel 2:21:4"
   ]
 }

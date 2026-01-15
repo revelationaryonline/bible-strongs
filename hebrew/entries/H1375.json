@@ -37,16 +37,19 @@
   },
   "hebrew": "גְּבִיעַ",
   "verses": [
-    "genesis 44:2",
-    "genesis 44:12",
-    "genesis 44:16",
-    "genesis 44:17",
-    "exodus 25:31",
-    "exodus 25:33",
-    "exodus 25:34",
-    "exodus 37:17",
-    "exodus 37:19",
-    "exodus 37:20",
-    "jeremiah 35:5"
+    "genesis 44:2:1",
+    "genesis 44:2:2",
+    "genesis 44:12:6",
+    "genesis 44:16:22",
+    "genesis 44:17:8",
+    "exodus 25:31:9",
+    "exodus 25:33:1",
+    "exodus 25:33:8",
+    "exodus 25:34:2",
+    "exodus 37:17:11",
+    "exodus 37:19:1",
+    "exodus 37:19:8",
+    "exodus 37:20:2",
+    "jeremiah 35:5:5"
   ]
 }

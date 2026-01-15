@@ -37,18 +37,19 @@
     "zh": "头；比喻总和"
   },
   "verses": [
-    "ezra 5:10",
-    "daniel 2:28",
-    "daniel 2:32",
-    "daniel 2:38",
-    "daniel 3:27",
-    "daniel 4:2",
-    "daniel 4:7",
-    "daniel 4:10",
-    "daniel 7:1",
-    "daniel 7:6",
-    "daniel 7:9",
-    "daniel 7:15",
-    "daniel 7:20"
+    "ezra 5:10:10",
+    "daniel 2:28:16",
+    "daniel 2:32:2",
+    "daniel 2:38:16",
+    "daniel 3:27:15",
+    "daniel 4:2:7",
+    "daniel 4:7:1",
+    "daniel 4:10:3",
+    "daniel 7:1:9",
+    "daniel 7:1:15",
+    "daniel 7:6:16",
+    "daniel 7:9:13",
+    "daniel 7:15:7",
+    "daniel 7:20:4"
   ]
 }

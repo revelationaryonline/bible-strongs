@@ -37,18 +37,20 @@
     "zh": "购买，即获得；具体指一项财产（土地或生活）；也指支付的金额"
   },
   "verses": [
-    "genesis 17:12",
-    "genesis 17:13",
-    "genesis 17:23",
-    "genesis 17:27",
-    "genesis 23:18",
-    "exodus 12:44",
-    "leviticus 25:16",
-    "leviticus 25:51",
-    "leviticus 27:22",
-    "jeremiah 32:11",
-    "jeremiah 32:12",
-    "jeremiah 32:14",
-    "jeremiah 32:16"
+    "genesis 17:12:10",
+    "genesis 17:13:4",
+    "genesis 17:23:11",
+    "genesis 17:27:5",
+    "genesis 23:18:1",
+    "exodus 12:44:3",
+    "leviticus 25:16:4",
+    "leviticus 25:16:9",
+    "leviticus 25:51:8",
+    "leviticus 27:22:3",
+    "jeremiah 32:11:3",
+    "jeremiah 32:12:3",
+    "jeremiah 32:12:17",
+    "jeremiah 32:14:12",
+    "jeremiah 32:16:7"
   ]
 }

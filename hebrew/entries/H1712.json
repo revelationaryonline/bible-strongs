@@ -37,12 +37,18 @@
   },
   "hebrew": "דָּגוֹן",
   "verses": [
-    "judges 16:23",
-    "firstSamuel 5:2",
-    "firstSamuel 5:3",
-    "firstSamuel 5:4",
-    "firstSamuel 5:5",
-    "firstSamuel 5:7",
-    "firstChronicles 10:10"
+    "judges 16:23:6",
+    "firstSamuel 5:2:8",
+    "firstSamuel 5:2:12",
+    "firstSamuel 5:3:4",
+    "firstSamuel 5:3:13",
+    "firstSamuel 5:4:4",
+    "firstSamuel 5:4:12",
+    "firstSamuel 5:4:20",
+    "firstSamuel 5:5:5",
+    "firstSamuel 5:5:9",
+    "firstSamuel 5:5:12",
+    "firstSamuel 5:7:17",
+    "firstChronicles 10:10:9"
   ]
 }

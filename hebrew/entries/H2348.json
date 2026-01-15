@@ -37,11 +37,12 @@
   },
   "hebrew": "חוֹף",
   "verses": [
-    "genesis 49:13",
-    "deuteronomy 1:7",
-    "joshua 9:1",
-    "judges 5:17",
-    "jeremiah 47:7",
-    "ezekiel 25:16"
+    "genesis 49:13:1",
+    "genesis 49:13:5",
+    "deuteronomy 1:7:13",
+    "joshua 9:1:10",
+    "judges 5:17:10",
+    "jeremiah 47:7:8",
+    "ezekiel 25:16:16"
   ]
 }

@@ -37,19 +37,19 @@
   },
   "hebrew": "טוּל",
   "verses": [
-    "firstSamuel 18:11",
-    "firstSamuel 20:33",
-    "job 41:1",
-    "psalms 37:24",
-    "proverbs 16:33",
-    "isaiah 22:17",
-    "jeremiah 16:13",
-    "jeremiah 22:26",
-    "jeremiah 22:28",
-    "ezekiel 32:4",
-    "jonah 1:4",
-    "jonah 1:5",
-    "jonah 1:12",
-    "jonah 1:15"
+    "firstSamuel 18:11:0",
+    "firstSamuel 20:33:0",
+    "job 41:1:6",
+    "psalms 37:24:3",
+    "proverbs 16:33:1",
+    "isaiah 22:17:2",
+    "jeremiah 16:13:0",
+    "jeremiah 22:26:0",
+    "jeremiah 22:28:12",
+    "ezekiel 32:4:5",
+    "jonah 1:4:1",
+    "jonah 1:5:6",
+    "jonah 1:12:3",
+    "jonah 1:15:3"
   ]
 }

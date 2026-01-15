@@ -37,14 +37,14 @@
   },
   "hebrew": "טְרֵפָה",
   "verses": [
-    "genesis 31:39",
-    "exodus 22:12",
-    "exodus 22:30",
-    "leviticus 7:24",
-    "leviticus 17:15",
-    "leviticus 22:8",
-    "ezekiel 4:14",
-    "ezekiel 44:31",
-    "nahum 2:13"
+    "genesis 31:39:0",
+    "exodus 22:12:5",
+    "exodus 22:30:6",
+    "leviticus 7:24:3",
+    "leviticus 17:15:5",
+    "leviticus 22:8:1",
+    "ezekiel 4:14:9",
+    "ezekiel 44:31:2",
+    "nahum 2:13:10"
   ]
 }

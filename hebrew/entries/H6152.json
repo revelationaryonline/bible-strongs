@@ -37,10 +37,11 @@
     "zh": "阿拉伯"
   },
   "verses": [
-    "firstKings 10:15",
-    "secondChronicles 9:14",
-    "isaiah 21:13",
-    "jeremiah 25:24",
-    "ezekiel 27:21"
+    "firstKings 10:15:7",
+    "secondChronicles 9:14:7",
+    "isaiah 21:13:1",
+    "isaiah 21:13:3",
+    "jeremiah 25:24:3",
+    "ezekiel 27:21:0"
   ]
 }

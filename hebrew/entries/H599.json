@@ -37,19 +37,19 @@
   },
   "hebrew": "אָנַף",
   "verses": [
-    "deuteronomy 1:37",
-    "deuteronomy 4:21",
-    "deuteronomy 9:8",
-    "deuteronomy 9:20",
-    "firstKings 8:46",
-    "firstKings 11:9",
-    "secondKings 17:18",
-    "secondChronicles 6:36",
-    "ezra 9:14",
-    "psalms 2:12",
-    "psalms 60:3",
-    "psalms 79:5",
-    "psalms 85:6",
-    "isaiah 12:1"
+    "deuteronomy 1:37:2",
+    "deuteronomy 4:21:1",
+    "deuteronomy 9:8:4",
+    "deuteronomy 9:20:1",
+    "firstKings 8:46:9",
+    "firstKings 11:9:0",
+    "secondKings 17:18:0",
+    "secondChronicles 6:36:9",
+    "ezra 9:14:8",
+    "psalms 2:12:3",
+    "psalms 60:3:3",
+    "psalms 79:5:3",
+    "psalms 85:6:1",
+    "isaiah 12:1:6"
   ]
 }

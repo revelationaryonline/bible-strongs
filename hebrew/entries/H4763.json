@@ -37,13 +37,16 @@
     "zh": "头枕"
   },
   "verses": [
-    "genesis 28:11",
-    "genesis 28:18",
-    "firstSamuel 19:13",
-    "firstSamuel 19:16",
-    "firstSamuel 26:7",
-    "firstSamuel 26:11",
-    "firstSamuel 26:16",
-    "firstKings 19:6"
+    "genesis 28:11:11",
+    "genesis 28:18:8",
+    "firstSamuel 19:13:11",
+    "firstSamuel 19:16:8",
+    "firstSamuel 26:7:14",
+    "firstSamuel 26:7:15",
+    "firstSamuel 26:11:13",
+    "firstSamuel 26:11:14",
+    "firstSamuel 26:16:29",
+    "firstSamuel 26:16:30",
+    "firstKings 19:6:2"
   ]
 }

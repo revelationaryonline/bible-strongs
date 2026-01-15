@@ -37,15 +37,16 @@
   },
   "hebrew": "יוֹאָח",
   "verses": [
-    "secondKings 18:18",
-    "secondKings 18:26",
-    "secondKings 18:37",
-    "firstChronicles 6:6",
-    "firstChronicles 26:4",
-    "secondChronicles 29:12",
-    "secondChronicles 34:8",
-    "isaiah 36:3",
-    "isaiah 36:11",
-    "isaiah 36:22"
+    "secondKings 18:18:13",
+    "secondKings 18:26:5",
+    "secondKings 18:37:9",
+    "firstChronicles 6:6:0",
+    "firstChronicles 26:4:7",
+    "secondChronicles 29:12:22",
+    "secondChronicles 29:12:27",
+    "secondChronicles 34:8:17",
+    "isaiah 36:3:10",
+    "isaiah 36:11:3",
+    "isaiah 36:22:9"
   ]
 }

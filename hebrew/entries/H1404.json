@@ -37,14 +37,14 @@
   },
   "hebrew": "גְּבֶרֶת",
   "verses": [
-    "genesis 16:4",
-    "genesis 16:8",
-    "genesis 16:9",
-    "secondKings 5:3",
-    "psalms 123:2",
-    "proverbs 30:23",
-    "isaiah 24:2",
-    "isaiah 47:5",
-    "isaiah 47:7"
+    "genesis 16:4:8",
+    "genesis 16:8:12",
+    "genesis 16:9:6",
+    "secondKings 5:3:2",
+    "psalms 123:2:10",
+    "proverbs 30:23:7",
+    "isaiah 24:2:6",
+    "isaiah 47:5:11",
+    "isaiah 47:7:3"
   ]
 }

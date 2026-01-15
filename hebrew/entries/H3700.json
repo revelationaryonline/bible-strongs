@@ -37,10 +37,11 @@
   },
   "hebrew": "כָּסַף",
   "verses": [
-    "genesis 31:30",
-    "job 14:15",
-    "psalms 17:12",
-    "psalms 84:3",
-    "zephaniah 2:1"
+    "genesis 31:30:4",
+    "genesis 31:30:5",
+    "job 14:15:5",
+    "psalms 17:12:2",
+    "psalms 84:3:0",
+    "zephaniah 2:1:4"
   ]
 }

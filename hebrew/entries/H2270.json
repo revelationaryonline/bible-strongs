@@ -37,16 +37,20 @@
   },
   "hebrew": "חָבֵר",
   "verses": [
-    "judges 20:11",
-    "psalms 45:8",
-    "psalms 119:63",
-    "proverbs 28:24",
-    "ecclesiastes 4:10",
-    "solomon 1:7",
-    "solomon 8:13",
-    "isaiah 1:23",
-    "isaiah 44:11",
-    "ezekiel 37:16",
-    "ezekiel 37:19"
+    "judges 20:11:8",
+    "psalms 45:8:11",
+    "psalms 119:63:0",
+    "proverbs 28:24:6",
+    "ecclesiastes 4:10:6",
+    "solomon 1:7:14",
+    "solomon 8:13:2",
+    "isaiah 1:23:2",
+    "isaiah 44:11:2",
+    "ezekiel 37:16:12",
+    "ezekiel 37:16:13",
+    "ezekiel 37:16:25",
+    "ezekiel 37:16:26",
+    "ezekiel 37:19:17",
+    "ezekiel 37:19:18"
   ]
 }

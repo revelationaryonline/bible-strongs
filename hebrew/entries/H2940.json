@@ -37,17 +37,18 @@
   },
   "hebrew": "טַעַם",
   "verses": [
-    "exodus 16:31",
-    "numbers 11:8",
-    "firstSamuel 21:14",
-    "firstSamuel 25:33",
-    "job 6:6",
-    "job 12:20",
-    "psalms 34:1",
-    "psalms 119:66",
-    "proverbs 11:22",
-    "proverbs 26:16",
-    "jeremiah 48:11",
-    "jonah 3:7"
+    "exodus 16:31:10",
+    "numbers 11:8:14",
+    "numbers 11:8:15",
+    "firstSamuel 21:14:2",
+    "firstSamuel 25:33:1",
+    "job 6:6:6",
+    "job 12:20:3",
+    "psalms 34:1:3",
+    "psalms 119:66:1",
+    "proverbs 11:22:7",
+    "proverbs 26:16:5",
+    "jeremiah 48:11:18",
+    "jonah 3:7:3"
   ]
 }

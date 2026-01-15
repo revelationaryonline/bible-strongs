@@ -37,14 +37,15 @@
   },
   "hebrew": "יִתְרוֹן",
   "verses": [
-    "ecclesiastes 1:3",
-    "ecclesiastes 2:11",
-    "ecclesiastes 2:13",
-    "ecclesiastes 3:9",
-    "ecclesiastes 5:8",
-    "ecclesiastes 5:15",
-    "ecclesiastes 7:12",
-    "ecclesiastes 10:10",
-    "ecclesiastes 10:11"
+    "ecclesiastes 1:3:1",
+    "ecclesiastes 2:11:15",
+    "ecclesiastes 2:13:3",
+    "ecclesiastes 2:13:7",
+    "ecclesiastes 3:9:1",
+    "ecclesiastes 5:8:0",
+    "ecclesiastes 5:15:10",
+    "ecclesiastes 7:12:5",
+    "ecclesiastes 10:10:9",
+    "ecclesiastes 10:11:6"
   ]
 }

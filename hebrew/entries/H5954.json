@@ -37,18 +37,22 @@
     "zh": "进入；因果关系上，引入"
   },
   "verses": [
-    "daniel 2:16",
-    "daniel 2:24",
-    "daniel 2:25",
-    "daniel 4:3",
-    "daniel 4:4",
-    "daniel 4:5",
-    "daniel 5:7",
-    "daniel 5:8",
-    "daniel 5:10",
-    "daniel 5:13",
-    "daniel 5:15",
-    "daniel 6:11",
-    "daniel 6:19"
+    "daniel 2:16:1",
+    "daniel 2:24:4",
+    "daniel 2:24:21",
+    "daniel 2:25:3",
+    "daniel 4:3:3",
+    "daniel 4:4:1",
+    "daniel 4:4:2",
+    "daniel 4:5:2",
+    "daniel 5:7:3",
+    "daniel 5:8:1",
+    "daniel 5:8:2",
+    "daniel 5:10:7",
+    "daniel 5:10:8",
+    "daniel 5:13:2",
+    "daniel 5:15:1",
+    "daniel 6:11:6",
+    "daniel 6:19:8"
   ]
 }

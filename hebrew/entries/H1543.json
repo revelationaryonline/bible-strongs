@@ -37,14 +37,20 @@
   },
   "hebrew": "גֻּלָּה",
   "verses": [
-    "joshua 15:19",
-    "judges 1:15",
-    "firstKings 7:41",
-    "firstKings 7:42",
-    "secondChronicles 4:12",
-    "secondChronicles 4:13",
-    "ecclesiastes 12:6",
-    "zechariah 4:2",
-    "zechariah 4:3"
+    "joshua 15:19:10",
+    "joshua 15:19:15",
+    "joshua 15:19:18",
+    "judges 1:15:11",
+    "judges 1:15:17",
+    "judges 1:15:20",
+    "firstKings 7:41:2",
+    "firstKings 7:41:14",
+    "firstKings 7:42:14",
+    "secondChronicles 4:12:2",
+    "secondChronicles 4:12:13",
+    "secondChronicles 4:13:14",
+    "ecclesiastes 12:6:8",
+    "zechariah 4:2:12",
+    "zechariah 4:3:5"
   ]
 }

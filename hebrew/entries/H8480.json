@@ -37,10 +37,11 @@
     "zh": "塔迦特，沙漠中一个地名，也是三个以色列人的地名"
   },
   "verses": [
-    "numbers 33:26",
-    "numbers 33:27",
-    "firstChronicles 6:9",
-    "firstChronicles 6:22",
-    "firstChronicles 7:20"
+    "numbers 33:26:3",
+    "numbers 33:27:1",
+    "firstChronicles 6:9:0",
+    "firstChronicles 6:22:1",
+    "firstChronicles 7:20:5",
+    "firstChronicles 7:20:9"
   ]
 }

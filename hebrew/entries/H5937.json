@@ -37,21 +37,22 @@
     "zh": "欢呼雀跃"
   },
   "verses": [
-    "secondSamuel 1:20",
-    "psalms 28:7",
-    "psalms 60:8",
-    "psalms 68:5",
-    "psalms 94:3",
-    "psalms 96:12",
-    "psalms 108:8",
-    "psalms 149:5",
-    "proverbs 23:16",
-    "isaiah 23:12",
-    "jeremiah 11:15",
-    "jeremiah 15:17",
-    "jeremiah 50:11",
-    "jeremiah 51:39",
-    "habakkuk 3:18",
-    "zephaniah 3:14"
+    "secondSamuel 1:20:12",
+    "psalms 28:7:7",
+    "psalms 60:8:3",
+    "psalms 68:5:9",
+    "psalms 94:3:7",
+    "psalms 96:12:0",
+    "psalms 108:8:3",
+    "psalms 149:5:0",
+    "proverbs 23:16:0",
+    "isaiah 23:12:4",
+    "jeremiah 11:15:13",
+    "jeremiah 15:17:4",
+    "jeremiah 50:11:4",
+    "jeremiah 50:11:5",
+    "jeremiah 51:39:6",
+    "habakkuk 3:18:2",
+    "zephaniah 3:14:6"
   ]
 }

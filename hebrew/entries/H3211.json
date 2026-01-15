@@ -37,18 +37,18 @@
   },
   "hebrew": "יָלִיד",
   "verses": [
-    "genesis 14:14",
-    "genesis 17:12",
-    "genesis 17:13",
-    "genesis 17:23",
-    "genesis 17:27",
-    "leviticus 22:11",
-    "numbers 13:22",
-    "numbers 13:28",
-    "joshua 15:14",
-    "secondSamuel 21:16",
-    "secondSamuel 21:18",
-    "firstChronicles 20:4",
-    "jeremiah 2:14"
+    "genesis 14:14:8",
+    "genesis 17:12:8",
+    "genesis 17:13:2",
+    "genesis 17:23:7",
+    "genesis 17:27:3",
+    "leviticus 22:11:9",
+    "numbers 13:22:9",
+    "numbers 13:28:11",
+    "joshua 15:14:13",
+    "secondSamuel 21:16:4",
+    "secondSamuel 21:18:16",
+    "firstChronicles 20:4:14",
+    "jeremiah 2:14:3"
   ]
 }

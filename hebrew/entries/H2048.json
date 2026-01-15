@@ -8,14 +8,15 @@
   "translations": {},
   "hebrew": "הָתַל",
   "verses": [
-    "genesis 31:7",
-    "exodus 8:25",
-    "judges 16:10",
-    "judges 16:13",
-    "judges 16:15",
-    "firstKings 18:27",
-    "job 13:9",
-    "isaiah 44:20",
-    "jeremiah 9:4"
+    "genesis 31:7:1",
+    "exodus 8:25:19",
+    "judges 16:10:5",
+    "judges 16:13:6",
+    "judges 16:15:11",
+    "firstKings 18:27:2",
+    "job 13:9:5",
+    "job 13:9:7",
+    "isaiah 44:20:3",
+    "jeremiah 9:4:2"
   ]
 }

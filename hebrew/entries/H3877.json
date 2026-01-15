@@ -37,10 +37,12 @@
     "zh": "伊都迈人洛坦"
   },
   "verses": [
-    "genesis 36:20",
-    "genesis 36:22",
-    "genesis 36:29",
-    "firstChronicles 1:38",
-    "firstChronicles 1:39"
+    "genesis 36:20:6",
+    "genesis 36:22:2",
+    "genesis 36:22:6",
+    "genesis 36:29:4",
+    "firstChronicles 1:38:2",
+    "firstChronicles 1:39:1",
+    "firstChronicles 1:39:5"
   ]
 }

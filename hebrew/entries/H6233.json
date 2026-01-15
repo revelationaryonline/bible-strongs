@@ -37,20 +37,20 @@
     "zh": "伤害、欺诈、（主观）痛苦、（具体）不当得利"
   },
   "verses": [
-    "leviticus 5:23",
-    "psalms 62:11",
-    "psalms 73:8",
-    "psalms 119:134",
-    "ecclesiastes 5:7",
-    "ecclesiastes 7:7",
-    "isaiah 30:12",
-    "isaiah 54:14",
-    "isaiah 59:13",
-    "jeremiah 6:6",
-    "jeremiah 22:17",
-    "ezekiel 18:18",
-    "ezekiel 22:7",
-    "ezekiel 22:12",
-    "ezekiel 22:29"
+    "leviticus 5:23:11",
+    "psalms 62:11:2",
+    "psalms 73:8:3",
+    "psalms 119:134:1",
+    "ecclesiastes 5:7:1",
+    "ecclesiastes 7:7:1",
+    "isaiah 30:12:10",
+    "isaiah 54:14:3",
+    "isaiah 59:13:7",
+    "jeremiah 6:6:15",
+    "jeremiah 22:17:13",
+    "ezekiel 18:18:3",
+    "ezekiel 22:7:6",
+    "ezekiel 22:12:11",
+    "ezekiel 22:29:3"
   ]
 }

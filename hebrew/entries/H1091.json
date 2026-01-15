@@ -37,15 +37,15 @@
   },
   "hebrew": "בַּלָּהָה",
   "verses": [
-    "job 18:11",
-    "job 18:14",
-    "job 24:17",
-    "job 27:20",
-    "job 30:15",
-    "psalms 73:19",
-    "isaiah 17:14",
-    "ezekiel 26:21",
-    "ezekiel 27:36",
-    "ezekiel 28:19"
+    "job 18:11:2",
+    "job 18:14:5",
+    "job 24:17:7",
+    "job 27:20:2",
+    "job 30:15:2",
+    "psalms 73:19:7",
+    "isaiah 17:14:3",
+    "ezekiel 26:21:0",
+    "ezekiel 27:36:4",
+    "ezekiel 28:19:5"
   ]
 }

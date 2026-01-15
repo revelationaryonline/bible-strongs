@@ -37,18 +37,19 @@
     "zh": "{沙德拉克，巴比伦人的名字，但以理的同伴之一｝"
   },
   "verses": [
-    "daniel 2:49",
-    "daniel 3:12",
-    "daniel 3:13",
-    "daniel 3:14",
-    "daniel 3:16",
-    "daniel 3:19",
-    "daniel 3:20",
-    "daniel 3:22",
-    "daniel 3:23",
-    "daniel 3:26",
-    "daniel 3:28",
-    "daniel 3:29",
-    "daniel 3:30"
+    "daniel 2:49:10",
+    "daniel 3:12:10",
+    "daniel 3:13:6",
+    "daniel 3:14:5",
+    "daniel 3:16:1",
+    "daniel 3:19:9",
+    "daniel 3:20:7",
+    "daniel 3:22:15",
+    "daniel 3:23:3",
+    "daniel 3:26:9",
+    "daniel 3:26:22",
+    "daniel 3:28:6",
+    "daniel 3:29:15",
+    "daniel 3:30:3"
   ]
 }

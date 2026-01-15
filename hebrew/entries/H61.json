@@ -37,16 +37,16 @@
   },
   "hebrew": "אֲבָל",
   "verses": [
-    "genesis 17:19",
-    "genesis 42:21",
-    "secondSamuel 14:5",
-    "firstKings 1:43",
-    "secondKings 4:14",
-    "secondChronicles 1:4",
-    "secondChronicles 19:3",
-    "secondChronicles 33:17",
-    "ezra 10:13",
-    "daniel 10:7",
-    "daniel 10:21"
+    "genesis 17:19:2",
+    "genesis 42:21:4",
+    "secondSamuel 14:5:6",
+    "firstKings 1:43:4",
+    "secondKings 4:14:6",
+    "secondChronicles 1:4:0",
+    "secondChronicles 19:3:0",
+    "secondChronicles 33:17:0",
+    "ezra 10:13:0",
+    "daniel 10:7:14",
+    "daniel 10:21:0"
   ]
 }

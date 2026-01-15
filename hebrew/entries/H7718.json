@@ -37,16 +37,16 @@
     "zh": "一种宝石，可能是绿柱石（从其淡绿色看）"
   },
   "verses": [
-    "genesis 2:12",
-    "exodus 25:7",
-    "exodus 28:9",
-    "exodus 28:20",
-    "exodus 35:9",
-    "exodus 35:27",
-    "exodus 39:6",
-    "exodus 39:13",
-    "firstChronicles 29:2",
-    "job 28:16",
-    "ezekiel 28:13"
+    "genesis 2:12:7",
+    "exodus 25:7:1",
+    "exodus 28:9:4",
+    "exodus 28:20:3",
+    "exodus 35:9:1",
+    "exodus 35:27:4",
+    "exodus 39:6:3",
+    "exodus 39:13:3",
+    "firstChronicles 29:2:16",
+    "job 28:16:4",
+    "ezekiel 28:13:12"
   ]
 }

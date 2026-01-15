@@ -37,9 +37,10 @@
   },
   "hebrew": "זְרַחְיָה",
   "verses": [
-    "firstChronicles 5:32",
-    "firstChronicles 6:36",
-    "ezra 7:4",
-    "ezra 8:4"
+    "firstChronicles 5:32:3",
+    "firstChronicles 5:32:4",
+    "firstChronicles 6:36:4",
+    "ezra 7:4:1",
+    "ezra 8:4:5"
   ]
 }

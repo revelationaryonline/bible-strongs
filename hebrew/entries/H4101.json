@@ -37,16 +37,18 @@
     "zh": "{正确地说，是疑问句 \"什么？\"（包括如何？(包括如何！），或无限定语what}。"
   },
   "verses": [
-    "ezra 4:22",
-    "ezra 6:9",
-    "ezra 7:18",
-    "ezra 7:23",
-    "daniel 2:15",
-    "daniel 2:22",
-    "daniel 2:28",
-    "daniel 2:29",
-    "daniel 2:45",
-    "daniel 3:33",
-    "daniel 4:32"
+    "ezra 4:22:6",
+    "ezra 6:9:0",
+    "ezra 7:18:0",
+    "ezra 7:23:12",
+    "daniel 2:15:7",
+    "daniel 2:22:5",
+    "daniel 2:28:9",
+    "daniel 2:29:6",
+    "daniel 2:29:14",
+    "daniel 2:45:21",
+    "daniel 3:33:1",
+    "daniel 3:33:4",
+    "daniel 4:32:20"
   ]
 }

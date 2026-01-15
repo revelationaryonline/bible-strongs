@@ -37,12 +37,12 @@
     "zh": "一个朋友"
   },
   "verses": [
-    "genesis 26:26",
-    "judges 14:11",
-    "judges 14:20",
-    "judges 15:2",
-    "judges 15:6",
-    "secondSamuel 3:8",
-    "proverbs 19:7"
+    "genesis 26:26:5",
+    "judges 14:11:5",
+    "judges 14:20:3",
+    "judges 15:2:8",
+    "judges 15:6:14",
+    "secondSamuel 3:8:23",
+    "proverbs 19:7:6"
   ]
 }

@@ -37,16 +37,17 @@
   },
   "hebrew": "הֲדַד",
   "verses": [
-    "genesis 36:35",
-    "genesis 36:36",
-    "firstKings 11:14",
-    "firstKings 11:17",
-    "firstKings 11:19",
-    "firstKings 11:21",
-    "firstKings 11:25",
-    "firstChronicles 1:46",
-    "firstChronicles 1:47",
-    "firstChronicles 1:50",
-    "firstChronicles 1:51"
+    "genesis 36:35:4",
+    "genesis 36:36:1",
+    "firstKings 11:14:5",
+    "firstKings 11:17:10",
+    "firstKings 11:19:1",
+    "firstKings 11:21:0",
+    "firstKings 11:21:14",
+    "firstKings 11:25:9",
+    "firstChronicles 1:46:4",
+    "firstChronicles 1:47:1",
+    "firstChronicles 1:50:5",
+    "firstChronicles 1:51:1"
   ]
 }

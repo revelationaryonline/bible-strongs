@@ -37,17 +37,17 @@
   },
   "hebrew": "גֻּלְגֹּלֶת",
   "verses": [
-    "exodus 16:16",
-    "exodus 38:26",
-    "numbers 1:2",
-    "numbers 1:18",
-    "numbers 1:20",
-    "numbers 1:22",
-    "numbers 3:47",
-    "judges 9:53",
-    "secondKings 9:35",
-    "firstChronicles 10:10",
-    "firstChronicles 23:3",
-    "firstChronicles 23:24"
+    "exodus 16:16:11",
+    "exodus 38:26:1",
+    "numbers 1:2:14",
+    "numbers 1:18:18",
+    "numbers 1:20:11",
+    "numbers 1:22:9",
+    "numbers 3:47:4",
+    "judges 9:53:10",
+    "secondKings 9:35:7",
+    "firstChronicles 10:10:6",
+    "firstChronicles 23:3:8",
+    "firstChronicles 23:24:10"
   ]
 }

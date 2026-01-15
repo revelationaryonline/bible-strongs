@@ -37,21 +37,21 @@
     "zh": "麦秆"
   },
   "verses": [
-    "exodus 5:12",
-    "exodus 15:7",
-    "job 13:25",
-    "job 41:20",
-    "job 41:21",
-    "psalms 83:14",
-    "isaiah 5:24",
-    "isaiah 33:11",
-    "isaiah 40:24",
-    "isaiah 41:2",
-    "isaiah 47:14",
-    "jeremiah 13:24",
-    "joel 2:5",
-    "obadiah 1:18",
-    "nahum 1:10",
-    "malachi 3:19"
+    "exodus 5:12:6",
+    "exodus 15:7:7",
+    "job 13:25:4",
+    "job 41:20:4",
+    "job 41:21:0",
+    "psalms 83:14:3",
+    "isaiah 5:24:2",
+    "isaiah 33:11:3",
+    "isaiah 40:24:16",
+    "isaiah 41:2:14",
+    "isaiah 47:14:2",
+    "jeremiah 13:24:1",
+    "joel 2:5:10",
+    "obadiah 1:18:9",
+    "nahum 1:10:7",
+    "malachi 3:19:12"
   ]
 }

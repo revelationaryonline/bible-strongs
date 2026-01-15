@@ -37,10 +37,11 @@
   },
   "hebrew": "חֲצֵרוֹת",
   "verses": [
-    "numbers 11:35",
-    "numbers 12:16",
-    "numbers 33:17",
-    "numbers 33:18",
-    "deuteronomy 1:1"
+    "numbers 11:35:4",
+    "numbers 11:35:6",
+    "numbers 12:16:3",
+    "numbers 33:17:4",
+    "numbers 33:18:1",
+    "deuteronomy 1:1:19"
   ]
 }

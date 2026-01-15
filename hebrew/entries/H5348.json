@@ -37,12 +37,14 @@
     "zh": "有斑点的"
   },
   "verses": [
-    "genesis 30:32",
-    "genesis 30:33",
-    "genesis 30:35",
-    "genesis 30:39",
-    "genesis 31:8",
-    "genesis 31:10",
-    "genesis 31:12"
+    "genesis 30:32:8",
+    "genesis 30:32:15",
+    "genesis 30:33:13",
+    "genesis 30:35:10",
+    "genesis 30:39:7",
+    "genesis 31:8:3",
+    "genesis 31:8:9",
+    "genesis 31:10:14",
+    "genesis 31:12:11"
   ]
 }

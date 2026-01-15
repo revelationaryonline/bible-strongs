@@ -37,14 +37,15 @@
   },
   "hebrew": "חֶמְאָה",
   "verses": [
-    "genesis 18:8",
-    "deuteronomy 32:14",
-    "judges 5:25",
-    "secondSamuel 17:29",
-    "job 20:17",
-    "job 29:6",
-    "proverbs 30:33",
-    "isaiah 7:15",
-    "isaiah 7:22"
+    "genesis 18:8:1",
+    "deuteronomy 32:14:0",
+    "judges 5:25:7",
+    "secondSamuel 17:29:1",
+    "job 20:17:6",
+    "job 29:6:2",
+    "proverbs 30:33:4",
+    "isaiah 7:15:0",
+    "isaiah 7:22:5",
+    "isaiah 7:22:7"
   ]
 }

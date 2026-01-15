@@ -37,13 +37,14 @@
     "zh": "摸索"
   },
   "verses": [
-    "genesis 27:12",
-    "genesis 27:22",
-    "genesis 31:34",
-    "genesis 31:37",
-    "exodus 10:21",
-    "deuteronomy 28:29",
-    "job 5:14",
-    "job 12:25"
+    "genesis 27:12:1",
+    "genesis 27:22:5",
+    "genesis 31:34:9",
+    "genesis 31:37:1",
+    "exodus 10:21:13",
+    "deuteronomy 28:29:1",
+    "deuteronomy 28:29:4",
+    "job 5:14:4",
+    "job 12:25:0"
   ]
 }

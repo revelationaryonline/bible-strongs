@@ -37,13 +37,13 @@
   },
   "hebrew": "חָמַס",
   "verses": [
-    "job 15:33",
-    "job 21:27",
-    "proverbs 8:36",
-    "jeremiah 13:22",
-    "jeremiah 22:3",
-    "lamentations 2:6",
-    "ezekiel 22:26",
-    "zephaniah 3:4"
+    "job 15:33:0",
+    "job 21:27:5",
+    "proverbs 8:36:1",
+    "jeremiah 13:22:10",
+    "jeremiah 22:3:16",
+    "lamentations 2:6:0",
+    "ezekiel 22:26:1",
+    "zephaniah 3:4:7"
   ]
 }

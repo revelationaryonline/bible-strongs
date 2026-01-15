@@ -37,15 +37,16 @@
   },
   "hebrew": "בְּרִיעָה",
   "verses": [
-    "genesis 46:17",
-    "numbers 26:44",
-    "numbers 26:45",
-    "firstChronicles 7:23",
-    "firstChronicles 7:30",
-    "firstChronicles 7:31",
-    "firstChronicles 8:13",
-    "firstChronicles 8:16",
-    "firstChronicles 23:10",
-    "firstChronicles 23:11"
+    "genesis 46:17:5",
+    "genesis 46:17:9",
+    "numbers 26:44:9",
+    "numbers 26:45:1",
+    "firstChronicles 7:23:9",
+    "firstChronicles 7:30:5",
+    "firstChronicles 7:31:1",
+    "firstChronicles 8:13:0",
+    "firstChronicles 8:16:4",
+    "firstChronicles 23:10:5",
+    "firstChronicles 23:11:6"
   ]
 }

@@ -37,14 +37,15 @@
   },
   "hebrew": "חָפַז",
   "verses": [
-    "deuteronomy 20:3",
-    "firstSamuel 23:26",
-    "secondSamuel 4:4",
-    "secondKings 7:15",
-    "job 40:23",
-    "psalms 31:23",
-    "psalms 48:6",
-    "psalms 104:7",
-    "psalms 116:11"
+    "deuteronomy 20:3:16",
+    "firstSamuel 23:26:12",
+    "secondSamuel 4:4:19",
+    "secondKings 7:15:13",
+    "secondKings 7:15:14",
+    "job 40:23:4",
+    "psalms 31:23:2",
+    "psalms 48:6:5",
+    "psalms 104:7:6",
+    "psalms 116:11:2"
   ]
 }

@@ -37,19 +37,19 @@
   },
   "hebrew": "יָגוֹן",
   "verses": [
-    "genesis 42:38",
-    "genesis 44:31",
-    "esther 9:22",
-    "psalms 13:3",
-    "psalms 31:11",
-    "psalms 107:39",
-    "psalms 116:3",
-    "isaiah 35:10",
-    "isaiah 51:11",
-    "jeremiah 8:18",
-    "jeremiah 20:18",
-    "jeremiah 31:13",
-    "jeremiah 45:3",
-    "ezekiel 23:33"
+    "genesis 42:38:20",
+    "genesis 44:31:12",
+    "esther 9:22:10",
+    "psalms 13:3:5",
+    "psalms 31:11:2",
+    "psalms 107:39:4",
+    "psalms 116:3:7",
+    "isaiah 35:10:14",
+    "isaiah 51:11:14",
+    "jeremiah 8:18:2",
+    "jeremiah 20:18:6",
+    "jeremiah 31:13:12",
+    "jeremiah 45:3:7",
+    "ezekiel 23:33:1"
   ]
 }

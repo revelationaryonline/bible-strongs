@@ -37,15 +37,16 @@
   },
   "hebrew": "חַרְטֹם",
   "verses": [
-    "genesis 41:8",
-    "genesis 41:24",
-    "exodus 7:11",
-    "exodus 7:22",
-    "exodus 8:3",
-    "exodus 8:14",
-    "exodus 8:15",
-    "exodus 9:11",
-    "daniel 1:20",
-    "daniel 2:2"
+    "genesis 41:8:8",
+    "genesis 41:24:9",
+    "exodus 7:11:8",
+    "exodus 7:22:2",
+    "exodus 8:3:2",
+    "exodus 8:14:2",
+    "exodus 8:15:1",
+    "exodus 9:11:2",
+    "exodus 9:11:11",
+    "daniel 1:20:13",
+    "daniel 2:2:3"
   ]
 }

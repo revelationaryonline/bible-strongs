@@ -37,13 +37,14 @@
   },
   "hebrew": "בֵּית שְׁאָן",
   "verses": [
-    "joshua 17:11",
-    "joshua 17:16",
-    "judges 1:27",
-    "firstSamuel 31:10",
-    "firstSamuel 31:12",
-    "secondSamuel 21:12",
-    "firstKings 4:12",
-    "firstChronicles 7:29"
+    "joshua 17:11:5",
+    "joshua 17:16:16",
+    "judges 1:27:5",
+    "firstSamuel 31:10:10",
+    "firstSamuel 31:12:16",
+    "secondSamuel 21:12:19",
+    "firstKings 4:12:7",
+    "firstKings 4:12:14",
+    "firstChronicles 7:29:5"
   ]
 }

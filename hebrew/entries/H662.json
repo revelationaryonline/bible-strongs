@@ -37,12 +37,12 @@
   },
   "hebrew": "אָפַק",
   "verses": [
-    "genesis 43:31",
-    "genesis 45:1",
-    "firstSamuel 13:12",
-    "esther 5:10",
-    "isaiah 42:14",
-    "isaiah 63:15",
-    "isaiah 64:11"
+    "genesis 43:31:3",
+    "genesis 45:1:3",
+    "firstSamuel 13:12:10",
+    "esther 5:10:0",
+    "isaiah 42:14:3",
+    "isaiah 63:15:13",
+    "isaiah 64:11:2"
   ]
 }

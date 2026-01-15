@@ -37,11 +37,11 @@
   },
   "hebrew": "אֶשְׁכֹּל",
   "verses": [
-    "genesis 14:13",
-    "genesis 14:24",
-    "numbers 13:23",
-    "numbers 13:24",
-    "numbers 32:9",
-    "deuteronomy 1:24"
+    "genesis 14:13:11",
+    "genesis 14:24:11",
+    "numbers 13:23:3",
+    "numbers 13:24:4",
+    "numbers 32:9:3",
+    "deuteronomy 1:24:6"
   ]
 }

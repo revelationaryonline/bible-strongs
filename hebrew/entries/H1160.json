@@ -37,15 +37,15 @@
   },
   "hebrew": "בְּעוֹר",
   "verses": [
-    "genesis 36:32",
-    "numbers 22:5",
-    "numbers 24:3",
-    "numbers 24:15",
-    "numbers 31:8",
-    "deuteronomy 23:5",
-    "joshua 13:22",
-    "joshua 24:9",
-    "firstChronicles 1:43",
-    "micah 6:5"
+    "genesis 36:32:4",
+    "numbers 22:5:5",
+    "numbers 24:3:6",
+    "numbers 24:15:6",
+    "numbers 31:8:22",
+    "deuteronomy 23:5:17",
+    "joshua 13:22:3",
+    "joshua 24:9:12",
+    "firstChronicles 1:43:13",
+    "micah 6:5:13"
   ]
 }

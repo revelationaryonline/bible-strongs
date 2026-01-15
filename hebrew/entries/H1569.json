@@ -37,16 +37,16 @@
   },
   "hebrew": "גִּלְעָדִי",
   "verses": [
-    "numbers 26:29",
-    "judges 10:3",
-    "judges 11:1",
-    "judges 11:40",
-    "judges 12:7",
-    "secondSamuel 17:27",
-    "secondSamuel 19:32",
-    "firstKings 2:7",
-    "secondKings 15:25",
-    "ezra 2:61",
-    "nehemiah 7:63"
+    "numbers 26:29:11",
+    "judges 10:3:3",
+    "judges 11:1:1",
+    "judges 11:40:8",
+    "judges 12:7:8",
+    "secondSamuel 17:27:16",
+    "secondSamuel 19:32:1",
+    "firstKings 2:7:2",
+    "secondKings 15:25:20",
+    "ezra 2:61:12",
+    "nehemiah 7:63:12"
   ]
 }

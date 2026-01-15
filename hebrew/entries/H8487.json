@@ -37,16 +37,16 @@
     "zh": "特曼，两个以东人的名字，也是其中一个人的地区和后裔的名字"
   },
   "verses": [
-    "genesis 36:11",
-    "genesis 36:15",
-    "genesis 36:42",
-    "firstChronicles 1:36",
-    "firstChronicles 1:53",
-    "jeremiah 49:7",
-    "jeremiah 49:20",
-    "ezekiel 25:13",
-    "amos 1:12",
-    "obadiah 1:9",
-    "habakkuk 3:3"
+    "genesis 36:11:3",
+    "genesis 36:15:9",
+    "genesis 36:42:3",
+    "firstChronicles 1:36:2",
+    "firstChronicles 1:53:3",
+    "jeremiah 49:7:8",
+    "jeremiah 49:20:13",
+    "ezekiel 25:13:15",
+    "amos 1:12:2",
+    "obadiah 1:9:2",
+    "habakkuk 3:3:1"
   ]
 }

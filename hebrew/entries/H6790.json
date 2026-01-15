@@ -37,14 +37,15 @@
     "zh": "津"
   },
   "verses": [
-    "numbers 13:21",
-    "numbers 20:1",
-    "numbers 27:14",
-    "numbers 33:36",
-    "numbers 34:3",
-    "numbers 34:4",
-    "deuteronomy 32:51",
-    "joshua 15:1",
-    "joshua 15:3"
+    "numbers 13:21:5",
+    "numbers 20:1:6",
+    "numbers 27:14:4",
+    "numbers 27:14:15",
+    "numbers 33:36:5",
+    "numbers 34:3:5",
+    "numbers 34:4:7",
+    "deuteronomy 32:51:11",
+    "joshua 15:1:10",
+    "joshua 15:3:6"
   ]
 }

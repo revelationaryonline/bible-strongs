@@ -37,10 +37,15 @@
     "zh": "{四分之一；也是（小数点后）的四分之一}。"
   },
   "verses": [
-    "daniel 2:40",
-    "daniel 3:25",
-    "daniel 7:7",
-    "daniel 7:19",
-    "daniel 7:23"
+    "daniel 2:40:1",
+    "daniel 2:40:2",
+    "daniel 3:25:17",
+    "daniel 3:25:18",
+    "daniel 7:7:8",
+    "daniel 7:7:9",
+    "daniel 7:19:5",
+    "daniel 7:23:3",
+    "daniel 7:23:5",
+    "daniel 7:23:6"
   ]
 }

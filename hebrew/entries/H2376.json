@@ -37,17 +37,17 @@
   },
   "hebrew": "חֵזֵו",
   "verses": [
-    "daniel 2:19",
-    "daniel 2:28",
-    "daniel 4:2",
-    "daniel 4:6",
-    "daniel 4:7",
-    "daniel 4:10",
-    "daniel 7:1",
-    "daniel 7:2",
-    "daniel 7:7",
-    "daniel 7:13",
-    "daniel 7:15",
-    "daniel 7:20"
+    "daniel 2:19:2",
+    "daniel 2:28:15",
+    "daniel 4:2:6",
+    "daniel 4:6:16",
+    "daniel 4:7:0",
+    "daniel 4:10:2",
+    "daniel 7:1:8",
+    "daniel 7:2:5",
+    "daniel 7:7:4",
+    "daniel 7:13:2",
+    "daniel 7:15:6",
+    "daniel 7:20:21"
   ]
 }

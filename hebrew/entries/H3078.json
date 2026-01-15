@@ -37,13 +37,15 @@
   },
   "hebrew": "יְהוֹיָכִין",
   "verses": [
-    "secondKings 24:6",
-    "secondKings 24:8",
-    "secondKings 24:12",
-    "secondKings 24:15",
-    "secondKings 25:27",
-    "secondChronicles 36:8",
-    "secondChronicles 36:9",
-    "jeremiah 52:31"
+    "secondKings 24:6:5",
+    "secondKings 24:8:4",
+    "secondKings 24:12:1",
+    "secondKings 24:15:2",
+    "secondKings 25:27:5",
+    "secondKings 25:27:23",
+    "secondChronicles 36:8:16",
+    "secondChronicles 36:9:3",
+    "jeremiah 52:31:5",
+    "jeremiah 52:31:23"
   ]
 }

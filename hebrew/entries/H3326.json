@@ -37,13 +37,16 @@
   },
   "hebrew": "יָצוּעַ",
   "verses": [
-    "genesis 49:4",
-    "firstKings 6:5",
-    "firstKings 6:6",
-    "firstKings 6:10",
-    "firstChronicles 5:1",
-    "job 17:13",
-    "psalms 63:7",
-    "psalms 132:3"
+    "genesis 49:4:10",
+    "firstKings 6:5:4",
+    "firstKings 6:5:5",
+    "firstKings 6:6:0",
+    "firstKings 6:6:1",
+    "firstKings 6:10:2",
+    "firstKings 6:10:3",
+    "firstChronicles 5:1:8",
+    "job 17:13:6",
+    "psalms 63:7:3",
+    "psalms 132:3:8"
   ]
 }

@@ -37,18 +37,18 @@
     "zh": "生死肉骨"
   },
   "verses": [
-    "exodus 15:11",
-    "psalms 77:12",
-    "psalms 77:15",
-    "psalms 78:12",
-    "psalms 88:11",
-    "psalms 88:13",
-    "psalms 89:6",
-    "psalms 119:129",
-    "isaiah 9:5",
-    "isaiah 25:1",
-    "isaiah 29:14",
-    "lamentations 1:9",
-    "daniel 12:6"
+    "exodus 15:11:11",
+    "psalms 77:12:7",
+    "psalms 77:15:3",
+    "psalms 78:12:3",
+    "psalms 88:11:2",
+    "psalms 88:13:2",
+    "psalms 89:6:2",
+    "psalms 119:129:0",
+    "isaiah 9:5:13",
+    "isaiah 25:1:8",
+    "isaiah 29:14:8",
+    "lamentations 1:9:6",
+    "daniel 12:6:11"
   ]
 }

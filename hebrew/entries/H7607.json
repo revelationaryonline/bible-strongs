@@ -37,21 +37,21 @@
     "zh": "瓤子"
   },
   "verses": [
-    "exodus 21:10",
-    "leviticus 18:6",
-    "leviticus 18:12",
-    "leviticus 18:13",
-    "leviticus 20:19",
-    "leviticus 21:2",
-    "leviticus 25:49",
-    "numbers 27:11",
-    "psalms 73:26",
-    "psalms 78:20",
-    "psalms 78:27",
-    "proverbs 5:11",
-    "proverbs 11:17",
-    "jeremiah 51:35",
-    "micah 3:2",
-    "micah 3:3"
+    "exodus 21:10:4",
+    "leviticus 18:6:4",
+    "leviticus 18:12:5",
+    "leviticus 18:13:6",
+    "leviticus 20:19:9",
+    "leviticus 21:2:2",
+    "leviticus 25:49:7",
+    "numbers 27:11:7",
+    "psalms 73:26:1",
+    "psalms 78:20:13",
+    "psalms 78:27:3",
+    "proverbs 5:11:4",
+    "proverbs 11:17:5",
+    "jeremiah 51:35:1",
+    "micah 3:2:8",
+    "micah 3:3:2"
   ]
 }

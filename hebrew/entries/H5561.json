@@ -37,20 +37,21 @@
     "zh": "香气"
   },
   "verses": [
-    "exodus 25:6",
-    "exodus 30:7",
-    "exodus 30:34",
-    "exodus 31:11",
-    "exodus 35:8",
-    "exodus 35:15",
-    "exodus 35:28",
-    "exodus 37:29",
-    "exodus 39:38",
-    "exodus 40:27",
-    "leviticus 4:7",
-    "leviticus 16:12",
-    "numbers 4:16",
-    "secondChronicles 2:3",
-    "secondChronicles 13:11"
+    "exodus 25:6:6",
+    "exodus 30:7:4",
+    "exodus 30:34:6",
+    "exodus 30:34:10",
+    "exodus 31:11:5",
+    "exodus 35:8:6",
+    "exodus 35:15:10",
+    "exodus 35:28:8",
+    "exodus 37:29:7",
+    "exodus 39:38:8",
+    "exodus 40:27:3",
+    "leviticus 4:7:8",
+    "leviticus 16:12:12",
+    "numbers 4:16:8",
+    "secondChronicles 2:3:12",
+    "secondChronicles 13:11:8"
   ]
 }

@@ -37,15 +37,15 @@
   },
   "hebrew": "יְרֹחָם",
   "verses": [
-    "firstSamuel 1:1",
-    "firstChronicles 6:12",
-    "firstChronicles 6:19",
-    "firstChronicles 8:27",
-    "firstChronicles 9:8",
-    "firstChronicles 9:12",
-    "firstChronicles 12:8",
-    "firstChronicles 27:22",
-    "secondChronicles 23:1",
-    "nehemiah 11:12"
+    "firstSamuel 1:1:11",
+    "firstChronicles 6:12:2",
+    "firstChronicles 6:19:3",
+    "firstChronicles 8:27:4",
+    "firstChronicles 9:8:2",
+    "firstChronicles 9:12:2",
+    "firstChronicles 12:8:3",
+    "firstChronicles 27:22:3",
+    "secondChronicles 23:1:10",
+    "nehemiah 11:12:10"
   ]
 }

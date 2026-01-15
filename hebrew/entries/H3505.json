@@ -37,8 +37,10 @@
   },
   "hebrew": "יִתְרִי",
   "verses": [
-    "secondSamuel 23:38",
-    "firstChronicles 2:53",
-    "firstChronicles 11:40"
+    "secondSamuel 23:38:1",
+    "secondSamuel 23:38:3",
+    "firstChronicles 2:53:3",
+    "firstChronicles 11:40:1",
+    "firstChronicles 11:40:3"
   ]
 }

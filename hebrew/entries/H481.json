@@ -37,14 +37,14 @@
   },
   "hebrew": "אָלַם",
   "verses": [
-    "genesis 37:7",
-    "psalms 31:19",
-    "psalms 39:3",
-    "psalms 39:10",
-    "isaiah 53:7",
-    "ezekiel 3:26",
-    "ezekiel 24:27",
-    "ezekiel 33:22",
-    "daniel 10:15"
+    "genesis 37:7:2",
+    "psalms 31:19:0",
+    "psalms 39:3:0",
+    "psalms 39:10:0",
+    "isaiah 53:7:12",
+    "ezekiel 3:26:4",
+    "ezekiel 24:27:8",
+    "ezekiel 33:22:18",
+    "daniel 10:15:7"
   ]
 }

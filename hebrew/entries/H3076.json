@@ -37,16 +37,16 @@
   },
   "hebrew": "יְהוֹחָנָן",
   "verses": [
-    "firstChronicles 12:5",
-    "firstChronicles 12:13",
-    "firstChronicles 26:3",
-    "secondChronicles 17:15",
-    "secondChronicles 23:1",
-    "secondChronicles 28:12",
-    "ezra 10:6",
-    "ezra 10:28",
-    "nehemiah 6:18",
-    "nehemiah 12:13",
-    "nehemiah 12:42"
+    "firstChronicles 12:5:2",
+    "firstChronicles 12:13:0",
+    "firstChronicles 26:3:2",
+    "secondChronicles 17:15:2",
+    "secondChronicles 23:1:13",
+    "secondChronicles 28:12:7",
+    "ezra 10:6:8",
+    "ezra 10:28:2",
+    "nehemiah 6:18:12",
+    "nehemiah 12:13:3",
+    "nehemiah 12:42:4"
   ]
 }

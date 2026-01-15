@@ -37,10 +37,11 @@
   },
   "hebrew": "אִישׁוֹן",
   "verses": [
-    "deuteronomy 32:10",
-    "psalms 17:8",
-    "proverbs 7:2",
-    "proverbs 7:9",
-    "proverbs 20:20"
+    "deuteronomy 32:10:9",
+    "psalms 17:8:1",
+    "proverbs 7:2:4",
+    "proverbs 7:9:3",
+    "proverbs 20:20:5",
+    "proverbs 20:20:6"
   ]
 }

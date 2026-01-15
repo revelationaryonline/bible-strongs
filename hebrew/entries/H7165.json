@@ -37,12 +37,15 @@
     "zh": "别针"
   },
   "verses": [
-    "exodus 26:6",
-    "exodus 26:11",
-    "exodus 26:33",
-    "exodus 35:11",
-    "exodus 36:13",
-    "exodus 36:18",
-    "exodus 39:33"
+    "exodus 26:6:2",
+    "exodus 26:6:10",
+    "exodus 26:11:1",
+    "exodus 26:11:6",
+    "exodus 26:33:4",
+    "exodus 35:11:7",
+    "exodus 36:13:2",
+    "exodus 36:13:10",
+    "exodus 36:18:1",
+    "exodus 39:33:10"
   ]
 }

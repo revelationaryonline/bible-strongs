@@ -37,16 +37,16 @@
   },
   "hebrew": "בּוּז",
   "verses": [
-    "genesis 38:23",
-    "job 12:5",
-    "job 12:21",
-    "job 31:34",
-    "psalms 31:19",
-    "psalms 107:40",
-    "psalms 119:22",
-    "psalms 123:3",
-    "psalms 123:4",
-    "proverbs 12:8",
-    "proverbs 18:3"
+    "genesis 38:23:6",
+    "job 12:5:1",
+    "job 12:21:1",
+    "job 31:34:4",
+    "psalms 31:19:8",
+    "psalms 107:40:1",
+    "psalms 119:22:3",
+    "psalms 123:3:6",
+    "psalms 123:4:6",
+    "proverbs 12:8:7",
+    "proverbs 18:3:4"
   ]
 }

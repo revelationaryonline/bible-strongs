@@ -37,11 +37,12 @@
     "zh": "条纹"
   },
   "verses": [
-    "genesis 30:35",
-    "genesis 30:39",
-    "genesis 30:40",
-    "genesis 31:8",
-    "genesis 31:10",
-    "genesis 31:12"
+    "genesis 30:35:5",
+    "genesis 30:39:6",
+    "genesis 30:40:7",
+    "genesis 31:8:13",
+    "genesis 31:8:19",
+    "genesis 31:10:13",
+    "genesis 31:12:10"
   ]
 }

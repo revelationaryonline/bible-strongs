@@ -37,16 +37,16 @@
   },
   "hebrew": "יֹתֶרֶת",
   "verses": [
-    "exodus 29:13",
-    "exodus 29:22",
-    "leviticus 3:4",
-    "leviticus 3:10",
-    "leviticus 3:15",
-    "leviticus 4:9",
-    "leviticus 7:4",
-    "leviticus 8:16",
-    "leviticus 8:25",
-    "leviticus 9:10",
-    "leviticus 9:19"
+    "exodus 29:13:8",
+    "exodus 29:22:11",
+    "leviticus 3:4:11",
+    "leviticus 3:10:11",
+    "leviticus 3:15:11",
+    "leviticus 4:9:11",
+    "leviticus 7:4:11",
+    "leviticus 8:16:8",
+    "leviticus 8:25:12",
+    "leviticus 9:10:5",
+    "leviticus 9:19:9"
   ]
 }

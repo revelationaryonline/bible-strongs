@@ -37,20 +37,21 @@
     "zh": "马基雅，十个以色列人的名字"
   },
   "verses": [
-    "firstChronicles 6:25",
-    "firstChronicles 9:12",
-    "firstChronicles 24:9",
-    "ezra 10:25",
-    "ezra 10:31",
-    "nehemiah 3:11",
-    "nehemiah 3:14",
-    "nehemiah 3:31",
-    "nehemiah 8:4",
-    "nehemiah 10:4",
-    "nehemiah 11:12",
-    "nehemiah 12:42",
-    "jeremiah 21:1",
-    "jeremiah 38:1",
-    "jeremiah 38:6"
+    "firstChronicles 6:25:5",
+    "firstChronicles 9:12:6",
+    "firstChronicles 24:9:0",
+    "ezra 10:25:5",
+    "ezra 10:25:8",
+    "ezra 10:31:4",
+    "nehemiah 3:11:3",
+    "nehemiah 3:14:4",
+    "nehemiah 3:31:3",
+    "nehemiah 8:4:22",
+    "nehemiah 10:4:2",
+    "nehemiah 11:12:20",
+    "nehemiah 12:42:5",
+    "jeremiah 21:1:14",
+    "jeremiah 38:1:12",
+    "jeremiah 38:6:7"
   ]
 }

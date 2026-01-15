@@ -37,17 +37,20 @@
     "zh": "齐克拉格"
   },
   "verses": [
-    "joshua 15:31",
-    "joshua 19:5",
-    "firstSamuel 27:6",
-    "firstSamuel 30:1",
-    "firstSamuel 30:14",
-    "firstSamuel 30:26",
-    "secondSamuel 1:1",
-    "secondSamuel 4:10",
-    "firstChronicles 4:30",
-    "firstChronicles 12:1",
-    "firstChronicles 12:21",
-    "nehemiah 11:28"
+    "joshua 15:31:0",
+    "joshua 19:5:0",
+    "firstSamuel 27:6:6",
+    "firstSamuel 27:6:9",
+    "firstSamuel 30:1:4",
+    "firstSamuel 30:1:12",
+    "firstSamuel 30:1:15",
+    "firstSamuel 30:14:11",
+    "firstSamuel 30:26:3",
+    "secondSamuel 1:1:11",
+    "secondSamuel 4:10:14",
+    "firstChronicles 4:30:2",
+    "firstChronicles 12:1:4",
+    "firstChronicles 12:21:2",
+    "nehemiah 11:28:0"
   ]
 }

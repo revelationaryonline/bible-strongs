@@ -37,19 +37,19 @@
     "zh": "拿但业，十个以色列人的名字"
   },
   "verses": [
-    "numbers 1:8",
-    "numbers 2:5",
-    "numbers 7:18",
-    "numbers 7:23",
-    "numbers 10:15",
-    "firstChronicles 2:14",
-    "firstChronicles 15:24",
-    "firstChronicles 24:6",
-    "firstChronicles 26:4",
-    "secondChronicles 17:7",
-    "secondChronicles 35:9",
-    "ezra 10:22",
-    "nehemiah 12:21",
-    "nehemiah 12:36"
+    "numbers 1:8:1",
+    "numbers 2:5:7",
+    "numbers 7:18:3",
+    "numbers 7:23:14",
+    "numbers 10:15:5",
+    "firstChronicles 2:14:0",
+    "firstChronicles 15:24:2",
+    "firstChronicles 24:6:3",
+    "firstChronicles 26:4:11",
+    "secondChronicles 17:7:9",
+    "secondChronicles 35:9:3",
+    "ezra 10:22:5",
+    "nehemiah 12:21:3",
+    "nehemiah 12:36:6"
   ]
 }

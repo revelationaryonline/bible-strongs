@@ -37,14 +37,14 @@
   },
   "hebrew": "יִצְהָר",
   "verses": [
-    "exodus 6:18",
-    "exodus 6:21",
-    "numbers 3:19",
-    "numbers 16:1",
-    "firstChronicles 5:28",
-    "firstChronicles 6:3",
-    "firstChronicles 6:23",
-    "firstChronicles 23:12",
-    "firstChronicles 23:18"
+    "exodus 6:18:3",
+    "exodus 6:21:1",
+    "numbers 3:19:4",
+    "numbers 16:1:3",
+    "firstChronicles 5:28:3",
+    "firstChronicles 6:3:3",
+    "firstChronicles 6:23:1",
+    "firstChronicles 23:12:3",
+    "firstChronicles 23:18:1"
   ]
 }

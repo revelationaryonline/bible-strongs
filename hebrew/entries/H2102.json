@@ -8,15 +8,15 @@
   "translations": {},
   "hebrew": "זוּד",
   "verses": [
-    "genesis 25:29",
-    "exodus 18:11",
-    "exodus 21:14",
-    "deuteronomy 1:43",
-    "deuteronomy 17:13",
-    "deuteronomy 18:20",
-    "nehemiah 9:10",
-    "nehemiah 9:16",
-    "nehemiah 9:29",
-    "jeremiah 50:29"
+    "genesis 25:29:0",
+    "exodus 18:11:10",
+    "exodus 21:14:1",
+    "deuteronomy 1:43:8",
+    "deuteronomy 17:13:5",
+    "deuteronomy 18:20:3",
+    "nehemiah 9:10:12",
+    "nehemiah 9:16:2",
+    "nehemiah 9:29:6",
+    "jeremiah 50:29:25"
   ]
 }

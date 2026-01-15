@@ -37,17 +37,19 @@
     "zh": "调集"
   },
   "verses": [
-    "exodus 38:8",
-    "numbers 4:23",
-    "numbers 8:24",
-    "numbers 31:7",
-    "numbers 31:42",
-    "firstSamuel 2:22",
-    "secondKings 25:19",
-    "isaiah 29:7",
-    "isaiah 29:8",
-    "isaiah 31:4",
-    "jeremiah 52:25",
-    "zechariah 14:12"
+    "exodus 38:8:8",
+    "exodus 38:8:10",
+    "numbers 4:23:12",
+    "numbers 8:24:9",
+    "numbers 31:7:0",
+    "numbers 31:42:8",
+    "firstSamuel 2:22:16",
+    "secondKings 25:19:23",
+    "isaiah 29:7:7",
+    "isaiah 29:7:11",
+    "isaiah 29:8:24",
+    "isaiah 31:4:26",
+    "jeremiah 52:25:23",
+    "zechariah 14:12:10"
   ]
 }

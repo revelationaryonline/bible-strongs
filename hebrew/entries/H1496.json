@@ -37,16 +37,16 @@
   },
   "hebrew": "גָּזִית",
   "verses": [
-    "exodus 20:25",
-    "firstKings 5:31",
-    "firstKings 6:36",
-    "firstKings 7:9",
-    "firstKings 7:11",
-    "firstKings 7:12",
-    "firstChronicles 22:2",
-    "isaiah 9:9",
-    "lamentations 3:9",
-    "ezekiel 40:42",
-    "amos 5:11"
+    "exodus 20:25:8",
+    "firstKings 5:31:10",
+    "firstKings 6:36:6",
+    "firstKings 7:9:5",
+    "firstKings 7:11:4",
+    "firstKings 7:12:5",
+    "firstChronicles 22:2:12",
+    "isaiah 9:9:2",
+    "lamentations 3:9:2",
+    "ezekiel 40:42:4",
+    "amos 5:11:10"
   ]
 }

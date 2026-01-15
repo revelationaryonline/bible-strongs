@@ -37,18 +37,19 @@
     "zh": "疮痂；比喻兴高采烈或兴高采烈的样子；地位或品格的提升"
   },
   "verses": [
-    "genesis 4:7",
-    "genesis 49:3",
-    "leviticus 13:2",
-    "leviticus 13:10",
-    "leviticus 13:19",
-    "leviticus 13:28",
-    "leviticus 13:43",
-    "leviticus 14:56",
-    "job 13:11",
-    "job 31:23",
-    "job 41:17",
-    "psalms 62:5",
-    "habakkuk 1:7"
+    "genesis 4:7:3",
+    "genesis 49:3:7",
+    "leviticus 13:2:5",
+    "leviticus 13:10:3",
+    "leviticus 13:10:13",
+    "leviticus 13:19:3",
+    "leviticus 13:28:9",
+    "leviticus 13:43:4",
+    "leviticus 14:56:0",
+    "job 13:11:1",
+    "job 31:23:5",
+    "job 41:17:0",
+    "psalms 62:5:1",
+    "habakkuk 1:7:5"
   ]
 }

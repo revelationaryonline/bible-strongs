@@ -37,14 +37,16 @@
     "zh": "中央"
   },
   "verses": [
-    "exodus 26:28",
-    "exodus 36:33",
-    "judges 7:19",
-    "firstKings 6:6",
-    "firstKings 6:8",
-    "secondKings 20:4",
-    "ezekiel 41:7",
-    "ezekiel 42:5",
-    "ezekiel 42:6"
+    "exodus 26:28:1",
+    "exodus 36:33:3",
+    "judges 7:19:10",
+    "firstKings 6:6:6",
+    "firstKings 6:8:2",
+    "firstKings 6:8:10",
+    "firstKings 6:8:12",
+    "secondKings 20:4:6",
+    "ezekiel 41:7:23",
+    "ezekiel 42:5:8",
+    "ezekiel 42:6:12"
   ]
 }

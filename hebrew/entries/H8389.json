@@ -37,20 +37,20 @@
     "zh": "轮廓"
   },
   "verses": [
-    "genesis 29:17",
-    "genesis 39:6",
-    "genesis 41:18",
-    "genesis 41:19",
-    "deuteronomy 21:11",
-    "judges 8:18",
-    "firstSamuel 16:18",
-    "firstSamuel 25:3",
-    "firstSamuel 28:14",
-    "firstKings 1:6",
-    "esther 2:7",
-    "isaiah 52:14",
-    "isaiah 53:2",
-    "jeremiah 11:16",
-    "lamentations 4:8"
+    "genesis 29:17:6",
+    "genesis 39:6:19",
+    "genesis 41:18:9",
+    "genesis 41:19:8",
+    "deuteronomy 21:11:4",
+    "judges 8:18:14",
+    "firstSamuel 16:18:19",
+    "firstSamuel 25:3:10",
+    "firstSamuel 28:14:3",
+    "firstKings 1:6:11",
+    "esther 2:7:15",
+    "isaiah 52:14:8",
+    "isaiah 53:2:7",
+    "jeremiah 11:16:4",
+    "lamentations 4:8:2"
   ]
 }

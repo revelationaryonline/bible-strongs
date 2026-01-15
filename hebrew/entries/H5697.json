@@ -37,18 +37,19 @@
     "zh": "小牛犊，尤其是快成年的小牛犊（即小母牛）。"
   },
   "verses": [
-    "genesis 15:9",
-    "deuteronomy 21:3",
-    "deuteronomy 21:4",
-    "deuteronomy 21:6",
-    "judges 14:18",
-    "firstSamuel 16:2",
-    "isaiah 7:21",
-    "isaiah 15:5",
-    "jeremiah 46:20",
-    "jeremiah 48:34",
-    "jeremiah 50:11",
-    "hosea 10:5",
-    "hosea 10:11"
+    "genesis 15:9:4",
+    "deuteronomy 21:3:9",
+    "deuteronomy 21:4:5",
+    "deuteronomy 21:4:18",
+    "deuteronomy 21:6:11",
+    "judges 14:18:19",
+    "firstSamuel 16:2:9",
+    "isaiah 7:21:5",
+    "isaiah 15:5:6",
+    "jeremiah 46:20:0",
+    "jeremiah 48:34:11",
+    "jeremiah 50:11:11",
+    "hosea 10:5:0",
+    "hosea 10:11:1"
   ]
 }

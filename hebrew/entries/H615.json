@@ -37,18 +37,18 @@
   },
   "hebrew": "אָסִיר",
   "verses": [
-    "genesis 39:20",
-    "genesis 39:22",
-    "judges 16:21",
-    "judges 16:25",
-    "job 3:18",
-    "psalms 68:7",
-    "psalms 69:34",
-    "psalms 102:21",
-    "psalms 107:10",
-    "isaiah 14:17",
-    "lamentations 3:34",
-    "zechariah 9:11",
-    "zechariah 9:12"
+    "genesis 39:20:11",
+    "genesis 39:22:8",
+    "judges 16:21:13",
+    "judges 16:25:13",
+    "job 3:18:1",
+    "psalms 68:7:5",
+    "psalms 69:34:6",
+    "psalms 102:21:2",
+    "psalms 107:10:3",
+    "isaiah 14:17:5",
+    "lamentations 3:34:4",
+    "zechariah 9:11:5",
+    "zechariah 9:12:2"
   ]
 }

@@ -37,20 +37,20 @@
     "zh": "{丰富}"
   },
   "verses": [
-    "ezra 4:10",
-    "ezra 5:8",
-    "ezra 5:11",
-    "daniel 2:10",
-    "daniel 2:14",
-    "daniel 2:31",
-    "daniel 2:35",
-    "daniel 2:45",
-    "daniel 2:48",
-    "daniel 4:6",
-    "daniel 4:27",
-    "daniel 5:1",
-    "daniel 5:11",
-    "daniel 7:2",
-    "daniel 7:20"
+    "ezra 4:10:5",
+    "ezra 5:8:9",
+    "ezra 5:11:22",
+    "daniel 2:10:21",
+    "daniel 2:14:6",
+    "daniel 2:31:10",
+    "daniel 2:35:27",
+    "daniel 2:45:18",
+    "daniel 2:48:14",
+    "daniel 4:6:1",
+    "daniel 4:27:7",
+    "daniel 5:1:4",
+    "daniel 5:11:20",
+    "daniel 7:2:14",
+    "daniel 7:20:22"
   ]
 }

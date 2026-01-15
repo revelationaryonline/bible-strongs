@@ -37,15 +37,15 @@
     "zh": "军事装备，即（统称）武器（进攻性或防御性），或（具体地说）武库"
   },
   "verses": [
-    "firstKings 10:25",
-    "secondKings 10:2",
-    "secondChronicles 9:24",
-    "nehemiah 3:19",
-    "job 20:24",
-    "job 39:21",
-    "psalms 140:8",
-    "isaiah 22:8",
-    "ezekiel 39:9",
-    "ezekiel 39:10"
+    "firstKings 10:25:9",
+    "secondKings 10:2:13",
+    "secondChronicles 9:24:9",
+    "nehemiah 3:19:12",
+    "job 20:24:1",
+    "job 39:21:6",
+    "psalms 140:8:7",
+    "isaiah 22:8:8",
+    "ezekiel 39:9:6",
+    "ezekiel 39:10:10"
   ]
 }

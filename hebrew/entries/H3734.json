@@ -37,11 +37,14 @@
   },
   "hebrew": "כֹּר",
   "verses": [
-    "firstKings 5:2",
-    "firstKings 5:25",
-    "secondChronicles 2:9",
-    "secondChronicles 27:5",
-    "ezra 7:22",
-    "ezekiel 45:14"
+    "firstKings 5:2:6",
+    "firstKings 5:2:9",
+    "firstKings 5:25:5",
+    "firstKings 5:25:10",
+    "secondChronicles 2:9:8",
+    "secondChronicles 2:9:12",
+    "secondChronicles 27:5:19",
+    "ezra 7:22:6",
+    "ezekiel 45:14:7"
   ]
 }

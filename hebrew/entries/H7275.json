@@ -37,20 +37,21 @@
     "zh": "砌（石头），即青石"
   },
   "verses": [
-    "leviticus 20:2",
-    "leviticus 20:27",
-    "leviticus 24:14",
-    "leviticus 24:16",
-    "leviticus 24:23",
-    "numbers 14:10",
-    "numbers 15:35",
-    "numbers 15:36",
-    "deuteronomy 21:21",
-    "joshua 7:25",
-    "firstKings 12:18",
-    "secondChronicles 10:18",
-    "secondChronicles 24:21",
-    "ezekiel 16:40",
-    "ezekiel 23:47"
+    "leviticus 20:2:20",
+    "leviticus 20:27:12",
+    "leviticus 24:14:13",
+    "leviticus 24:16:5",
+    "leviticus 24:16:6",
+    "leviticus 24:23:11",
+    "numbers 14:10:3",
+    "numbers 15:35:7",
+    "numbers 15:36:7",
+    "deuteronomy 21:21:0",
+    "joshua 7:25:8",
+    "firstKings 12:18:8",
+    "secondChronicles 10:18:8",
+    "secondChronicles 24:21:2",
+    "ezekiel 16:40:3",
+    "ezekiel 23:47:0"
   ]
 }

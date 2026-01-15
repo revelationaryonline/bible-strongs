@@ -37,20 +37,21 @@
     "zh": "比喻，即（转折地）使用比喻性语言（寓言、格言、歌谣等）；不转折地，指相似"
   },
   "verses": [
-    "numbers 21:27",
-    "job 30:19",
-    "psalms 28:1",
-    "psalms 49:13",
-    "psalms 49:21",
-    "psalms 143:7",
-    "isaiah 14:10",
-    "isaiah 46:5",
-    "ezekiel 12:23",
-    "ezekiel 16:44",
-    "ezekiel 17:2",
-    "ezekiel 18:2",
-    "ezekiel 18:3",
-    "ezekiel 21:5",
-    "ezekiel 24:3"
+    "numbers 21:27:3",
+    "job 30:19:2",
+    "psalms 28:1:11",
+    "psalms 49:13:4",
+    "psalms 49:21:4",
+    "psalms 143:7:9",
+    "isaiah 14:10:9",
+    "isaiah 46:5:3",
+    "ezekiel 12:23:12",
+    "ezekiel 16:44:2",
+    "ezekiel 16:44:4",
+    "ezekiel 17:2:4",
+    "ezekiel 18:2:3",
+    "ezekiel 18:3:9",
+    "ezekiel 21:5:8",
+    "ezekiel 24:3:0"
   ]
 }

@@ -37,12 +37,12 @@
     "zh": "以汇总"
   },
   "verses": [
-    "genesis 41:35",
-    "genesis 41:49",
-    "exodus 8:10",
-    "job 27:16",
-    "psalms 39:7",
-    "habakkuk 1:10",
-    "zechariah 9:3"
+    "genesis 41:35:8",
+    "genesis 41:49:0",
+    "exodus 8:10:0",
+    "job 27:16:1",
+    "psalms 39:7:7",
+    "habakkuk 1:10:10",
+    "zechariah 9:3:4"
   ]
 }

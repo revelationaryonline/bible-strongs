@@ -37,13 +37,14 @@
     "zh": "书、字、文（信、抄、诏、诗）"
   },
   "verses": [
-    "exodus 32:16",
-    "exodus 39:30",
-    "deuteronomy 10:4",
-    "secondChronicles 21:12",
-    "secondChronicles 35:4",
-    "secondChronicles 36:22",
-    "ezra 1:1",
-    "isaiah 38:9"
+    "exodus 32:16:4",
+    "exodus 32:16:5",
+    "exodus 39:30:9",
+    "deuteronomy 10:4:3",
+    "secondChronicles 21:12:2",
+    "secondChronicles 35:4:8",
+    "secondChronicles 36:22:22",
+    "ezra 1:1:22",
+    "isaiah 38:9:0"
   ]
 }

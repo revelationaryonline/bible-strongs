@@ -37,11 +37,12 @@
   },
   "hebrew": "אֲרְיוֹךְ",
   "verses": [
-    "genesis 14:1",
-    "genesis 14:9",
-    "daniel 2:14",
-    "daniel 2:15",
-    "daniel 2:24",
-    "daniel 2:25"
+    "genesis 14:1:5",
+    "genesis 14:9:10",
+    "daniel 2:14:5",
+    "daniel 2:15:2",
+    "daniel 2:15:16",
+    "daniel 2:24:6",
+    "daniel 2:25:1"
   ]
 }

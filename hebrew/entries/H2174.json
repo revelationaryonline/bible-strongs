@@ -37,18 +37,20 @@
   },
   "hebrew": "זִמְרִי",
   "verses": [
-    "numbers 25:14",
-    "firstKings 16:9",
-    "firstKings 16:10",
-    "firstKings 16:12",
-    "firstKings 16:15",
-    "firstKings 16:16",
-    "firstKings 16:18",
-    "firstKings 16:20",
-    "secondKings 9:31",
-    "firstChronicles 2:6",
-    "firstChronicles 8:36",
-    "firstChronicles 9:42",
-    "jeremiah 25:25"
+    "numbers 25:14:8",
+    "firstKings 16:9:3",
+    "firstKings 16:10:1",
+    "firstKings 16:12:1",
+    "firstKings 16:15:8",
+    "firstKings 16:16:5",
+    "firstKings 16:18:2",
+    "firstKings 16:20:2",
+    "secondKings 9:31:5",
+    "firstChronicles 2:6:2",
+    "firstChronicles 8:36:11",
+    "firstChronicles 8:36:12",
+    "firstChronicles 9:42:11",
+    "firstChronicles 9:42:12",
+    "jeremiah 25:25:3"
   ]
 }

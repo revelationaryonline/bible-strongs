@@ -37,15 +37,18 @@
     "zh": "额"
   },
   "verses": [
-    "exodus 28:38",
-    "firstSamuel 17:49",
-    "secondChronicles 26:19",
-    "secondChronicles 26:20",
-    "isaiah 48:4",
-    "jeremiah 3:3",
-    "ezekiel 3:7",
-    "ezekiel 3:8",
-    "ezekiel 3:9",
-    "ezekiel 9:4"
+    "exodus 28:38:2",
+    "exodus 28:38:18",
+    "firstSamuel 17:49:14",
+    "firstSamuel 17:49:17",
+    "secondChronicles 26:19:10",
+    "secondChronicles 26:20:10",
+    "isaiah 48:4:7",
+    "jeremiah 3:3:5",
+    "ezekiel 3:7:16",
+    "ezekiel 3:8:8",
+    "ezekiel 3:8:11",
+    "ezekiel 3:9:4",
+    "ezekiel 9:4:12"
   ]
 }

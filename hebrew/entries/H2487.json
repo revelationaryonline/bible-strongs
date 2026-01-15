@@ -37,16 +37,17 @@
   },
   "hebrew": "חֲלִיפָה",
   "verses": [
-    "genesis 45:22",
-    "judges 14:12",
-    "judges 14:13",
-    "judges 14:19",
-    "firstKings 5:28",
-    "secondKings 5:5",
-    "secondKings 5:22",
-    "secondKings 5:23",
-    "job 10:17",
-    "job 14:14",
-    "psalms 55:20"
+    "genesis 45:22:3",
+    "genesis 45:22:11",
+    "judges 14:12:21",
+    "judges 14:13:11",
+    "judges 14:19:14",
+    "firstKings 5:28:5",
+    "secondKings 5:5:20",
+    "secondKings 5:22:22",
+    "secondKings 5:23:13",
+    "job 10:17:6",
+    "job 14:14:10",
+    "psalms 55:20:8"
   ]
 }

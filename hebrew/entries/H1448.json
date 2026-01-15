@@ -37,16 +37,16 @@
   },
   "hebrew": "גְּדֵרָה",
   "verses": [
-    "numbers 32:16",
-    "numbers 32:24",
-    "numbers 32:36",
-    "firstSamuel 24:4",
-    "firstChronicles 4:23",
-    "psalms 89:41",
-    "jeremiah 49:3",
-    "ezekiel 42:12",
-    "hosea 2:8",
-    "nahum 3:17",
-    "zephaniah 2:6"
+    "numbers 32:16:3",
+    "numbers 32:24:4",
+    "numbers 32:36:8",
+    "firstSamuel 24:4:2",
+    "firstChronicles 4:23:4",
+    "psalms 89:41:2",
+    "jeremiah 49:3:12",
+    "ezekiel 42:12:10",
+    "hosea 2:8:8",
+    "nahum 3:17:6",
+    "zephaniah 2:6:6"
   ]
 }

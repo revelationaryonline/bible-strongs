@@ -37,13 +37,14 @@
   },
   "hebrew": "חֲרָדָה",
   "verses": [
-    "genesis 27:33",
-    "firstSamuel 14:15",
-    "secondKings 4:13",
-    "proverbs 29:25",
-    "isaiah 21:4",
-    "jeremiah 30:5",
-    "ezekiel 26:16",
-    "daniel 10:7"
+    "genesis 27:33:2",
+    "firstSamuel 14:15:1",
+    "firstSamuel 14:15:14",
+    "secondKings 4:13:10",
+    "proverbs 29:25:0",
+    "isaiah 21:4:9",
+    "jeremiah 30:5:5",
+    "ezekiel 26:16:13",
+    "daniel 10:7:15"
   ]
 }

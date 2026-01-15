@@ -37,11 +37,11 @@
   },
   "hebrew": "יָמִין",
   "verses": [
-    "genesis 46:10",
-    "exodus 6:15",
-    "numbers 26:12",
-    "firstChronicles 2:27",
-    "firstChronicles 4:24",
-    "nehemiah 8:7"
+    "genesis 46:10:3",
+    "exodus 6:15:3",
+    "numbers 26:12:6",
+    "firstChronicles 2:27:6",
+    "firstChronicles 4:24:3",
+    "nehemiah 8:7:3"
   ]
 }

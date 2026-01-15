@@ -37,18 +37,18 @@
   },
   "hebrew": "הֵן",
   "verses": [
-    "genesis 19:29",
-    "genesis 30:26",
-    "exodus 25:29",
-    "exodus 37:16",
-    "leviticus 10:1",
-    "leviticus 11:21",
-    "numbers 16:7",
-    "jeremiah 4:29",
-    "jeremiah 48:9",
-    "jeremiah 51:43",
-    "ezekiel 16:47",
-    "ezekiel 16:52",
-    "ezekiel 18:14"
+    "genesis 19:29:20",
+    "genesis 30:26:8",
+    "exodus 25:29:7",
+    "exodus 37:16:16",
+    "leviticus 10:1:8",
+    "leviticus 11:21:17",
+    "numbers 16:7:1",
+    "jeremiah 4:29:16",
+    "jeremiah 48:9:11",
+    "jeremiah 51:43:14",
+    "ezekiel 16:47:9",
+    "ezekiel 16:52:10",
+    "ezekiel 18:14:13"
   ]
 }

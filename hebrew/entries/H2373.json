@@ -37,17 +37,18 @@
   },
   "hebrew": "חָזֶה",
   "verses": [
-    "exodus 29:26",
-    "exodus 29:27",
-    "leviticus 7:30",
-    "leviticus 7:31",
-    "leviticus 7:34",
-    "leviticus 8:29",
-    "leviticus 9:20",
-    "leviticus 9:21",
-    "leviticus 10:14",
-    "leviticus 10:15",
-    "numbers 6:20",
-    "numbers 18:18"
+    "exodus 29:26:2",
+    "exodus 29:27:2",
+    "leviticus 7:30:8",
+    "leviticus 7:30:11",
+    "leviticus 7:31:6",
+    "leviticus 7:34:2",
+    "leviticus 8:29:3",
+    "leviticus 9:20:4",
+    "leviticus 9:21:1",
+    "leviticus 10:14:1",
+    "leviticus 10:15:2",
+    "numbers 6:20:10",
+    "numbers 18:18:3"
   ]
 }

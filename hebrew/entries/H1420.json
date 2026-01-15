@@ -37,16 +37,18 @@
   },
   "hebrew": "גְּדוּלָה",
   "verses": [
-    "secondSamuel 7:21",
-    "secondSamuel 7:23",
-    "firstChronicles 17:19",
-    "firstChronicles 17:21",
-    "firstChronicles 29:11",
-    "esther 1:4",
-    "esther 6:3",
-    "esther 10:2",
-    "psalms 71:21",
-    "psalms 145:3",
-    "psalms 145:6"
+    "secondSamuel 7:21:6",
+    "secondSamuel 7:23:17",
+    "firstChronicles 17:19:7",
+    "firstChronicles 17:19:12",
+    "firstChronicles 17:21:15",
+    "firstChronicles 29:11:2",
+    "esther 1:4:8",
+    "esther 6:3:5",
+    "esther 10:2:5",
+    "psalms 71:21:1",
+    "psalms 145:3:4",
+    "psalms 145:6:3",
+    "psalms 145:6:4"
   ]
 }

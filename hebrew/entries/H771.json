@@ -37,15 +37,17 @@
   },
   "hebrew": "אׇרְנָן",
   "verses": [
-    "firstChronicles 21:15",
-    "firstChronicles 21:18",
-    "firstChronicles 21:20",
-    "firstChronicles 21:21",
-    "firstChronicles 21:22",
-    "firstChronicles 21:23",
-    "firstChronicles 21:24",
-    "firstChronicles 21:25",
-    "firstChronicles 21:28",
-    "secondChronicles 3:1"
+    "firstChronicles 21:15:23",
+    "firstChronicles 21:18:14",
+    "firstChronicles 21:20:1",
+    "firstChronicles 21:20:9",
+    "firstChronicles 21:21:3",
+    "firstChronicles 21:21:5",
+    "firstChronicles 21:22:3",
+    "firstChronicles 21:23:1",
+    "firstChronicles 21:24:3",
+    "firstChronicles 21:25:2",
+    "firstChronicles 21:28:8",
+    "secondChronicles 3:1:18"
   ]
 }

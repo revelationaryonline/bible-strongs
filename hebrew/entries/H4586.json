@@ -7,10 +7,12 @@
   "kjvTranslation": "Mehunim(-s), Meunim.",
   "hebrew": "מְעוּנִי",
   "verses": [
-    "firstChronicles 4:41",
-    "secondChronicles 26:7",
-    "ezra 2:50",
-    "nehemiah 7:52"
+    "firstChronicles 4:41:12",
+    "firstChronicles 4:41:13",
+    "secondChronicles 26:7:10",
+    "ezra 2:50:3",
+    "ezra 2:50:4",
+    "nehemiah 7:52:3"
   ],
   "translations": {
     "bg": "меунит или жител на Маон (само в множествено число)",

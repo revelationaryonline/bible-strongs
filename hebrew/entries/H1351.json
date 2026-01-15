@@ -37,14 +37,16 @@
   },
   "hebrew": "גָּאַל",
   "verses": [
-    "ezra 2:62",
-    "nehemiah 7:64",
-    "isaiah 59:3",
-    "isaiah 63:3",
-    "lamentations 4:14",
-    "daniel 1:8",
-    "zephaniah 3:1",
-    "malachi 1:7",
-    "malachi 1:12"
+    "ezra 2:62:6",
+    "nehemiah 7:64:6",
+    "isaiah 59:3:2",
+    "isaiah 63:3:17",
+    "lamentations 4:14:3",
+    "daniel 1:8:6",
+    "daniel 1:8:16",
+    "zephaniah 3:1:2",
+    "malachi 1:7:4",
+    "malachi 1:7:7",
+    "malachi 1:12:6"
   ]
 }

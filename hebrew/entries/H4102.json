@@ -37,14 +37,14 @@
     "zh": "正确地说，质疑或犹豫，即（暗示）不愿意"
   },
   "verses": [
-    "genesis 19:16",
-    "genesis 43:10",
-    "exodus 12:39",
-    "judges 3:26",
-    "judges 19:8",
-    "secondSamuel 15:28",
-    "psalms 119:60",
-    "isaiah 29:9",
-    "habakkuk 2:3"
+    "genesis 19:16:0",
+    "genesis 43:10:2",
+    "exodus 12:39:16",
+    "judges 3:26:3",
+    "judges 19:8:11",
+    "secondSamuel 15:28:2",
+    "psalms 119:60:2",
+    "isaiah 29:9:0",
+    "habakkuk 2:3:9"
   ]
 }

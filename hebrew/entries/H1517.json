@@ -37,11 +37,12 @@
   },
   "hebrew": "גִּיד",
   "verses": [
-    "genesis 32:33",
-    "job 10:11",
-    "job 40:17",
-    "isaiah 48:4",
-    "ezekiel 37:6",
-    "ezekiel 37:8"
+    "genesis 32:33:7",
+    "genesis 32:33:21",
+    "job 10:11:4",
+    "job 40:17:4",
+    "isaiah 48:4:4",
+    "ezekiel 37:6:2",
+    "ezekiel 37:8:3"
   ]
 }

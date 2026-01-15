@@ -37,13 +37,14 @@
   },
   "hebrew": "יְדִיד",
   "verses": [
-    "deuteronomy 33:12",
-    "psalms 45:1",
-    "psalms 60:7",
-    "psalms 84:2",
-    "psalms 108:7",
-    "psalms 127:2",
-    "isaiah 5:1",
-    "jeremiah 11:15"
+    "deuteronomy 33:12:2",
+    "psalms 45:1:7",
+    "psalms 60:7:2",
+    "psalms 84:2:1",
+    "psalms 108:7:2",
+    "psalms 127:2:11",
+    "isaiah 5:1:2",
+    "isaiah 5:1:8",
+    "jeremiah 11:15:1"
   ]
 }

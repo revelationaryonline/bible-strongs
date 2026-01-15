@@ -37,15 +37,16 @@
     "zh": "{呼唤（即正确地指名道姓，但用途广泛）}。"
   },
   "verses": [
-    "ezra 4:18",
-    "ezra 4:23",
-    "daniel 3:4",
-    "daniel 4:11",
-    "daniel 5:7",
-    "daniel 5:8",
-    "daniel 5:12",
-    "daniel 5:15",
-    "daniel 5:16",
-    "daniel 5:17"
+    "ezra 4:18:5",
+    "ezra 4:23:9",
+    "daniel 3:4:1",
+    "daniel 4:11:0",
+    "daniel 5:7:0",
+    "daniel 5:7:17",
+    "daniel 5:8:9",
+    "daniel 5:12:23",
+    "daniel 5:15:8",
+    "daniel 5:16:16",
+    "daniel 5:17:14"
   ]
 }

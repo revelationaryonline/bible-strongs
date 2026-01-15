@@ -37,14 +37,15 @@
   },
   "hebrew": "יוֹזָבָד",
   "verses": [
-    "firstChronicles 12:5",
-    "firstChronicles 12:21",
-    "secondChronicles 31:13",
-    "secondChronicles 35:9",
-    "ezra 8:33",
-    "ezra 10:22",
-    "ezra 10:23",
-    "nehemiah 8:7",
-    "nehemiah 11:16"
+    "firstChronicles 12:5:3",
+    "firstChronicles 12:21:7",
+    "firstChronicles 12:21:10",
+    "secondChronicles 31:13:5",
+    "secondChronicles 35:9:7",
+    "ezra 8:33:19",
+    "ezra 10:22:6",
+    "ezra 10:23:2",
+    "nehemiah 8:7:10",
+    "nehemiah 11:16:1"
   ]
 }

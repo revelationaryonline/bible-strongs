@@ -37,19 +37,20 @@
     "zh": "诛灭"
   },
   "verses": [
-    "secondSamuel 22:41",
-    "job 6:17",
-    "job 23:17",
-    "psalms 18:41",
-    "psalms 54:7",
-    "psalms 69:5",
-    "psalms 73:27",
-    "psalms 88:17",
-    "psalms 94:23",
-    "psalms 101:5",
-    "psalms 101:8",
-    "psalms 119:139",
-    "psalms 143:12",
-    "lamentations 3:53"
+    "secondSamuel 22:41:5",
+    "job 6:17:2",
+    "job 23:17:2",
+    "psalms 18:41:5",
+    "psalms 54:7:5",
+    "psalms 69:5:6",
+    "psalms 73:27:4",
+    "psalms 88:17:4",
+    "psalms 94:23:5",
+    "psalms 94:23:6",
+    "psalms 101:5:5",
+    "psalms 101:8:1",
+    "psalms 119:139:0",
+    "psalms 143:12:1",
+    "lamentations 3:53:0"
   ]
 }

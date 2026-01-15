@@ -37,17 +37,19 @@
   },
   "hebrew": "דְּבִיר",
   "verses": [
-    "joshua 10:3",
-    "joshua 10:38",
-    "joshua 10:39",
-    "joshua 11:21",
-    "joshua 12:13",
-    "joshua 13:26",
-    "joshua 15:7",
-    "joshua 15:15",
-    "joshua 15:49",
-    "joshua 21:15",
-    "judges 1:11",
-    "firstChronicles 6:43"
+    "joshua 10:3:18",
+    "joshua 10:38:5",
+    "joshua 10:39:23",
+    "joshua 11:21:12",
+    "joshua 12:13:1",
+    "joshua 13:26:8",
+    "joshua 15:7:2",
+    "joshua 15:15:4",
+    "joshua 15:15:6",
+    "joshua 15:49:4",
+    "joshua 21:15:5",
+    "judges 1:11:4",
+    "judges 1:11:6",
+    "firstChronicles 6:43:5"
   ]
 }

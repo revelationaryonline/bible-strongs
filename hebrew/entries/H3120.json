@@ -37,16 +37,16 @@
   },
   "hebrew": "יָוָן",
   "verses": [
-    "genesis 10:2",
-    "genesis 10:4",
-    "firstChronicles 1:5",
-    "firstChronicles 1:7",
-    "isaiah 66:19",
-    "ezekiel 27:13",
-    "ezekiel 27:19",
-    "daniel 8:21",
-    "daniel 10:20",
-    "daniel 11:2",
-    "zechariah 9:13"
+    "genesis 10:2:5",
+    "genesis 10:4:1",
+    "firstChronicles 1:5:5",
+    "firstChronicles 1:7:1",
+    "isaiah 66:19:14",
+    "ezekiel 27:13:0",
+    "ezekiel 27:19:1",
+    "daniel 8:21:3",
+    "daniel 10:20:15",
+    "daniel 11:2:21",
+    "zechariah 9:13:12"
   ]
 }

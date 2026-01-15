@@ -37,18 +37,18 @@
     "zh": "尼波，巴比伦神的名字，也是摩押的一座山和巴勒斯坦一个地方的名字"
   },
   "verses": [
-    "numbers 32:3",
-    "numbers 32:38",
-    "numbers 33:47",
-    "deuteronomy 32:49",
-    "deuteronomy 34:1",
-    "firstChronicles 5:8",
-    "ezra 2:29",
-    "ezra 10:43",
-    "nehemiah 7:33",
-    "isaiah 15:2",
-    "isaiah 46:1",
-    "jeremiah 48:1",
-    "jeremiah 48:22"
+    "numbers 32:3:7",
+    "numbers 32:38:1",
+    "numbers 33:47:7",
+    "deuteronomy 32:49:6",
+    "deuteronomy 34:1:6",
+    "firstChronicles 5:8:11",
+    "ezra 2:29:1",
+    "ezra 10:43:1",
+    "nehemiah 7:33:1",
+    "isaiah 15:2:6",
+    "isaiah 46:1:3",
+    "jeremiah 48:1:9",
+    "jeremiah 48:22:3"
   ]
 }

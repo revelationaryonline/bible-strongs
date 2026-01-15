@@ -37,19 +37,19 @@
     "zh": "否则"
   },
   "verses": [
-    "genesis 31:42",
-    "genesis 43:10",
-    "deuteronomy 32:27",
-    "judges 14:18",
-    "firstSamuel 25:34",
-    "secondSamuel 2:27",
-    "secondKings 3:14",
-    "psalms 27:13",
-    "psalms 94:17",
-    "psalms 106:23",
-    "psalms 119:92",
-    "psalms 124:1",
-    "psalms 124:2",
-    "isaiah 1:9"
+    "genesis 31:42:0",
+    "genesis 43:10:1",
+    "deuteronomy 32:27:0",
+    "judges 14:18:17",
+    "firstSamuel 25:34:10",
+    "secondSamuel 2:27:5",
+    "secondKings 3:14:9",
+    "psalms 27:13:0",
+    "psalms 94:17:0",
+    "psalms 106:23:2",
+    "psalms 119:92:0",
+    "psalms 124:1:3",
+    "psalms 124:2:0",
+    "isaiah 1:9:0"
   ]
 }

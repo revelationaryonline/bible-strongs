@@ -37,11 +37,12 @@
   },
   "hebrew": "דּוּד",
   "verses": [
-    "firstSamuel 2:14",
-    "secondKings 10:7",
-    "secondChronicles 35:13",
-    "job 41:12",
-    "psalms 81:7",
-    "jeremiah 24:2"
+    "firstSamuel 2:14:3",
+    "secondKings 10:7:14",
+    "secondChronicles 35:13:7",
+    "job 41:12:3",
+    "psalms 81:7:4",
+    "jeremiah 24:2:0",
+    "jeremiah 24:2:7"
   ]
 }

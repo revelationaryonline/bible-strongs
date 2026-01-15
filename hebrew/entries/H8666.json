@@ -37,13 +37,13 @@
     "zh": "重现；回复"
   },
   "verses": [
-    "firstSamuel 7:17",
-    "secondSamuel 11:1",
-    "firstKings 20:22",
-    "firstKings 20:26",
-    "firstChronicles 20:1",
-    "secondChronicles 36:10",
-    "job 21:34",
-    "job 34:36"
+    "firstSamuel 7:17:0",
+    "secondSamuel 11:1:1",
+    "firstKings 20:22:15",
+    "firstKings 20:26:1",
+    "firstChronicles 20:1:2",
+    "secondChronicles 36:10:0",
+    "job 21:34:3",
+    "job 34:36:6"
   ]
 }

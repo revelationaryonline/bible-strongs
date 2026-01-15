@@ -37,15 +37,16 @@
   },
   "hebrew": "גִּיל",
   "verses": [
-    "job 3:22",
-    "psalms 43:4",
-    "psalms 45:16",
-    "psalms 65:13",
-    "proverbs 23:24",
-    "isaiah 16:10",
-    "jeremiah 48:33",
-    "daniel 1:10",
-    "hosea 9:1",
-    "joel 1:16"
+    "job 3:22:2",
+    "psalms 43:4:7",
+    "psalms 45:16:2",
+    "psalms 65:13:3",
+    "proverbs 23:24:0",
+    "proverbs 23:24:1",
+    "isaiah 16:10:2",
+    "jeremiah 48:33:2",
+    "daniel 1:10:24",
+    "hosea 9:1:4",
+    "joel 1:16:8"
   ]
 }

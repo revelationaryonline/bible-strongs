@@ -37,20 +37,22 @@
     "zh": "幻影，即（比喻）幻觉、相似；因此，代表人物，尤其是偶像"
   },
   "verses": [
-    "genesis 1:26",
-    "genesis 1:27",
-    "genesis 5:3",
-    "genesis 9:6",
-    "numbers 33:52",
-    "firstSamuel 6:5",
-    "firstSamuel 6:11",
-    "secondKings 11:18",
-    "secondChronicles 23:17",
-    "psalms 39:7",
-    "psalms 73:20",
-    "ezekiel 7:20",
-    "ezekiel 16:17",
-    "ezekiel 23:14",
-    "amos 5:26"
+    "genesis 1:26:4",
+    "genesis 1:27:4",
+    "genesis 1:27:5",
+    "genesis 5:3:7",
+    "genesis 9:6:7",
+    "numbers 33:52:12",
+    "firstSamuel 6:5:1",
+    "firstSamuel 6:5:4",
+    "firstSamuel 6:11:12",
+    "secondKings 11:18:11",
+    "secondChronicles 23:17:9",
+    "psalms 39:7:1",
+    "psalms 73:20:4",
+    "ezekiel 7:20:4",
+    "ezekiel 16:17:10",
+    "ezekiel 23:14:8",
+    "amos 5:26:6"
   ]
 }

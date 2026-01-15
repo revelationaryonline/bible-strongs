@@ -37,10 +37,10 @@
     "zh": "释梦"
   },
   "verses": [
-    "genesis 40:5",
-    "genesis 40:8",
-    "genesis 40:12",
-    "genesis 40:18",
-    "genesis 41:11"
+    "genesis 40:5:8",
+    "genesis 40:8:12",
+    "genesis 40:12:4",
+    "genesis 40:18:4",
+    "genesis 41:11:7"
   ]
 }

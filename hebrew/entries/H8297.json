@@ -37,18 +37,22 @@
     "zh": "亚伯拉罕的妻子撒莱"
   },
   "verses": [
-    "genesis 11:29",
-    "genesis 11:30",
-    "genesis 11:31",
-    "genesis 12:5",
-    "genesis 12:11",
-    "genesis 12:17",
-    "genesis 16:1",
-    "genesis 16:2",
-    "genesis 16:3",
-    "genesis 16:5",
-    "genesis 16:6",
-    "genesis 16:8",
-    "genesis 17:15"
+    "genesis 11:29:8",
+    "genesis 11:30:1",
+    "genesis 11:31:12",
+    "genesis 12:5:3",
+    "genesis 12:11:7",
+    "genesis 12:17:10",
+    "genesis 16:1:0",
+    "genesis 16:2:1",
+    "genesis 16:2:19",
+    "genesis 16:3:1",
+    "genesis 16:5:1",
+    "genesis 16:6:3",
+    "genesis 16:6:12",
+    "genesis 16:8:3",
+    "genesis 16:8:11",
+    "genesis 17:15:4",
+    "genesis 17:15:10"
   ]
 }

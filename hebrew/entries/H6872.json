@@ -37,14 +37,15 @@
     "zh": "包子"
   },
   "verses": [
-    "genesis 42:35",
-    "firstSamuel 9:1",
-    "firstSamuel 25:29",
-    "secondSamuel 17:13",
-    "job 14:17",
-    "proverbs 7:20",
-    "solomon 1:13",
-    "amos 9:9",
-    "haggai 1:6"
+    "genesis 42:35:6",
+    "genesis 42:35:11",
+    "firstSamuel 9:1:10",
+    "firstSamuel 25:29:10",
+    "secondSamuel 17:13:21",
+    "job 14:17:1",
+    "proverbs 7:20:0",
+    "solomon 1:13:0",
+    "amos 9:9:15",
+    "haggai 1:6:17"
   ]
 }

@@ -37,15 +37,16 @@
     "zh": "无数"
   },
   "verses": [
-    "firstChronicles 29:7",
-    "ezra 2:64",
-    "ezra 2:69",
-    "nehemiah 7:66",
-    "nehemiah 7:70",
-    "nehemiah 7:71",
-    "psalms 68:18",
-    "daniel 11:12",
-    "hosea 8:12",
-    "jonah 4:11"
+    "firstChronicles 29:7:9",
+    "firstChronicles 29:7:15",
+    "ezra 2:64:4",
+    "ezra 2:69:7",
+    "nehemiah 7:66:4",
+    "nehemiah 7:70:8",
+    "nehemiah 7:71:7",
+    "psalms 68:18:2",
+    "daniel 11:12:6",
+    "hosea 8:12:3",
+    "jonah 4:11:13"
   ]
 }

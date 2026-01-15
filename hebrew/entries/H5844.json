@@ -37,20 +37,22 @@
     "zh": "裹，即盖、纱、布或卷"
   },
   "verses": [
-    "leviticus 13:45",
-    "firstSamuel 28:14",
-    "psalms 71:13",
-    "psalms 84:7",
-    "psalms 89:46",
-    "psalms 104:2",
-    "psalms 109:19",
-    "psalms 109:29",
-    "solomon 1:7",
-    "isaiah 22:17",
-    "isaiah 59:17",
-    "jeremiah 43:12",
-    "ezekiel 24:17",
-    "ezekiel 24:22",
-    "micah 3:7"
+    "leviticus 13:45:12",
+    "firstSamuel 28:14:9",
+    "psalms 71:13:4",
+    "psalms 84:7:7",
+    "psalms 89:46:3",
+    "psalms 104:2:0",
+    "psalms 109:19:3",
+    "psalms 109:29:3",
+    "solomon 1:7:11",
+    "isaiah 22:17:5",
+    "isaiah 22:17:6",
+    "isaiah 59:17:10",
+    "jeremiah 43:12:7",
+    "jeremiah 43:12:12",
+    "ezekiel 24:17:13",
+    "ezekiel 24:22:6",
+    "micah 3:7:4"
   ]
 }

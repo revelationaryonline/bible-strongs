@@ -37,14 +37,14 @@
   },
   "hebrew": "הָלַם",
   "verses": [
-    "judges 5:22",
-    "judges 5:26",
-    "firstSamuel 14:16",
-    "psalms 74:6",
-    "psalms 141:5",
-    "proverbs 23:35",
-    "isaiah 16:8",
-    "isaiah 28:1",
-    "isaiah 41:7"
+    "judges 5:22:1",
+    "judges 5:26:6",
+    "firstSamuel 14:16:9",
+    "psalms 74:6:6",
+    "psalms 141:5:0",
+    "proverbs 23:35:3",
+    "isaiah 16:8:8",
+    "isaiah 28:1:14",
+    "isaiah 41:7:7"
   ]
 }

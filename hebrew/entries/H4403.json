@@ -37,12 +37,13 @@
     "zh": "服装"
   },
   "verses": [
-    "firstKings 10:5",
-    "secondKings 10:22",
-    "secondChronicles 9:4",
-    "job 27:16",
-    "isaiah 63:3",
-    "ezekiel 16:13",
-    "zephaniah 1:8"
+    "firstKings 10:5:7",
+    "secondKings 10:22:11",
+    "secondChronicles 9:4:6",
+    "secondChronicles 9:4:8",
+    "job 27:16:6",
+    "isaiah 63:3:16",
+    "ezekiel 16:13:3",
+    "zephaniah 1:8:13"
   ]
 }

@@ -37,16 +37,16 @@
   },
   "hebrew": "בֶּרֶכְיָה",
   "verses": [
-    "firstChronicles 3:20",
-    "firstChronicles 6:24",
-    "firstChronicles 9:16",
-    "firstChronicles 15:17",
-    "firstChronicles 15:23",
-    "secondChronicles 28:12",
-    "nehemiah 3:4",
-    "nehemiah 3:30",
-    "nehemiah 6:18",
-    "zechariah 1:1",
-    "zechariah 1:7"
+    "firstChronicles 3:20:2",
+    "firstChronicles 6:24:7",
+    "firstChronicles 9:16:7",
+    "firstChronicles 15:17:10",
+    "firstChronicles 15:23:0",
+    "secondChronicles 28:12:8",
+    "nehemiah 3:4:13",
+    "nehemiah 3:30:16",
+    "nehemiah 6:18:19",
+    "zechariah 1:1:11",
+    "zechariah 1:7:18"
   ]
 }

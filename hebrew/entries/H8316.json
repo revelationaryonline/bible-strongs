@@ -37,17 +37,18 @@
     "zh": "火化"
   },
   "verses": [
-    "genesis 11:3",
-    "leviticus 10:6",
-    "numbers 17:2",
-    "numbers 19:6",
-    "numbers 19:17",
-    "deuteronomy 29:22",
-    "secondChronicles 16:14",
-    "secondChronicles 21:19",
-    "isaiah 9:4",
-    "isaiah 64:10",
-    "jeremiah 51:25",
-    "amos 4:11"
+    "genesis 11:3:8",
+    "leviticus 10:6:25",
+    "numbers 17:2:10",
+    "numbers 19:6:10",
+    "numbers 19:17:3",
+    "deuteronomy 29:22:2",
+    "secondChronicles 16:14:18",
+    "secondChronicles 21:19:19",
+    "secondChronicles 21:19:20",
+    "isaiah 9:4:9",
+    "isaiah 64:10:7",
+    "jeremiah 51:25:19",
+    "amos 4:11:11"
   ]
 }

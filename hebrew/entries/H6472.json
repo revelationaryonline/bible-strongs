@@ -37,9 +37,12 @@
     "zh": "钟"
   },
   "verses": [
-    "exodus 28:33",
-    "exodus 28:34",
-    "exodus 39:25",
-    "exodus 39:26"
+    "exodus 28:33:11",
+    "exodus 28:34:0",
+    "exodus 28:34:3",
+    "exodus 39:25:1",
+    "exodus 39:25:6",
+    "exodus 39:26:0",
+    "exodus 39:26:2"
   ]
 }

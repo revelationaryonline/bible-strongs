@@ -37,16 +37,18 @@
   },
   "hebrew": "גַב",
   "verses": [
-    "leviticus 14:9",
-    "firstKings 7:33",
-    "job 13:12",
-    "job 15:26",
-    "psalms 129:3",
-    "ezekiel 1:18",
-    "ezekiel 10:12",
-    "ezekiel 16:24",
-    "ezekiel 16:31",
-    "ezekiel 16:39",
-    "ezekiel 43:13"
+    "leviticus 14:9:12",
+    "firstKings 7:33:6",
+    "job 13:12:3",
+    "job 13:12:5",
+    "job 15:26:4",
+    "psalms 129:3:1",
+    "ezekiel 1:18:0",
+    "ezekiel 1:18:5",
+    "ezekiel 10:12:2",
+    "ezekiel 16:24:2",
+    "ezekiel 16:31:1",
+    "ezekiel 16:39:4",
+    "ezekiel 43:13:18"
   ]
 }

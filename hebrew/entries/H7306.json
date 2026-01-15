@@ -37,16 +37,16 @@
     "zh": "吹，即呼吸；只是（字面意思）嗅到或（暗含意思）感知（比喻期待、享受"
   },
   "verses": [
-    "genesis 8:21",
-    "genesis 27:27",
-    "exodus 30:38",
-    "leviticus 26:31",
-    "deuteronomy 4:28",
-    "judges 16:9",
-    "firstSamuel 26:19",
-    "job 39:25",
-    "psalms 115:6",
-    "isaiah 11:3",
-    "amos 5:21"
+    "genesis 8:21:0",
+    "genesis 27:27:3",
+    "exodus 30:38:4",
+    "leviticus 26:31:8",
+    "deuteronomy 4:28:16",
+    "judges 16:9:16",
+    "firstSamuel 26:19:12",
+    "job 39:25:5",
+    "psalms 115:6:7",
+    "isaiah 11:3:0",
+    "amos 5:21:4"
   ]
 }

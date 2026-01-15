@@ -37,16 +37,16 @@
   },
   "hebrew": "חֲנָנִי",
   "verses": [
-    "firstKings 16:1",
-    "firstKings 16:7",
-    "firstChronicles 25:4",
-    "firstChronicles 25:25",
-    "secondChronicles 16:7",
-    "secondChronicles 19:2",
-    "secondChronicles 20:34",
-    "ezra 10:20",
-    "nehemiah 1:2",
-    "nehemiah 7:2",
-    "nehemiah 12:36"
+    "firstKings 16:1:6",
+    "firstKings 16:7:4",
+    "firstChronicles 25:4:9",
+    "firstChronicles 25:25:2",
+    "secondChronicles 16:7:3",
+    "secondChronicles 19:2:5",
+    "secondChronicles 20:34:10",
+    "ezra 10:20:2",
+    "nehemiah 1:2:1",
+    "nehemiah 7:2:2",
+    "nehemiah 12:36:8"
   ]
 }

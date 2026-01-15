@@ -37,19 +37,19 @@
   },
   "hebrew": "בָּר",
   "verses": [
-    "genesis 41:35",
-    "genesis 41:49",
-    "genesis 42:3",
-    "genesis 42:25",
-    "genesis 45:23",
-    "job 39:4",
-    "psalms 65:14",
-    "psalms 72:16",
-    "proverbs 11:26",
-    "jeremiah 23:28",
-    "joel 2:24",
-    "amos 5:11",
-    "amos 8:5",
-    "amos 8:6"
+    "genesis 41:35:9",
+    "genesis 41:49:2",
+    "genesis 42:3:5",
+    "genesis 42:25:5",
+    "genesis 45:23:11",
+    "job 39:4:3",
+    "psalms 65:14:5",
+    "psalms 72:16:2",
+    "proverbs 11:26:1",
+    "jeremiah 23:28:15",
+    "joel 2:24:2",
+    "amos 5:11:6",
+    "amos 8:5:8",
+    "amos 8:6:7"
   ]
 }

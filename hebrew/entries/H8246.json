@@ -37,9 +37,11 @@
     "zh": "杏仁状"
   },
   "verses": [
-    "exodus 25:33",
-    "exodus 25:34",
-    "exodus 37:19",
-    "exodus 37:20"
+    "exodus 25:33:2",
+    "exodus 25:33:9",
+    "exodus 25:34:3",
+    "exodus 37:19:2",
+    "exodus 37:19:9",
+    "exodus 37:20:3"
   ]
 }

@@ -37,16 +37,16 @@
   },
   "hebrew": "דִּיבוֹן",
   "verses": [
-    "numbers 21:30",
-    "numbers 32:3",
-    "numbers 32:34",
-    "numbers 33:45",
-    "numbers 33:46",
-    "joshua 13:9",
-    "joshua 13:17",
-    "nehemiah 11:25",
-    "isaiah 15:2",
-    "jeremiah 48:18",
-    "jeremiah 48:22"
+    "numbers 21:30:4",
+    "numbers 32:3:1",
+    "numbers 32:34:4",
+    "numbers 33:45:3",
+    "numbers 33:46:1",
+    "joshua 13:9:14",
+    "joshua 13:17:5",
+    "nehemiah 11:25:9",
+    "isaiah 15:2:2",
+    "jeremiah 48:18:7",
+    "jeremiah 48:22:1"
   ]
 }

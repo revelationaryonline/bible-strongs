@@ -37,17 +37,18 @@
   },
   "hebrew": "אוֹפִיר",
   "verses": [
-    "genesis 10:29",
-    "firstKings 9:28",
-    "firstKings 10:11",
-    "firstKings 22:49",
-    "firstChronicles 1:23",
-    "firstChronicles 29:4",
-    "secondChronicles 8:18",
-    "secondChronicles 9:10",
-    "job 22:24",
-    "job 28:16",
-    "psalms 45:10",
-    "isaiah 13:12"
+    "genesis 10:29:1",
+    "firstKings 9:28:1",
+    "firstKings 10:11:6",
+    "firstKings 10:11:8",
+    "firstKings 22:49:6",
+    "firstChronicles 1:23:1",
+    "firstChronicles 29:4:5",
+    "secondChronicles 8:18:14",
+    "secondChronicles 9:10:9",
+    "job 22:24:6",
+    "job 28:16:3",
+    "psalms 45:10:7",
+    "isaiah 13:12:5"
   ]
 }

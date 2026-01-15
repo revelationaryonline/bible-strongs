@@ -37,18 +37,19 @@
   },
   "hebrew": "אֱלִיעֶזֶר",
   "verses": [
-    "genesis 15:2",
-    "exodus 18:4",
-    "firstChronicles 7:8",
-    "firstChronicles 15:24",
-    "firstChronicles 23:15",
-    "firstChronicles 23:17",
-    "firstChronicles 26:25",
-    "firstChronicles 27:16",
-    "secondChronicles 20:37",
-    "ezra 8:16",
-    "ezra 10:18",
-    "ezra 10:23",
-    "ezra 10:31"
+    "genesis 15:2:15",
+    "exodus 18:4:2",
+    "firstChronicles 7:8:4",
+    "firstChronicles 15:24:6",
+    "firstChronicles 23:15:3",
+    "firstChronicles 23:17:2",
+    "firstChronicles 23:17:7",
+    "firstChronicles 26:25:1",
+    "firstChronicles 27:16:5",
+    "secondChronicles 20:37:1",
+    "ezra 8:16:1",
+    "ezra 10:18:13",
+    "ezra 10:23:9",
+    "ezra 10:31:2"
   ]
 }

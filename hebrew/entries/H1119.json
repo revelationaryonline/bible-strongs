@@ -37,15 +37,16 @@
   },
   "hebrew": "בְּמוֹ",
   "verses": [
-    "job 9:30",
-    "job 16:4",
-    "job 16:5",
-    "job 19:16",
-    "job 37:8",
-    "psalms 11:2",
-    "isaiah 25:10",
-    "isaiah 43:2",
-    "isaiah 44:16",
-    "isaiah 44:19"
+    "job 9:30:2",
+    "job 16:4:14",
+    "job 16:5:1",
+    "job 19:16:4",
+    "job 37:8:2",
+    "psalms 11:2:10",
+    "isaiah 25:10:11",
+    "isaiah 25:10:12",
+    "isaiah 43:2:10",
+    "isaiah 44:16:2",
+    "isaiah 44:19:11"
   ]
 }

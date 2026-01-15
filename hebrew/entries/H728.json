@@ -37,12 +37,16 @@
   },
   "hebrew": "אֲרַוְנָה",
   "verses": [
-    "secondSamuel 24:16",
-    "secondSamuel 24:18",
-    "secondSamuel 24:20",
-    "secondSamuel 24:21",
-    "secondSamuel 24:22",
-    "secondSamuel 24:23",
-    "secondSamuel 24:24"
+    "secondSamuel 24:16:22",
+    "secondSamuel 24:16:23",
+    "secondSamuel 24:18:13",
+    "secondSamuel 24:18:14",
+    "secondSamuel 24:20:1",
+    "secondSamuel 24:20:10",
+    "secondSamuel 24:21:1",
+    "secondSamuel 24:22:1",
+    "secondSamuel 24:23:2",
+    "secondSamuel 24:23:6",
+    "secondSamuel 24:24:3"
   ]
 }

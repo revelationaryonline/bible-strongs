@@ -37,15 +37,17 @@
     "zh": "{一个称谓，作为个性的标志或纪念；暗指荣誉、权威、品格}。"
   },
   "verses": [
-    "ezra 5:1",
-    "ezra 5:4",
-    "ezra 5:10",
-    "ezra 5:14",
-    "ezra 6:12",
-    "daniel 2:20",
-    "daniel 2:26",
-    "daniel 4:5",
-    "daniel 4:16",
-    "daniel 5:12"
+    "ezra 5:1:14",
+    "ezra 5:4:6",
+    "ezra 5:10:1",
+    "ezra 5:10:7",
+    "ezra 5:14:30",
+    "ezra 6:12:3",
+    "daniel 2:20:4",
+    "daniel 2:26:5",
+    "daniel 4:5:6",
+    "daniel 4:5:8",
+    "daniel 4:16:3",
+    "daniel 5:12:19"
   ]
 }

@@ -37,11 +37,13 @@
   },
   "hebrew": "טָלָא",
   "verses": [
-    "genesis 30:32",
-    "genesis 30:33",
-    "genesis 30:35",
-    "genesis 30:39",
-    "joshua 9:5",
-    "ezekiel 16:16"
+    "genesis 30:32:9",
+    "genesis 30:32:14",
+    "genesis 30:33:14",
+    "genesis 30:35:6",
+    "genesis 30:35:11",
+    "genesis 30:39:8",
+    "joshua 9:5:2",
+    "ezekiel 16:16:5"
   ]
 }

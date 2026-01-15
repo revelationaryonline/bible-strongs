@@ -37,13 +37,15 @@
     "zh": "便以利或便尼窑，约旦河东的一个地方；也是（便以利）两个以色列人的名字"
   },
   "verses": [
-    "genesis 32:31",
-    "genesis 32:32",
-    "judges 8:8",
-    "judges 8:9",
-    "judges 8:17",
-    "firstKings 12:25",
-    "firstChronicles 4:4",
-    "firstChronicles 8:25"
+    "genesis 32:31:4",
+    "genesis 32:32:6",
+    "judges 8:8:2",
+    "judges 8:8:9",
+    "judges 8:9:3",
+    "judges 8:17:2",
+    "firstKings 12:25:12",
+    "firstChronicles 4:4:0",
+    "firstChronicles 8:25:1",
+    "firstChronicles 8:25:2"
   ]
 }

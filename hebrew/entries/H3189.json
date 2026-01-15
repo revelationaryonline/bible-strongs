@@ -37,12 +37,13 @@
   },
   "hebrew": "יַחַת",
   "verses": [
-    "firstChronicles 4:2",
-    "firstChronicles 6:5",
-    "firstChronicles 6:28",
-    "firstChronicles 23:10",
-    "firstChronicles 23:11",
-    "firstChronicles 24:22",
-    "secondChronicles 34:12"
+    "firstChronicles 4:2:5",
+    "firstChronicles 4:2:6",
+    "firstChronicles 6:5:3",
+    "firstChronicles 6:28:1",
+    "firstChronicles 23:10:2",
+    "firstChronicles 23:11:1",
+    "firstChronicles 24:22:4",
+    "secondChronicles 34:12:6"
   ]
 }

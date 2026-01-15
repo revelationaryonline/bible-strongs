@@ -37,20 +37,22 @@
     "zh": "花萼（天然或人工）；一般指花朵"
   },
   "verses": [
-    "exodus 25:31",
-    "exodus 25:33",
-    "exodus 25:34",
-    "exodus 37:17",
-    "exodus 37:19",
-    "exodus 37:20",
-    "numbers 8:4",
-    "numbers 17:23",
-    "firstKings 7:26",
-    "firstKings 7:49",
-    "secondChronicles 4:5",
-    "secondChronicles 4:21",
-    "isaiah 5:24",
-    "isaiah 18:5",
-    "nahum 1:4"
+    "exodus 25:31:11",
+    "exodus 25:33:6",
+    "exodus 25:33:13",
+    "exodus 25:34:5",
+    "exodus 37:17:13",
+    "exodus 37:19:6",
+    "exodus 37:19:13",
+    "exodus 37:20:5",
+    "numbers 8:4:8",
+    "numbers 17:23:14",
+    "firstKings 7:26:6",
+    "firstKings 7:49:10",
+    "secondChronicles 4:5:6",
+    "secondChronicles 4:21:0",
+    "isaiah 5:24:11",
+    "isaiah 18:5:4",
+    "nahum 1:4:9"
   ]
 }

@@ -37,17 +37,21 @@
     "zh": "掳掠"
   },
   "verses": [
-    "ruth 2:16",
-    "psalms 76:6",
-    "isaiah 10:6",
-    "isaiah 59:15",
-    "jeremiah 50:10",
-    "ezekiel 26:12",
-    "ezekiel 29:19",
-    "ezekiel 38:12",
-    "ezekiel 38:13",
-    "ezekiel 39:10",
-    "habakkuk 2:8",
-    "zechariah 2:12"
+    "ruth 2:16:1",
+    "ruth 2:16:2",
+    "psalms 76:6:0",
+    "isaiah 10:6:7",
+    "isaiah 59:15:5",
+    "jeremiah 50:10:4",
+    "ezekiel 26:12:0",
+    "ezekiel 29:19:15",
+    "ezekiel 38:12:0",
+    "ezekiel 38:13:8",
+    "ezekiel 38:13:22",
+    "ezekiel 39:10:13",
+    "ezekiel 39:10:15",
+    "habakkuk 2:8:2",
+    "habakkuk 2:8:5",
+    "zechariah 2:12:10"
   ]
 }

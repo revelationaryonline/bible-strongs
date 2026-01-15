@@ -37,16 +37,17 @@
     "zh": "警觉，即不眠不休；因此要警惕（无论好坏）"
   },
   "verses": [
-    "ezra 8:29",
-    "job 21:32",
-    "psalms 102:8",
-    "psalms 127:1",
-    "proverbs 8:34",
-    "isaiah 29:20",
-    "jeremiah 1:12",
-    "jeremiah 5:6",
-    "jeremiah 31:28",
-    "jeremiah 44:27",
-    "daniel 9:14"
+    "ezra 8:29:0",
+    "job 21:32:5",
+    "psalms 102:8:0",
+    "psalms 127:1:18",
+    "proverbs 8:34:4",
+    "isaiah 29:20:7",
+    "jeremiah 1:12:6",
+    "jeremiah 5:6:9",
+    "jeremiah 31:28:2",
+    "jeremiah 31:28:10",
+    "jeremiah 44:27:1",
+    "daniel 9:14:0"
   ]
 }

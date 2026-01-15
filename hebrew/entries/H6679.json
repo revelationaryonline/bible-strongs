@@ -37,20 +37,23 @@
     "zh": "并肩（即等待）；暗指捕捉动物（比喻人）；（为旅行）提供食物"
   },
   "verses": [
-    "genesis 27:3",
-    "genesis 27:5",
-    "genesis 27:33",
-    "leviticus 17:13",
-    "joshua 9:12",
-    "job 10:16",
-    "job 38:39",
-    "psalms 140:12",
-    "proverbs 6:26",
-    "jeremiah 16:16",
-    "lamentations 3:52",
-    "lamentations 4:18",
-    "ezekiel 13:18",
-    "ezekiel 13:20",
-    "micah 7:2"
+    "genesis 27:3:8",
+    "genesis 27:5:10",
+    "genesis 27:33:10",
+    "leviticus 17:13:9",
+    "joshua 9:12:3",
+    "job 10:16:2",
+    "job 38:39:0",
+    "psalms 140:12:8",
+    "proverbs 6:26:11",
+    "jeremiah 16:16:13",
+    "lamentations 3:52:0",
+    "lamentations 3:52:1",
+    "lamentations 4:18:0",
+    "ezekiel 13:18:18",
+    "ezekiel 13:18:21",
+    "ezekiel 13:20:10",
+    "ezekiel 13:20:24",
+    "micah 7:2:13"
   ]
 }

@@ -37,21 +37,22 @@
     "zh": "适当的，材料，即（具体地说）垃圾haum或谷物秸秆（如在脱粒中切碎并用作饲料）"
   },
   "verses": [
-    "genesis 24:25",
-    "genesis 24:32",
-    "exodus 5:7",
-    "exodus 5:10",
-    "exodus 5:11",
-    "exodus 5:12",
-    "exodus 5:13",
-    "exodus 5:16",
-    "exodus 5:18",
-    "judges 19:19",
-    "firstKings 5:8",
-    "job 21:18",
-    "job 41:19",
-    "isaiah 11:7",
-    "isaiah 65:25",
-    "jeremiah 23:28"
+    "genesis 24:25:3",
+    "genesis 24:32:6",
+    "exodus 5:7:3",
+    "exodus 5:7:13",
+    "exodus 5:10:14",
+    "exodus 5:11:4",
+    "exodus 5:12:7",
+    "exodus 5:13:10",
+    "exodus 5:16:0",
+    "exodus 5:18:3",
+    "judges 19:19:1",
+    "firstKings 5:8:1",
+    "job 21:18:1",
+    "job 41:19:1",
+    "isaiah 11:7:9",
+    "isaiah 65:25:7",
+    "jeremiah 23:28:13"
   ]
 }

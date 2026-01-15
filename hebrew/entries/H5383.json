@@ -37,17 +37,19 @@
     "zh": "担保或（通过互惠）借贷"
   },
   "verses": [
-    "exodus 22:24",
-    "deuteronomy 15:2",
-    "deuteronomy 24:10",
-    "deuteronomy 24:11",
-    "secondKings 4:1",
-    "nehemiah 5:7",
-    "nehemiah 5:10",
-    "nehemiah 5:11",
-    "psalms 109:11",
-    "isaiah 24:2",
-    "isaiah 50:1",
-    "jeremiah 15:10"
+    "exodus 22:24:11",
+    "deuteronomy 15:2:9",
+    "deuteronomy 24:10:1",
+    "deuteronomy 24:11:5",
+    "secondKings 4:1:20",
+    "nehemiah 5:7:14",
+    "nehemiah 5:7:15",
+    "nehemiah 5:10:4",
+    "nehemiah 5:11:15",
+    "psalms 109:11:1",
+    "isaiah 24:2:11",
+    "isaiah 50:1:12",
+    "jeremiah 15:10:12",
+    "jeremiah 15:10:14"
   ]
 }

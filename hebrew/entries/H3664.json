@@ -37,16 +37,16 @@
   },
   "hebrew": "כָּנַס",
   "verses": [
-    "firstChronicles 22:2",
-    "nehemiah 12:44",
-    "esther 4:16",
-    "psalms 33:7",
-    "psalms 147:2",
-    "ecclesiastes 2:8",
-    "ecclesiastes 2:26",
-    "ecclesiastes 3:5",
-    "isaiah 28:20",
-    "ezekiel 22:21",
-    "ezekiel 39:28"
+    "firstChronicles 22:2:2",
+    "nehemiah 12:44:10",
+    "esther 4:16:1",
+    "psalms 33:7:0",
+    "psalms 147:2:5",
+    "ecclesiastes 2:8:0",
+    "ecclesiastes 2:26:12",
+    "ecclesiastes 3:5:4",
+    "isaiah 28:20:6",
+    "ezekiel 22:21:0",
+    "ezekiel 39:28:9"
   ]
 }

@@ -37,15 +37,17 @@
   },
   "hebrew": "בַּרְזִלַּי",
   "verses": [
-    "secondSamuel 17:27",
-    "secondSamuel 19:32",
-    "secondSamuel 19:33",
-    "secondSamuel 19:34",
-    "secondSamuel 19:35",
-    "secondSamuel 19:40",
-    "secondSamuel 21:8",
-    "firstKings 2:7",
-    "ezra 2:61",
-    "nehemiah 7:63"
+    "secondSamuel 17:27:15",
+    "secondSamuel 19:32:0",
+    "secondSamuel 19:33:0",
+    "secondSamuel 19:34:3",
+    "secondSamuel 19:35:1",
+    "secondSamuel 19:40:9",
+    "secondSamuel 21:8:25",
+    "firstKings 2:7:1",
+    "ezra 2:61:7",
+    "ezra 2:61:11",
+    "nehemiah 7:63:7",
+    "nehemiah 7:63:11"
   ]
 }

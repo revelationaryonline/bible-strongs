@@ -37,18 +37,18 @@
     "zh": "正确地说，是推着走；（但仅用于比喻）划船，即（在海上划桨）划船；暗指旅行"
   },
   "verses": [
-    "numbers 11:8",
-    "secondSamuel 24:2",
-    "secondSamuel 24:8",
-    "secondChronicles 16:9",
-    "job 1:7",
-    "job 2:2",
-    "jeremiah 5:1",
-    "jeremiah 49:3",
-    "ezekiel 27:8",
-    "ezekiel 27:26",
-    "daniel 12:4",
-    "amos 8:12",
-    "zechariah 4:10"
+    "numbers 11:8:0",
+    "secondSamuel 24:2:8",
+    "secondSamuel 24:8:0",
+    "secondChronicles 16:9:3",
+    "job 1:7:11",
+    "job 2:2:12",
+    "jeremiah 5:1:0",
+    "jeremiah 49:3:11",
+    "ezekiel 27:8:4",
+    "ezekiel 27:26:3",
+    "daniel 12:4:9",
+    "amos 8:12:7",
+    "zechariah 4:10:17"
   ]
 }

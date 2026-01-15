@@ -37,17 +37,17 @@
   },
   "hebrew": "אֱדֹמִי",
   "verses": [
-    "deuteronomy 23:8",
-    "firstSamuel 21:8",
-    "firstSamuel 22:9",
-    "firstSamuel 22:18",
-    "firstSamuel 22:22",
-    "firstKings 11:1",
-    "firstKings 11:14",
-    "firstKings 11:17",
-    "secondKings 16:6",
-    "secondChronicles 25:14",
-    "secondChronicles 28:17",
-    "psalms 52:2"
+    "deuteronomy 23:8:2",
+    "firstSamuel 21:8:11",
+    "firstSamuel 22:9:2",
+    "firstSamuel 22:18:11",
+    "firstSamuel 22:22:10",
+    "firstKings 11:1:11",
+    "firstKings 11:14:6",
+    "firstKings 11:17:4",
+    "secondKings 16:6:14",
+    "secondChronicles 25:14:6",
+    "secondChronicles 28:17:1",
+    "psalms 52:2:2"
   ]
 }

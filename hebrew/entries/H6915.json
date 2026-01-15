@@ -37,20 +37,20 @@
     "zh": "萎缩，即收缩或弯曲身体（或颈部）以表示敬意"
   },
   "verses": [
-    "genesis 24:26",
-    "genesis 24:48",
-    "genesis 43:28",
-    "exodus 4:31",
-    "exodus 12:27",
-    "exodus 34:8",
-    "numbers 22:31",
-    "firstSamuel 24:9",
-    "firstSamuel 28:14",
-    "firstKings 1:16",
-    "firstKings 1:31",
-    "firstChronicles 29:20",
-    "secondChronicles 20:18",
-    "secondChronicles 29:30",
-    "nehemiah 8:6"
+    "genesis 24:26:0",
+    "genesis 24:48:0",
+    "genesis 43:28:6",
+    "exodus 4:31:13",
+    "exodus 12:27:18",
+    "exodus 34:8:2",
+    "numbers 22:31:14",
+    "firstSamuel 24:9:17",
+    "firstSamuel 28:14:16",
+    "firstKings 1:16:0",
+    "firstKings 1:31:0",
+    "firstChronicles 29:20:15",
+    "secondChronicles 20:18:0",
+    "secondChronicles 29:30:14",
+    "nehemiah 8:6:13"
   ]
 }

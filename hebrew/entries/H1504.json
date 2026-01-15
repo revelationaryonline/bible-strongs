@@ -37,18 +37,18 @@
   },
   "hebrew": "גָּזַר",
   "verses": [
-    "firstKings 3:25",
-    "firstKings 3:26",
-    "secondKings 6:4",
-    "secondChronicles 26:21",
-    "esther 2:1",
-    "job 22:28",
-    "psalms 88:6",
-    "psalms 136:13",
-    "isaiah 9:19",
-    "isaiah 53:8",
-    "lamentations 3:54",
-    "ezekiel 37:11",
-    "habakkuk 3:17"
+    "firstKings 3:25:2",
+    "firstKings 3:26:31",
+    "secondKings 6:4:4",
+    "secondChronicles 26:21:13",
+    "esther 2:1:15",
+    "job 22:28:0",
+    "psalms 88:6:12",
+    "psalms 136:13:0",
+    "isaiah 9:19:0",
+    "isaiah 53:8:8",
+    "lamentations 3:54:5",
+    "ezekiel 37:11:16",
+    "habakkuk 3:17:14"
   ]
 }

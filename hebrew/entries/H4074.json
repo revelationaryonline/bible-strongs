@@ -37,21 +37,21 @@
     "zh": "马代"
   },
   "verses": [
-    "genesis 10:2",
-    "secondKings 17:6",
-    "secondKings 18:11",
-    "firstChronicles 1:5",
-    "esther 1:3",
-    "esther 1:14",
-    "esther 1:18",
-    "esther 1:19",
-    "esther 10:2",
-    "isaiah 13:17",
-    "isaiah 21:2",
-    "jeremiah 25:25",
-    "jeremiah 51:11",
-    "jeremiah 51:28",
-    "daniel 8:20",
-    "daniel 9:1"
+    "genesis 10:2:4",
+    "secondKings 17:6:19",
+    "secondKings 18:11:12",
+    "firstChronicles 1:5:4",
+    "esther 1:3:10",
+    "esther 1:14:12",
+    "esther 1:18:5",
+    "esther 1:19:11",
+    "esther 10:2:18",
+    "isaiah 13:17:4",
+    "isaiah 21:2:11",
+    "jeremiah 25:25:11",
+    "jeremiah 51:11:9",
+    "jeremiah 51:28:5",
+    "daniel 8:20:6",
+    "daniel 9:1:6"
   ]
 }

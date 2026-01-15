@@ -37,18 +37,23 @@
     "zh": "平衡，即（按重量或尺寸）量出；形象地说，通过 \"平整 \"的概念（估计、测试）来安排、均衡"
   },
   "verses": [
-    "firstSamuel 2:3",
-    "secondKings 12:12",
-    "job 28:25",
-    "psalms 75:4",
-    "proverbs 16:2",
-    "proverbs 21:2",
-    "proverbs 24:12",
-    "isaiah 40:12",
-    "isaiah 40:13",
-    "ezekiel 18:25",
-    "ezekiel 18:29",
-    "ezekiel 33:17",
-    "ezekiel 33:20"
+    "firstSamuel 2:3:14",
+    "secondKings 12:12:3",
+    "job 28:25:4",
+    "psalms 75:4:5",
+    "proverbs 16:2:5",
+    "proverbs 21:2:5",
+    "proverbs 24:12:7",
+    "isaiah 40:12:6",
+    "isaiah 40:13:1",
+    "ezekiel 18:25:2",
+    "ezekiel 18:25:11",
+    "ezekiel 18:25:15",
+    "ezekiel 18:29:4",
+    "ezekiel 18:29:9",
+    "ezekiel 18:29:15",
+    "ezekiel 33:17:4",
+    "ezekiel 33:17:10",
+    "ezekiel 33:20:2"
   ]
 }

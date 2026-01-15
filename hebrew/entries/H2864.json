@@ -37,12 +37,13 @@
   },
   "hebrew": "חָתַר",
   "verses": [
-    "job 24:16",
-    "ezekiel 8:8",
-    "ezekiel 12:5",
-    "ezekiel 12:7",
-    "ezekiel 12:12",
-    "amos 9:2",
-    "jonah 1:13"
+    "job 24:16:0",
+    "ezekiel 8:8:4",
+    "ezekiel 8:8:7",
+    "ezekiel 12:5:1",
+    "ezekiel 12:7:10",
+    "ezekiel 12:12:9",
+    "amos 9:2:1",
+    "jonah 1:13:0"
   ]
 }

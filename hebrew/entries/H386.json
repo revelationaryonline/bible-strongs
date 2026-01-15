@@ -37,18 +37,18 @@
   },
   "hebrew": "אֵיתָן",
   "verses": [
-    "genesis 49:24",
-    "exodus 14:27",
-    "numbers 24:21",
-    "deuteronomy 21:4",
-    "job 12:19",
-    "job 33:19",
-    "psalms 74:15",
-    "proverbs 13:15",
-    "jeremiah 5:15",
-    "jeremiah 49:19",
-    "jeremiah 50:44",
-    "amos 5:24",
-    "micah 6:2"
+    "genesis 49:24:1",
+    "exodus 14:27:10",
+    "numbers 24:21:6",
+    "deuteronomy 21:4:8",
+    "job 12:19:3",
+    "job 33:19:7",
+    "psalms 74:15:7",
+    "proverbs 13:15:6",
+    "jeremiah 5:15:10",
+    "jeremiah 49:19:7",
+    "jeremiah 50:44:7",
+    "amos 5:24:5",
+    "micah 6:2:5"
   ]
 }

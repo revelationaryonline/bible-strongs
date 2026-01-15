@@ -37,11 +37,11 @@
   },
   "hebrew": "אֶלְיָסָף",
   "verses": [
-    "numbers 1:14",
-    "numbers 2:14",
-    "numbers 3:24",
-    "numbers 7:42",
-    "numbers 7:47",
-    "numbers 10:20"
+    "numbers 1:14:1",
+    "numbers 2:14:5",
+    "numbers 3:24:4",
+    "numbers 7:42:5",
+    "numbers 7:47:14",
+    "numbers 10:20:5"
   ]
 }

@@ -37,17 +37,18 @@
   },
   "hebrew": "יַעֲזֵיר",
   "verses": [
-    "numbers 21:32",
-    "numbers 32:1",
-    "numbers 32:3",
-    "numbers 32:35",
-    "joshua 13:25",
-    "joshua 21:39",
-    "secondSamuel 24:5",
-    "firstChronicles 6:66",
-    "firstChronicles 26:31",
-    "isaiah 16:8",
-    "isaiah 16:9",
-    "jeremiah 48:32"
+    "numbers 21:32:4",
+    "numbers 32:1:12",
+    "numbers 32:3:2",
+    "numbers 32:35:4",
+    "joshua 13:25:3",
+    "joshua 21:39:5",
+    "secondSamuel 24:5:12",
+    "firstChronicles 6:66:5",
+    "firstChronicles 26:31:15",
+    "isaiah 16:8:11",
+    "isaiah 16:9:4",
+    "jeremiah 48:32:1",
+    "jeremiah 48:32:11"
   ]
 }

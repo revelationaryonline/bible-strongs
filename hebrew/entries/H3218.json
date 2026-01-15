@@ -37,12 +37,14 @@
   },
   "hebrew": "יֶלֶק",
   "verses": [
-    "psalms 105:34",
-    "jeremiah 51:14",
-    "jeremiah 51:27",
-    "joel 1:4",
-    "joel 2:25",
-    "nahum 3:15",
-    "nahum 3:16"
+    "psalms 105:34:3",
+    "jeremiah 51:14:8",
+    "jeremiah 51:27:20",
+    "joel 1:4:7",
+    "joel 1:4:9",
+    "joel 2:25:7",
+    "nahum 3:15:6",
+    "nahum 3:15:8",
+    "nahum 3:16:4"
   ]
 }

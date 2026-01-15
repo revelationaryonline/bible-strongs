@@ -37,14 +37,14 @@
     "zh": "肢解"
   },
   "verses": [
-    "exodus 29:17",
-    "leviticus 1:6",
-    "leviticus 1:12",
-    "leviticus 8:20",
-    "judges 19:29",
-    "judges 20:6",
-    "firstSamuel 11:7",
-    "firstKings 18:23",
-    "firstKings 18:33"
+    "exodus 29:17:2",
+    "leviticus 1:6:3",
+    "leviticus 1:12:0",
+    "leviticus 8:20:2",
+    "judges 19:29:8",
+    "judges 20:6:2",
+    "firstSamuel 11:7:3",
+    "firstKings 18:23:8",
+    "firstKings 18:33:3"
   ]
 }

@@ -37,16 +37,16 @@
   },
   "hebrew": "אֱלִיהוּ",
   "verses": [
-    "firstSamuel 1:1",
-    "firstChronicles 12:21",
-    "firstChronicles 26:7",
-    "firstChronicles 27:18",
-    "job 32:2",
-    "job 32:4",
-    "job 32:5",
-    "job 32:6",
-    "job 34:1",
-    "job 35:1",
-    "job 36:1"
+    "firstSamuel 1:1:13",
+    "firstChronicles 12:21:11",
+    "firstChronicles 26:7:9",
+    "firstChronicles 27:18:1",
+    "job 32:2:2",
+    "job 32:4:0",
+    "job 32:5:1",
+    "job 32:6:1",
+    "job 34:1:1",
+    "job 35:1:1",
+    "job 36:1:1"
   ]
 }

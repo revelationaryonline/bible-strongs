@@ -37,15 +37,15 @@
     "zh": "渴"
   },
   "verses": [
-    "exodus 17:3",
-    "judges 4:19",
-    "judges 15:18",
-    "ruth 2:9",
-    "job 24:11",
-    "psalms 42:3",
-    "psalms 63:2",
-    "isaiah 48:21",
-    "isaiah 49:10",
-    "isaiah 65:13"
+    "exodus 17:3:0",
+    "judges 4:19:7",
+    "judges 15:18:0",
+    "ruth 2:9:12",
+    "job 24:11:5",
+    "psalms 42:3:0",
+    "psalms 63:2:4",
+    "isaiah 48:21:1",
+    "isaiah 49:10:3",
+    "isaiah 65:13:14"
   ]
 }

@@ -37,17 +37,20 @@
     "zh": "演奏弦乐器；因此（一般）是指演奏音乐"
   },
   "verses": [
-    "firstSamuel 16:16",
-    "firstSamuel 16:17",
-    "firstSamuel 16:18",
-    "firstSamuel 16:23",
-    "firstSamuel 18:10",
-    "firstSamuel 19:9",
-    "secondKings 3:15",
-    "psalms 33:3",
-    "psalms 68:26",
-    "isaiah 23:16",
-    "isaiah 38:20",
-    "ezekiel 33:32"
+    "firstSamuel 16:16:8",
+    "firstSamuel 16:16:16",
+    "firstSamuel 16:17:9",
+    "firstSamuel 16:18:11",
+    "firstSamuel 16:23:10",
+    "firstSamuel 18:10:12",
+    "firstSamuel 19:9:12",
+    "secondKings 3:15:3",
+    "secondKings 3:15:5",
+    "secondKings 3:15:6",
+    "psalms 33:3:5",
+    "psalms 68:26:3",
+    "isaiah 23:16:7",
+    "isaiah 38:20:3",
+    "ezekiel 33:32:7"
   ]
 }

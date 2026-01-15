@@ -37,14 +37,14 @@
   },
   "hebrew": "אָשֻׁר",
   "verses": [
-    "job 23:11",
-    "job 31:7",
-    "psalms 17:5",
-    "psalms 17:11",
-    "psalms 37:31",
-    "psalms 40:3",
-    "psalms 44:19",
-    "psalms 73:2",
-    "proverbs 14:15"
+    "job 23:11:0",
+    "job 31:7:2",
+    "psalms 17:5:1",
+    "psalms 17:11:0",
+    "psalms 37:31:5",
+    "psalms 40:3:10",
+    "psalms 44:19:5",
+    "psalms 73:2:8",
+    "proverbs 14:15:6"
   ]
 }

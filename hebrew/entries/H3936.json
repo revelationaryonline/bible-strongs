@@ -37,10 +37,12 @@
     "zh": "拉丹"
   },
   "verses": [
-    "firstChronicles 7:26",
-    "firstChronicles 23:7",
-    "firstChronicles 23:8",
-    "firstChronicles 23:9",
-    "firstChronicles 26:21"
+    "firstChronicles 7:26:0",
+    "firstChronicles 23:7:1",
+    "firstChronicles 23:8:1",
+    "firstChronicles 23:9:10",
+    "firstChronicles 26:21:1",
+    "firstChronicles 26:21:4",
+    "firstChronicles 26:21:7"
   ]
 }

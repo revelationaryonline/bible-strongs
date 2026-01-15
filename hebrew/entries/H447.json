@@ -37,15 +37,15 @@
   },
   "hebrew": "אֱלִיאֵל",
   "verses": [
-    "firstChronicles 5:24",
-    "firstChronicles 6:19",
-    "firstChronicles 8:20",
-    "firstChronicles 8:22",
-    "firstChronicles 11:46",
-    "firstChronicles 11:47",
-    "firstChronicles 12:12",
-    "firstChronicles 15:9",
-    "firstChronicles 15:11",
-    "secondChronicles 31:13"
+    "firstChronicles 5:24:6",
+    "firstChronicles 6:19:5",
+    "firstChronicles 8:20:2",
+    "firstChronicles 8:22:2",
+    "firstChronicles 11:46:0",
+    "firstChronicles 11:47:0",
+    "firstChronicles 12:12:2",
+    "firstChronicles 15:9:2",
+    "firstChronicles 15:11:10",
+    "secondChronicles 31:13:6"
   ]
 }

@@ -37,21 +37,22 @@
     "zh": "追逐；也是游戏（因此）；（一般）午餐（特别是旅途中的午餐）"
   },
   "verses": [
-    "genesis 10:9",
-    "genesis 25:27",
-    "genesis 25:28",
-    "genesis 27:5",
-    "genesis 27:7",
-    "genesis 27:19",
-    "genesis 27:25",
-    "genesis 27:30",
-    "genesis 27:31",
-    "genesis 27:33",
-    "leviticus 17:13",
-    "joshua 9:14",
-    "nehemiah 13:15",
-    "job 38:41",
-    "psalms 132:15",
-    "proverbs 12:27"
+    "genesis 10:9:3",
+    "genesis 10:9:11",
+    "genesis 25:27:6",
+    "genesis 25:28:5",
+    "genesis 27:5:11",
+    "genesis 27:7:2",
+    "genesis 27:19:15",
+    "genesis 27:25:4",
+    "genesis 27:30:19",
+    "genesis 27:31:11",
+    "genesis 27:33:11",
+    "leviticus 17:13:10",
+    "joshua 9:14:2",
+    "nehemiah 13:15:25",
+    "job 38:41:3",
+    "psalms 132:15:0",
+    "proverbs 12:27:3"
   ]
 }

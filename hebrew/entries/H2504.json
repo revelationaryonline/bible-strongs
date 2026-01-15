@@ -37,15 +37,16 @@
   },
   "hebrew": "חָלָץ",
   "verses": [
-    "genesis 35:11",
-    "firstKings 8:19",
-    "secondChronicles 6:9",
-    "job 31:20",
-    "job 38:3",
-    "job 40:7",
-    "isaiah 5:27",
-    "isaiah 11:5",
-    "isaiah 32:11",
-    "jeremiah 30:6"
+    "genesis 35:11:14",
+    "firstKings 8:19:9",
+    "secondChronicles 6:9:8",
+    "job 31:20:3",
+    "job 31:20:4",
+    "job 38:3:3",
+    "job 40:7:3",
+    "isaiah 5:27:12",
+    "isaiah 11:5:6",
+    "isaiah 32:11:8",
+    "jeremiah 30:6:12"
   ]
 }

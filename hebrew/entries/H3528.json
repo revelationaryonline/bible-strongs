@@ -37,13 +37,14 @@
   },
   "hebrew": "כְּבָר",
   "verses": [
-    "ecclesiastes 1:10",
-    "ecclesiastes 2:12",
-    "ecclesiastes 2:16",
-    "ecclesiastes 3:15",
-    "ecclesiastes 4:2",
-    "ecclesiastes 6:10",
-    "ecclesiastes 9:6",
-    "ecclesiastes 9:7"
+    "ecclesiastes 1:10:7",
+    "ecclesiastes 2:12:14",
+    "ecclesiastes 2:16:7",
+    "ecclesiastes 3:15:2",
+    "ecclesiastes 3:15:6",
+    "ecclesiastes 4:2:4",
+    "ecclesiastes 6:10:2",
+    "ecclesiastes 9:6:6",
+    "ecclesiastes 9:7:9"
   ]
 }

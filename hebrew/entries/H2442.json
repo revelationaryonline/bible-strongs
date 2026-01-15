@@ -37,18 +37,19 @@
   },
   "hebrew": "חָכָה",
   "verses": [
-    "secondKings 7:9",
-    "secondKings 9:3",
-    "job 3:21",
-    "job 32:4",
-    "psalms 33:20",
-    "psalms 106:13",
-    "isaiah 8:17",
-    "isaiah 30:18",
-    "isaiah 64:3",
-    "daniel 12:12",
-    "hosea 6:9",
-    "habakkuk 2:3",
-    "zephaniah 3:8"
+    "secondKings 7:9:15",
+    "secondKings 9:3:18",
+    "job 3:21:0",
+    "job 32:4:1",
+    "psalms 33:20:1",
+    "psalms 106:13:4",
+    "isaiah 8:17:0",
+    "isaiah 30:18:1",
+    "isaiah 30:18:13",
+    "isaiah 64:3:11",
+    "daniel 12:12:1",
+    "hosea 6:9:0",
+    "habakkuk 2:3:10",
+    "zephaniah 3:8:1"
   ]
 }

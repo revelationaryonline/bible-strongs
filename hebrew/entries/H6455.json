@@ -37,17 +37,18 @@
     "zh": "跛脚"
   },
   "verses": [
-    "leviticus 21:18",
-    "deuteronomy 15:21",
-    "secondSamuel 5:8",
-    "secondSamuel 9:13",
-    "secondSamuel 19:27",
-    "job 29:15",
-    "proverbs 26:7",
-    "isaiah 33:23",
-    "isaiah 35:6",
-    "jeremiah 31:8",
-    "malachi 1:8",
-    "malachi 1:13"
+    "leviticus 21:18:11",
+    "deuteronomy 15:21:4",
+    "secondSamuel 5:8:10",
+    "secondSamuel 5:8:21",
+    "secondSamuel 9:13:11",
+    "secondSamuel 19:27:17",
+    "job 29:15:4",
+    "proverbs 26:7:2",
+    "isaiah 33:23:14",
+    "isaiah 35:6:3",
+    "jeremiah 31:8:10",
+    "malachi 1:8:8",
+    "malachi 1:13:11"
   ]
 }

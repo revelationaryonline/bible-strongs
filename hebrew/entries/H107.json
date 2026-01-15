@@ -37,15 +37,15 @@
   },
   "hebrew": "אִגֶּרֶת",
   "verses": [
-    "secondChronicles 30:1",
-    "secondChronicles 30:6",
-    "nehemiah 2:7",
-    "nehemiah 2:8",
-    "nehemiah 2:9",
-    "nehemiah 6:5",
-    "nehemiah 6:17",
-    "nehemiah 6:19",
-    "esther 9:26",
-    "esther 9:29"
+    "secondChronicles 30:1:7",
+    "secondChronicles 30:6:2",
+    "nehemiah 2:7:6",
+    "nehemiah 2:8:0",
+    "nehemiah 2:9:8",
+    "nehemiah 6:5:9",
+    "nehemiah 6:17:6",
+    "nehemiah 6:19:9",
+    "esther 9:26:14",
+    "esther 9:29:12"
   ]
 }

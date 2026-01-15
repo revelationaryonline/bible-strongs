@@ -37,15 +37,15 @@
   },
   "hebrew": "בִּזָּה",
   "verses": [
-    "secondChronicles 14:13",
-    "secondChronicles 25:13",
-    "secondChronicles 28:14",
-    "ezra 9:7",
-    "nehemiah 3:36",
-    "esther 9:10",
-    "esther 9:15",
-    "esther 9:16",
-    "daniel 11:24",
-    "daniel 11:33"
+    "secondChronicles 14:13:16",
+    "secondChronicles 25:13:20",
+    "secondChronicles 28:14:5",
+    "ezra 9:7:18",
+    "nehemiah 3:36:10",
+    "esther 9:10:8",
+    "esther 9:15:16",
+    "esther 9:16:16",
+    "daniel 11:24:11",
+    "daniel 11:33:8"
   ]
 }

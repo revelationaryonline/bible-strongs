@@ -37,10 +37,11 @@
     "zh": "以色列人 Pedahtsur"
   },
   "verses": [
-    "numbers 1:10",
-    "numbers 2:20",
-    "numbers 7:54",
-    "numbers 7:59",
-    "numbers 10:23"
+    "numbers 1:10:9",
+    "numbers 2:20:8",
+    "numbers 7:54:8",
+    "numbers 7:59:17",
+    "numbers 10:23:7",
+    "numbers 10:23:8"
   ]
 }

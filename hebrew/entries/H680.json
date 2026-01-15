@@ -37,10 +37,10 @@
   },
   "hebrew": "אָצַל",
   "verses": [
-    "genesis 27:36",
-    "numbers 11:17",
-    "numbers 11:25",
-    "ecclesiastes 2:10",
-    "ezekiel 42:6"
+    "genesis 27:36:17",
+    "numbers 11:17:4",
+    "numbers 11:25:5",
+    "ecclesiastes 2:10:5",
+    "ezekiel 42:6:10"
   ]
 }

@@ -37,11 +37,14 @@
     "zh": "一式(因，使)三份(按复原、份数、股数、天数或年数)"
   },
   "verses": [
-    "genesis 15:9",
-    "deuteronomy 19:3",
-    "firstSamuel 20:19",
-    "firstKings 18:34",
-    "ecclesiastes 4:12",
-    "ezekiel 42:6"
+    "genesis 15:9:5",
+    "genesis 15:9:7",
+    "genesis 15:9:9",
+    "deuteronomy 19:3:3",
+    "firstSamuel 20:19:0",
+    "firstKings 18:34:14",
+    "firstKings 18:34:15",
+    "ecclesiastes 4:12:7",
+    "ezekiel 42:6:1"
   ]
 }

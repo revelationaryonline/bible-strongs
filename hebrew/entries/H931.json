@@ -37,14 +37,21 @@
   },
   "hebrew": "בֹּהֶן",
   "verses": [
-    "exodus 29:20",
-    "leviticus 8:23",
-    "leviticus 8:24",
-    "leviticus 14:14",
-    "leviticus 14:17",
-    "leviticus 14:25",
-    "leviticus 14:28",
-    "judges 1:6",
-    "judges 1:7"
+    "exodus 29:20:16",
+    "exodus 29:20:20",
+    "leviticus 8:23:11",
+    "leviticus 8:23:15",
+    "leviticus 8:24:13",
+    "leviticus 8:24:17",
+    "leviticus 14:14:12",
+    "leviticus 14:14:16",
+    "leviticus 14:17:13",
+    "leviticus 14:17:17",
+    "leviticus 14:25:15",
+    "leviticus 14:25:19",
+    "leviticus 14:28:13",
+    "leviticus 14:28:17",
+    "judges 1:6:9",
+    "judges 1:7:5"
   ]
 }

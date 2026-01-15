@@ -37,17 +37,19 @@
   },
   "hebrew": "אֵזוֹר",
   "verses": [
-    "secondKings 1:8",
-    "job 12:18",
-    "isaiah 5:27",
-    "isaiah 11:5",
-    "jeremiah 13:1",
-    "jeremiah 13:2",
-    "jeremiah 13:4",
-    "jeremiah 13:6",
-    "jeremiah 13:7",
-    "jeremiah 13:10",
-    "jeremiah 13:11",
-    "ezekiel 23:15"
+    "secondKings 1:8:5",
+    "job 12:18:4",
+    "isaiah 5:27:11",
+    "isaiah 11:5:2",
+    "isaiah 11:5:5",
+    "jeremiah 13:1:7",
+    "jeremiah 13:2:2",
+    "jeremiah 13:4:2",
+    "jeremiah 13:6:13",
+    "jeremiah 13:7:5",
+    "jeremiah 13:7:13",
+    "jeremiah 13:10:18",
+    "jeremiah 13:11:3",
+    "ezekiel 23:15:1"
   ]
 }

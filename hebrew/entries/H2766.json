@@ -37,16 +37,16 @@
   },
   "hebrew": "חָרִם",
   "verses": [
-    "firstChronicles 24:8",
-    "ezra 2:32",
-    "ezra 2:39",
-    "ezra 10:21",
-    "ezra 10:31",
-    "nehemiah 3:11",
-    "nehemiah 7:35",
-    "nehemiah 7:42",
-    "nehemiah 10:6",
-    "nehemiah 10:28",
-    "nehemiah 12:15"
+    "firstChronicles 24:8:0",
+    "ezra 2:32:1",
+    "ezra 2:39:1",
+    "ezra 10:21:1",
+    "ezra 10:31:1",
+    "nehemiah 3:11:5",
+    "nehemiah 7:35:1",
+    "nehemiah 7:42:1",
+    "nehemiah 10:6:0",
+    "nehemiah 10:28:1",
+    "nehemiah 12:15:0"
   ]
 }

@@ -37,14 +37,16 @@
     "zh": "跌打滚爬"
   },
   "verses": [
-    "exodus 14:27",
-    "judges 16:20",
-    "nehemiah 5:13",
-    "job 38:13",
-    "psalms 109:23",
-    "psalms 136:15",
-    "isaiah 33:9",
-    "isaiah 33:15",
-    "isaiah 52:2"
+    "exodus 14:27:14",
+    "judges 16:20:10",
+    "nehemiah 5:13:2",
+    "nehemiah 5:13:5",
+    "nehemiah 5:13:20",
+    "job 38:13:3",
+    "psalms 109:23:3",
+    "psalms 136:15:0",
+    "isaiah 33:9:9",
+    "isaiah 33:15:7",
+    "isaiah 52:2:0"
   ]
 }

@@ -37,14 +37,15 @@
     "zh": "圆雕，即通过锤击成型（repousse）"
   },
   "verses": [
-    "exodus 25:18",
-    "exodus 25:31",
-    "exodus 25:36",
-    "exodus 37:7",
-    "exodus 37:17",
-    "exodus 37:22",
-    "numbers 8:4",
-    "numbers 10:2",
-    "jeremiah 10:5"
+    "exodus 25:18:4",
+    "exodus 25:31:4",
+    "exodus 25:36:5",
+    "exodus 37:7:4",
+    "exodus 37:17:5",
+    "exodus 37:22:5",
+    "numbers 8:4:3",
+    "numbers 8:4:9",
+    "numbers 10:2:5",
+    "jeremiah 10:5:1"
   ]
 }

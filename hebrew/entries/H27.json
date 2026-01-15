@@ -37,10 +37,10 @@
   },
   "hebrew": "אֲבִידָן",
   "verses": [
-    "numbers 1:11",
-    "numbers 2:22",
-    "numbers 7:60",
-    "numbers 7:65",
-    "numbers 10:24"
+    "numbers 1:11:1",
+    "numbers 2:22:5",
+    "numbers 7:60:5",
+    "numbers 7:65:14",
+    "numbers 10:24:5"
   ]
 }

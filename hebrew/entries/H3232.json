@@ -37,9 +37,10 @@
   },
   "hebrew": "יִמְנָה",
   "verses": [
-    "genesis 46:17",
-    "numbers 26:44",
-    "firstChronicles 7:30",
-    "secondChronicles 31:14"
+    "genesis 46:17:2",
+    "numbers 26:44:3",
+    "numbers 26:44:5",
+    "firstChronicles 7:30:2",
+    "secondChronicles 31:14:2"
   ]
 }

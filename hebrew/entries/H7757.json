@@ -37,15 +37,16 @@
     "zh": "裙边"
   },
   "verses": [
-    "exodus 28:33",
-    "exodus 28:34",
-    "exodus 39:24",
-    "exodus 39:25",
-    "exodus 39:26",
-    "isaiah 6:1",
-    "jeremiah 13:22",
-    "jeremiah 13:26",
-    "lamentations 1:9",
-    "nahum 3:5"
+    "exodus 28:33:2",
+    "exodus 28:33:9",
+    "exodus 28:34:7",
+    "exodus 39:24:2",
+    "exodus 39:25:10",
+    "exodus 39:26:5",
+    "isaiah 6:1:12",
+    "jeremiah 13:22:9",
+    "jeremiah 13:26:3",
+    "lamentations 1:9:1",
+    "nahum 3:5:6"
   ]
 }

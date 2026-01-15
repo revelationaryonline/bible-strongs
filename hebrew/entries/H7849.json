@@ -37,10 +37,11 @@
     "zh": "扩大"
   },
   "verses": [
-    "numbers 11:32",
-    "secondSamuel 17:19",
-    "job 12:23",
-    "psalms 88:10",
-    "jeremiah 8:2"
+    "numbers 11:32:17",
+    "numbers 11:32:19",
+    "secondSamuel 17:19:8",
+    "job 12:23:3",
+    "psalms 88:10:8",
+    "jeremiah 8:2:0"
   ]
 }

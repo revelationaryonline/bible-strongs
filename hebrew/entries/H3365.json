@@ -37,16 +37,16 @@
   },
   "hebrew": "יָקַר",
   "verses": [
-    "firstSamuel 18:30",
-    "firstSamuel 26:21",
-    "secondKings 1:13",
-    "secondKings 1:14",
-    "psalms 49:9",
-    "psalms 72:14",
-    "psalms 139:17",
-    "proverbs 25:17",
-    "isaiah 13:12",
-    "isaiah 43:4",
-    "zechariah 11:13"
+    "firstSamuel 18:30:11",
+    "firstSamuel 26:21:13",
+    "secondKings 1:13:22",
+    "secondKings 1:14:14",
+    "psalms 49:9:0",
+    "psalms 72:14:4",
+    "psalms 139:17:2",
+    "proverbs 25:17:0",
+    "isaiah 13:12:0",
+    "isaiah 43:4:1",
+    "zechariah 11:13:9"
   ]
 }

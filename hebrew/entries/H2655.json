@@ -37,15 +37,16 @@
   },
   "hebrew": "חָפֵץ",
   "verses": [
-    "firstKings 13:33",
-    "firstKings 21:6",
-    "firstChronicles 28:9",
-    "nehemiah 1:11",
-    "psalms 5:5",
-    "psalms 34:13",
-    "psalms 35:27",
-    "psalms 40:15",
-    "psalms 70:3",
-    "malachi 3:1"
+    "firstKings 13:33:14",
+    "firstKings 21:6:16",
+    "firstChronicles 28:9:11",
+    "nehemiah 1:11:12",
+    "psalms 5:5:3",
+    "psalms 34:13:2",
+    "psalms 35:27:2",
+    "psalms 35:27:8",
+    "psalms 40:15:9",
+    "psalms 70:3:7",
+    "malachi 3:1:18"
   ]
 }

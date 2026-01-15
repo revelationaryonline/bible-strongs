@@ -37,18 +37,19 @@
     "zh": "墓穴；（具体地说）坟墓"
   },
   "verses": [
-    "genesis 35:20",
-    "genesis 47:30",
-    "deuteronomy 34:6",
-    "firstSamuel 10:2",
-    "secondKings 9:28",
-    "secondKings 21:26",
-    "secondKings 23:30",
-    "secondChronicles 26:23",
-    "ecclesiastes 6:3",
-    "isaiah 14:20",
-    "jeremiah 22:19",
-    "ezekiel 32:23",
-    "ezekiel 32:24"
+    "genesis 35:20:4",
+    "genesis 35:20:7",
+    "genesis 47:30:6",
+    "deuteronomy 34:6:12",
+    "firstSamuel 10:2:7",
+    "secondKings 9:28:6",
+    "secondKings 21:26:2",
+    "secondKings 23:30:7",
+    "secondChronicles 26:23:9",
+    "ecclesiastes 6:3:17",
+    "isaiah 14:20:3",
+    "jeremiah 22:19:0",
+    "ezekiel 32:23:8",
+    "ezekiel 32:24:5"
   ]
 }

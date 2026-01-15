@@ -37,15 +37,15 @@
   },
   "hebrew": "גְּבוּלָה",
   "verses": [
-    "numbers 32:33",
-    "numbers 34:2",
-    "numbers 34:12",
-    "deuteronomy 32:8",
-    "joshua 18:20",
-    "joshua 19:49",
-    "job 24:2",
-    "psalms 74:17",
-    "isaiah 10:13",
-    "isaiah 28:25"
+    "numbers 32:33:24",
+    "numbers 34:2:20",
+    "numbers 34:12:11",
+    "deuteronomy 32:8:7",
+    "joshua 18:20:9",
+    "joshua 19:49:4",
+    "job 24:2:0",
+    "psalms 74:17:3",
+    "isaiah 10:13:9",
+    "isaiah 28:25:14"
   ]
 }

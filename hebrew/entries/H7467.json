@@ -37,15 +37,16 @@
     "zh": "路厄尔，摩西岳父的名字，也是以东人和以色列人的名字"
   },
   "verses": [
-    "genesis 36:4",
-    "genesis 36:10",
-    "genesis 36:13",
-    "genesis 36:17",
-    "exodus 2:18",
-    "numbers 2:14",
-    "numbers 10:29",
-    "firstChronicles 1:35",
-    "firstChronicles 1:37",
-    "firstChronicles 9:8"
+    "genesis 36:4:8",
+    "genesis 36:10:9",
+    "genesis 36:13:2",
+    "genesis 36:17:2",
+    "genesis 36:17:15",
+    "exodus 2:18:2",
+    "numbers 2:14:7",
+    "numbers 10:29:4",
+    "firstChronicles 1:35:3",
+    "firstChronicles 1:37:1",
+    "firstChronicles 9:8:12"
   ]
 }

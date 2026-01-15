@@ -37,17 +37,17 @@
   },
   "hebrew": "חָנָן",
   "verses": [
-    "firstChronicles 8:23",
-    "firstChronicles 8:38",
-    "firstChronicles 9:44",
-    "firstChronicles 11:43",
-    "ezra 2:46",
-    "nehemiah 7:49",
-    "nehemiah 8:7",
-    "nehemiah 10:11",
-    "nehemiah 10:23",
-    "nehemiah 10:27",
-    "nehemiah 13:13",
-    "jeremiah 35:4"
+    "firstChronicles 8:23:2",
+    "firstChronicles 8:38:10",
+    "firstChronicles 9:44:10",
+    "firstChronicles 11:43:0",
+    "ezra 2:46:6",
+    "nehemiah 7:49:1",
+    "nehemiah 8:7:11",
+    "nehemiah 10:11:5",
+    "nehemiah 10:23:1",
+    "nehemiah 10:27:1",
+    "nehemiah 13:13:12",
+    "jeremiah 35:4:7"
   ]
 }

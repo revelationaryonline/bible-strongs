@@ -37,12 +37,14 @@
   },
   "hebrew": "אַב",
   "verses": [
-    "ezra 4:15",
-    "ezra 5:12",
-    "daniel 2:23",
-    "daniel 5:2",
-    "daniel 5:11",
-    "daniel 5:13",
-    "daniel 5:18"
+    "ezra 4:15:5",
+    "ezra 5:12:4",
+    "daniel 2:23:2",
+    "daniel 5:2:11",
+    "daniel 5:11:9",
+    "daniel 5:11:19",
+    "daniel 5:11:26",
+    "daniel 5:13:22",
+    "daniel 5:18:12"
   ]
 }

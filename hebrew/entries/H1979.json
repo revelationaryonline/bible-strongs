@@ -37,10 +37,12 @@
   },
   "hebrew": "הֲלִיכָה",
   "verses": [
-    "job 6:19",
-    "psalms 68:25",
-    "proverbs 31:27",
-    "nahum 2:6",
-    "habakkuk 3:6"
+    "job 6:19:3",
+    "psalms 68:25:1",
+    "psalms 68:25:3",
+    "proverbs 31:27:1",
+    "nahum 2:6:3",
+    "nahum 2:6:4",
+    "habakkuk 3:6:12"
   ]
 }

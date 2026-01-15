@@ -37,12 +37,14 @@
     "zh": "Shelach，一位后迪卢夫时代的族长"
   },
   "verses": [
-    "genesis 10:24",
-    "genesis 11:12",
-    "genesis 11:13",
-    "genesis 11:14",
-    "genesis 11:15",
-    "firstChronicles 1:18",
-    "firstChronicles 1:24"
+    "genesis 10:24:3",
+    "genesis 10:24:4",
+    "genesis 11:12:7",
+    "genesis 11:13:5",
+    "genesis 11:14:0",
+    "genesis 11:15:1",
+    "firstChronicles 1:18:3",
+    "firstChronicles 1:18:4",
+    "firstChronicles 1:24:2"
   ]
 }

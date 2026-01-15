@@ -37,21 +37,21 @@
     "zh": "滴"
   },
   "verses": [
-    "exodus 15:8",
-    "numbers 24:7",
-    "deuteronomy 32:2",
-    "judges 5:5",
-    "job 36:28",
-    "psalms 78:16",
-    "psalms 78:44",
-    "psalms 147:18",
-    "proverbs 5:15",
-    "solomon 4:15",
-    "solomon 4:16",
-    "isaiah 44:3",
-    "isaiah 45:8",
-    "isaiah 48:21",
-    "jeremiah 9:17",
-    "jeremiah 18:14"
+    "exodus 15:8:7",
+    "numbers 24:7:0",
+    "deuteronomy 32:2:3",
+    "judges 5:5:1",
+    "job 36:28:1",
+    "psalms 78:16:1",
+    "psalms 78:44:3",
+    "psalms 147:18:5",
+    "proverbs 5:15:3",
+    "solomon 4:15:5",
+    "solomon 4:16:6",
+    "isaiah 44:3:5",
+    "isaiah 45:8:4",
+    "isaiah 48:21:6",
+    "jeremiah 9:17:8",
+    "jeremiah 18:14:10"
   ]
 }

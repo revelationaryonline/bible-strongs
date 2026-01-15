@@ -37,10 +37,12 @@
   },
   "hebrew": "כֵּן",
   "verses": [
-    "exodus 8:12",
-    "exodus 8:13",
-    "exodus 8:14",
-    "psalms 105:31",
-    "isaiah 51:6"
+    "exodus 8:12:15",
+    "exodus 8:13:12",
+    "exodus 8:13:19",
+    "exodus 8:14:6",
+    "exodus 8:14:10",
+    "psalms 105:31:3",
+    "isaiah 51:6:16"
   ]
 }

@@ -37,17 +37,17 @@
     "zh": "正确地说，是 \"嘶嘶\"，即吹口哨或发出嘶嘶声（作为呼唤或蔑视）。"
   },
   "verses": [
-    "firstKings 9:8",
-    "job 27:23",
-    "isaiah 5:26",
-    "isaiah 7:18",
-    "jeremiah 19:8",
-    "jeremiah 49:17",
-    "jeremiah 50:13",
-    "lamentations 2:15",
-    "lamentations 2:16",
-    "ezekiel 27:36",
-    "zephaniah 2:15",
-    "zechariah 10:8"
+    "firstKings 9:8:8",
+    "job 27:23:3",
+    "isaiah 5:26:4",
+    "isaiah 7:18:3",
+    "jeremiah 19:8:10",
+    "jeremiah 49:17:7",
+    "jeremiah 50:13:12",
+    "lamentations 2:15:6",
+    "lamentations 2:16:5",
+    "ezekiel 27:36:2",
+    "zephaniah 2:15:18",
+    "zechariah 10:8:0"
   ]
 }

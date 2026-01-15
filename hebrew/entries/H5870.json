@@ -37,9 +37,10 @@
     "zh": "眼"
   },
   "verses": [
-    "ezra 5:5",
-    "daniel 4:31",
-    "daniel 7:8",
-    "daniel 7:20"
+    "ezra 5:5:0",
+    "daniel 4:31:4",
+    "daniel 7:8:20",
+    "daniel 7:8:21",
+    "daniel 7:20:16"
   ]
 }

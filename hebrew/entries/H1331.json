@@ -37,14 +37,15 @@
   },
   "hebrew": "בְּתוּלִים",
   "verses": [
-    "leviticus 21:13",
-    "deuteronomy 22:14",
-    "deuteronomy 22:15",
-    "deuteronomy 22:17",
-    "deuteronomy 22:20",
-    "judges 11:37",
-    "judges 11:38",
-    "ezekiel 23:3",
-    "ezekiel 23:8"
+    "leviticus 21:13:2",
+    "deuteronomy 22:14:18",
+    "deuteronomy 22:15:7",
+    "deuteronomy 22:17:9",
+    "deuteronomy 22:17:11",
+    "deuteronomy 22:20:7",
+    "judges 11:37:17",
+    "judges 11:38:11",
+    "ezekiel 23:3:10",
+    "ezekiel 23:8:12"
   ]
 }

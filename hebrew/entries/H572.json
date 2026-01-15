@@ -37,17 +37,20 @@
   },
   "hebrew": "אַמְתַּחַת",
   "verses": [
-    "genesis 42:27",
-    "genesis 42:28",
-    "genesis 43:12",
-    "genesis 43:18",
-    "genesis 43:21",
-    "genesis 43:22",
-    "genesis 43:23",
-    "genesis 44:1",
-    "genesis 44:2",
-    "genesis 44:8",
-    "genesis 44:11",
-    "genesis 44:12"
+    "genesis 42:27:14",
+    "genesis 42:28:7",
+    "genesis 43:12:8",
+    "genesis 43:18:11",
+    "genesis 43:21:7",
+    "genesis 43:21:12",
+    "genesis 43:22:11",
+    "genesis 43:23:11",
+    "genesis 44:1:8",
+    "genesis 44:1:18",
+    "genesis 44:2:6",
+    "genesis 44:8:5",
+    "genesis 44:11:4",
+    "genesis 44:11:8",
+    "genesis 44:12:7"
   ]
 }

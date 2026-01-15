@@ -37,16 +37,19 @@
   },
   "hebrew": "יְכֵל",
   "verses": [
-    "daniel 2:10",
-    "daniel 2:27",
-    "daniel 2:47",
-    "daniel 3:17",
-    "daniel 3:29",
-    "daniel 4:15",
-    "daniel 4:34",
-    "daniel 5:16",
-    "daniel 6:5",
-    "daniel 6:21",
-    "daniel 7:21"
+    "daniel 2:10:14",
+    "daniel 2:27:14",
+    "daniel 2:47:16",
+    "daniel 3:17:6",
+    "daniel 3:29:32",
+    "daniel 4:15:18",
+    "daniel 4:34:17",
+    "daniel 5:16:5",
+    "daniel 5:16:6",
+    "daniel 5:16:13",
+    "daniel 5:16:14",
+    "daniel 6:5:14",
+    "daniel 6:21:21",
+    "daniel 7:21:8"
   ]
 }

@@ -37,18 +37,19 @@
     "zh": "浊水；比喻扰乱或熏染"
   },
   "verses": [
-    "genesis 34:30",
-    "joshua 6:18",
-    "joshua 7:25",
-    "judges 11:35",
-    "firstSamuel 14:29",
-    "firstKings 18:17",
-    "firstKings 18:18",
-    "firstChronicles 2:7",
-    "psalms 39:3",
-    "proverbs 11:17",
-    "proverbs 11:29",
-    "proverbs 15:6",
-    "proverbs 15:27"
+    "genesis 34:30:6",
+    "joshua 6:18:15",
+    "joshua 7:25:3",
+    "joshua 7:25:4",
+    "judges 11:35:13",
+    "firstSamuel 14:29:2",
+    "firstKings 18:17:10",
+    "firstKings 18:18:2",
+    "firstChronicles 2:7:3",
+    "psalms 39:3:5",
+    "proverbs 11:17:4",
+    "proverbs 11:29:0",
+    "proverbs 15:6:6",
+    "proverbs 15:27:0"
   ]
 }

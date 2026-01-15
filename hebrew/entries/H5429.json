@@ -37,11 +37,14 @@
     "zh": "厘"
   },
   "verses": [
-    "genesis 18:6",
-    "firstSamuel 25:18",
-    "firstKings 18:32",
-    "secondKings 7:1",
-    "secondKings 7:16",
-    "secondKings 7:18"
+    "genesis 18:6:8",
+    "firstSamuel 25:18:14",
+    "firstKings 18:32:9",
+    "secondKings 7:1:10",
+    "secondKings 7:1:13",
+    "secondKings 7:16:7",
+    "secondKings 7:16:10",
+    "secondKings 7:18:7",
+    "secondKings 7:18:10"
   ]
 }

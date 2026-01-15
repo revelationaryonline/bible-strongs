@@ -37,14 +37,14 @@
     "zh": "正确地说，是 \"蹦\"，即 \"跳\"。"
   },
   "verses": [
-    "firstChronicles 15:29",
-    "job 21:11",
-    "psalms 29:6",
-    "psalms 114:4",
-    "psalms 114:6",
-    "ecclesiastes 3:4",
-    "isaiah 13:21",
-    "joel 2:5",
-    "nahum 3:2"
+    "firstChronicles 15:29:18",
+    "job 21:11:4",
+    "psalms 29:6:0",
+    "psalms 114:4:1",
+    "psalms 114:6:1",
+    "ecclesiastes 3:4:7",
+    "isaiah 13:21:11",
+    "joel 2:5:5",
+    "nahum 3:2:8"
   ]
 }

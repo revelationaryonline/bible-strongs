@@ -37,12 +37,15 @@
     "zh": "融化；比喻流动、萎缩、消失"
   },
   "verses": [
-    "leviticus 26:39",
-    "psalms 38:6",
-    "isaiah 34:4",
-    "ezekiel 4:17",
-    "ezekiel 24:23",
-    "ezekiel 33:10",
-    "zechariah 14:12"
+    "leviticus 26:39:2",
+    "leviticus 26:39:10",
+    "psalms 38:6:1",
+    "isaiah 34:4:0",
+    "ezekiel 4:17:7",
+    "ezekiel 24:23:9",
+    "ezekiel 33:10:16",
+    "zechariah 14:12:13",
+    "zechariah 14:12:20",
+    "zechariah 14:12:23"
   ]
 }

@@ -37,19 +37,19 @@
   },
   "hebrew": "חַד",
   "verses": [
-    "ezra 4:8",
-    "ezra 5:13",
-    "ezra 6:2",
-    "ezra 6:3",
-    "daniel 2:9",
-    "daniel 2:31",
-    "daniel 2:35",
-    "daniel 3:19",
-    "daniel 4:16",
-    "daniel 6:3",
-    "daniel 6:18",
-    "daniel 7:1",
-    "daniel 7:5",
-    "daniel 7:16"
+    "ezra 4:8:7",
+    "ezra 5:13:2",
+    "ezra 6:2:7",
+    "ezra 6:3:1",
+    "daniel 2:9:5",
+    "daniel 2:31:6",
+    "daniel 2:35:2",
+    "daniel 3:19:17",
+    "daniel 4:16:7",
+    "daniel 6:3:6",
+    "daniel 6:18:2",
+    "daniel 7:1:1",
+    "daniel 7:5:7",
+    "daniel 7:16:2"
   ]
 }

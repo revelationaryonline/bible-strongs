@@ -37,15 +37,16 @@
     "zh": "汲沦溪"
   },
   "verses": [
-    "secondSamuel 15:23",
-    "firstKings 2:37",
-    "firstKings 15:13",
-    "secondKings 23:4",
-    "secondKings 23:6",
-    "secondKings 23:12",
-    "secondChronicles 15:16",
-    "secondChronicles 29:16",
-    "secondChronicles 30:14",
-    "jeremiah 31:40"
+    "secondSamuel 15:23:11",
+    "firstKings 2:37:6",
+    "firstKings 15:13:16",
+    "secondKings 23:4:28",
+    "secondKings 23:6:9",
+    "secondKings 23:6:13",
+    "secondKings 23:12:29",
+    "secondChronicles 15:16:18",
+    "secondChronicles 29:16:21",
+    "secondChronicles 30:14:12",
+    "jeremiah 31:40:9"
   ]
 }

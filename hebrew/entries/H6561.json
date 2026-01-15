@@ -37,15 +37,15 @@
     "zh": "折断或折断；比喻交付"
   },
   "verses": [
-    "genesis 27:40",
-    "exodus 32:2",
-    "exodus 32:3",
-    "exodus 32:24",
-    "firstKings 19:11",
-    "psalms 7:3",
-    "psalms 136:24",
-    "lamentations 5:8",
-    "ezekiel 19:12",
-    "zechariah 11:16"
+    "genesis 27:40:9",
+    "exodus 32:2:3",
+    "exodus 32:3:0",
+    "exodus 32:24:4",
+    "firstKings 19:11:12",
+    "psalms 7:3:4",
+    "psalms 136:24:0",
+    "lamentations 5:8:3",
+    "ezekiel 19:12:8",
+    "zechariah 11:16:22"
   ]
 }

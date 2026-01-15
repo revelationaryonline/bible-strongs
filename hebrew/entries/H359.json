@@ -37,11 +37,13 @@
   },
   "hebrew": "אֵילוֹת",
   "verses": [
-    "deuteronomy 2:8",
-    "firstKings 9:26",
-    "secondKings 14:22",
-    "secondKings 16:6",
-    "secondChronicles 8:17",
-    "secondChronicles 26:2"
+    "deuteronomy 2:8:9",
+    "firstKings 9:26:8",
+    "secondKings 14:22:3",
+    "secondKings 16:6:7",
+    "secondKings 16:6:12",
+    "secondKings 16:6:16",
+    "secondChronicles 8:17:6",
+    "secondChronicles 26:2:3"
   ]
 }

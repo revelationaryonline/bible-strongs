@@ -37,14 +37,14 @@
   },
   "hebrew": "אֲפֵק",
   "verses": [
-    "joshua 12:18",
-    "joshua 13:4",
-    "joshua 19:30",
-    "judges 1:31",
-    "firstSamuel 4:1",
-    "firstSamuel 29:1",
-    "firstKings 20:26",
-    "firstKings 20:30",
-    "secondKings 13:17"
+    "joshua 12:18:1",
+    "joshua 13:4:8",
+    "joshua 19:30:1",
+    "judges 1:31:16",
+    "firstSamuel 4:1:16",
+    "firstSamuel 29:1:5",
+    "firstKings 20:26:9",
+    "firstKings 20:30:2",
+    "secondKings 13:17:19"
   ]
 }

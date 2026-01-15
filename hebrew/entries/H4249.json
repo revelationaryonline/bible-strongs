@@ -37,16 +37,17 @@
     "zh": "马赫利，两个以色列人的名字"
   },
   "verses": [
-    "exodus 6:19",
-    "numbers 3:20",
-    "firstChronicles 6:4",
-    "firstChronicles 6:14",
-    "firstChronicles 6:32",
-    "firstChronicles 23:21",
-    "firstChronicles 23:23",
-    "firstChronicles 24:26",
-    "firstChronicles 24:28",
-    "firstChronicles 24:30",
-    "ezra 8:18"
+    "exodus 6:19:2",
+    "numbers 3:20:3",
+    "firstChronicles 6:4:2",
+    "firstChronicles 6:14:2",
+    "firstChronicles 6:32:1",
+    "firstChronicles 23:21:2",
+    "firstChronicles 23:21:5",
+    "firstChronicles 23:23:2",
+    "firstChronicles 24:26:2",
+    "firstChronicles 24:28:0",
+    "firstChronicles 24:30:2",
+    "ezra 8:18:9"
   ]
 }

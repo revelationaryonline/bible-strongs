@@ -37,14 +37,15 @@
     "zh": "城墙，即城堡"
   },
   "verses": [
-    "judges 9:6",
-    "judges 9:20",
-    "secondSamuel 5:9",
-    "firstKings 9:15",
-    "firstKings 9:24",
-    "firstKings 11:27",
-    "secondKings 12:21",
-    "firstChronicles 11:8",
-    "secondChronicles 32:5"
+    "judges 9:6:6",
+    "judges 9:20:11",
+    "judges 9:20:17",
+    "secondSamuel 5:9:11",
+    "firstKings 9:15:14",
+    "firstKings 9:24:14",
+    "firstKings 11:27:9",
+    "secondKings 12:21:8",
+    "firstChronicles 11:8:4",
+    "secondChronicles 32:5:14"
   ]
 }

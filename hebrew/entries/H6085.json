@@ -37,17 +37,20 @@
     "zh": "以弗仑，一个迦南人和巴勒斯坦两个地方的名字"
   },
   "verses": [
-    "genesis 23:8",
-    "genesis 23:10",
-    "genesis 23:13",
-    "genesis 23:14",
-    "genesis 23:16",
-    "genesis 23:17",
-    "genesis 25:9",
-    "genesis 49:29",
-    "genesis 49:30",
-    "genesis 50:13",
-    "joshua 15:9",
-    "secondChronicles 13:19"
+    "genesis 23:8:14",
+    "genesis 23:10:0",
+    "genesis 23:10:6",
+    "genesis 23:13:2",
+    "genesis 23:14:1",
+    "genesis 23:16:3",
+    "genesis 23:16:6",
+    "genesis 23:17:2",
+    "genesis 25:9:10",
+    "genesis 49:29:16",
+    "genesis 49:30:16",
+    "genesis 50:13:18",
+    "joshua 15:9:12",
+    "secondChronicles 13:19:17",
+    "secondChronicles 13:19:18"
   ]
 }

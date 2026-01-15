@@ -37,17 +37,19 @@
     "zh": "承认，即接受（字面或比喻）"
   },
   "verses": [
-    "exodus 26:5",
-    "exodus 36:12",
-    "firstChronicles 12:19",
-    "firstChronicles 21:11",
-    "secondChronicles 29:16",
-    "secondChronicles 29:22",
-    "ezra 8:30",
-    "esther 4:4",
-    "esther 9:23",
-    "esther 9:27",
-    "job 2:10",
-    "proverbs 19:20"
+    "exodus 26:5:13",
+    "exodus 36:12:13",
+    "firstChronicles 12:19:20",
+    "firstChronicles 21:11:9",
+    "secondChronicles 29:16:17",
+    "secondChronicles 29:22:2",
+    "ezra 8:30:0",
+    "esther 4:4:18",
+    "esther 9:23:0",
+    "esther 9:27:1",
+    "esther 9:27:2",
+    "job 2:10:9",
+    "job 2:10:15",
+    "proverbs 19:20:2"
   ]
 }

@@ -37,12 +37,15 @@
   },
   "hebrew": "גָּעַשׁ",
   "verses": [
-    "secondSamuel 22:8",
-    "job 34:20",
-    "psalms 18:8",
-    "jeremiah 5:22",
-    "jeremiah 25:16",
-    "jeremiah 46:7",
-    "jeremiah 46:8"
+    "secondSamuel 22:8:0",
+    "secondSamuel 22:8:1",
+    "secondSamuel 22:8:7",
+    "job 34:20:4",
+    "psalms 18:8:0",
+    "psalms 18:8:6",
+    "jeremiah 5:22:18",
+    "jeremiah 25:16:1",
+    "jeremiah 46:7:5",
+    "jeremiah 46:8:4"
   ]
 }

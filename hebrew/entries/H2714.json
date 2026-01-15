@@ -37,17 +37,17 @@
   },
   "hebrew": "חֵקֶר",
   "verses": [
-    "judges 5:16",
-    "job 5:9",
-    "job 8:8",
-    "job 9:10",
-    "job 11:7",
-    "job 34:24",
-    "job 36:26",
-    "job 38:16",
-    "psalms 145:3",
-    "proverbs 25:3",
-    "proverbs 25:27",
-    "isaiah 40:28"
+    "judges 5:16:10",
+    "job 5:9:3",
+    "job 8:8:6",
+    "job 9:10:4",
+    "job 11:7:0",
+    "job 34:24:3",
+    "job 36:26:8",
+    "job 38:16:4",
+    "psalms 145:3:6",
+    "proverbs 25:3:7",
+    "proverbs 25:27:5",
+    "isaiah 40:28:16"
   ]
 }

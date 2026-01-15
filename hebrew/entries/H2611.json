@@ -37,18 +37,18 @@
   },
   "hebrew": "חָנֵף",
   "verses": [
-    "job 8:13",
-    "job 13:16",
-    "job 15:34",
-    "job 17:8",
-    "job 20:5",
-    "job 27:8",
-    "job 34:30",
-    "job 36:13",
-    "psalms 35:16",
-    "proverbs 11:9",
-    "isaiah 9:16",
-    "isaiah 10:6",
-    "isaiah 33:14"
+    "job 8:13:6",
+    "job 13:16:7",
+    "job 15:34:2",
+    "job 17:8:6",
+    "job 20:5:5",
+    "job 27:8:3",
+    "job 34:30:2",
+    "job 36:13:0",
+    "psalms 35:16:0",
+    "proverbs 11:9:1",
+    "isaiah 9:16:15",
+    "isaiah 10:6:1",
+    "isaiah 33:14:5"
   ]
 }

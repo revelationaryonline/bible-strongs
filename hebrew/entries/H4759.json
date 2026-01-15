@@ -37,15 +37,16 @@
     "zh": "远景；也（因果关系）是一面镜子"
   },
   "verses": [
-    "genesis 46:2",
-    "exodus 38:8",
-    "numbers 12:6",
-    "firstSamuel 3:15",
-    "ezekiel 1:1",
-    "ezekiel 8:3",
-    "ezekiel 40:2",
-    "daniel 10:7",
-    "daniel 10:8",
-    "daniel 10:16"
+    "genesis 46:2:3",
+    "exodus 38:8:7",
+    "numbers 12:6:8",
+    "firstSamuel 3:15:13",
+    "ezekiel 1:1:15",
+    "ezekiel 8:3:16",
+    "ezekiel 40:2:0",
+    "daniel 10:7:5",
+    "daniel 10:7:13",
+    "daniel 10:8:5",
+    "daniel 10:16:15"
   ]
 }

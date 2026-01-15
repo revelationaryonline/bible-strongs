@@ -37,9 +37,10 @@
   },
   "hebrew": "כָּפַל",
   "verses": [
-    "exodus 26:9",
-    "exodus 28:16",
-    "exodus 39:9",
-    "ezekiel 21:19"
+    "exodus 26:9:9",
+    "exodus 28:16:2",
+    "exodus 39:9:2",
+    "exodus 39:9:10",
+    "ezekiel 21:19:8"
   ]
 }

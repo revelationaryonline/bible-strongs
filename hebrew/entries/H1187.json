@@ -37,10 +37,11 @@
   },
   "hebrew": "בַּעַל פְּעוֹר",
   "verses": [
-    "numbers 25:3",
-    "numbers 25:5",
-    "deuteronomy 4:3",
-    "psalms 106:28",
-    "hosea 9:10"
+    "numbers 25:3:3",
+    "numbers 25:5:10",
+    "deuteronomy 4:3:7",
+    "deuteronomy 4:3:15",
+    "psalms 106:28:2",
+    "hosea 9:10:12"
   ]
 }

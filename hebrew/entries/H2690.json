@@ -37,11 +37,17 @@
   },
   "hebrew": "חָצַר",
   "verses": [
-    "firstChronicles 15:24",
-    "secondChronicles 5:12",
-    "secondChronicles 5:13",
-    "secondChronicles 7:6",
-    "secondChronicles 13:14",
-    "secondChronicles 29:28"
+    "firstChronicles 15:24:8",
+    "firstChronicles 15:24:9",
+    "secondChronicles 5:12:20",
+    "secondChronicles 5:12:21",
+    "secondChronicles 5:13:2",
+    "secondChronicles 5:13:3",
+    "secondChronicles 7:6:21",
+    "secondChronicles 7:6:22",
+    "secondChronicles 13:14:10",
+    "secondChronicles 13:14:11",
+    "secondChronicles 29:28:6",
+    "secondChronicles 29:28:7"
   ]
 }

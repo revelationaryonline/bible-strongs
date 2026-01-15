@@ -37,16 +37,16 @@
     "zh": "皮鞭"
   },
   "verses": [
-    "firstKings 12:11",
-    "firstKings 12:14",
-    "secondChronicles 10:11",
-    "secondChronicles 10:14",
-    "job 5:21",
-    "job 9:23",
-    "proverbs 26:3",
-    "isaiah 10:26",
-    "isaiah 28:15",
-    "isaiah 28:18",
-    "nahum 3:2"
+    "firstKings 12:11:13",
+    "firstKings 12:14:16",
+    "secondChronicles 10:11:13",
+    "secondChronicles 10:14:14",
+    "job 5:21:0",
+    "job 9:23:1",
+    "proverbs 26:3:0",
+    "isaiah 10:26:4",
+    "isaiah 28:15:11",
+    "isaiah 28:18:9",
+    "nahum 3:2:1"
   ]
 }

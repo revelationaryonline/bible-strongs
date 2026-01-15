@@ -37,13 +37,14 @@
   },
   "hebrew": "כְּמוֹשׁ",
   "verses": [
-    "numbers 21:29",
-    "judges 11:24",
-    "firstKings 11:7",
-    "firstKings 11:33",
-    "secondKings 23:13",
-    "jeremiah 48:7",
-    "jeremiah 48:13",
-    "jeremiah 48:46"
+    "numbers 21:29:5",
+    "judges 11:24:4",
+    "firstKings 11:7:4",
+    "firstKings 11:33:7",
+    "secondKings 23:13:18",
+    "jeremiah 48:7:9",
+    "jeremiah 48:7:10",
+    "jeremiah 48:13:2",
+    "jeremiah 48:46:5"
   ]
 }

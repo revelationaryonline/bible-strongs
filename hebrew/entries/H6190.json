@@ -37,21 +37,21 @@
     "zh": "包皮"
   },
   "verses": [
-    "genesis 17:11",
-    "genesis 17:14",
-    "genesis 17:23",
-    "genesis 17:24",
-    "genesis 17:25",
-    "genesis 34:14",
-    "exodus 4:25",
-    "leviticus 12:3",
-    "leviticus 19:23",
-    "deuteronomy 10:16",
-    "joshua 5:3",
-    "firstSamuel 18:25",
-    "firstSamuel 18:27",
-    "secondSamuel 3:14",
-    "jeremiah 4:4",
-    "jeremiah 9:24"
+    "genesis 17:11:3",
+    "genesis 17:14:7",
+    "genesis 17:23:21",
+    "genesis 17:24:7",
+    "genesis 17:25:9",
+    "genesis 34:14:13",
+    "exodus 4:25:5",
+    "leviticus 12:3:4",
+    "leviticus 19:23:9",
+    "deuteronomy 10:16:2",
+    "joshua 5:3:11",
+    "firstSamuel 18:25:11",
+    "firstSamuel 18:27:12",
+    "secondSamuel 3:14:18",
+    "jeremiah 4:4:3",
+    "jeremiah 9:24:9"
   ]
 }

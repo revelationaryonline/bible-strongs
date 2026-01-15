@@ -37,15 +37,16 @@
     "zh": "以角对角；比喻战争"
   },
   "verses": [
-    "exodus 21:28",
-    "exodus 21:31",
-    "exodus 21:32",
-    "deuteronomy 33:17",
-    "firstKings 22:11",
-    "secondChronicles 18:10",
-    "psalms 44:6",
-    "ezekiel 34:21",
-    "daniel 8:4",
-    "daniel 11:40"
+    "exodus 21:28:1",
+    "exodus 21:31:2",
+    "exodus 21:31:5",
+    "exodus 21:32:2",
+    "deuteronomy 33:17:9",
+    "firstKings 22:11:12",
+    "secondChronicles 18:10:12",
+    "psalms 44:6:2",
+    "ezekiel 34:21:5",
+    "daniel 8:4:3",
+    "daniel 11:40:2"
   ]
 }

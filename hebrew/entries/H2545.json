@@ -37,15 +37,16 @@
   },
   "hebrew": "חֲמוֹת",
   "verses": [
-    "ruth 1:14",
-    "ruth 2:11",
-    "ruth 2:18",
-    "ruth 2:19",
-    "ruth 2:23",
-    "ruth 3:1",
-    "ruth 3:6",
-    "ruth 3:16",
-    "ruth 3:17",
-    "micah 7:6"
+    "ruth 1:14:6",
+    "ruth 2:11:11",
+    "ruth 2:18:4",
+    "ruth 2:19:2",
+    "ruth 2:19:12",
+    "ruth 2:23:12",
+    "ruth 3:1:3",
+    "ruth 3:6:6",
+    "ruth 3:16:2",
+    "ruth 3:17:13",
+    "micah 7:6:8"
   ]
 }

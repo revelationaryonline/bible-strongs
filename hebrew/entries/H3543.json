@@ -37,12 +37,13 @@
   },
   "hebrew": "כָּהָה",
   "verses": [
-    "genesis 27:1",
-    "deuteronomy 34:7",
-    "firstSamuel 3:13",
-    "job 17:7",
-    "isaiah 42:4",
-    "ezekiel 21:12",
-    "zechariah 11:17"
+    "genesis 27:1:4",
+    "deuteronomy 34:7:7",
+    "firstSamuel 3:13:17",
+    "job 17:7:0",
+    "isaiah 42:4:1",
+    "ezekiel 21:12:19",
+    "zechariah 11:17:16",
+    "zechariah 11:17:17"
   ]
 }

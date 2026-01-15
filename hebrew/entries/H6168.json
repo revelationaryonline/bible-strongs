@@ -37,19 +37,20 @@
     "zh": "使（因果关系，使）光秃秃；因此，掏空、倾倒、拆毁"
   },
   "verses": [
-    "genesis 24:20",
-    "leviticus 20:18",
-    "leviticus 20:19",
-    "secondChronicles 24:11",
-    "psalms 37:35",
-    "psalms 137:7",
-    "psalms 141:8",
-    "isaiah 3:17",
-    "isaiah 22:6",
-    "isaiah 32:15",
-    "isaiah 53:12",
-    "lamentations 4:21",
-    "habakkuk 3:13",
-    "zephaniah 2:14"
+    "genesis 24:20:1",
+    "leviticus 20:18:11",
+    "leviticus 20:19:10",
+    "secondChronicles 24:11:20",
+    "psalms 37:35:3",
+    "psalms 137:7:8",
+    "psalms 137:7:9",
+    "psalms 141:8:8",
+    "isaiah 3:17:7",
+    "isaiah 22:6:7",
+    "isaiah 32:15:1",
+    "isaiah 53:12:10",
+    "lamentations 4:21:13",
+    "habakkuk 3:13:10",
+    "zephaniah 2:14:19"
   ]
 }

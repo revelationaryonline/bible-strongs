@@ -37,18 +37,21 @@
     "zh": "联盟"
   },
   "verses": [
-    "secondSamuel 15:12",
-    "firstKings 16:20",
-    "secondKings 11:14",
-    "secondKings 12:21",
-    "secondKings 14:19",
-    "secondKings 15:15",
-    "secondKings 15:30",
-    "secondKings 17:4",
-    "secondChronicles 23:13",
-    "secondChronicles 25:27",
-    "isaiah 8:12",
-    "jeremiah 11:9",
-    "ezekiel 22:25"
+    "secondSamuel 15:12:13",
+    "firstKings 16:20:3",
+    "secondKings 11:14:22",
+    "secondKings 11:14:23",
+    "secondKings 12:21:3",
+    "secondKings 14:19:2",
+    "secondKings 15:15:3",
+    "secondKings 15:30:1",
+    "secondKings 17:4:4",
+    "secondChronicles 23:13:27",
+    "secondChronicles 23:13:28",
+    "secondChronicles 25:27:8",
+    "isaiah 8:12:2",
+    "isaiah 8:12:8",
+    "jeremiah 11:9:4",
+    "ezekiel 22:25:0"
   ]
 }

@@ -37,11 +37,13 @@
     "zh": "老鹰"
   },
   "verses": [
-    "genesis 15:11",
-    "job 28:7",
-    "isaiah 18:6",
-    "isaiah 46:11",
-    "jeremiah 12:9",
-    "ezekiel 39:4"
+    "genesis 15:11:1",
+    "job 28:7:3",
+    "isaiah 18:6:2",
+    "isaiah 18:6:8",
+    "isaiah 46:11:2",
+    "jeremiah 12:9:0",
+    "jeremiah 12:9:4",
+    "ezekiel 39:4:10"
   ]
 }

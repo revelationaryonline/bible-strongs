@@ -37,13 +37,14 @@
   },
   "hebrew": "כְּסוּת",
   "verses": [
-    "genesis 20:16",
-    "exodus 21:10",
-    "exodus 22:26",
-    "deuteronomy 22:12",
-    "job 24:7",
-    "job 26:6",
-    "job 31:19",
-    "isaiah 50:3"
+    "genesis 20:16:10",
+    "exodus 21:10:5",
+    "exodus 22:26:2",
+    "exodus 22:26:3",
+    "deuteronomy 22:12:6",
+    "job 24:7:5",
+    "job 26:6:4",
+    "job 31:19:6",
+    "isaiah 50:3:5"
   ]
 }

@@ -37,21 +37,21 @@
     "zh": "沙漠"
   },
   "verses": [
-    "job 24:19",
-    "job 30:3",
-    "psalms 63:2",
-    "psalms 78:17",
-    "psalms 105:41",
-    "psalms 107:35",
-    "isaiah 35:1",
-    "isaiah 41:18",
-    "isaiah 53:2",
-    "jeremiah 2:6",
-    "jeremiah 50:12",
-    "jeremiah 51:43",
-    "ezekiel 19:13",
-    "hosea 2:5",
-    "joel 2:20",
-    "zephaniah 2:13"
+    "job 24:19:0",
+    "job 30:3:4",
+    "psalms 63:2:11",
+    "psalms 78:17:6",
+    "psalms 105:41:5",
+    "psalms 107:35:5",
+    "isaiah 35:1:2",
+    "isaiah 41:18:12",
+    "isaiah 53:2:5",
+    "jeremiah 2:6:15",
+    "jeremiah 50:12:9",
+    "jeremiah 51:43:4",
+    "ezekiel 19:13:4",
+    "hosea 2:5:10",
+    "joel 2:20:7",
+    "zephaniah 2:13:11"
   ]
 }

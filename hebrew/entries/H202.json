@@ -37,17 +37,17 @@
   },
   "hebrew": "אוֹן",
   "verses": [
-    "genesis 49:3",
-    "deuteronomy 21:17",
-    "job 18:7",
-    "job 18:12",
-    "job 20:10",
-    "job 40:16",
-    "psalms 78:51",
-    "psalms 105:36",
-    "isaiah 40:26",
-    "isaiah 40:29",
-    "hosea 12:4",
-    "hosea 12:9"
+    "genesis 49:3:5",
+    "deuteronomy 21:17:17",
+    "job 18:7:2",
+    "job 18:12:2",
+    "job 20:10:5",
+    "job 40:16:4",
+    "psalms 78:51:5",
+    "psalms 105:36:6",
+    "isaiah 40:26:14",
+    "isaiah 40:29:4",
+    "hosea 12:4:4",
+    "hosea 12:9:5"
   ]
 }

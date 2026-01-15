@@ -37,17 +37,18 @@
     "zh": "暴风骤雨"
   },
   "verses": [
-    "job 30:3",
-    "job 30:14",
-    "job 38:27",
-    "psalms 35:8",
-    "psalms 35:17",
-    "psalms 63:10",
-    "proverbs 1:27",
-    "proverbs 3:25",
-    "isaiah 10:3",
-    "isaiah 47:11",
-    "ezekiel 38:9",
-    "zephaniah 1:15"
+    "job 30:3:6",
+    "job 30:14:4",
+    "job 38:27:1",
+    "psalms 35:8:1",
+    "psalms 35:8:8",
+    "psalms 35:17:5",
+    "psalms 63:10:1",
+    "proverbs 1:27:2",
+    "proverbs 3:25:4",
+    "isaiah 10:3:4",
+    "isaiah 47:11:15",
+    "ezekiel 38:9:1",
+    "zephaniah 1:15:8"
   ]
 }

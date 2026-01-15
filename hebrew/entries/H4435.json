@@ -37,15 +37,16 @@
     "zh": "米利凯，一个希伯来女人和一个以色列人的名字"
   },
   "verses": [
-    "genesis 11:29",
-    "genesis 22:20",
-    "genesis 22:23",
-    "genesis 24:15",
-    "genesis 24:24",
-    "genesis 24:47",
-    "numbers 26:33",
-    "numbers 27:1",
-    "numbers 36:11",
-    "joshua 17:3"
+    "genesis 11:29:12",
+    "genesis 11:29:16",
+    "genesis 22:20:9",
+    "genesis 22:23:7",
+    "genesis 24:15:12",
+    "genesis 24:24:6",
+    "genesis 24:47:14",
+    "numbers 26:33:16",
+    "numbers 27:1:21",
+    "numbers 36:11:4",
+    "joshua 17:3:22"
   ]
 }

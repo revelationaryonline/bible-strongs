@@ -37,15 +37,20 @@
     "zh": "改动；暗指交换、处置"
   },
   "verses": [
-    "leviticus 27:10",
-    "leviticus 27:33",
-    "psalms 15:4",
-    "psalms 46:3",
-    "psalms 106:20",
-    "jeremiah 2:11",
-    "jeremiah 48:11",
-    "ezekiel 48:14",
-    "hosea 4:7",
-    "micah 2:4"
+    "leviticus 27:10:3",
+    "leviticus 27:10:11",
+    "leviticus 27:10:12",
+    "leviticus 27:33:6",
+    "leviticus 27:33:8",
+    "leviticus 27:33:9",
+    "psalms 15:4:10",
+    "psalms 46:3:4",
+    "psalms 106:20:0",
+    "jeremiah 2:11:0",
+    "jeremiah 2:11:7",
+    "jeremiah 48:11:22",
+    "ezekiel 48:14:4",
+    "hosea 4:7:6",
+    "micah 2:4:13"
   ]
 }

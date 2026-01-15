@@ -37,10 +37,11 @@
   },
   "hebrew": "חֹמֶץ",
   "verses": [
-    "numbers 6:3",
-    "ruth 2:14",
-    "psalms 69:22",
-    "proverbs 10:26",
-    "proverbs 25:20"
+    "numbers 6:3:3",
+    "numbers 6:3:5",
+    "ruth 2:14:12",
+    "psalms 69:22:5",
+    "proverbs 10:26:0",
+    "proverbs 25:20:4"
   ]
 }

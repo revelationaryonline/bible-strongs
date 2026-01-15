@@ -37,18 +37,20 @@
   },
   "hebrew": "כּוֹרֶשׁ",
   "verses": [
-    "secondChronicles 36:22",
-    "secondChronicles 36:23",
-    "ezra 1:1",
-    "ezra 1:2",
-    "ezra 1:7",
-    "ezra 1:8",
-    "ezra 3:7",
-    "ezra 4:3",
-    "ezra 4:5",
-    "isaiah 44:28",
-    "isaiah 45:1",
-    "daniel 1:21",
-    "daniel 10:1"
+    "secondChronicles 36:22:2",
+    "secondChronicles 36:22:14",
+    "secondChronicles 36:23:2",
+    "ezra 1:1:2",
+    "ezra 1:1:14",
+    "ezra 1:2:2",
+    "ezra 1:7:1",
+    "ezra 1:8:1",
+    "ezra 3:7:18",
+    "ezra 4:3:24",
+    "ezra 4:5:7",
+    "isaiah 44:28:1",
+    "isaiah 45:1:4",
+    "daniel 1:21:5",
+    "daniel 10:1:2"
   ]
 }

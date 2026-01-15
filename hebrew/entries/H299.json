@@ -37,10 +37,10 @@
   },
   "hebrew": "אֲחִירַע",
   "verses": [
-    "numbers 1:15",
-    "numbers 2:29",
-    "numbers 7:78",
-    "numbers 7:83",
-    "numbers 10:27"
+    "numbers 1:15:1",
+    "numbers 2:29:5",
+    "numbers 7:78:7",
+    "numbers 7:83:14",
+    "numbers 10:27:5"
   ]
 }

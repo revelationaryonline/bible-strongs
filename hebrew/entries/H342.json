@@ -37,10 +37,10 @@
   },
   "hebrew": "אֵיבָה",
   "verses": [
-    "genesis 3:15",
-    "numbers 35:21",
-    "numbers 35:22",
-    "ezekiel 25:15",
-    "ezekiel 35:5"
+    "genesis 3:15:0",
+    "numbers 35:21:1",
+    "numbers 35:22:3",
+    "ezekiel 25:15:13",
+    "ezekiel 35:5:3"
   ]
 }

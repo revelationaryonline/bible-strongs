@@ -37,19 +37,19 @@
     "zh": "本义指器乐；引申为弦乐器；引申为配乐诗歌；特指咏物诗"
   },
   "verses": [
-    "job 30:9",
-    "psalms 4:1",
-    "psalms 6:1",
-    "psalms 54:1",
-    "psalms 55:1",
-    "psalms 61:1",
-    "psalms 67:1",
-    "psalms 69:13",
-    "psalms 76:1",
-    "psalms 77:7",
-    "isaiah 38:20",
-    "lamentations 3:14",
-    "lamentations 5:14",
-    "habakkuk 3:19"
+    "job 30:9:1",
+    "psalms 4:1:1",
+    "psalms 6:1:1",
+    "psalms 54:1:1",
+    "psalms 55:1:1",
+    "psalms 61:1:2",
+    "psalms 67:1:1",
+    "psalms 69:13:4",
+    "psalms 76:1:1",
+    "psalms 77:7:1",
+    "isaiah 38:20:2",
+    "lamentations 3:14:4",
+    "lamentations 5:14:4",
+    "habakkuk 3:19:10"
   ]
 }

@@ -37,14 +37,14 @@
   },
   "hebrew": "דָּלַק",
   "verses": [
-    "genesis 31:36",
-    "firstSamuel 17:53",
-    "psalms 7:14",
-    "psalms 10:2",
-    "proverbs 26:23",
-    "isaiah 5:11",
-    "lamentations 4:19",
-    "ezekiel 24:10",
-    "obadiah 1:18"
+    "genesis 31:36:13",
+    "firstSamuel 17:53:3",
+    "psalms 7:14:5",
+    "psalms 10:2:2",
+    "proverbs 26:23:6",
+    "isaiah 5:11:8",
+    "lamentations 4:19:7",
+    "ezekiel 24:10:2",
+    "obadiah 1:18:10"
   ]
 }

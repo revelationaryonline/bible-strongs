@@ -37,14 +37,16 @@
     "zh": "嘶嘶声，即低声念咒；一般指预言"
   },
   "verses": [
-    "genesis 30:27",
-    "genesis 44:5",
-    "genesis 44:15",
-    "leviticus 19:26",
-    "deuteronomy 18:10",
-    "firstKings 20:33",
-    "secondKings 17:17",
-    "secondKings 21:6",
-    "secondChronicles 33:6"
+    "genesis 30:27:8",
+    "genesis 44:5:7",
+    "genesis 44:5:8",
+    "genesis 44:15:11",
+    "genesis 44:15:12",
+    "leviticus 19:26:5",
+    "deuteronomy 18:10:10",
+    "firstKings 20:33:1",
+    "secondKings 17:17:8",
+    "secondKings 21:6:5",
+    "secondChronicles 33:6:9"
   ]
 }

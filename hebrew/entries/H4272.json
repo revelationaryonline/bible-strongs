@@ -37,19 +37,19 @@
     "zh": "打碎；暗指压碎、砸碎或猛烈地撞击；比喻制服或摧毁"
   },
   "verses": [
-    "numbers 24:8",
-    "numbers 24:17",
-    "deuteronomy 32:39",
-    "deuteronomy 33:11",
-    "judges 5:26",
-    "secondSamuel 22:39",
-    "job 5:18",
-    "job 26:12",
-    "psalms 18:39",
-    "psalms 68:22",
-    "psalms 68:24",
-    "psalms 110:5",
-    "psalms 110:6",
-    "habakkuk 3:13"
+    "numbers 24:8:12",
+    "numbers 24:17:12",
+    "deuteronomy 32:39:12",
+    "deuteronomy 33:11:6",
+    "judges 5:26:10",
+    "secondSamuel 22:39:1",
+    "job 5:18:4",
+    "job 26:12:5",
+    "psalms 18:39:0",
+    "psalms 68:22:2",
+    "psalms 68:24:1",
+    "psalms 110:5:3",
+    "psalms 110:6:4",
+    "habakkuk 3:13:6"
   ]
 }

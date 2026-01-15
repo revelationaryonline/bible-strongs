@@ -37,16 +37,17 @@
     "zh": "固定的东西，即县长、军职、雕像"
   },
   "verses": [
-    "genesis 19:26",
-    "firstSamuel 10:5",
-    "firstSamuel 13:3",
-    "firstSamuel 13:4",
-    "secondSamuel 8:6",
-    "secondSamuel 8:14",
-    "firstKings 4:19",
-    "firstChronicles 11:16",
-    "firstChronicles 18:13",
-    "secondChronicles 8:10",
-    "secondChronicles 17:2"
+    "genesis 19:26:4",
+    "firstSamuel 10:5:7",
+    "firstSamuel 13:3:3",
+    "firstSamuel 13:4:7",
+    "secondSamuel 8:6:2",
+    "secondSamuel 8:14:2",
+    "secondSamuel 8:14:6",
+    "firstKings 4:19:12",
+    "firstChronicles 11:16:3",
+    "firstChronicles 18:13:2",
+    "secondChronicles 8:10:2",
+    "secondChronicles 17:2:7"
   ]
 }

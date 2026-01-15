@@ -37,10 +37,10 @@
   },
   "hebrew": "אֱלִיצוּר",
   "verses": [
-    "numbers 1:5",
-    "numbers 2:10",
-    "numbers 7:30",
-    "numbers 7:35",
-    "numbers 10:18"
+    "numbers 1:5:7",
+    "numbers 2:10:8",
+    "numbers 7:30:5",
+    "numbers 7:35:14",
+    "numbers 10:18:7"
   ]
 }

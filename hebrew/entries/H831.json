@@ -37,16 +37,17 @@
   },
   "hebrew": "אַשְׁקְלוֹן",
   "verses": [
-    "judges 1:18",
-    "judges 14:19",
-    "firstSamuel 6:17",
-    "secondSamuel 1:20",
-    "jeremiah 25:20",
-    "jeremiah 47:5",
-    "jeremiah 47:7",
-    "amos 1:8",
-    "zephaniah 2:4",
-    "zephaniah 2:7",
-    "zechariah 9:5"
+    "judges 1:18:7",
+    "judges 14:19:5",
+    "firstSamuel 6:17:12",
+    "secondSamuel 1:20:6",
+    "jeremiah 25:20:14",
+    "jeremiah 47:5:5",
+    "jeremiah 47:7:6",
+    "amos 1:8:5",
+    "zephaniah 2:4:4",
+    "zephaniah 2:7:8",
+    "zechariah 9:5:1",
+    "zechariah 9:5:13"
   ]
 }

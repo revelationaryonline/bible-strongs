@@ -37,12 +37,12 @@
   },
   "hebrew": "גֵּו",
   "verses": [
-    "job 30:5",
-    "proverbs 10:13",
-    "proverbs 19:29",
-    "proverbs 26:3",
-    "isaiah 38:17",
-    "isaiah 50:6",
-    "isaiah 51:23"
+    "job 30:5:1",
+    "proverbs 10:13:5",
+    "proverbs 19:29:4",
+    "proverbs 26:3:5",
+    "isaiah 38:17:13",
+    "isaiah 50:6:0",
+    "isaiah 51:23:10"
   ]
 }

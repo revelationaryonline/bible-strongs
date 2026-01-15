@@ -37,14 +37,17 @@
     "zh": "发出；因果关系上，引出"
   },
   "verses": [
-    "ezra 5:14",
-    "ezra 6:5",
-    "daniel 2:13",
-    "daniel 2:14",
-    "daniel 3:26",
-    "daniel 5:2",
-    "daniel 5:3",
-    "daniel 5:5",
-    "daniel 7:10"
+    "ezra 5:14:10",
+    "ezra 5:14:20",
+    "ezra 6:5:9",
+    "daniel 2:13:1",
+    "daniel 2:14:11",
+    "daniel 3:26:18",
+    "daniel 3:26:21",
+    "daniel 5:2:9",
+    "daniel 5:3:5",
+    "daniel 5:5:2",
+    "daniel 5:5:3",
+    "daniel 7:10:4"
   ]
 }

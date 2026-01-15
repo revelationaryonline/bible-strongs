@@ -37,15 +37,17 @@
     "zh": "角"
   },
   "verses": [
-    "exodus 26:24",
-    "exodus 36:29",
-    "secondChronicles 26:9",
-    "nehemiah 3:19",
-    "nehemiah 3:20",
-    "nehemiah 3:24",
-    "nehemiah 3:25",
-    "ezekiel 41:22",
-    "ezekiel 46:21",
-    "ezekiel 46:22"
+    "exodus 26:24:15",
+    "exodus 36:29:15",
+    "secondChronicles 26:9:11",
+    "nehemiah 3:19:13",
+    "nehemiah 3:20:10",
+    "nehemiah 3:24:10",
+    "nehemiah 3:25:4",
+    "ezekiel 41:22:8",
+    "ezekiel 46:21:7",
+    "ezekiel 46:21:11",
+    "ezekiel 46:21:14",
+    "ezekiel 46:22:1"
   ]
 }

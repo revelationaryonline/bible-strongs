@@ -37,9 +37,9 @@
   },
   "hebrew": "כָּמַר",
   "verses": [
-    "genesis 43:30",
-    "firstKings 3:26",
-    "lamentations 5:10",
-    "hosea 11:8"
+    "genesis 43:30:3",
+    "firstKings 3:26:8",
+    "lamentations 5:10:2",
+    "hosea 11:8:14"
   ]
 }

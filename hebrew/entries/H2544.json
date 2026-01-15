@@ -37,17 +37,18 @@
   },
   "hebrew": "חֲמוֹר",
   "verses": [
-    "genesis 33:19",
-    "genesis 34:2",
-    "genesis 34:4",
-    "genesis 34:6",
-    "genesis 34:8",
-    "genesis 34:13",
-    "genesis 34:18",
-    "genesis 34:20",
-    "genesis 34:24",
-    "genesis 34:26",
-    "joshua 24:32",
-    "judges 9:28"
+    "genesis 33:19:10",
+    "genesis 34:2:4",
+    "genesis 34:4:3",
+    "genesis 34:6:1",
+    "genesis 34:8:1",
+    "genesis 34:13:6",
+    "genesis 34:18:3",
+    "genesis 34:18:7",
+    "genesis 34:20:1",
+    "genesis 34:24:2",
+    "genesis 34:26:1",
+    "joshua 24:32:17",
+    "judges 9:28:18"
   ]
 }

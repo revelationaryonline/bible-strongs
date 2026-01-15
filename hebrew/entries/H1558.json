@@ -37,15 +37,15 @@
   },
   "hebrew": "גָּלָל",
   "verses": [
-    "genesis 12:13",
-    "genesis 30:27",
-    "genesis 39:5",
-    "deuteronomy 1:37",
-    "deuteronomy 15:10",
-    "deuteronomy 18:12",
-    "firstKings 14:16",
-    "jeremiah 11:17",
-    "jeremiah 15:4",
-    "micah 3:12"
+    "genesis 12:13:10",
+    "genesis 30:27:11",
+    "genesis 39:5:15",
+    "deuteronomy 1:37:4",
+    "deuteronomy 15:10:9",
+    "deuteronomy 18:12:6",
+    "firstKings 14:16:3",
+    "jeremiah 11:17:7",
+    "jeremiah 15:4:6",
+    "micah 3:12:1"
   ]
 }

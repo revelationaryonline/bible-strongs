@@ -37,13 +37,15 @@
     "zh": "小驴（刚刚断奶）；因此是驴栓子"
   },
   "verses": [
-    "genesis 32:16",
-    "genesis 49:11",
-    "judges 10:4",
-    "judges 12:14",
-    "job 11:12",
-    "isaiah 30:6",
-    "isaiah 30:24",
-    "zechariah 9:9"
+    "genesis 32:16:10",
+    "genesis 49:11:2",
+    "genesis 49:11:3",
+    "judges 10:4:7",
+    "judges 10:4:9",
+    "judges 12:14:10",
+    "job 11:12:3",
+    "isaiah 30:6:15",
+    "isaiah 30:24:1",
+    "zechariah 9:9:19"
   ]
 }

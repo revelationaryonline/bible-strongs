@@ -37,15 +37,15 @@
   },
   "hebrew": "טָבַע",
   "verses": [
-    "exodus 15:4",
-    "firstSamuel 17:49",
-    "job 38:6",
-    "psalms 9:16",
-    "psalms 69:3",
-    "psalms 69:15",
-    "proverbs 8:25",
-    "jeremiah 38:6",
-    "jeremiah 38:22",
-    "lamentations 2:9"
+    "exodus 15:4:7",
+    "firstSamuel 17:49:15",
+    "job 38:6:3",
+    "psalms 9:16:0",
+    "psalms 69:3:0",
+    "psalms 69:15:3",
+    "proverbs 8:25:2",
+    "jeremiah 38:6:23",
+    "jeremiah 38:22:20",
+    "lamentations 2:9:0"
   ]
 }

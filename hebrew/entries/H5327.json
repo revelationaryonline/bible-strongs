@@ -37,15 +37,16 @@
     "zh": "亡，即（暗指）被驱逐，（因此）荒废；因果关系上指荒废；还（特指）争吵"
   },
   "verses": [
-    "exodus 2:13",
-    "exodus 21:22",
-    "leviticus 24:10",
-    "numbers 26:9",
-    "deuteronomy 25:11",
-    "secondSamuel 14:6",
-    "secondKings 19:25",
-    "psalms 60:2",
-    "isaiah 37:26",
-    "jeremiah 4:7"
+    "exodus 2:13:7",
+    "exodus 21:22:1",
+    "leviticus 24:10:11",
+    "numbers 26:9:12",
+    "numbers 26:9:19",
+    "deuteronomy 25:11:1",
+    "secondSamuel 14:6:3",
+    "secondKings 19:25:13",
+    "psalms 60:2:0",
+    "isaiah 37:26:13",
+    "jeremiah 4:7:12"
   ]
 }

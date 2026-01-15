@@ -36,16 +36,17 @@
   },
   "hebrew": "הִמּוֹ",
   "verses": [
-    "ezra 4:10",
-    "ezra 4:23",
-    "ezra 5:5",
-    "ezra 5:11",
-    "ezra 5:12",
-    "ezra 5:14",
-    "ezra 5:15",
-    "ezra 7:17",
-    "daniel 2:34",
-    "daniel 2:35",
-    "daniel 3:22"
+    "ezra 4:10:8",
+    "ezra 4:23:21",
+    "ezra 5:5:8",
+    "ezra 5:11:5",
+    "ezra 5:12:8",
+    "ezra 5:14:16",
+    "ezra 5:14:21",
+    "ezra 5:15:8",
+    "ezra 7:17:13",
+    "daniel 2:34:17",
+    "daniel 2:35:14",
+    "daniel 3:22:20"
   ]
 }

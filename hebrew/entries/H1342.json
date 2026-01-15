@@ -37,10 +37,12 @@
   },
   "hebrew": "גָּאָה",
   "verses": [
-    "exodus 15:1",
-    "exodus 15:21",
-    "job 8:11",
-    "job 10:16",
-    "ezekiel 47:5"
+    "exodus 15:1:14",
+    "exodus 15:1:15",
+    "exodus 15:21:6",
+    "exodus 15:21:7",
+    "job 8:11:0",
+    "job 10:16:0",
+    "ezekiel 47:5:8"
   ]
 }

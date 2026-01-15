@@ -37,7 +37,9 @@
   },
   "hebrew": "חֲרֹשֶׁת",
   "verses": [
-    "exodus 31:5",
-    "exodus 35:33"
+    "exodus 31:5:0",
+    "exodus 31:5:3",
+    "exodus 35:33:0",
+    "exodus 35:33:3"
   ]
 }

@@ -37,14 +37,14 @@
   },
   "hebrew": "יָע",
   "verses": [
-    "exodus 27:3",
-    "exodus 38:3",
-    "numbers 4:14",
-    "firstKings 7:40",
-    "firstKings 7:45",
-    "secondKings 25:14",
-    "secondChronicles 4:11",
-    "secondChronicles 4:16",
-    "jeremiah 52:18"
+    "exodus 27:3:3",
+    "exodus 38:3:8",
+    "numbers 4:14:14",
+    "firstKings 7:40:5",
+    "firstKings 7:45:3",
+    "secondKings 25:14:3",
+    "secondChronicles 4:11:5",
+    "secondChronicles 4:16:3",
+    "jeremiah 52:18:3"
   ]
 }

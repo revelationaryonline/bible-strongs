@@ -37,10 +37,10 @@
   },
   "hebrew": "גִּדְעֹנִי",
   "verses": [
-    "numbers 1:11",
-    "numbers 2:22",
-    "numbers 7:60",
-    "numbers 7:65",
-    "numbers 10:24"
+    "numbers 1:11:3",
+    "numbers 2:22:7",
+    "numbers 7:60:7",
+    "numbers 7:65:16",
+    "numbers 10:24:7"
   ]
 }

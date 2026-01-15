@@ -37,10 +37,12 @@
   },
   "hebrew": "אֶלְנָתָן",
   "verses": [
-    "secondKings 24:8",
-    "ezra 8:16",
-    "jeremiah 26:22",
-    "jeremiah 36:12",
-    "jeremiah 36:25"
+    "secondKings 24:8:14",
+    "ezra 8:16:4",
+    "ezra 8:16:6",
+    "ezra 8:16:12",
+    "jeremiah 26:22:6",
+    "jeremiah 36:12:16",
+    "jeremiah 36:25:1"
   ]
 }

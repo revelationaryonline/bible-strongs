@@ -37,18 +37,18 @@
     "zh": "雏羊"
   },
   "verses": [
-    "genesis 30:32",
-    "genesis 30:33",
-    "genesis 30:35",
-    "genesis 30:40",
-    "leviticus 1:10",
-    "leviticus 3:7",
-    "leviticus 4:35",
-    "leviticus 7:23",
-    "leviticus 17:3",
-    "leviticus 22:19",
-    "leviticus 22:27",
-    "numbers 18:17",
-    "deuteronomy 14:4"
+    "genesis 30:32:13",
+    "genesis 30:33:17",
+    "genesis 30:35:18",
+    "genesis 30:40:0",
+    "leviticus 1:10:5",
+    "leviticus 3:7:1",
+    "leviticus 4:35:7",
+    "leviticus 7:23:8",
+    "leviticus 17:3:8",
+    "leviticus 22:19:4",
+    "leviticus 22:27:2",
+    "numbers 18:17:5",
+    "deuteronomy 14:4:6"
   ]
 }

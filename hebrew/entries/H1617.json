@@ -37,14 +37,14 @@
   },
   "hebrew": "גֵּרָא",
   "verses": [
-    "genesis 46:21",
-    "judges 3:15",
-    "secondSamuel 16:5",
-    "secondSamuel 19:17",
-    "secondSamuel 19:19",
-    "firstKings 2:8",
-    "firstChronicles 8:3",
-    "firstChronicles 8:5",
-    "firstChronicles 8:7"
+    "genesis 46:21:5",
+    "judges 3:15:12",
+    "secondSamuel 16:5:15",
+    "secondSamuel 19:17:3",
+    "secondSamuel 19:19:12",
+    "firstKings 2:8:4",
+    "firstChronicles 8:3:4",
+    "firstChronicles 8:5:0",
+    "firstChronicles 8:7:2"
   ]
 }

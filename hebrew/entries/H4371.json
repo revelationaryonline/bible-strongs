@@ -37,11 +37,11 @@
     "zh": "评估"
   },
   "verses": [
-    "numbers 31:28",
-    "numbers 31:37",
-    "numbers 31:38",
-    "numbers 31:39",
-    "numbers 31:40",
-    "numbers 31:41"
+    "numbers 31:28:1",
+    "numbers 31:37:1",
+    "numbers 31:38:4",
+    "numbers 31:39:5",
+    "numbers 31:40:5",
+    "numbers 31:41:3"
   ]
 }

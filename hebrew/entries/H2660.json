@@ -37,14 +37,14 @@
   },
   "hebrew": "חֵפֶר",
   "verses": [
-    "numbers 26:32",
-    "numbers 26:33",
-    "numbers 27:1",
-    "joshua 12:17",
-    "joshua 17:2",
-    "joshua 17:3",
-    "firstKings 4:10",
-    "firstChronicles 4:6",
-    "firstChronicles 11:36"
+    "numbers 26:32:3",
+    "numbers 26:33:2",
+    "numbers 27:1:4",
+    "joshua 12:17:4",
+    "joshua 17:2:14",
+    "joshua 17:3:2",
+    "firstKings 4:10:7",
+    "firstChronicles 4:6:6",
+    "firstChronicles 11:36:0"
   ]
 }

@@ -37,18 +37,20 @@
   },
   "hebrew": "דָּגָה",
   "verses": [
-    "genesis 1:26",
-    "genesis 1:28",
-    "exodus 7:18",
-    "exodus 7:21",
-    "numbers 11:5",
-    "deuteronomy 4:18",
-    "psalms 105:29",
-    "isaiah 50:2",
-    "ezekiel 29:4",
-    "ezekiel 29:5",
-    "ezekiel 47:9",
-    "ezekiel 47:10",
-    "jonah 2:2"
+    "genesis 1:26:7",
+    "genesis 1:28:13",
+    "exodus 7:18:0",
+    "exodus 7:21:0",
+    "numbers 11:5:2",
+    "deuteronomy 4:18:6",
+    "psalms 105:29:6",
+    "isaiah 50:2:24",
+    "ezekiel 29:4:5",
+    "ezekiel 29:4:13",
+    "ezekiel 29:5:5",
+    "ezekiel 47:9:14",
+    "ezekiel 47:10:15",
+    "ezekiel 47:10:16",
+    "jonah 2:2:6"
   ]
 }

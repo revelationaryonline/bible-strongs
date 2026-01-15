@@ -37,10 +37,10 @@
   },
   "hebrew": "גַּמְלִיאֵל",
   "verses": [
-    "numbers 1:10",
-    "numbers 2:20",
-    "numbers 7:54",
-    "numbers 7:59",
-    "numbers 10:23"
+    "numbers 1:10:7",
+    "numbers 2:20:6",
+    "numbers 7:54:5",
+    "numbers 7:59:14",
+    "numbers 10:23:5"
   ]
 }

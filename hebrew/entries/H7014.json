@@ -37,20 +37,23 @@
     "zh": "卡金，第一个孩子的名字，也是巴勒斯坦的一个地名和一个东方部落的名字"
   },
   "verses": [
-    "genesis 4:1",
-    "genesis 4:2",
-    "genesis 4:3",
-    "genesis 4:5",
-    "genesis 4:6",
-    "genesis 4:8",
-    "genesis 4:9",
-    "genesis 4:13",
-    "genesis 4:15",
-    "genesis 4:16",
-    "genesis 4:17",
-    "genesis 4:24",
-    "genesis 4:25",
-    "numbers 24:22",
-    "joshua 15:57"
+    "genesis 4:1:8",
+    "genesis 4:2:10",
+    "genesis 4:3:4",
+    "genesis 4:5:1",
+    "genesis 4:5:7",
+    "genesis 4:6:3",
+    "genesis 4:8:1",
+    "genesis 4:8:9",
+    "genesis 4:9:3",
+    "genesis 4:13:1",
+    "genesis 4:15:6",
+    "genesis 4:15:11",
+    "genesis 4:16:1",
+    "genesis 4:17:1",
+    "genesis 4:24:3",
+    "genesis 4:25:21",
+    "numbers 24:22:4",
+    "joshua 15:57:0"
   ]
 }

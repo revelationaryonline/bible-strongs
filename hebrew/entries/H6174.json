@@ -37,20 +37,21 @@
     "zh": "裸体"
   },
   "verses": [
-    "genesis 2:25",
-    "firstSamuel 19:24",
-    "job 1:21",
-    "job 22:6",
-    "job 24:7",
-    "job 24:10",
-    "job 26:6",
-    "ecclesiastes 5:14",
-    "isaiah 20:2",
-    "isaiah 20:3",
-    "isaiah 20:4",
-    "isaiah 58:7",
-    "hosea 2:5",
-    "amos 2:16",
-    "micah 1:8"
+    "genesis 2:25:2",
+    "firstSamuel 19:24:10",
+    "job 1:21:1",
+    "job 1:21:6",
+    "job 22:6:5",
+    "job 24:7:0",
+    "job 24:10:0",
+    "job 26:6:0",
+    "ecclesiastes 5:14:4",
+    "isaiah 20:2:21",
+    "isaiah 20:3:6",
+    "isaiah 20:4:12",
+    "isaiah 58:7:10",
+    "hosea 2:5:2",
+    "amos 2:16:3",
+    "micah 1:8:7"
   ]
 }

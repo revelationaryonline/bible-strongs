@@ -37,17 +37,18 @@
     "zh": "开怀大笑"
   },
   "verses": [
-    "genesis 17:17",
-    "genesis 18:12",
-    "genesis 18:13",
-    "genesis 18:15",
-    "genesis 19:14",
-    "genesis 21:6",
-    "genesis 21:9",
-    "genesis 26:8",
-    "genesis 39:14",
-    "genesis 39:17",
-    "exodus 32:6",
-    "judges 16:25"
+    "genesis 17:17:4",
+    "genesis 18:12:0",
+    "genesis 18:13:6",
+    "genesis 18:15:4",
+    "genesis 18:15:10",
+    "genesis 19:14:19",
+    "genesis 21:6:8",
+    "genesis 21:9:9",
+    "genesis 26:8:15",
+    "genesis 39:14:11",
+    "genesis 39:17:12",
+    "exodus 32:6:11",
+    "judges 16:25:15"
   ]
 }

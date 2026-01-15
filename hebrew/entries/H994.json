@@ -37,17 +37,17 @@
   },
   "hebrew": "בִּי",
   "verses": [
-    "genesis 43:20",
-    "genesis 44:18",
-    "exodus 4:10",
-    "exodus 4:13",
-    "numbers 12:11",
-    "joshua 7:8",
-    "judges 6:13",
-    "judges 6:15",
-    "judges 13:8",
-    "firstSamuel 1:26",
-    "firstKings 3:17",
-    "firstKings 3:26"
+    "genesis 43:20:1",
+    "genesis 44:18:4",
+    "exodus 4:10:4",
+    "exodus 4:13:1",
+    "numbers 12:11:4",
+    "joshua 7:8:0",
+    "judges 6:13:3",
+    "judges 6:15:2",
+    "judges 13:8:5",
+    "firstSamuel 1:26:1",
+    "firstKings 3:17:3",
+    "firstKings 3:26:13"
   ]
 }

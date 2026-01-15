@@ -37,11 +37,12 @@
   },
   "hebrew": "אֲחֹרַנִּית",
   "verses": [
-    "genesis 9:23",
-    "firstSamuel 4:18",
-    "firstKings 18:37",
-    "secondKings 20:10",
-    "secondKings 20:11",
-    "isaiah 38:8"
+    "genesis 9:23:10",
+    "genesis 9:23:16",
+    "firstSamuel 4:18:8",
+    "firstKings 18:37:14",
+    "secondKings 20:10:11",
+    "secondKings 20:11:13",
+    "isaiah 38:8:10"
   ]
 }

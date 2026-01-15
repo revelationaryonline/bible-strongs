@@ -37,15 +37,15 @@
     "zh": "裸体"
   },
   "verses": [
-    "genesis 3:7",
-    "genesis 3:10",
-    "genesis 3:11",
-    "deuteronomy 28:48",
-    "ezekiel 16:7",
-    "ezekiel 16:22",
-    "ezekiel 16:39",
-    "ezekiel 18:7",
-    "ezekiel 18:16",
-    "ezekiel 23:29"
+    "genesis 3:7:5",
+    "genesis 3:10:7",
+    "genesis 3:11:5",
+    "deuteronomy 28:48:9",
+    "ezekiel 16:7:14",
+    "ezekiel 16:22:11",
+    "ezekiel 16:39:14",
+    "ezekiel 18:7:12",
+    "ezekiel 18:16:12",
+    "ezekiel 23:29:7"
   ]
 }

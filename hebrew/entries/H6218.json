@@ -37,21 +37,21 @@
     "zh": "十；缩写形式为十根弦，因此是十和弦"
   },
   "verses": [
-    "genesis 24:55",
-    "exodus 12:3",
-    "leviticus 16:29",
-    "leviticus 23:27",
-    "leviticus 25:9",
-    "numbers 29:7",
-    "joshua 4:19",
-    "secondKings 25:1",
-    "psalms 33:2",
-    "psalms 92:4",
-    "psalms 144:9",
-    "jeremiah 52:4",
-    "jeremiah 52:12",
-    "ezekiel 20:1",
-    "ezekiel 24:1",
-    "ezekiel 40:1"
+    "genesis 24:55:8",
+    "exodus 12:3:6",
+    "leviticus 16:29:6",
+    "leviticus 23:27:1",
+    "leviticus 25:9:5",
+    "numbers 29:7:0",
+    "joshua 4:19:4",
+    "secondKings 25:1:6",
+    "psalms 33:2:4",
+    "psalms 92:4:1",
+    "psalms 144:9:6",
+    "jeremiah 52:4:6",
+    "jeremiah 52:12:2",
+    "ezekiel 20:1:4",
+    "ezekiel 24:1:8",
+    "ezekiel 40:1:6"
   ]
 }

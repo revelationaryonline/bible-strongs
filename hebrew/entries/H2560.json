@@ -37,11 +37,12 @@
   },
   "hebrew": "חָמַר",
   "verses": [
-    "exodus 2:3",
-    "job 16:16",
-    "psalms 46:4",
-    "psalms 75:9",
-    "lamentations 1:20",
-    "lamentations 2:11"
+    "exodus 2:3:8",
+    "job 16:16:1",
+    "job 16:16:2",
+    "psalms 46:4:1",
+    "psalms 75:9:5",
+    "lamentations 1:20:6",
+    "lamentations 2:11:3"
   ]
 }

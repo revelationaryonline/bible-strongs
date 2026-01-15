@@ -37,17 +37,17 @@
   },
   "hebrew": "אֲבִיהוּא",
   "verses": [
-    "exodus 6:23",
-    "exodus 24:1",
-    "exodus 24:9",
-    "exodus 28:1",
-    "leviticus 10:1",
-    "numbers 3:2",
-    "numbers 3:4",
-    "numbers 26:60",
-    "numbers 26:61",
-    "firstChronicles 5:29",
-    "firstChronicles 24:1",
-    "firstChronicles 24:2"
+    "exodus 6:23:15",
+    "exodus 24:1:9",
+    "exodus 24:9:4",
+    "exodus 28:1:16",
+    "leviticus 10:1:4",
+    "numbers 3:2:6",
+    "numbers 3:4:2",
+    "numbers 26:60:5",
+    "numbers 26:61:2",
+    "firstChronicles 5:29:8",
+    "firstChronicles 24:1:6",
+    "firstChronicles 24:2:2"
   ]
 }

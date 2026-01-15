@@ -37,18 +37,19 @@
     "zh": "苦口"
   },
   "verses": [
-    "genesis 49:23",
-    "exodus 1:14",
-    "exodus 23:21",
-    "ruth 1:13",
-    "ruth 1:20",
-    "secondKings 4:27",
-    "job 27:2",
-    "isaiah 22:4",
-    "isaiah 24:9",
-    "isaiah 38:17",
-    "daniel 8:7",
-    "daniel 11:11",
-    "zechariah 12:10"
+    "genesis 49:23:0",
+    "exodus 1:14:0",
+    "exodus 23:21:5",
+    "ruth 1:13:13",
+    "ruth 1:20:10",
+    "secondKings 4:27:18",
+    "job 27:2:5",
+    "isaiah 22:4:5",
+    "isaiah 24:9:4",
+    "isaiah 38:17:4",
+    "daniel 8:7:4",
+    "daniel 11:11:0",
+    "zechariah 12:10:20",
+    "zechariah 12:10:22"
   ]
 }

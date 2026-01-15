@@ -37,12 +37,13 @@
   },
   "hebrew": "חָח",
   "verses": [
-    "exodus 35:22",
-    "secondKings 19:28",
-    "isaiah 37:29",
-    "ezekiel 19:4",
-    "ezekiel 19:9",
-    "ezekiel 29:4",
-    "ezekiel 38:4"
+    "exodus 35:22:8",
+    "secondKings 19:28:7",
+    "isaiah 37:29:7",
+    "ezekiel 19:4:6",
+    "ezekiel 19:9:2",
+    "ezekiel 29:4:1",
+    "ezekiel 29:4:2",
+    "ezekiel 38:4:2"
   ]
 }

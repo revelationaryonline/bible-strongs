@@ -37,17 +37,19 @@
     "zh": "骡子"
   },
   "verses": [
-    "secondSamuel 13:29",
-    "secondSamuel 18:9",
-    "firstKings 10:25",
-    "firstKings 18:5",
-    "secondKings 5:17",
-    "firstChronicles 12:41",
-    "secondChronicles 9:24",
-    "ezra 2:66",
-    "psalms 32:9",
-    "isaiah 66:20",
-    "ezekiel 27:14",
-    "zechariah 14:15"
+    "secondSamuel 13:29:14",
+    "secondSamuel 18:9:8",
+    "secondSamuel 18:9:10",
+    "secondSamuel 18:9:23",
+    "firstKings 10:25:12",
+    "firstKings 18:5:18",
+    "secondKings 5:17:8",
+    "firstChronicles 12:41:11",
+    "secondChronicles 9:24:12",
+    "ezra 2:66:5",
+    "psalms 32:9:3",
+    "isaiah 66:20:11",
+    "ezekiel 27:14:4",
+    "zechariah 14:15:4"
   ]
 }

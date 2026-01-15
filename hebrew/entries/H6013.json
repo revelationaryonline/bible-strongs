@@ -37,21 +37,22 @@
     "zh": "深邃"
   },
   "verses": [
-    "leviticus 13:3",
-    "leviticus 13:4",
-    "leviticus 13:25",
-    "leviticus 13:30",
-    "leviticus 13:31",
-    "leviticus 13:32",
-    "leviticus 13:34",
-    "job 11:8",
-    "job 12:22",
-    "psalms 64:7",
-    "proverbs 18:4",
-    "proverbs 20:5",
-    "proverbs 22:14",
-    "proverbs 23:27",
-    "ecclesiastes 7:24",
-    "ezekiel 23:32"
+    "leviticus 13:3:12",
+    "leviticus 13:4:6",
+    "leviticus 13:25:9",
+    "leviticus 13:30:6",
+    "leviticus 13:31:9",
+    "leviticus 13:32:18",
+    "leviticus 13:34:13",
+    "job 11:8:4",
+    "job 12:22:1",
+    "psalms 64:7:8",
+    "proverbs 18:4:1",
+    "proverbs 20:5:1",
+    "proverbs 22:14:1",
+    "proverbs 23:27:2",
+    "ecclesiastes 7:24:3",
+    "ecclesiastes 7:24:4",
+    "ezekiel 23:32:7"
   ]
 }

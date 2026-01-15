@@ -37,15 +37,16 @@
   },
   "hebrew": "דְּדָן",
   "verses": [
-    "genesis 10:7",
-    "genesis 25:3",
-    "firstChronicles 1:9",
-    "firstChronicles 1:32",
-    "jeremiah 25:23",
-    "jeremiah 49:8",
-    "ezekiel 25:13",
-    "ezekiel 27:15",
-    "ezekiel 27:20",
-    "ezekiel 38:13"
+    "genesis 10:7:10",
+    "genesis 25:3:5",
+    "genesis 25:3:7",
+    "firstChronicles 1:9:10",
+    "firstChronicles 1:32:15",
+    "jeremiah 25:23:1",
+    "jeremiah 49:8:5",
+    "ezekiel 25:13:16",
+    "ezekiel 27:15:1",
+    "ezekiel 27:20:0",
+    "ezekiel 38:13:1"
   ]
 }

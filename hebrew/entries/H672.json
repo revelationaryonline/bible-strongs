@@ -37,14 +37,15 @@
   },
   "hebrew": "אֶפְרָת",
   "verses": [
-    "genesis 35:16",
-    "genesis 35:19",
-    "genesis 48:7",
-    "ruth 4:11",
-    "firstChronicles 2:19",
-    "firstChronicles 2:50",
-    "firstChronicles 4:4",
-    "psalms 132:6",
-    "micah 5:1"
+    "genesis 35:16:8",
+    "genesis 35:19:4",
+    "genesis 48:7:13",
+    "genesis 48:7:17",
+    "ruth 4:11:24",
+    "firstChronicles 2:19:6",
+    "firstChronicles 2:50:7",
+    "firstChronicles 4:4:10",
+    "psalms 132:6:2",
+    "micah 5:1:3"
   ]
 }

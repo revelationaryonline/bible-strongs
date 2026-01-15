@@ -37,14 +37,15 @@
     "zh": "下沉，即下降；因果关系上，按下或引下"
   },
   "verses": [
-    "firstSamuel 2:10",
-    "secondSamuel 22:35",
-    "job 21:13",
-    "psalms 18:35",
-    "psalms 38:3",
-    "psalms 65:11",
-    "proverbs 17:10",
-    "jeremiah 21:13",
-    "joel 4:11"
+    "firstSamuel 2:10:1",
+    "secondSamuel 22:35:3",
+    "job 21:13:6",
+    "psalms 18:35:3",
+    "psalms 38:3:2",
+    "psalms 38:3:4",
+    "psalms 65:11:2",
+    "proverbs 17:10:0",
+    "jeremiah 21:13:10",
+    "joel 4:11:7"
   ]
 }

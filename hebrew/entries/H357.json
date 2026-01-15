@@ -37,15 +37,15 @@
   },
   "hebrew": "אַיָּלוֹן",
   "verses": [
-    "joshua 10:12",
-    "joshua 19:42",
-    "joshua 21:24",
-    "judges 1:35",
-    "judges 12:12",
-    "firstSamuel 14:31",
-    "firstChronicles 6:54",
-    "firstChronicles 8:13",
-    "secondChronicles 11:10",
-    "secondChronicles 28:18"
+    "joshua 10:12:20",
+    "joshua 19:42:1",
+    "joshua 21:24:1",
+    "judges 1:35:5",
+    "judges 12:12:4",
+    "firstSamuel 14:31:5",
+    "firstChronicles 6:54:1",
+    "firstChronicles 8:13:6",
+    "secondChronicles 11:10:3",
+    "secondChronicles 28:18:11"
   ]
 }

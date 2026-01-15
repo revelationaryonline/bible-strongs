@@ -37,16 +37,16 @@
   },
   "hebrew": "הָדַף",
   "verses": [
-    "numbers 35:20",
-    "numbers 35:22",
-    "deuteronomy 6:19",
-    "deuteronomy 9:4",
-    "joshua 23:5",
-    "secondKings 4:27",
-    "job 18:18",
-    "proverbs 10:3",
-    "isaiah 22:19",
-    "jeremiah 46:15",
-    "ezekiel 34:21"
+    "numbers 35:20:2",
+    "numbers 35:22:4",
+    "deuteronomy 6:19:0",
+    "deuteronomy 9:4:3",
+    "joshua 23:5:3",
+    "secondKings 4:27:10",
+    "job 18:18:0",
+    "proverbs 10:3:7",
+    "isaiah 22:19:0",
+    "jeremiah 46:15:7",
+    "ezekiel 34:21:3"
   ]
 }

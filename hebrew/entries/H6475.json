@@ -37,20 +37,20 @@
     "zh": "张开"
   },
   "verses": [
-    "genesis 4:11",
-    "numbers 16:30",
-    "deuteronomy 11:6",
-    "judges 11:35",
-    "judges 11:36",
-    "job 35:16",
-    "psalms 22:14",
-    "psalms 66:14",
-    "psalms 144:7",
-    "psalms 144:10",
-    "psalms 144:11",
-    "isaiah 10:14",
-    "lamentations 2:16",
-    "lamentations 3:46",
-    "ezekiel 2:8"
+    "genesis 4:11:6",
+    "numbers 16:30:4",
+    "deuteronomy 11:6:9",
+    "judges 11:35:15",
+    "judges 11:36:3",
+    "job 35:16:2",
+    "psalms 22:14:0",
+    "psalms 66:14:1",
+    "psalms 144:7:3",
+    "psalms 144:10:3",
+    "psalms 144:11:0",
+    "isaiah 10:14:16",
+    "lamentations 2:16:0",
+    "lamentations 3:46:0",
+    "ezekiel 2:8:14"
   ]
 }

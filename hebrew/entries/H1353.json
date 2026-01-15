@@ -37,18 +37,19 @@
   },
   "hebrew": "גְּאֻלָּה",
   "verses": [
-    "leviticus 25:24",
-    "leviticus 25:26",
-    "leviticus 25:29",
-    "leviticus 25:31",
-    "leviticus 25:32",
-    "leviticus 25:48",
-    "leviticus 25:51",
-    "leviticus 25:52",
-    "ruth 4:6",
-    "ruth 4:7",
-    "jeremiah 32:7",
-    "jeremiah 32:8",
-    "ezekiel 11:15"
+    "leviticus 25:24:3",
+    "leviticus 25:26:10",
+    "leviticus 25:29:8",
+    "leviticus 25:29:15",
+    "leviticus 25:31:11",
+    "leviticus 25:32:5",
+    "leviticus 25:48:2",
+    "leviticus 25:51:6",
+    "leviticus 25:52:13",
+    "ruth 4:6:15",
+    "ruth 4:7:4",
+    "jeremiah 32:7:17",
+    "jeremiah 32:8:26",
+    "ezekiel 11:15:5"
   ]
 }

@@ -37,16 +37,17 @@
   },
   "hebrew": "אֲבִינָדָב",
   "verses": [
-    "firstSamuel 7:1",
-    "firstSamuel 16:8",
-    "firstSamuel 17:13",
-    "firstSamuel 31:2",
-    "secondSamuel 6:3",
-    "secondSamuel 6:4",
-    "firstChronicles 2:13",
-    "firstChronicles 8:33",
-    "firstChronicles 9:39",
-    "firstChronicles 10:2",
-    "firstChronicles 13:7"
+    "firstSamuel 7:1:12",
+    "firstSamuel 16:8:3",
+    "firstSamuel 17:13:18",
+    "firstSamuel 31:2:11",
+    "secondSamuel 6:3:9",
+    "secondSamuel 6:3:15",
+    "secondSamuel 6:4:2",
+    "firstChronicles 2:13:6",
+    "firstChronicles 8:33:16",
+    "firstChronicles 9:39:16",
+    "firstChronicles 10:2:11",
+    "firstChronicles 13:7:8"
   ]
 }

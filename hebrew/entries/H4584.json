@@ -7,12 +7,14 @@
   "kjvTranslation": "Maon, Maonites. Compare H1010 (בֵּית בַּעַל מְעוֹן), H4586 (מְעוּנִי)lemma מְעוּנָי third vowel, corrected to מְעוּנִי.",
   "hebrew": "מָעוֹן",
   "verses": [
-    "joshua 15:55",
-    "judges 10:12",
-    "firstSamuel 23:24",
-    "firstSamuel 23:25",
-    "firstSamuel 25:2",
-    "firstChronicles 2:45"
+    "joshua 15:55:0",
+    "judges 10:12:2",
+    "firstSamuel 23:24:8",
+    "firstSamuel 23:25:10",
+    "firstSamuel 23:25:17",
+    "firstSamuel 25:2:1",
+    "firstChronicles 2:45:2",
+    "firstChronicles 2:45:3"
   ],
   "translations": {
     "bg": "Маон, име на израилтянин и на място в Палестина",

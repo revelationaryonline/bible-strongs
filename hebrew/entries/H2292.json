@@ -37,16 +37,16 @@
   },
   "hebrew": "חַגַּי",
   "verses": [
-    "ezra 5:1",
-    "ezra 6:14",
-    "haggai 1:1",
-    "haggai 1:3",
-    "haggai 1:12",
-    "haggai 1:13",
-    "haggai 2:1",
-    "haggai 2:10",
-    "haggai 2:13",
-    "haggai 2:14",
-    "haggai 2:20"
+    "ezra 5:1:1",
+    "ezra 6:14:5",
+    "haggai 1:1:13",
+    "haggai 1:3:4",
+    "haggai 1:12:17",
+    "haggai 1:13:1",
+    "haggai 2:1:8",
+    "haggai 2:10:10",
+    "haggai 2:13:1",
+    "haggai 2:14:1",
+    "haggai 2:20:5"
   ]
 }

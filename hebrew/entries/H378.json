@@ -37,15 +37,16 @@
   },
   "hebrew": "אִישׁ־בֹּשֶׁת",
   "verses": [
-    "secondSamuel 2:8",
-    "secondSamuel 2:10",
-    "secondSamuel 2:12",
-    "secondSamuel 2:15",
-    "secondSamuel 3:8",
-    "secondSamuel 3:14",
-    "secondSamuel 3:15",
-    "secondSamuel 4:5",
-    "secondSamuel 4:8",
-    "secondSamuel 4:12"
+    "secondSamuel 2:8:10",
+    "secondSamuel 2:10:4",
+    "secondSamuel 2:12:6",
+    "secondSamuel 2:15:7",
+    "secondSamuel 3:8:6",
+    "secondSamuel 3:14:5",
+    "secondSamuel 3:15:2",
+    "secondSamuel 4:5:12",
+    "secondSamuel 4:8:4",
+    "secondSamuel 4:8:14",
+    "secondSamuel 4:12:17"
   ]
 }

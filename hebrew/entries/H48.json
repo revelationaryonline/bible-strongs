@@ -37,14 +37,16 @@
   },
   "hebrew": "אֲבִירָם",
   "verses": [
-    "numbers 16:1",
-    "numbers 16:12",
-    "numbers 16:24",
-    "numbers 16:25",
-    "numbers 16:27",
-    "numbers 26:9",
-    "deuteronomy 11:6",
-    "firstKings 16:34",
-    "psalms 106:17"
+    "numbers 16:1:9",
+    "numbers 16:12:4",
+    "numbers 16:24:9",
+    "numbers 16:25:5",
+    "numbers 16:27:5",
+    "numbers 16:27:8",
+    "numbers 26:9:4",
+    "numbers 26:9:7",
+    "deuteronomy 11:6:3",
+    "firstKings 16:34:7",
+    "psalms 106:17:7"
   ]
 }

@@ -37,14 +37,16 @@
   },
   "hebrew": "חוֹחַ",
   "verses": [
-    "secondKings 14:9",
-    "secondChronicles 25:18",
-    "secondChronicles 33:11",
-    "job 31:40",
-    "job 40:26",
-    "proverbs 26:9",
-    "solomon 2:2",
-    "isaiah 34:13",
-    "hosea 9:6"
+    "secondKings 14:9:9",
+    "secondKings 14:9:30",
+    "secondChronicles 25:18:9",
+    "secondChronicles 25:18:30",
+    "secondChronicles 33:11:12",
+    "job 31:40:3",
+    "job 40:26:3",
+    "proverbs 26:9:0",
+    "solomon 2:2:2",
+    "isaiah 34:13:4",
+    "hosea 9:6:12"
   ]
 }

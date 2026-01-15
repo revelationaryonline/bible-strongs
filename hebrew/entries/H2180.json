@@ -37,14 +37,16 @@
   },
   "hebrew": "זָנָב",
   "verses": [
-    "exodus 4:4",
-    "deuteronomy 28:13",
-    "deuteronomy 28:44",
-    "judges 15:4",
-    "job 40:17",
-    "isaiah 7:4",
-    "isaiah 9:13",
-    "isaiah 9:14",
-    "isaiah 19:15"
+    "exodus 4:4:7",
+    "deuteronomy 28:13:4",
+    "deuteronomy 28:44:10",
+    "judges 15:4:9",
+    "judges 15:4:11",
+    "judges 15:4:17",
+    "job 40:17:1",
+    "isaiah 7:4:10",
+    "isaiah 9:13:4",
+    "isaiah 9:14:9",
+    "isaiah 19:15:7"
   ]
 }

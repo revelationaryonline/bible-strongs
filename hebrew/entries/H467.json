@@ -37,14 +37,14 @@
   },
   "hebrew": "אֱלִיפֶלֶט",
   "verses": [
-    "secondSamuel 5:16",
-    "secondSamuel 23:34",
-    "firstChronicles 3:6",
-    "firstChronicles 3:8",
-    "firstChronicles 8:39",
-    "firstChronicles 14:5",
-    "firstChronicles 14:7",
-    "ezra 8:13",
-    "ezra 10:33"
+    "secondSamuel 5:16:2",
+    "secondSamuel 23:34:0",
+    "firstChronicles 3:6:2",
+    "firstChronicles 3:8:2",
+    "firstChronicles 8:39:7",
+    "firstChronicles 14:5:2",
+    "firstChronicles 14:7:2",
+    "ezra 8:13:5",
+    "ezra 10:33:5"
   ]
 }

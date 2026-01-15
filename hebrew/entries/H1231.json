@@ -37,9 +37,10 @@
   },
   "hebrew": "בֻּקִּי",
   "verses": [
-    "numbers 34:22",
-    "firstChronicles 5:31",
-    "firstChronicles 6:36",
-    "ezra 7:4"
+    "numbers 34:22:4",
+    "firstChronicles 5:31:3",
+    "firstChronicles 5:31:4",
+    "firstChronicles 6:36:0",
+    "ezra 7:4:5"
   ]
 }

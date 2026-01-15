@@ -37,16 +37,16 @@
   },
   "hebrew": "טָבַח",
   "verses": [
-    "genesis 43:16",
-    "exodus 21:37",
-    "deuteronomy 28:31",
-    "firstSamuel 25:11",
-    "psalms 37:14",
-    "proverbs 9:2",
-    "jeremiah 11:19",
-    "jeremiah 25:34",
-    "jeremiah 51:40",
-    "lamentations 2:21",
-    "ezekiel 21:15"
+    "genesis 43:16:13",
+    "exodus 21:37:6",
+    "deuteronomy 28:31:1",
+    "firstSamuel 25:11:8",
+    "psalms 37:14:8",
+    "proverbs 9:2:0",
+    "jeremiah 11:19:4",
+    "jeremiah 25:34:9",
+    "jeremiah 51:40:2",
+    "lamentations 2:21:12",
+    "ezekiel 21:15:1"
   ]
 }

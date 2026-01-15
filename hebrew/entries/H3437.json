@@ -37,8 +37,9 @@
   },
   "hebrew": "יָשׁוּב",
   "verses": [
-    "numbers 26:24",
-    "firstChronicles 7:1",
-    "ezra 10:29"
+    "numbers 26:24:0",
+    "firstChronicles 7:1:4",
+    "firstChronicles 7:1:5",
+    "ezra 10:29:5"
   ]
 }

@@ -37,18 +37,19 @@
   },
   "hebrew": "בֵּית חוֹרוֹן",
   "verses": [
-    "joshua 10:10",
-    "joshua 10:11",
-    "joshua 16:3",
-    "joshua 16:5",
-    "joshua 18:13",
-    "joshua 18:14",
-    "joshua 21:22",
-    "firstSamuel 13:18",
-    "firstKings 9:17",
-    "firstChronicles 6:53",
-    "firstChronicles 7:24",
-    "secondChronicles 8:5",
-    "secondChronicles 25:13"
+    "joshua 10:10:12",
+    "joshua 10:11:7",
+    "joshua 16:3:8",
+    "joshua 16:5:13",
+    "joshua 18:13:20",
+    "joshua 18:14:12",
+    "joshua 21:22:6",
+    "firstSamuel 13:18:5",
+    "firstKings 9:17:6",
+    "firstChronicles 6:53:6",
+    "firstChronicles 7:24:5",
+    "secondChronicles 8:5:3",
+    "secondChronicles 8:5:7",
+    "secondChronicles 25:13:14"
   ]
 }

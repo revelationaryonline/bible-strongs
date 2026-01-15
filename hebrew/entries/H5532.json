@@ -37,15 +37,17 @@
     "zh": "熟悉；意指服侍、适合、习惯"
   },
   "verses": [
-    "numbers 22:30",
-    "firstKings 1:2",
-    "firstKings 1:4",
-    "job 15:3",
-    "job 22:2",
-    "job 22:21",
-    "job 34:9",
-    "job 35:3",
-    "psalms 139:3",
-    "isaiah 22:15"
+    "numbers 22:30:14",
+    "numbers 22:30:15",
+    "firstKings 1:2:13",
+    "firstKings 1:4:6",
+    "job 15:3:3",
+    "job 22:2:1",
+    "job 22:2:4",
+    "job 22:21:0",
+    "job 34:9:3",
+    "job 35:3:3",
+    "psalms 139:3:5",
+    "isaiah 22:15:8"
   ]
 }

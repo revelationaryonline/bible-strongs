@@ -37,15 +37,15 @@
   },
   "hebrew": "יָקַץ",
   "verses": [
-    "genesis 9:24",
-    "genesis 28:16",
-    "genesis 41:4",
-    "genesis 41:7",
-    "genesis 41:21",
-    "judges 16:14",
-    "judges 16:20",
-    "firstKings 3:15",
-    "firstKings 18:27",
-    "psalms 78:65"
+    "genesis 9:24:0",
+    "genesis 28:16:0",
+    "genesis 41:4:12",
+    "genesis 41:7:8",
+    "genesis 41:21:13",
+    "judges 16:14:7",
+    "judges 16:20:4",
+    "firstKings 3:15:0",
+    "firstKings 18:27:23",
+    "psalms 78:65:0"
   ]
 }

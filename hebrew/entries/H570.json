@@ -37,10 +37,10 @@
   },
   "hebrew": "אֶמֶשׁ",
   "verses": [
-    "genesis 19:34",
-    "genesis 31:29",
-    "genesis 31:42",
-    "secondKings 9:26",
-    "job 30:3"
+    "genesis 19:34:8",
+    "genesis 31:29:8",
+    "genesis 31:42:21",
+    "secondKings 9:26:9",
+    "job 30:3:5"
   ]
 }

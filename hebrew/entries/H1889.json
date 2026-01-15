@@ -37,14 +37,17 @@
   },
   "hebrew": "הֶאָח",
   "verses": [
-    "job 39:25",
-    "psalms 35:21",
-    "psalms 35:25",
-    "psalms 40:16",
-    "psalms 70:4",
-    "isaiah 44:16",
-    "ezekiel 25:3",
-    "ezekiel 26:2",
-    "ezekiel 36:2"
+    "job 39:25:3",
+    "psalms 35:21:4",
+    "psalms 35:21:5",
+    "psalms 35:25:3",
+    "psalms 40:16:6",
+    "psalms 40:16:7",
+    "psalms 70:4:5",
+    "psalms 70:4:6",
+    "isaiah 44:16:14",
+    "ezekiel 25:3:13",
+    "ezekiel 26:2:8",
+    "ezekiel 36:2:8"
   ]
 }

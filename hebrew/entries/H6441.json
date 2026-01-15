@@ -37,17 +37,18 @@
     "zh": "朝向，即室内"
   },
   "verses": [
-    "leviticus 10:18",
-    "firstKings 6:18",
-    "firstKings 6:19",
-    "firstKings 6:21",
-    "firstKings 6:30",
-    "secondKings 7:11",
-    "secondChronicles 3:4",
-    "secondChronicles 29:16",
-    "secondChronicles 29:18",
-    "psalms 45:14",
-    "ezekiel 40:16",
-    "ezekiel 41:3"
+    "leviticus 10:18:7",
+    "firstKings 6:18:3",
+    "firstKings 6:19:3",
+    "firstKings 6:21:4",
+    "firstKings 6:30:5",
+    "secondKings 7:11:5",
+    "secondChronicles 3:4:15",
+    "secondChronicles 29:16:2",
+    "secondChronicles 29:18:1",
+    "psalms 45:14:4",
+    "ezekiel 40:16:6",
+    "ezekiel 40:16:15",
+    "ezekiel 41:3:1"
   ]
 }

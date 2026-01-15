@@ -37,14 +37,18 @@
     "zh": "片段"
   },
   "verses": [
-    "exodus 29:17",
-    "leviticus 1:6",
-    "leviticus 1:8",
-    "leviticus 1:12",
-    "leviticus 8:20",
-    "leviticus 9:13",
-    "judges 19:29",
-    "ezekiel 24:4",
-    "ezekiel 24:6"
+    "exodus 29:17:3",
+    "exodus 29:17:9",
+    "leviticus 1:6:5",
+    "leviticus 1:8:5",
+    "leviticus 1:12:2",
+    "leviticus 8:20:3",
+    "leviticus 8:20:9",
+    "leviticus 9:13:4",
+    "judges 19:29:12",
+    "ezekiel 24:4:1",
+    "ezekiel 24:4:4",
+    "ezekiel 24:6:16",
+    "ezekiel 24:6:17"
   ]
 }

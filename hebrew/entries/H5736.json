@@ -37,13 +37,14 @@
     "zh": "冗长"
   },
   "verses": [
-    "exodus 16:18",
-    "exodus 16:23",
-    "exodus 26:12",
-    "exodus 26:13",
-    "leviticus 25:27",
-    "numbers 3:46",
-    "numbers 3:48",
-    "numbers 3:49"
+    "exodus 16:18:3",
+    "exodus 16:23:21",
+    "exodus 26:12:1",
+    "exodus 26:12:6",
+    "exodus 26:13:4",
+    "leviticus 25:27:6",
+    "numbers 3:46:5",
+    "numbers 3:48:5",
+    "numbers 3:49:6"
   ]
 }

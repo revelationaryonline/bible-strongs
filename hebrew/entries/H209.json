@@ -37,11 +37,13 @@
   },
   "hebrew": "אוֹנָן",
   "verses": [
-    "genesis 38:4",
-    "genesis 38:8",
-    "genesis 38:9",
-    "genesis 46:12",
-    "numbers 26:19",
-    "firstChronicles 2:3"
+    "genesis 38:4:7",
+    "genesis 38:8:2",
+    "genesis 38:9:1",
+    "genesis 46:12:3",
+    "genesis 46:12:9",
+    "numbers 26:19:3",
+    "numbers 26:19:6",
+    "firstChronicles 2:3:3"
   ]
 }

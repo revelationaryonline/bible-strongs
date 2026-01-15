@@ -37,15 +37,15 @@
   },
   "hebrew": "יָצַר",
   "verses": [
-    "genesis 32:8",
-    "judges 2:15",
-    "judges 10:9",
-    "firstSamuel 30:6",
-    "secondSamuel 13:2",
-    "nehemiah 9:27",
-    "job 18:7",
-    "job 20:22",
-    "proverbs 4:12",
-    "isaiah 49:19"
+    "genesis 32:8:3",
+    "judges 2:15:15",
+    "judges 10:9:11",
+    "firstSamuel 30:6:0",
+    "secondSamuel 13:2:0",
+    "nehemiah 9:27:3",
+    "job 18:7:0",
+    "job 20:22:2",
+    "proverbs 4:12:2",
+    "isaiah 49:19:7"
   ]
 }

@@ -37,15 +37,17 @@
     "zh": "{余数}"
   },
   "verses": [
-    "ezra 4:9",
-    "ezra 4:10",
-    "ezra 4:17",
-    "ezra 6:16",
-    "ezra 7:18",
-    "ezra 7:20",
-    "daniel 2:18",
-    "daniel 7:7",
-    "daniel 7:12",
-    "daniel 7:19"
+    "ezra 4:9:6",
+    "ezra 4:10:0",
+    "ezra 4:10:12",
+    "ezra 4:17:9",
+    "ezra 4:17:14",
+    "ezra 6:16:5",
+    "ezra 7:18:8",
+    "ezra 7:20:0",
+    "daniel 2:18:15",
+    "daniel 7:7:21",
+    "daniel 7:12:0",
+    "daniel 7:19:23"
   ]
 }

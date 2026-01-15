@@ -37,11 +37,12 @@
   },
   "hebrew": "חַבּוּרָה",
   "verses": [
-    "genesis 4:23",
-    "exodus 21:25",
-    "psalms 38:6",
-    "proverbs 20:30",
-    "isaiah 1:6",
-    "isaiah 53:5"
+    "genesis 4:23:16",
+    "exodus 21:25:6",
+    "exodus 21:25:8",
+    "psalms 38:6:2",
+    "proverbs 20:30:0",
+    "isaiah 1:6:8",
+    "isaiah 53:5:8"
   ]
 }

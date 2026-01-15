@@ -37,17 +37,18 @@
   },
   "hebrew": "חָבַק",
   "verses": [
-    "genesis 29:13",
-    "genesis 33:4",
-    "genesis 48:10",
-    "secondKings 4:16",
-    "job 24:8",
-    "proverbs 4:8",
-    "proverbs 5:20",
-    "ecclesiastes 3:5",
-    "ecclesiastes 4:5",
-    "solomon 2:6",
-    "solomon 8:3",
-    "lamentations 4:5"
+    "genesis 29:13:10",
+    "genesis 33:4:3",
+    "genesis 48:10:12",
+    "secondKings 4:16:7",
+    "job 24:8:5",
+    "proverbs 4:8:4",
+    "proverbs 5:20:4",
+    "ecclesiastes 3:5:7",
+    "ecclesiastes 3:5:10",
+    "ecclesiastes 4:5:1",
+    "solomon 2:6:4",
+    "solomon 8:3:4",
+    "lamentations 4:5:7"
   ]
 }

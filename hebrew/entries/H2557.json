@@ -37,18 +37,18 @@
   },
   "hebrew": "חָמֵץ",
   "verses": [
-    "exodus 12:15",
-    "exodus 12:19",
-    "exodus 12:20",
-    "exodus 13:3",
-    "exodus 13:7",
-    "exodus 23:18",
-    "exodus 34:25",
-    "leviticus 2:11",
-    "leviticus 6:10",
-    "leviticus 7:13",
-    "leviticus 23:17",
-    "deuteronomy 16:3",
-    "amos 4:5"
+    "exodus 12:15:13",
+    "exodus 12:19:9",
+    "exodus 12:20:1",
+    "exodus 13:3:22",
+    "exodus 13:7:8",
+    "exodus 23:18:3",
+    "exodus 34:25:3",
+    "leviticus 2:11:7",
+    "leviticus 6:10:2",
+    "leviticus 7:13:3",
+    "leviticus 23:17:9",
+    "deuteronomy 16:3:3",
+    "amos 4:5:1"
   ]
 }

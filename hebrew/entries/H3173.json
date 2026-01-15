@@ -37,17 +37,17 @@
   },
   "hebrew": "יָחִיד",
   "verses": [
-    "genesis 22:2",
-    "genesis 22:12",
-    "genesis 22:16",
-    "judges 11:34",
-    "psalms 22:21",
-    "psalms 25:16",
-    "psalms 35:17",
-    "psalms 68:7",
-    "proverbs 4:3",
-    "jeremiah 6:26",
-    "amos 8:10",
-    "zechariah 12:10"
+    "genesis 22:2:6",
+    "genesis 22:12:22",
+    "genesis 22:16:17",
+    "judges 11:34:13",
+    "psalms 22:21:5",
+    "psalms 25:16:4",
+    "psalms 35:17:7",
+    "psalms 68:7:2",
+    "proverbs 4:3:5",
+    "jeremiah 6:26:7",
+    "amos 8:10:17",
+    "zechariah 12:10:19"
   ]
 }

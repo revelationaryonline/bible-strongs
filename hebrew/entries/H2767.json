@@ -37,14 +37,14 @@
   },
   "hebrew": "חׇרְמָה",
   "verses": [
-    "numbers 14:45",
-    "numbers 21:3",
-    "deuteronomy 1:44",
-    "joshua 12:14",
-    "joshua 15:30",
-    "joshua 19:4",
-    "judges 1:17",
-    "firstSamuel 30:30",
-    "firstChronicles 4:30"
+    "numbers 14:45:9",
+    "numbers 21:3:14",
+    "deuteronomy 1:44:15",
+    "joshua 12:14:1",
+    "joshua 15:30:2",
+    "joshua 19:4:2",
+    "judges 1:17:16",
+    "firstSamuel 30:30:1",
+    "firstChronicles 4:30:1"
   ]
 }

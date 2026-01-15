@@ -37,13 +37,16 @@
   },
   "hebrew": "אֶתְנַן",
   "verses": [
-    "deuteronomy 23:19",
-    "isaiah 23:17",
-    "isaiah 23:18",
-    "ezekiel 16:31",
-    "ezekiel 16:34",
-    "ezekiel 16:41",
-    "hosea 9:1",
-    "micah 1:7"
+    "deuteronomy 23:19:2",
+    "isaiah 23:17:9",
+    "isaiah 23:18:2",
+    "ezekiel 16:31:15",
+    "ezekiel 16:34:10",
+    "ezekiel 16:34:11",
+    "ezekiel 16:41:12",
+    "hosea 9:1:11",
+    "micah 1:7:4",
+    "micah 1:7:12",
+    "micah 1:7:16"
   ]
 }

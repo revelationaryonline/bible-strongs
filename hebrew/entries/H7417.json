@@ -37,18 +37,21 @@
     "zh": "里蒙，叙利亚神祗的名字，也是巴勒斯坦五个地方的名字"
   },
   "verses": [
-    "joshua 15:32",
-    "joshua 19:7",
-    "joshua 19:13",
-    "judges 20:45",
-    "judges 20:47",
-    "judges 21:13",
-    "secondSamuel 4:2",
-    "secondSamuel 4:5",
-    "secondSamuel 4:9",
-    "secondKings 5:18",
-    "firstChronicles 4:32",
-    "firstChronicles 6:62",
-    "zechariah 14:10"
+    "joshua 15:32:3",
+    "joshua 19:7:1",
+    "joshua 19:13:9",
+    "judges 20:45:5",
+    "judges 20:47:5",
+    "judges 20:47:11",
+    "judges 21:13:9",
+    "secondSamuel 4:2:14",
+    "secondSamuel 4:5:2",
+    "secondSamuel 4:9:8",
+    "secondKings 5:18:8",
+    "secondKings 5:18:17",
+    "secondKings 5:18:20",
+    "firstChronicles 4:32:3",
+    "firstChronicles 6:62:6",
+    "zechariah 14:10:5"
   ]
 }

@@ -37,10 +37,11 @@
   },
   "hebrew": "דָּכָה",
   "verses": [
-    "psalms 10:10",
-    "psalms 38:9",
-    "psalms 44:20",
-    "psalms 51:10",
-    "psalms 51:19"
+    "psalms 10:10:0",
+    "psalms 10:10:1",
+    "psalms 38:9:1",
+    "psalms 44:20:1",
+    "psalms 51:10:5",
+    "psalms 51:19:6"
   ]
 }

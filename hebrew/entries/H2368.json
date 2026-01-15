@@ -37,18 +37,19 @@
   },
   "hebrew": "חוֹתָם",
   "verses": [
-    "genesis 38:18",
-    "exodus 28:11",
-    "exodus 28:21",
-    "exodus 28:36",
-    "exodus 39:6",
-    "exodus 39:14",
-    "exodus 39:30",
-    "firstKings 21:8",
-    "job 38:14",
-    "job 41:7",
-    "solomon 8:6",
-    "jeremiah 22:24",
-    "haggai 2:23"
+    "genesis 38:18:7",
+    "exodus 28:11:4",
+    "exodus 28:21:11",
+    "exodus 28:36:7",
+    "exodus 39:6:9",
+    "exodus 39:14:11",
+    "exodus 39:30:11",
+    "firstKings 21:8:5",
+    "job 38:14:2",
+    "job 41:7:4",
+    "solomon 8:6:1",
+    "solomon 8:6:4",
+    "jeremiah 22:24:12",
+    "haggai 2:23:13"
   ]
 }

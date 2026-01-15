@@ -37,15 +37,15 @@
   },
   "hebrew": "אָדַם",
   "verses": [
-    "exodus 25:5",
-    "exodus 26:14",
-    "exodus 35:7",
-    "exodus 35:23",
-    "exodus 36:19",
-    "exodus 39:34",
-    "proverbs 23:31",
-    "isaiah 1:18",
-    "lamentations 4:7",
-    "nahum 2:4"
+    "exodus 25:5:2",
+    "exodus 26:14:5",
+    "exodus 35:7:2",
+    "exodus 35:23:13",
+    "exodus 36:19:5",
+    "exodus 39:34:4",
+    "proverbs 23:31:4",
+    "isaiah 1:18:12",
+    "lamentations 4:7:5",
+    "nahum 2:4:2"
   ]
 }

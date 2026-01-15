@@ -37,9 +37,10 @@
     "zh": "孪生，即（比喻）重复或（建筑上的）接合"
   },
   "verses": [
-    "exodus 26:24",
-    "exodus 36:29",
-    "solomon 4:2",
-    "solomon 6:6"
+    "exodus 26:24:1",
+    "exodus 36:29:1",
+    "exodus 36:29:5",
+    "solomon 4:2:7",
+    "solomon 6:6:7"
   ]
 }

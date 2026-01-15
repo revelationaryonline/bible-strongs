@@ -37,10 +37,12 @@
   },
   "hebrew": "אָצֵל",
   "verses": [
-    "firstChronicles 8:37",
-    "firstChronicles 8:38",
-    "firstChronicles 9:43",
-    "firstChronicles 9:44",
-    "zechariah 14:5"
+    "firstChronicles 8:37:8",
+    "firstChronicles 8:38:0",
+    "firstChronicles 8:38:14",
+    "firstChronicles 9:43:8",
+    "firstChronicles 9:44:0",
+    "firstChronicles 9:44:13",
+    "zechariah 14:5:8"
   ]
 }

@@ -37,15 +37,15 @@
     "zh": "拍手（表示紧凑、嘲笑、悲痛、愤慨或惩罚）；暗示满足，表示足够；暗示过度，表示呕吐"
   },
   "verses": [
-    "numbers 24:10",
-    "firstKings 20:10",
-    "job 27:23",
-    "job 34:26",
-    "job 34:37",
-    "isaiah 2:6",
-    "jeremiah 31:19",
-    "jeremiah 48:26",
-    "lamentations 2:15",
-    "ezekiel 21:17"
+    "numbers 24:10:5",
+    "firstKings 20:10:12",
+    "job 27:23:0",
+    "job 34:26:2",
+    "job 34:37:6",
+    "isaiah 2:6:12",
+    "jeremiah 31:19:6",
+    "jeremiah 48:26:5",
+    "lamentations 2:15:0",
+    "ezekiel 21:17:19"
   ]
 }

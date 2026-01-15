@@ -37,19 +37,19 @@
     "zh": "完整；通常（道德上）是虔诚的；具体地说，是温柔的、亲爱的"
   },
   "verses": [
-    "genesis 25:27",
-    "exodus 26:24",
-    "job 1:1",
-    "job 1:8",
-    "job 2:3",
-    "job 8:20",
-    "job 9:20",
-    "job 9:21",
-    "job 9:22",
-    "psalms 37:37",
-    "psalms 64:5",
-    "proverbs 29:10",
-    "solomon 5:2",
-    "solomon 6:9"
+    "genesis 25:27:11",
+    "exodus 26:24:5",
+    "job 1:1:9",
+    "job 1:8:14",
+    "job 2:3:14",
+    "job 8:20:4",
+    "job 9:20:4",
+    "job 9:21:0",
+    "job 9:22:5",
+    "psalms 37:37:1",
+    "psalms 64:5:2",
+    "proverbs 29:10:3",
+    "solomon 5:2:12",
+    "solomon 6:9:3"
   ]
 }

@@ -37,15 +37,15 @@
   },
   "hebrew": "דְּבּוֹרָה",
   "verses": [
-    "genesis 35:8",
-    "judges 4:4",
-    "judges 4:5",
-    "judges 4:9",
-    "judges 4:10",
-    "judges 4:14",
-    "judges 5:1",
-    "judges 5:7",
-    "judges 5:12",
-    "judges 5:15"
+    "genesis 35:8:1",
+    "judges 4:4:0",
+    "judges 4:5:4",
+    "judges 4:9:22",
+    "judges 4:10:14",
+    "judges 4:14:1",
+    "judges 5:1:1",
+    "judges 5:7:6",
+    "judges 5:12:2",
+    "judges 5:15:3"
   ]
 }

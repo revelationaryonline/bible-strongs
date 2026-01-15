@@ -37,10 +37,12 @@
   },
   "hebrew": "אֳנִי",
   "verses": [
-    "firstKings 9:26",
-    "firstKings 9:27",
-    "firstKings 10:11",
-    "firstKings 10:22",
-    "isaiah 33:21"
+    "firstKings 9:26:0",
+    "firstKings 9:27:2",
+    "firstKings 10:11:1",
+    "firstKings 10:22:1",
+    "firstKings 10:22:6",
+    "firstKings 10:22:12",
+    "isaiah 33:21:14"
   ]
 }

@@ -37,11 +37,17 @@
   },
   "hebrew": "כְּפוֹר",
   "verses": [
-    "exodus 16:14",
-    "firstChronicles 28:17",
-    "ezra 1:10",
-    "ezra 8:27",
-    "job 38:29",
-    "psalms 147:16"
+    "exodus 16:14:10",
+    "firstChronicles 28:17:5",
+    "firstChronicles 28:17:8",
+    "firstChronicles 28:17:9",
+    "firstChronicles 28:17:10",
+    "firstChronicles 28:17:13",
+    "firstChronicles 28:17:14",
+    "ezra 1:10:0",
+    "ezra 1:10:3",
+    "ezra 8:27:0",
+    "job 38:29:4",
+    "psalms 147:16:3"
   ]
 }

@@ -37,15 +37,17 @@
     "zh": "亚拿，两个以东人和一个女以东人的名字"
   },
   "verses": [
-    "genesis 36:2",
-    "genesis 36:14",
-    "genesis 36:18",
-    "genesis 36:20",
-    "genesis 36:24",
-    "genesis 36:25",
-    "genesis 36:29",
-    "firstChronicles 1:38",
-    "firstChronicles 1:40",
-    "firstChronicles 1:41"
+    "genesis 36:2:14",
+    "genesis 36:14:5",
+    "genesis 36:18:15",
+    "genesis 36:20:9",
+    "genesis 36:24:4",
+    "genesis 36:24:6",
+    "genesis 36:25:2",
+    "genesis 36:25:6",
+    "genesis 36:29:10",
+    "firstChronicles 1:38:5",
+    "firstChronicles 1:40:10",
+    "firstChronicles 1:41:1"
   ]
 }

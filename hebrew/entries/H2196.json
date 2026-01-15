@@ -37,9 +37,10 @@
   },
   "hebrew": "זָעַף",
   "verses": [
-    "genesis 40:6",
-    "secondChronicles 26:19",
-    "proverbs 19:3",
-    "daniel 1:10"
+    "genesis 40:6:7",
+    "secondChronicles 26:19:0",
+    "secondChronicles 26:19:5",
+    "proverbs 19:3:6",
+    "daniel 1:10:20"
   ]
 }

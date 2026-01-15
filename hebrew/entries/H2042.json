@@ -8,17 +8,17 @@
   "translations": {},
   "hebrew": "הָרָר",
   "verses": [
-    "numbers 23:7",
-    "deuteronomy 8:9",
-    "deuteronomy 33:15",
-    "psalms 30:8",
-    "psalms 36:7",
-    "psalms 50:10",
-    "psalms 76:5",
-    "psalms 87:1",
-    "psalms 133:3",
-    "solomon 4:8",
-    "jeremiah 17:3",
-    "habakkuk 3:6"
+    "numbers 23:7:9",
+    "deuteronomy 8:9:15",
+    "deuteronomy 33:15:1",
+    "psalms 30:8:3",
+    "psalms 36:7:1",
+    "psalms 50:10:6",
+    "psalms 76:5:3",
+    "psalms 87:1:5",
+    "psalms 133:3:4",
+    "solomon 4:8:14",
+    "jeremiah 17:3:0",
+    "habakkuk 3:6:7"
   ]
 }

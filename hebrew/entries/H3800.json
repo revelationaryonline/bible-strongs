@@ -37,14 +37,14 @@
     "zh": "正确地说，雕刻出来的东西，即矿石；因此，黄金（最初开采的纯金）"
   },
   "verses": [
-    "job 28:16",
-    "job 28:19",
-    "job 31:24",
-    "psalms 45:10",
-    "proverbs 25:12",
-    "solomon 5:11",
-    "isaiah 13:12",
-    "lamentations 4:1",
-    "daniel 10:5"
+    "job 28:16:2",
+    "job 28:19:4",
+    "job 31:24:4",
+    "psalms 45:10:6",
+    "proverbs 25:12:3",
+    "solomon 5:11:1",
+    "isaiah 13:12:4",
+    "lamentations 4:1:4",
+    "daniel 10:5:11"
   ]
 }

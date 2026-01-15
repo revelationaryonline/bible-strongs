@@ -37,17 +37,21 @@
     "zh": "网状结构，即（狩猎中的）陷阱，（建筑中的）栅栏；也是栅栏上的网状装饰物"
   },
   "verses": [
-    "firstKings 7:17",
-    "firstKings 7:18",
-    "firstKings 7:20",
-    "firstKings 7:41",
-    "firstKings 7:42",
-    "secondKings 1:2",
-    "secondKings 25:17",
-    "secondChronicles 4:12",
-    "secondChronicles 4:13",
-    "job 18:8",
-    "jeremiah 52:22",
-    "jeremiah 52:23"
+    "firstKings 7:17:2",
+    "firstKings 7:18:7",
+    "firstKings 7:20:10",
+    "firstKings 7:20:11",
+    "firstKings 7:41:9",
+    "firstKings 7:42:5",
+    "firstKings 7:42:9",
+    "secondKings 1:2:3",
+    "secondKings 25:17:14",
+    "secondKings 25:17:25",
+    "secondChronicles 4:12:8",
+    "secondChronicles 4:13:5",
+    "secondChronicles 4:13:9",
+    "job 18:8:5",
+    "jeremiah 52:22:8",
+    "jeremiah 52:23:9"
   ]
 }

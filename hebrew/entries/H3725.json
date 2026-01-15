@@ -37,12 +37,12 @@
   },
   "hebrew": "כִּפֻּר",
   "verses": [
-    "exodus 29:36",
-    "exodus 30:10",
-    "leviticus 23:27",
-    "leviticus 23:28",
-    "leviticus 25:9",
-    "numbers 5:8",
-    "numbers 29:11"
+    "exodus 29:36:5",
+    "exodus 30:10:8",
+    "leviticus 23:27:6",
+    "leviticus 23:28:9",
+    "leviticus 25:9:8",
+    "numbers 5:8:13",
+    "numbers 29:11:6"
   ]
 }

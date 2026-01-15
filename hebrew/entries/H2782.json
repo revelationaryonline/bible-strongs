@@ -37,17 +37,17 @@
   },
   "hebrew": "חָרַץ",
   "verses": [
-    "exodus 11:7",
-    "leviticus 22:22",
-    "joshua 10:21",
-    "secondSamuel 5:24",
-    "firstKings 20:40",
-    "job 14:5",
-    "isaiah 10:22",
-    "isaiah 10:23",
-    "isaiah 28:22",
-    "daniel 9:26",
-    "daniel 9:27",
-    "daniel 11:36"
+    "exodus 11:7:4",
+    "leviticus 22:22:4",
+    "joshua 10:21:10",
+    "secondSamuel 5:24:9",
+    "firstKings 20:40:14",
+    "job 14:5:1",
+    "isaiah 10:22:11",
+    "isaiah 10:23:2",
+    "isaiah 28:22:8",
+    "daniel 9:26:19",
+    "daniel 9:27:16",
+    "daniel 11:36:18"
   ]
 }

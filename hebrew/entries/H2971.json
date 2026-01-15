@@ -37,14 +37,14 @@
   },
   "hebrew": "יָאִיר",
   "verses": [
-    "numbers 32:41",
-    "deuteronomy 3:14",
-    "joshua 13:30",
-    "judges 10:3",
-    "judges 10:5",
-    "firstKings 4:13",
-    "firstChronicles 2:22",
-    "firstChronicles 2:23",
-    "esther 2:5"
+    "numbers 32:41:0",
+    "deuteronomy 3:14:0",
+    "joshua 13:30:12",
+    "judges 10:3:2",
+    "judges 10:5:1",
+    "firstKings 4:13:6",
+    "firstChronicles 2:22:3",
+    "firstChronicles 2:23:5",
+    "esther 2:5:8"
   ]
 }

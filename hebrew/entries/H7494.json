@@ -37,21 +37,22 @@
     "zh": "震动、奔腾、骚动"
   },
   "verses": [
-    "firstKings 19:11",
-    "firstKings 19:12",
-    "job 39:24",
-    "job 41:21",
-    "isaiah 9:4",
-    "isaiah 29:6",
-    "jeremiah 10:22",
-    "jeremiah 47:3",
-    "ezekiel 3:12",
-    "ezekiel 3:13",
-    "ezekiel 12:18",
-    "ezekiel 37:7",
-    "ezekiel 38:19",
-    "amos 1:1",
-    "nahum 3:2",
-    "zechariah 14:5"
+    "firstKings 19:11:23",
+    "firstKings 19:11:25",
+    "firstKings 19:12:1",
+    "job 39:24:0",
+    "job 41:21:4",
+    "isaiah 9:4:4",
+    "isaiah 29:6:5",
+    "jeremiah 10:22:4",
+    "jeremiah 47:3:4",
+    "ezekiel 3:12:5",
+    "ezekiel 3:13:11",
+    "ezekiel 12:18:3",
+    "ezekiel 37:7:7",
+    "ezekiel 38:19:9",
+    "amos 1:1:22",
+    "nahum 3:2:3",
+    "zechariah 14:5:13"
   ]
 }

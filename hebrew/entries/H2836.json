@@ -37,16 +37,16 @@
   },
   "hebrew": "חָשַׁק",
   "verses": [
-    "genesis 34:8",
-    "exodus 27:17",
-    "exodus 38:17",
-    "exodus 38:28",
-    "deuteronomy 7:7",
-    "deuteronomy 10:15",
-    "deuteronomy 21:11",
-    "firstKings 9:19",
-    "secondChronicles 8:6",
-    "psalms 91:14",
-    "isaiah 38:17"
+    "genesis 34:8:6",
+    "exodus 27:17:4",
+    "exodus 38:17:11",
+    "exodus 38:28:11",
+    "deuteronomy 7:7:4",
+    "deuteronomy 10:15:2",
+    "deuteronomy 21:11:5",
+    "firstKings 9:19:17",
+    "secondChronicles 8:6:21",
+    "psalms 91:14:2",
+    "isaiah 38:17:6"
   ]
 }

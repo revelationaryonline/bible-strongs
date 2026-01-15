@@ -37,15 +37,15 @@
   },
   "hebrew": "חָדַשׁ",
   "verses": [
-    "firstSamuel 11:14",
-    "secondChronicles 15:8",
-    "secondChronicles 24:4",
-    "secondChronicles 24:12",
-    "job 10:17",
-    "psalms 51:12",
-    "psalms 103:5",
-    "psalms 104:30",
-    "isaiah 61:4",
-    "lamentations 5:21"
+    "firstSamuel 11:14:7",
+    "secondChronicles 15:8:20",
+    "secondChronicles 24:4:7",
+    "secondChronicles 24:12:13",
+    "job 10:17:0",
+    "psalms 51:12:7",
+    "psalms 103:5:3",
+    "psalms 104:30:3",
+    "isaiah 61:4:6",
+    "lamentations 5:21:5"
   ]
 }

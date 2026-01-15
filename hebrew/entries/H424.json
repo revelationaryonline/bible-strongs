@@ -37,17 +37,18 @@
   },
   "hebrew": "אֵלָה",
   "verses": [
-    "genesis 35:4",
-    "judges 6:11",
-    "judges 6:19",
-    "secondSamuel 18:9",
-    "secondSamuel 18:10",
-    "secondSamuel 18:14",
-    "firstKings 13:14",
-    "firstChronicles 10:12",
-    "isaiah 1:30",
-    "isaiah 6:13",
-    "ezekiel 6:13",
-    "hosea 4:13"
+    "genesis 35:4:17",
+    "judges 6:11:5",
+    "judges 6:19:18",
+    "secondSamuel 18:9:13",
+    "secondSamuel 18:9:17",
+    "secondSamuel 18:10:11",
+    "secondSamuel 18:14:16",
+    "firstKings 13:14:7",
+    "firstChronicles 10:12:17",
+    "isaiah 1:30:2",
+    "isaiah 6:13:6",
+    "ezekiel 6:13:23",
+    "hosea 4:13:10"
   ]
 }

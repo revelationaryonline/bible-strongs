@@ -37,17 +37,17 @@
     "zh": "黄昏"
   },
   "verses": [
-    "firstSamuel 30:17",
-    "secondKings 7:5",
-    "secondKings 7:7",
-    "job 3:9",
-    "job 7:4",
-    "job 24:15",
-    "psalms 119:147",
-    "proverbs 7:9",
-    "isaiah 5:11",
-    "isaiah 21:4",
-    "isaiah 59:10",
-    "jeremiah 13:16"
+    "firstSamuel 30:17:2",
+    "secondKings 7:5:1",
+    "secondKings 7:7:2",
+    "job 3:9:2",
+    "job 7:4:10",
+    "job 24:15:3",
+    "psalms 119:147:1",
+    "proverbs 7:9:0",
+    "isaiah 5:11:6",
+    "isaiah 21:4:5",
+    "isaiah 59:10:8",
+    "jeremiah 13:16:11"
   ]
 }

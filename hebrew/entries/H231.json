@@ -37,15 +37,15 @@
   },
   "hebrew": "אֵזוֹב",
   "verses": [
-    "exodus 12:22",
-    "leviticus 14:4",
-    "leviticus 14:6",
-    "leviticus 14:49",
-    "leviticus 14:51",
-    "leviticus 14:52",
-    "numbers 19:6",
-    "numbers 19:18",
-    "firstKings 5:13",
-    "psalms 51:9"
+    "exodus 12:22:2",
+    "leviticus 14:4:12",
+    "leviticus 14:6:12",
+    "leviticus 14:49:10",
+    "leviticus 14:51:5",
+    "leviticus 14:52:11",
+    "numbers 19:6:4",
+    "numbers 19:18:1",
+    "firstKings 5:13:8",
+    "psalms 51:9:1"
   ]
 }

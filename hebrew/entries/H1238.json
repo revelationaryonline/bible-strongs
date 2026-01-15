@@ -37,12 +37,14 @@
   },
   "hebrew": "בָּקַק",
   "verses": [
-    "isaiah 19:3",
-    "isaiah 24:1",
-    "isaiah 24:3",
-    "jeremiah 19:7",
-    "jeremiah 51:2",
-    "hosea 10:1",
-    "nahum 2:3"
+    "isaiah 19:3:0",
+    "isaiah 24:1:2",
+    "isaiah 24:3:0",
+    "isaiah 24:3:1",
+    "jeremiah 19:7:0",
+    "jeremiah 51:2:4",
+    "hosea 10:1:1",
+    "nahum 2:3:9",
+    "nahum 2:3:10"
   ]
 }

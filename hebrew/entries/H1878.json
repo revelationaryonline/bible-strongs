@@ -37,16 +37,16 @@
   },
   "hebrew": "דָּשֵׁן",
   "verses": [
-    "exodus 27:3",
-    "numbers 4:13",
-    "deuteronomy 31:20",
-    "psalms 20:4",
-    "psalms 23:5",
-    "proverbs 11:25",
-    "proverbs 13:4",
-    "proverbs 15:30",
-    "proverbs 28:25",
-    "isaiah 34:6",
-    "isaiah 34:7"
+    "exodus 27:3:2",
+    "numbers 4:13:0",
+    "deuteronomy 31:20:12",
+    "psalms 20:4:4",
+    "psalms 23:5:5",
+    "proverbs 11:25:2",
+    "proverbs 13:4:6",
+    "proverbs 15:30:6",
+    "proverbs 28:25:7",
+    "isaiah 34:6:4",
+    "isaiah 34:7:11"
   ]
 }

@@ -37,11 +37,12 @@
   },
   "hebrew": "דִּישׁוֹן",
   "verses": [
-    "genesis 36:21",
-    "genesis 36:25",
-    "genesis 36:30",
-    "firstChronicles 1:38",
-    "firstChronicles 1:41",
-    "firstChronicles 1:42"
+    "genesis 36:21:0",
+    "genesis 36:25:3",
+    "genesis 36:30:1",
+    "firstChronicles 1:38:6",
+    "firstChronicles 1:41:2",
+    "firstChronicles 1:41:4",
+    "firstChronicles 1:42:6"
   ]
 }

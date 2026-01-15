@@ -37,13 +37,16 @@
     "zh": "牧；作为名词，牧人"
   },
   "verses": [
-    "genesis 13:7",
-    "genesis 13:8",
-    "genesis 26:20",
-    "firstSamuel 21:8",
-    "isaiah 38:12",
-    "isaiah 44:28",
-    "zechariah 11:17",
-    "zechariah 13:7"
+    "genesis 13:7:3",
+    "genesis 13:7:7",
+    "genesis 13:8:11",
+    "genesis 13:8:13",
+    "genesis 26:20:1",
+    "genesis 26:20:4",
+    "firstSamuel 21:8:13",
+    "isaiah 38:12:5",
+    "isaiah 44:28:2",
+    "zechariah 11:17:1",
+    "zechariah 13:7:3"
   ]
 }

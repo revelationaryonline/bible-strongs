@@ -37,13 +37,15 @@
     "zh": "扑倒；初指推搡；比喻放任、停止、放弃"
   },
   "verses": [
-    "exodus 23:11",
-    "deuteronomy 15:2",
-    "deuteronomy 15:3",
-    "secondSamuel 6:6",
-    "secondKings 9:33",
-    "firstChronicles 13:9",
-    "psalms 141:6",
-    "jeremiah 17:4"
+    "exodus 23:11:1",
+    "deuteronomy 15:2:3",
+    "deuteronomy 15:3:8",
+    "secondSamuel 6:6:12",
+    "secondKings 9:33:1",
+    "secondKings 9:33:2",
+    "secondKings 9:33:3",
+    "firstChronicles 13:9:12",
+    "psalms 141:6:0",
+    "jeremiah 17:4:0"
   ]
 }

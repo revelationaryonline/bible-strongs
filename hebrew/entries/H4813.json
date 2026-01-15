@@ -37,18 +37,20 @@
     "zh": "米尔亚姆，两个以色列女人的名字"
   },
   "verses": [
-    "exodus 15:20",
-    "exodus 15:21",
-    "numbers 12:1",
-    "numbers 12:4",
-    "numbers 12:5",
-    "numbers 12:10",
-    "numbers 12:15",
-    "numbers 20:1",
-    "numbers 26:59",
-    "deuteronomy 24:9",
-    "firstChronicles 4:17",
-    "firstChronicles 5:29",
-    "micah 6:4"
+    "exodus 15:20:1",
+    "exodus 15:21:2",
+    "numbers 12:1:1",
+    "numbers 12:4:8",
+    "numbers 12:5:9",
+    "numbers 12:10:5",
+    "numbers 12:10:11",
+    "numbers 12:15:1",
+    "numbers 12:15:11",
+    "numbers 20:1:14",
+    "numbers 26:59:18",
+    "deuteronomy 24:9:6",
+    "firstChronicles 4:17:8",
+    "firstChronicles 5:29:4",
+    "micah 6:4:12"
   ]
 }

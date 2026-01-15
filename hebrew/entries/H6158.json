@@ -37,15 +37,15 @@
     "zh": "乌鸦"
   },
   "verses": [
-    "genesis 8:7",
-    "leviticus 11:15",
-    "deuteronomy 14:14",
-    "firstKings 17:4",
-    "firstKings 17:6",
-    "job 38:41",
-    "psalms 147:9",
-    "proverbs 30:17",
-    "solomon 5:11",
-    "isaiah 34:11"
+    "genesis 8:7:2",
+    "leviticus 11:15:2",
+    "deuteronomy 14:14:2",
+    "firstKings 17:4:4",
+    "firstKings 17:6:0",
+    "job 38:41:2",
+    "psalms 147:9:4",
+    "proverbs 30:17:7",
+    "solomon 5:11:6",
+    "isaiah 34:11:4"
   ]
 }

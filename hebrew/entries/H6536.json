@@ -37,17 +37,19 @@
     "zh": "打碎，即（通常不用暴力）分割、分配"
   },
   "verses": [
-    "leviticus 11:3",
-    "leviticus 11:4",
-    "leviticus 11:5",
-    "leviticus 11:6",
-    "leviticus 11:7",
-    "leviticus 11:26",
-    "deuteronomy 14:6",
-    "deuteronomy 14:7",
-    "deuteronomy 14:8",
-    "psalms 69:32",
-    "isaiah 58:7",
-    "jeremiah 16:7"
+    "leviticus 11:3:1",
+    "leviticus 11:4:7",
+    "leviticus 11:4:17",
+    "leviticus 11:5:8",
+    "leviticus 11:6:8",
+    "leviticus 11:7:3",
+    "leviticus 11:26:4",
+    "deuteronomy 14:6:2",
+    "deuteronomy 14:7:7",
+    "deuteronomy 14:7:22",
+    "deuteronomy 14:8:3",
+    "psalms 69:32:5",
+    "isaiah 58:7:1",
+    "jeremiah 16:7:1"
   ]
 }

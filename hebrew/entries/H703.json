@@ -37,11 +37,13 @@
   },
   "hebrew": "אַרְבַּע",
   "verses": [
-    "ezra 6:17",
-    "daniel 3:25",
-    "daniel 7:2",
-    "daniel 7:3",
-    "daniel 7:6",
-    "daniel 7:17"
+    "ezra 6:17:10",
+    "daniel 3:25:6",
+    "daniel 7:2:9",
+    "daniel 7:3:0",
+    "daniel 7:6:9",
+    "daniel 7:6:15",
+    "daniel 7:17:5",
+    "daniel 7:17:6"
   ]
 }

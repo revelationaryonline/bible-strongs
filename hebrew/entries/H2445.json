@@ -37,18 +37,19 @@
   },
   "hebrew": "חַכִּים",
   "verses": [
-    "daniel 2:12",
-    "daniel 2:13",
-    "daniel 2:14",
-    "daniel 2:18",
-    "daniel 2:21",
-    "daniel 2:24",
-    "daniel 2:27",
-    "daniel 2:48",
-    "daniel 4:3",
-    "daniel 4:15",
-    "daniel 5:7",
-    "daniel 5:8",
-    "daniel 5:15"
+    "daniel 2:12:10",
+    "daniel 2:13:2",
+    "daniel 2:14:13",
+    "daniel 2:18:16",
+    "daniel 2:21:10",
+    "daniel 2:24:11",
+    "daniel 2:24:17",
+    "daniel 2:27:10",
+    "daniel 2:48:18",
+    "daniel 4:3:6",
+    "daniel 4:15:15",
+    "daniel 5:7:11",
+    "daniel 5:8:4",
+    "daniel 5:15:3"
   ]
 }

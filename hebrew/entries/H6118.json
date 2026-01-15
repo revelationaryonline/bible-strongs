@@ -37,20 +37,20 @@
     "zh": "踵，即（比喻）最后的东西（用于副词，永远）；也指结果，即补偿；因此（带介词或相对的副词），因为"
   },
   "verses": [
-    "genesis 22:18",
-    "genesis 26:5",
-    "numbers 14:24",
-    "deuteronomy 7:12",
-    "deuteronomy 8:20",
-    "secondSamuel 12:6",
-    "secondSamuel 12:10",
-    "psalms 19:12",
-    "psalms 40:16",
-    "psalms 70:4",
-    "psalms 119:33",
-    "psalms 119:112",
-    "proverbs 22:4",
-    "isaiah 5:23",
-    "amos 4:12"
+    "genesis 22:18:5",
+    "genesis 26:5:0",
+    "numbers 14:24:2",
+    "deuteronomy 7:12:1",
+    "deuteronomy 8:20:7",
+    "secondSamuel 12:6:4",
+    "secondSamuel 12:10:7",
+    "psalms 19:12:5",
+    "psalms 40:16:2",
+    "psalms 70:4:2",
+    "psalms 119:33:5",
+    "psalms 119:112:5",
+    "proverbs 22:4:0",
+    "isaiah 5:23:2",
+    "amos 4:12:5"
   ]
 }

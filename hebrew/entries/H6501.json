@@ -37,15 +37,15 @@
     "zh": "狱吏"
   },
   "verses": [
-    "genesis 16:12",
-    "job 6:5",
-    "job 11:12",
-    "job 24:5",
-    "job 39:5",
-    "psalms 104:11",
-    "isaiah 32:14",
-    "jeremiah 2:24",
-    "jeremiah 14:6",
-    "hosea 8:9"
+    "genesis 16:12:2",
+    "job 6:5:1",
+    "job 11:12:4",
+    "job 24:5:1",
+    "job 39:5:2",
+    "psalms 104:11:5",
+    "isaiah 32:14:14",
+    "jeremiah 2:24:0",
+    "jeremiah 14:6:0",
+    "hosea 8:9:4"
   ]
 }

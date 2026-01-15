@@ -37,13 +37,15 @@
     "zh": "禾秆"
   },
   "verses": [
-    "exodus 22:5",
-    "deuteronomy 16:9",
-    "deuteronomy 23:26",
-    "judges 15:5",
-    "secondKings 19:26",
-    "isaiah 17:5",
-    "isaiah 37:27",
-    "hosea 8:7"
+    "exodus 22:5:8",
+    "deuteronomy 16:9:6",
+    "deuteronomy 23:26:2",
+    "deuteronomy 23:26:11",
+    "judges 15:5:4",
+    "judges 15:5:9",
+    "secondKings 19:26:14",
+    "isaiah 17:5:3",
+    "isaiah 37:27:14",
+    "hosea 8:7:5"
   ]
 }

@@ -37,16 +37,16 @@
   },
   "hebrew": "חָרַר",
   "verses": [
-    "job 30:30",
-    "psalms 69:4",
-    "psalms 102:4",
-    "proverbs 26:21",
-    "solomon 1:6",
-    "isaiah 24:6",
-    "jeremiah 6:29",
-    "ezekiel 15:4",
-    "ezekiel 15:5",
-    "ezekiel 24:10",
-    "ezekiel 24:11"
+    "job 30:30:4",
+    "psalms 69:4:2",
+    "psalms 102:4:7",
+    "proverbs 26:21:7",
+    "solomon 1:6:8",
+    "isaiah 24:6:10",
+    "jeremiah 6:29:0",
+    "ezekiel 15:4:10",
+    "ezekiel 15:5:10",
+    "ezekiel 24:10:9",
+    "ezekiel 24:11:6"
   ]
 }

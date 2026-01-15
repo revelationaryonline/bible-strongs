@@ -37,20 +37,20 @@
     "zh": "昏暗"
   },
   "verses": [
-    "exodus 20:21",
-    "deuteronomy 4:11",
-    "deuteronomy 5:22",
-    "secondSamuel 22:10",
-    "firstKings 8:12",
-    "secondChronicles 6:1",
-    "job 22:13",
-    "job 38:9",
-    "psalms 18:10",
-    "psalms 97:2",
-    "isaiah 60:2",
-    "jeremiah 13:16",
-    "ezekiel 34:12",
-    "joel 2:2",
-    "zephaniah 1:15"
+    "exodus 20:21:6",
+    "deuteronomy 4:11:12",
+    "deuteronomy 5:22:12",
+    "secondSamuel 22:10:3",
+    "firstKings 8:12:6",
+    "secondChronicles 6:1:6",
+    "job 22:13:5",
+    "job 38:9:3",
+    "psalms 18:10:3",
+    "psalms 97:2:1",
+    "isaiah 60:2:5",
+    "jeremiah 13:16:18",
+    "ezekiel 34:12:21",
+    "joel 2:2:5",
+    "zephaniah 1:15:15"
   ]
 }

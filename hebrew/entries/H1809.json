@@ -37,14 +37,14 @@
   },
   "hebrew": "דָּלַל",
   "verses": [
-    "judges 6:6",
-    "job 28:4",
-    "psalms 79:8",
-    "psalms 116:6",
-    "psalms 142:7",
-    "proverbs 26:7",
-    "isaiah 17:4",
-    "isaiah 19:6",
-    "isaiah 38:14"
+    "judges 6:6:0",
+    "job 28:4:7",
+    "psalms 79:8:9",
+    "psalms 116:6:3",
+    "psalms 142:7:4",
+    "proverbs 26:7:0",
+    "isaiah 17:4:3",
+    "isaiah 19:6:2",
+    "isaiah 38:14:6"
   ]
 }

@@ -37,19 +37,19 @@
     "zh": "狮子吼；狮子（正确地说，雌狮更凶猛（尽管不是吼叫者；））"
   },
   "verses": [
-    "genesis 49:9",
-    "numbers 23:24",
-    "numbers 24:9",
-    "deuteronomy 33:20",
-    "job 4:11",
-    "job 38:39",
-    "psalms 57:5",
-    "isaiah 5:29",
-    "isaiah 30:6",
-    "ezekiel 19:2",
-    "hosea 13:8",
-    "joel 1:6",
-    "nahum 2:12",
-    "nahum 2:13"
+    "genesis 49:9:9",
+    "numbers 23:24:2",
+    "numbers 24:9:3",
+    "deuteronomy 33:20:5",
+    "job 4:11:5",
+    "job 38:39:1",
+    "psalms 57:5:2",
+    "isaiah 5:29:2",
+    "isaiah 30:6:6",
+    "ezekiel 19:2:3",
+    "hosea 13:8:8",
+    "joel 1:6:12",
+    "nahum 2:12:9",
+    "nahum 2:13:5"
   ]
 }

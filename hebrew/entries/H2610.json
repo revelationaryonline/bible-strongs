@@ -37,14 +37,16 @@
   },
   "hebrew": "חָנֵף",
   "verses": [
-    "numbers 35:33",
-    "psalms 106:38",
-    "isaiah 24:5",
-    "jeremiah 3:1",
-    "jeremiah 3:2",
-    "jeremiah 3:9",
-    "jeremiah 23:11",
-    "daniel 11:32",
-    "micah 4:11"
+    "numbers 35:33:1",
+    "numbers 35:33:10",
+    "psalms 106:38:10",
+    "isaiah 24:5:1",
+    "jeremiah 3:1:15",
+    "jeremiah 3:1:16",
+    "jeremiah 3:2:15",
+    "jeremiah 3:9:3",
+    "jeremiah 23:11:5",
+    "daniel 11:32:2",
+    "micah 4:11:6"
   ]
 }

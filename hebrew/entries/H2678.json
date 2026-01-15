@@ -37,15 +37,19 @@
   },
   "hebrew": "חִצִּי",
   "verses": [
-    "firstSamuel 20:20",
-    "firstSamuel 20:21",
-    "firstSamuel 20:22",
-    "firstSamuel 20:36",
-    "firstSamuel 20:37",
-    "firstSamuel 20:38",
-    "secondKings 9:24",
-    "secondKings 13:18",
-    "secondChronicles 26:15",
-    "isaiah 7:24"
+    "firstSamuel 20:20:2",
+    "firstSamuel 20:21:7",
+    "firstSamuel 20:21:13",
+    "firstSamuel 20:22:5",
+    "firstSamuel 20:36:6",
+    "firstSamuel 20:36:14",
+    "firstSamuel 20:37:4",
+    "firstSamuel 20:37:14",
+    "firstSamuel 20:38:12",
+    "firstSamuel 20:38:13",
+    "secondKings 9:24:10",
+    "secondKings 13:18:2",
+    "secondChronicles 26:15:11",
+    "isaiah 7:24:0"
   ]
 }

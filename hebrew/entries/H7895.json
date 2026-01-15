@@ -37,11 +37,13 @@
     "zh": "希沙克"
   },
   "verses": [
-    "firstKings 11:40",
-    "firstKings 14:25",
-    "secondChronicles 12:2",
-    "secondChronicles 12:5",
-    "secondChronicles 12:7",
-    "secondChronicles 12:9"
+    "firstKings 11:40:10",
+    "firstKings 14:25:6",
+    "firstKings 14:25:7",
+    "secondChronicles 12:2:6",
+    "secondChronicles 12:5:12",
+    "secondChronicles 12:5:26",
+    "secondChronicles 12:7:22",
+    "secondChronicles 12:9:1"
   ]
 }

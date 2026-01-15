@@ -37,17 +37,17 @@
     "zh": "萌芽"
   },
   "verses": [
-    "genesis 19:25",
-    "psalms 65:11",
-    "isaiah 4:2",
-    "isaiah 61:11",
-    "jeremiah 23:5",
-    "jeremiah 33:15",
-    "ezekiel 16:7",
-    "ezekiel 17:9",
-    "ezekiel 17:10",
-    "hosea 8:7",
-    "zechariah 3:8",
-    "zechariah 6:12"
+    "genesis 19:25:11",
+    "psalms 65:11:6",
+    "isaiah 4:2:3",
+    "isaiah 61:11:3",
+    "jeremiah 23:5:7",
+    "jeremiah 33:15:6",
+    "ezekiel 16:7:1",
+    "ezekiel 17:9:16",
+    "ezekiel 17:10:12",
+    "hosea 8:7:8",
+    "zechariah 3:8:18",
+    "zechariah 6:12:10"
   ]
 }

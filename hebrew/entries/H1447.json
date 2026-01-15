@@ -37,15 +37,16 @@
   },
   "hebrew": "גָּדֵר",
   "verses": [
-    "numbers 22:24",
-    "ezra 9:9",
-    "psalms 62:4",
-    "psalms 80:13",
-    "ecclesiastes 10:8",
-    "isaiah 5:5",
-    "ezekiel 13:5",
-    "ezekiel 22:30",
-    "ezekiel 42:7",
-    "micah 7:11"
+    "numbers 22:24:5",
+    "numbers 22:24:7",
+    "ezra 9:9:25",
+    "psalms 62:4:9",
+    "psalms 80:13:2",
+    "ecclesiastes 10:8:5",
+    "isaiah 5:5:14",
+    "ezekiel 13:5:4",
+    "ezekiel 22:30:4",
+    "ezekiel 42:7:0",
+    "micah 7:11:2"
   ]
 }

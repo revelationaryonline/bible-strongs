@@ -37,10 +37,14 @@
   },
   "hebrew": "דֹּאֵג",
   "verses": [
-    "firstSamuel 21:8",
-    "firstSamuel 22:9",
-    "firstSamuel 22:18",
-    "firstSamuel 22:22",
-    "psalms 52:2"
+    "firstSamuel 21:8:10",
+    "firstSamuel 22:9:1",
+    "firstSamuel 22:18:2",
+    "firstSamuel 22:18:3",
+    "firstSamuel 22:18:9",
+    "firstSamuel 22:18:10",
+    "firstSamuel 22:22:8",
+    "firstSamuel 22:22:9",
+    "psalms 52:2:1"
   ]
 }

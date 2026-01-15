@@ -37,17 +37,18 @@
   },
   "hebrew": "טִיט",
   "verses": [
-    "secondSamuel 22:43",
-    "job 41:22",
-    "psalms 18:43",
-    "psalms 40:3",
-    "psalms 69:15",
-    "isaiah 41:25",
-    "isaiah 57:20",
-    "jeremiah 38:6",
-    "micah 7:10",
-    "nahum 3:14",
-    "zechariah 9:3",
-    "zechariah 10:5"
+    "secondSamuel 22:43:3",
+    "job 41:22:6",
+    "psalms 18:43:5",
+    "psalms 40:3:3",
+    "psalms 69:15:1",
+    "isaiah 41:25:14",
+    "isaiah 57:20:10",
+    "jeremiah 38:6:22",
+    "jeremiah 38:6:25",
+    "micah 7:10:15",
+    "nahum 3:14:7",
+    "zechariah 9:3:8",
+    "zechariah 10:5:3"
   ]
 }

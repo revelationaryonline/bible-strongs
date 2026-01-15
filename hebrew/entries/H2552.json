@@ -37,17 +37,18 @@
   },
   "hebrew": "חָמַם",
   "verses": [
-    "exodus 16:21",
-    "firstKings 1:2",
-    "secondKings 4:34",
-    "job 31:20",
-    "job 39:14",
-    "psalms 39:4",
-    "ecclesiastes 4:11",
-    "isaiah 44:15",
-    "isaiah 44:16",
-    "isaiah 47:14",
-    "isaiah 57:5",
-    "hosea 7:7"
+    "exodus 16:21:7",
+    "firstKings 1:2:16",
+    "secondKings 4:34:17",
+    "job 31:20:7",
+    "job 39:14:6",
+    "psalms 39:4:0",
+    "ecclesiastes 4:11:4",
+    "isaiah 44:15:5",
+    "isaiah 44:16:12",
+    "isaiah 44:16:15",
+    "isaiah 47:14:13",
+    "isaiah 57:5:0",
+    "hosea 7:7:1"
   ]
 }
