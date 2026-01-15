@@ -35,5 +35,23 @@
     "tr": "damlamak veya damlayarak dökülmek",
     "uk": "капати, або проливатися цівкою",
     "zh": "滴"
-  }
+  },
+  "verses": [
+    "exodus 15:8",
+    "numbers 24:7",
+    "deuteronomy 32:2",
+    "judges 5:5",
+    "job 36:28",
+    "psalms 78:16",
+    "psalms 78:44",
+    "psalms 147:18",
+    "proverbs 5:15",
+    "solomon 4:15",
+    "solomon 4:16",
+    "isaiah 44:3",
+    "isaiah 45:8",
+    "isaiah 48:21",
+    "jeremiah 9:17",
+    "jeremiah 18:14"
+  ]
 }

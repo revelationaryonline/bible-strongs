@@ -37,22 +37,22 @@
   },
   "hebrew": "אָחַר",
   "verses": [
-    "daniel 9:19",
-    "deuteronomy 23:22",
-    "deuteronomy 7:10",
-    "ecclesiastes 5:3",
-    "exodus 22:28",
     "genesis 24:56",
     "genesis 32:5",
     "genesis 34:19",
-    "habakkuk 2:3",
-    "isaiah 46:13",
-    "isaiah 5:11",
+    "exodus 22:28",
+    "deuteronomy 7:10",
+    "deuteronomy 23:22",
     "judges 5:28",
-    "proverbs 23:30",
-    "psalms 127:2",
+    "secondSamuel 20:5",
     "psalms 40:18",
     "psalms 70:6",
-    "secondSamuel 20:5"
+    "psalms 127:2",
+    "proverbs 23:30",
+    "ecclesiastes 5:3",
+    "isaiah 5:11",
+    "isaiah 46:13",
+    "daniel 9:19",
+    "habakkuk 2:3"
   ]
 }

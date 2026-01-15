@@ -8,21 +8,21 @@
   "translations": {},
   "hebrew": "הָרֶה",
   "verses": [
-    "amos 1:13",
-    "exodus 21:22",
-    "firstSamuel 4:19",
     "genesis 16:11",
     "genesis 38:24",
     "genesis 38:25",
-    "hosea 14:1",
-    "isaiah 26:17",
-    "isaiah 7:14",
-    "jeremiah 20:17",
-    "jeremiah 31:8",
+    "exodus 21:22",
     "judges 13:5",
     "judges 13:7",
-    "secondKings 15:16",
+    "firstSamuel 4:19",
+    "secondSamuel 11:5",
     "secondKings 8:12",
-    "secondSamuel 11:5"
+    "secondKings 15:16",
+    "isaiah 7:14",
+    "isaiah 26:17",
+    "jeremiah 20:17",
+    "jeremiah 31:8",
+    "hosea 14:1",
+    "amos 1:13"
   ]
 }

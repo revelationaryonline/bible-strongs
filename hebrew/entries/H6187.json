@@ -35,5 +35,36 @@
     "tr": "bir yığın, ekipman, tahmin",
     "uk": "купа, обладнання, кошторис",
     "zh": "桩、设备、估算"
-  }
+  },
+  "verses": [
+    "exodus 40:4",
+    "exodus 40:23",
+    "leviticus 5:15",
+    "leviticus 5:18",
+    "leviticus 5:25",
+    "leviticus 27:2",
+    "leviticus 27:3",
+    "leviticus 27:4",
+    "leviticus 27:5",
+    "leviticus 27:6",
+    "leviticus 27:7",
+    "leviticus 27:8",
+    "leviticus 27:12",
+    "leviticus 27:13",
+    "leviticus 27:15",
+    "leviticus 27:16",
+    "leviticus 27:17",
+    "leviticus 27:18",
+    "leviticus 27:19",
+    "leviticus 27:23",
+    "leviticus 27:25",
+    "leviticus 27:27",
+    "numbers 18:16",
+    "judges 17:10",
+    "secondKings 12:5",
+    "secondKings 23:35",
+    "job 28:13",
+    "job 41:4",
+    "psalms 55:14"
+  ]
 }

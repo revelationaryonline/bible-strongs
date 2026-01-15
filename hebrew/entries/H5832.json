@@ -35,5 +35,13 @@
     "tr": "Azarel, beş İsraillinin adı",
     "uk": "Азарел, ім'я п'яти ізраїльтян",
     "zh": "阿扎雷尔，五个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstChronicles 12:7",
+    "firstChronicles 25:18",
+    "firstChronicles 27:22",
+    "ezra 10:41",
+    "nehemiah 11:13",
+    "nehemiah 12:36"
+  ]
 }

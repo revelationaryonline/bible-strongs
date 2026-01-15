@@ -35,5 +35,23 @@
     "tr": "bir filiz, yani sopa (üzerinde yapraklar olan veya yürümek, vurmak, rehberlik etmek, kehanette bulunmak için)",
     "uk": "пагін, тобто палиця (з листям або для ходіння, нанесення ударів, орієнтування, ворожіння)",
     "zh": "杖"
-  }
+  },
+  "verses": [
+    "genesis 30:37",
+    "genesis 30:38",
+    "genesis 30:39",
+    "genesis 30:41",
+    "genesis 32:11",
+    "exodus 12:11",
+    "numbers 22:27",
+    "firstSamuel 17:40",
+    "firstSamuel 17:43",
+    "jeremiah 1:11",
+    "jeremiah 48:17",
+    "ezekiel 39:9",
+    "hosea 4:12",
+    "zechariah 11:7",
+    "zechariah 11:10",
+    "zechariah 11:14"
+  ]
 }

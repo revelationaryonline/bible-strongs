@@ -37,21 +37,21 @@
     "zh": "适当地，发光体或发光体，即（抽象地）光（作为一种元素）；形象地，明亮，即欢快；具体地说，吊灯"
   },
   "verses": [
-    "exodus 25:6",
-    "exodus 27:20",
-    "exodus 35:14",
-    "exodus 35:28",
-    "exodus 35:8",
-    "exodus 39:37",
-    "ezekiel 32:8",
     "genesis 1:14",
     "genesis 1:15",
     "genesis 1:16",
+    "exodus 25:6",
+    "exodus 27:20",
+    "exodus 35:8",
+    "exodus 35:14",
+    "exodus 35:28",
+    "exodus 39:37",
     "leviticus 24:2",
-    "numbers 4:16",
     "numbers 4:9",
-    "proverbs 15:30",
+    "numbers 4:16",
     "psalms 74:16",
-    "psalms 90:8"
+    "psalms 90:8",
+    "proverbs 15:30",
+    "ezekiel 32:8"
   ]
 }

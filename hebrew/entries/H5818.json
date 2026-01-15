@@ -35,5 +35,33 @@
     "tr": "Uzziya, beş İsraillinin adı",
     "uk": "Уззійя, ім'я п'яти ізраїльтян",
     "zh": "乌齐雅，五个以色列人的名字"
-  }
+  },
+  "verses": [
+    "secondKings 15:13",
+    "secondKings 15:30",
+    "secondKings 15:32",
+    "secondKings 15:34",
+    "firstChronicles 6:9",
+    "firstChronicles 27:25",
+    "secondChronicles 26:1",
+    "secondChronicles 26:3",
+    "secondChronicles 26:8",
+    "secondChronicles 26:9",
+    "secondChronicles 26:11",
+    "secondChronicles 26:14",
+    "secondChronicles 26:18",
+    "secondChronicles 26:19",
+    "secondChronicles 26:21",
+    "secondChronicles 26:22",
+    "secondChronicles 26:23",
+    "secondChronicles 27:2",
+    "ezra 10:21",
+    "nehemiah 11:4",
+    "isaiah 1:1",
+    "isaiah 6:1",
+    "isaiah 7:1",
+    "hosea 1:1",
+    "amos 1:1",
+    "zechariah 14:5"
+  ]
 }

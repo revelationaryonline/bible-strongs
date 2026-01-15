@@ -37,13 +37,13 @@
     "zh": "拉班，美索不达米亚人；也是沙漠中的一个地方"
   },
   "verses": [
-    "deuteronomy 1:1",
     "genesis 24:29",
     "genesis 24:50",
     "genesis 25:20",
     "genesis 27:43",
     "genesis 28:2",
     "genesis 28:5",
+    "genesis 29:5",
     "genesis 29:10",
     "genesis 29:13",
     "genesis 29:14",
@@ -56,7 +56,6 @@
     "genesis 29:25",
     "genesis 29:26",
     "genesis 29:29",
-    "genesis 29:5",
     "genesis 30:25",
     "genesis 30:27",
     "genesis 30:34",
@@ -64,9 +63,9 @@
     "genesis 30:40",
     "genesis 30:42",
     "genesis 31:1",
+    "genesis 31:2",
     "genesis 31:12",
     "genesis 31:19",
-    "genesis 31:2",
     "genesis 31:20",
     "genesis 31:22",
     "genesis 31:24",
@@ -83,6 +82,7 @@
     "genesis 32:1",
     "genesis 32:5",
     "genesis 46:18",
-    "genesis 46:25"
+    "genesis 46:25",
+    "deuteronomy 1:1"
   ]
 }

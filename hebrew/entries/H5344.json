@@ -35,5 +35,30 @@
     "tr": "delmek, gerçek anlamda (az ya da çok şiddetle delmek) veya mecazi anlamda (belirtmek, tayin etmek, iftira etmek)",
     "uk": "проколювати, буквально (пробивати, з більшим чи меншим насильством) або в переносному значенні (вказувати, позначати, обмовляти)",
     "zh": "穿刺，字面意思是（或多或少用暴力打孔），或比喻（指明、指认、诽谤）"
-  }
+  },
+  "verses": [
+    "genesis 30:28",
+    "leviticus 24:11",
+    "leviticus 24:16",
+    "numbers 1:17",
+    "numbers 23:8",
+    "numbers 23:25",
+    "secondKings 12:10",
+    "secondKings 18:21",
+    "firstChronicles 12:32",
+    "firstChronicles 16:41",
+    "secondChronicles 28:15",
+    "secondChronicles 31:19",
+    "ezra 8:20",
+    "job 3:8",
+    "job 40:24",
+    "job 40:26",
+    "proverbs 11:26",
+    "proverbs 24:24",
+    "isaiah 36:6",
+    "isaiah 62:2",
+    "amos 6:1",
+    "habakkuk 3:14",
+    "haggai 1:6"
+  ]
 }

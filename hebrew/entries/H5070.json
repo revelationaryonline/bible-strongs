@@ -35,5 +35,27 @@
     "tr": "Nadab, dört İsraillinin adı",
     "uk": "Надаб, ім'я чотирьох ізраїльтян",
     "zh": "拿答，四个以色列人的名字"
-  }
+  },
+  "verses": [
+    "exodus 6:23",
+    "exodus 24:1",
+    "exodus 24:9",
+    "exodus 28:1",
+    "leviticus 10:1",
+    "numbers 3:2",
+    "numbers 3:4",
+    "numbers 26:60",
+    "numbers 26:61",
+    "firstKings 14:20",
+    "firstKings 15:25",
+    "firstKings 15:27",
+    "firstKings 15:31",
+    "firstChronicles 2:28",
+    "firstChronicles 2:30",
+    "firstChronicles 5:29",
+    "firstChronicles 8:30",
+    "firstChronicles 9:36",
+    "firstChronicles 24:1",
+    "firstChronicles 24:2"
+  ]
 }

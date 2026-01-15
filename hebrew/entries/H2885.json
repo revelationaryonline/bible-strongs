@@ -37,11 +37,7 @@
   },
   "hebrew": "טַבַּעַת",
   "verses": [
-    "esther 3:10",
-    "esther 3:12",
-    "esther 8:10",
-    "esther 8:2",
-    "esther 8:8",
+    "genesis 41:42",
     "exodus 25:12",
     "exodus 25:14",
     "exodus 25:15",
@@ -60,11 +56,11 @@
     "exodus 35:22",
     "exodus 36:29",
     "exodus 36:34",
+    "exodus 37:3",
+    "exodus 37:5",
     "exodus 37:13",
     "exodus 37:14",
     "exodus 37:27",
-    "exodus 37:3",
-    "exodus 37:5",
     "exodus 38:5",
     "exodus 38:7",
     "exodus 39:16",
@@ -72,8 +68,12 @@
     "exodus 39:19",
     "exodus 39:20",
     "exodus 39:21",
-    "genesis 41:42",
-    "isaiah 3:21",
-    "numbers 31:50"
+    "numbers 31:50",
+    "esther 3:10",
+    "esther 3:12",
+    "esther 8:2",
+    "esther 8:8",
+    "esther 8:10",
+    "isaiah 3:21"
   ]
 }

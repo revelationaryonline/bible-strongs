@@ -35,5 +35,19 @@
     "tr": "bir Amalekli (veya topluca Amalekliler) veya Amalek'in soyundan gelenler",
     "uk": "амаликитянин (або разом - амаликитяни) або нащадки Амалика",
     "zh": "亚玛力人（或统称亚玛力人）或亚玛力的后裔"
-  }
+  },
+  "verses": [
+    "genesis 14:7",
+    "numbers 14:25",
+    "numbers 14:43",
+    "numbers 14:45",
+    "judges 12:15",
+    "firstSamuel 15:6",
+    "firstSamuel 15:15",
+    "firstSamuel 27:8",
+    "firstSamuel 30:1",
+    "firstSamuel 30:13",
+    "secondSamuel 1:8",
+    "secondSamuel 1:13"
+  ]
 }

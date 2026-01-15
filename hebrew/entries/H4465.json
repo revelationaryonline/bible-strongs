@@ -7,8 +7,6 @@
   "kjvTranslation": "[idiom] ought, (that which cometh of) sale, that which...sold, ware.",
   "hebrew": "מִמְכָּר",
   "verses": [
-    "deuteronomy 18:8",
-    "ezekiel 7:13",
     "leviticus 25:14",
     "leviticus 25:25",
     "leviticus 25:27",
@@ -16,7 +14,9 @@
     "leviticus 25:29",
     "leviticus 25:33",
     "leviticus 25:50",
-    "nehemiah 13:20"
+    "deuteronomy 18:8",
+    "nehemiah 13:20",
+    "ezekiel 7:13"
   ],
   "translations": {
     "bg": "стока; абстрактно - продажба",

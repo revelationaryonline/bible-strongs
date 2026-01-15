@@ -35,5 +35,18 @@
     "tr": "destek (soyut olarak), yani (mecazi olarak) rızık veya (somut olarak) bir baston",
     "uk": "опора (абстрактно), тобто (образно) прожиток або (конкретно) палиця для ходіння",
     "zh": "拐杖"
-  }
+  },
+  "verses": [
+    "exodus 21:19",
+    "numbers 21:18",
+    "judges 6:21",
+    "secondKings 4:29",
+    "secondKings 4:31",
+    "secondKings 18:21",
+    "psalms 23:4",
+    "isaiah 3:1",
+    "isaiah 36:6",
+    "ezekiel 29:6",
+    "zechariah 8:4"
+  ]
 }

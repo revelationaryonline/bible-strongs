@@ -37,14 +37,14 @@
   },
   "hebrew": "אֶשְׁכּוֹל",
   "verses": [
-    "deuteronomy 32:32",
     "genesis 40:10",
-    "isaiah 65:8",
-    "micah 7:1",
     "numbers 13:23",
     "numbers 13:24",
+    "deuteronomy 32:32",
     "solomon 1:14",
     "solomon 7:8",
-    "solomon 7:9"
+    "solomon 7:9",
+    "isaiah 65:8",
+    "micah 7:1"
   ]
 }

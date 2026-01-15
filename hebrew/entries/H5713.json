@@ -35,5 +35,32 @@
     "tr": "tanıklık",
     "uk": "свідчення",
     "zh": "证言"
-  }
+  },
+  "verses": [
+    "genesis 21:30",
+    "genesis 31:52",
+    "deuteronomy 4:45",
+    "deuteronomy 6:17",
+    "deuteronomy 6:20",
+    "joshua 24:27",
+    "psalms 25:10",
+    "psalms 78:56",
+    "psalms 93:5",
+    "psalms 99:7",
+    "psalms 119:2",
+    "psalms 119:22",
+    "psalms 119:24",
+    "psalms 119:46",
+    "psalms 119:59",
+    "psalms 119:79",
+    "psalms 119:95",
+    "psalms 119:119",
+    "psalms 119:125",
+    "psalms 119:138",
+    "psalms 119:146",
+    "psalms 119:152",
+    "psalms 119:167",
+    "psalms 119:168",
+    "psalms 132:12"
+  ]
 }

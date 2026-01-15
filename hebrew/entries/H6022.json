@@ -35,5 +35,12 @@
     "tr": "Amasai, üç İsraillinin adı",
     "uk": "Амасай, ім'я трьох ізраїльтян",
     "zh": "亚玛赛，三个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstChronicles 6:10",
+    "firstChronicles 6:20",
+    "firstChronicles 12:19",
+    "firstChronicles 15:24",
+    "secondChronicles 29:12"
+  ]
 }

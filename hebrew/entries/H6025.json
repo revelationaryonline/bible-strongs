@@ -35,5 +35,24 @@
     "tr": "bir üzüm",
     "uk": "виноград",
     "zh": "葡萄"
-  }
+  },
+  "verses": [
+    "genesis 40:10",
+    "genesis 40:11",
+    "genesis 49:11",
+    "leviticus 25:5",
+    "numbers 6:3",
+    "numbers 13:20",
+    "numbers 13:23",
+    "deuteronomy 23:25",
+    "deuteronomy 32:14",
+    "deuteronomy 32:32",
+    "nehemiah 13:15",
+    "isaiah 5:2",
+    "isaiah 5:4",
+    "jeremiah 8:13",
+    "hosea 3:1",
+    "hosea 9:10",
+    "amos 9:13"
+  ]
 }

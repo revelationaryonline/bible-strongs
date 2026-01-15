@@ -35,5 +35,13 @@
     "tr": "Sin bir Mısır kasabasının ve (muhtemelen) bitişiğindeki çölün adı",
     "uk": "Гріх назви єгипетського міста і (ймовірно) пустелі, що прилягала до нього",
     "zh": "Sin 一个埃及城镇和（可能）毗邻沙漠的名称"
-  }
+  },
+  "verses": [
+    "exodus 16:1",
+    "exodus 17:1",
+    "numbers 33:11",
+    "numbers 33:12",
+    "ezekiel 30:15",
+    "ezekiel 30:16"
+  ]
 }

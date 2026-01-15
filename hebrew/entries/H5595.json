@@ -35,5 +35,27 @@
     "tr": "uygun olarak, kazımak (gerçek anlamda, tıraş etmek; ancak genellikle mecazi anlamda) bir araya getirmek (yani biriktirmek veya artırmak) veya uzaklaştırmak (yani dağıtmak, kaldırmak veya mahvetmek; geçişsiz olarak, yok etmek)",
     "uk": "правильно, зішкрябувати (буквально, голити; але зазвичай у переносному значенні) разом (тобто накопичувати або збільшувати) або геть (тобто розкидати, видаляти або руйнувати; неперехідно, гинути)",
     "zh": "刮（字面意思是刮掉；但通常是比喻）聚在一起（即积累或增加）或刮掉（即分散、清除或毁坏；非直译为灭亡）。"
-  }
+  },
+  "verses": [
+    "genesis 18:23",
+    "genesis 18:24",
+    "genesis 19:15",
+    "genesis 19:17",
+    "numbers 16:26",
+    "numbers 32:14",
+    "deuteronomy 29:18",
+    "deuteronomy 32:23",
+    "firstSamuel 12:25",
+    "firstSamuel 26:10",
+    "firstSamuel 27:1",
+    "firstChronicles 21:12",
+    "psalms 40:15",
+    "proverbs 13:23",
+    "isaiah 7:20",
+    "isaiah 13:15",
+    "isaiah 29:1",
+    "isaiah 30:1",
+    "jeremiah 7:21",
+    "jeremiah 12:4"
+  ]
 }

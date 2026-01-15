@@ -35,5 +35,27 @@
     "tr": "bir gardiyan (adam, posta veya hapishane); bir emanet (mecazi olarak); ayrıca (gözlemlendiği gibi) bir kullanım (soyut olarak) veya bir örnek (somut olarak)",
     "uk": "вартовий (людина, пост або в'язниця); застава (образно); також (за спостереженнями) використання (абстрактно) або приклад (конкретно)",
     "zh": "守卫（人、岗哨或监狱）；存款（比喻）；还（如观察到的）一种用法（抽象地）或一个例子（具体地说）"
-  }
+  },
+  "verses": [
+    "genesis 40:3",
+    "genesis 40:4",
+    "genesis 40:7",
+    "genesis 41:10",
+    "genesis 42:17",
+    "genesis 42:19",
+    "leviticus 24:12",
+    "numbers 15:34",
+    "firstChronicles 26:16",
+    "nehemiah 4:3",
+    "nehemiah 4:16",
+    "nehemiah 4:17",
+    "nehemiah 7:3",
+    "nehemiah 12:24",
+    "nehemiah 12:25",
+    "nehemiah 13:14",
+    "job 7:12",
+    "proverbs 4:23",
+    "jeremiah 51:12",
+    "ezekiel 38:7"
+  ]
 }

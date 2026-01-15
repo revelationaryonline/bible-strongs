@@ -37,10 +37,6 @@
   },
   "hebrew": "אֲחִימַעַץ",
   "verses": [
-    "firstChronicles 5:34",
-    "firstChronicles 5:35",
-    "firstChronicles 6:38",
-    "firstKings 4:15",
     "firstSamuel 14:50",
     "secondSamuel 15:27",
     "secondSamuel 15:36",
@@ -51,6 +47,10 @@
     "secondSamuel 18:23",
     "secondSamuel 18:27",
     "secondSamuel 18:28",
-    "secondSamuel 18:29"
+    "secondSamuel 18:29",
+    "firstKings 4:15",
+    "firstChronicles 5:34",
+    "firstChronicles 5:35",
+    "firstChronicles 6:38"
   ]
 }

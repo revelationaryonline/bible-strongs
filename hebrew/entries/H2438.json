@@ -37,9 +37,7 @@
   },
   "hebrew": "חִירָם",
   "verses": [
-    "firstChronicles 14:1",
-    "firstKings 10:11",
-    "firstKings 10:22",
+    "secondSamuel 5:11",
     "firstKings 5:15",
     "firstKings 5:16",
     "firstKings 5:21",
@@ -55,8 +53,10 @@
     "firstKings 9:12",
     "firstKings 9:14",
     "firstKings 9:27",
+    "firstKings 10:11",
+    "firstKings 10:22",
+    "firstChronicles 14:1",
     "secondChronicles 4:11",
-    "secondChronicles 9:10",
-    "secondSamuel 5:11"
+    "secondChronicles 9:10"
   ]
 }

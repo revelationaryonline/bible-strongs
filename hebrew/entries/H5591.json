@@ -35,5 +35,29 @@
     "tr": "bir kasırga",
     "uk": "ураган",
     "zh": "飓风"
-  }
+  },
+  "verses": [
+    "secondKings 2:1",
+    "secondKings 2:11",
+    "job 38:1",
+    "job 40:6",
+    "psalms 55:9",
+    "psalms 83:16",
+    "psalms 107:25",
+    "psalms 107:29",
+    "psalms 148:8",
+    "isaiah 29:6",
+    "isaiah 40:24",
+    "isaiah 41:16",
+    "jeremiah 23:19",
+    "jeremiah 25:32",
+    "jeremiah 30:23",
+    "ezekiel 1:4",
+    "ezekiel 13:11",
+    "ezekiel 13:13",
+    "amos 1:14",
+    "jonah 1:4",
+    "jonah 1:12",
+    "zechariah 9:14"
+  ]
 }

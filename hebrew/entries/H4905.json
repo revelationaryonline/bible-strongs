@@ -35,5 +35,20 @@
     "tr": "öğretici, yani didaktik bir şiir",
     "uk": "повчальний, тобто дидактичний вірш",
     "zh": "诲人不倦，即说教诗"
-  }
+  },
+  "verses": [
+    "psalms 32:1",
+    "psalms 42:1",
+    "psalms 44:1",
+    "psalms 45:1",
+    "psalms 52:1",
+    "psalms 53:1",
+    "psalms 54:1",
+    "psalms 55:1",
+    "psalms 74:1",
+    "psalms 78:1",
+    "psalms 88:1",
+    "psalms 89:1",
+    "psalms 142:1"
+  ]
 }

@@ -37,12 +37,6 @@
   },
   "hebrew": "חֲנוֹךְ",
   "verses": [
-    "exodus 6:14",
-    "firstChronicles 1:3",
-    "firstChronicles 1:33",
-    "firstChronicles 5:3",
-    "genesis 25:4",
-    "genesis 46:9",
     "genesis 4:17",
     "genesis 4:18",
     "genesis 5:18",
@@ -51,6 +45,12 @@
     "genesis 5:22",
     "genesis 5:23",
     "genesis 5:24",
-    "numbers 26:5"
+    "genesis 25:4",
+    "genesis 46:9",
+    "exodus 6:14",
+    "numbers 26:5",
+    "firstChronicles 1:3",
+    "firstChronicles 1:33",
+    "firstChronicles 5:3"
   ]
 }

@@ -35,5 +35,34 @@
     "tr": "gözlerden perdelemek, yani gizlemek (gerçek veya mecazi anlamda)",
     "uk": "затуляти від очей, тобто приховувати (у прямому чи переносному значенні)",
     "zh": "使人看不见，即隐藏（字面意思或比喻意思）"
-  }
+  },
+  "verses": [
+    "leviticus 4:13",
+    "leviticus 5:2",
+    "leviticus 5:3",
+    "leviticus 5:4",
+    "leviticus 20:4",
+    "numbers 5:13",
+    "deuteronomy 22:1",
+    "deuteronomy 22:3",
+    "deuteronomy 22:4",
+    "firstSamuel 12:3",
+    "firstKings 10:3",
+    "secondKings 4:27",
+    "secondChronicles 9:2",
+    "job 6:16",
+    "job 28:21",
+    "job 42:3",
+    "psalms 10:1",
+    "psalms 26:4",
+    "psalms 55:2",
+    "psalms 90:8",
+    "proverbs 28:27",
+    "ecclesiastes 12:14",
+    "isaiah 1:15",
+    "isaiah 58:7",
+    "lamentations 3:56",
+    "ezekiel 22:26",
+    "nahum 3:11"
+  ]
 }

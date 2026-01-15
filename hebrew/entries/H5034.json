@@ -35,5 +35,28 @@
     "tr": "solmak; genel olarak, düşmek, başarısız olmak, bayılmak; mecazi olarak, aptal veya (ahlaki olarak) kötü olmak; nedensel olarak, hor görmek, rezil etmek",
     "uk": "в'янути; загалом, відпадати, падати, слабшати; образно, бути нерозумним або (морально) нечестивим; причинно, зневажати, ганьбити",
     "zh": "枯萎；一般指衰落、失败、昏厥；比喻愚蠢或（道德上）邪恶；因果关系上指轻视、羞辱"
-  }
+  },
+  "verses": [
+    "exodus 18:18",
+    "deuteronomy 32:15",
+    "secondSamuel 22:46",
+    "job 14:18",
+    "psalms 1:3",
+    "psalms 18:46",
+    "psalms 37:2",
+    "proverbs 30:32",
+    "isaiah 1:30",
+    "isaiah 24:4",
+    "isaiah 28:1",
+    "isaiah 28:4",
+    "isaiah 34:4",
+    "isaiah 40:7",
+    "isaiah 40:8",
+    "isaiah 64:5",
+    "jeremiah 8:13",
+    "jeremiah 14:21",
+    "ezekiel 47:12",
+    "micah 7:6",
+    "nahum 3:6"
+  ]
 }

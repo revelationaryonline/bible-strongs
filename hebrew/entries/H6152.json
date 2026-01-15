@@ -35,5 +35,12 @@
     "tr": "Arap (yani Arabistan), Filistin'in doğusunda bir ülke",
     "uk": "Арабська (тобто Аравія), країна на схід від Палестини",
     "zh": "阿拉伯"
-  }
+  },
+  "verses": [
+    "firstKings 10:15",
+    "secondChronicles 9:14",
+    "isaiah 21:13",
+    "jeremiah 25:24",
+    "ezekiel 27:21"
+  ]
 }

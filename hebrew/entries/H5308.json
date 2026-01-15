@@ -35,5 +35,18 @@
     "tr": "{düşmek, çok çeşitli uygulamalarda (geçişsiz veya nedensel, gerçek veya mecazi)}",
     "uk": "{падати, у найрізноманітніших застосуваннях (неперехідних або каузативних, у прямому чи переносному значенні)}",
     "zh": "{跌倒，有多种用法（非及物动词或因果关系，字面意义或比喻意义）}。"
-  }
+  },
+  "verses": [
+    "ezra 7:20",
+    "daniel 2:46",
+    "daniel 3:5",
+    "daniel 3:6",
+    "daniel 3:7",
+    "daniel 3:10",
+    "daniel 3:11",
+    "daniel 3:15",
+    "daniel 3:23",
+    "daniel 4:28",
+    "daniel 7:20"
+  ]
 }

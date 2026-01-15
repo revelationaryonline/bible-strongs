@@ -35,5 +35,11 @@
     "tr": "bir kalem veya işaretleme çubuğu",
     "uk": "стилус або маркувальна паличка",
     "zh": "签字笔"
-  }
+  },
+  "verses": [
+    "job 19:24",
+    "psalms 45:2",
+    "jeremiah 8:8",
+    "jeremiah 17:1"
+  ]
 }

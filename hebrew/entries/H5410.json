@@ -35,5 +35,33 @@
     "tr": "(dövülmüş) bir yol",
     "uk": "протоптаний (побитий) шлях",
     "zh": "轨道"
-  }
+  },
+  "verses": [
+    "judges 5:6",
+    "job 18:10",
+    "job 19:8",
+    "job 24:13",
+    "job 28:7",
+    "job 30:13",
+    "job 38:20",
+    "job 41:24",
+    "psalms 78:50",
+    "psalms 119:35",
+    "psalms 119:105",
+    "psalms 142:4",
+    "proverbs 1:15",
+    "proverbs 3:17",
+    "proverbs 7:25",
+    "proverbs 8:2",
+    "proverbs 8:20",
+    "proverbs 12:28",
+    "isaiah 42:16",
+    "isaiah 43:16",
+    "isaiah 58:12",
+    "isaiah 59:8",
+    "jeremiah 6:16",
+    "jeremiah 18:15",
+    "lamentations 3:9",
+    "hosea 2:8"
+  ]
 }

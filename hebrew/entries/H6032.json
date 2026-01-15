@@ -35,5 +35,36 @@
     "tr": "{doğru olarak, bakmak veya (genellikle) kulak vermek, yani dikkat etmek; ima yoluyla, yanıt vermek; uzantı olarak konuşmaya başlamak; özellikle şarkı söylemek, bağırmak, tanıklık etmek, duyurmak}",
     "uk": "{власне, дивитися або (загалом) слухати, тобто звертати увагу; за змістом - відповідати; за змістом - починати говорити; зокрема, співати, кричати, свідчити, оголошувати}",
     "zh": "{正确地说，是指注视或（一般地）注意，即注意；暗指回应；引申为开始说话；具体地说，是指歌唱、呼喊、作证、宣布}。"
-  }
+  },
+  "verses": [
+    "psalms 60:7",
+    "daniel 2:5",
+    "daniel 2:7",
+    "daniel 2:8",
+    "daniel 2:10",
+    "daniel 2:15",
+    "daniel 2:20",
+    "daniel 2:26",
+    "daniel 2:27",
+    "daniel 2:47",
+    "daniel 3:9",
+    "daniel 3:14",
+    "daniel 3:16",
+    "daniel 3:19",
+    "daniel 3:24",
+    "daniel 3:25",
+    "daniel 3:26",
+    "daniel 3:28",
+    "daniel 4:16",
+    "daniel 4:27",
+    "daniel 5:7",
+    "daniel 5:10",
+    "daniel 5:13",
+    "daniel 5:17",
+    "daniel 6:13",
+    "daniel 6:14",
+    "daniel 6:17",
+    "daniel 6:21",
+    "daniel 7:2"
+  ]
 }

@@ -37,8 +37,6 @@
   },
   "hebrew": "בִּלְהָה",
   "verses": [
-    "firstChronicles 4:29",
-    "firstChronicles 7:13",
     "genesis 29:29",
     "genesis 30:3",
     "genesis 30:4",
@@ -47,6 +45,8 @@
     "genesis 35:22",
     "genesis 35:25",
     "genesis 37:2",
-    "genesis 46:25"
+    "genesis 46:25",
+    "firstChronicles 4:29",
+    "firstChronicles 7:13"
   ]
 }

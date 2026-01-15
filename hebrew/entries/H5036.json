@@ -35,5 +35,25 @@
     "tr": "aptal; kötü (özellikle dinsiz)",
     "uk": "дурний; нечестивий (особливо нечестивий)",
     "zh": "愚蠢；邪恶（尤其是不虔诚）"
-  }
+  },
+  "verses": [
+    "deuteronomy 32:6",
+    "deuteronomy 32:21",
+    "secondSamuel 3:33",
+    "secondSamuel 13:13",
+    "job 2:10",
+    "job 30:8",
+    "psalms 14:1",
+    "psalms 39:9",
+    "psalms 53:2",
+    "psalms 74:18",
+    "psalms 74:22",
+    "proverbs 17:7",
+    "proverbs 17:21",
+    "proverbs 30:22",
+    "isaiah 32:5",
+    "isaiah 32:6",
+    "jeremiah 17:11",
+    "ezekiel 13:3"
+  ]
 }

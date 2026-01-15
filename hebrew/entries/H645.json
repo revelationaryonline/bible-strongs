@@ -37,20 +37,20 @@
   },
   "hebrew": "אֵפוֹ",
   "verses": [
-    "exodus 33:16",
     "genesis 27:33",
     "genesis 27:37",
     "genesis 43:11",
-    "hosea 13:10",
+    "exodus 33:16",
+    "judges 9:38",
+    "secondKings 10:10",
+    "job 9:24",
+    "job 17:15",
+    "job 19:6",
+    "job 19:23",
+    "job 24:25",
+    "proverbs 6:3",
     "isaiah 19:12",
     "isaiah 22:1",
-    "job 17:15",
-    "job 19:23",
-    "job 19:6",
-    "job 24:25",
-    "job 9:24",
-    "judges 9:38",
-    "proverbs 6:3",
-    "secondKings 10:10"
+    "hosea 13:10"
   ]
 }

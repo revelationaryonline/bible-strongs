@@ -35,5 +35,21 @@
     "tr": "{bir halk (toplanmış bir birim olarak); özellikle bir kabile (İsrailoğulları gibi); dolayısıyla (toplu olarak) birlikler veya görevliler; mecazi olarak bir sürü}",
     "uk": "{народ (як зібрана одиниця); зокрема, плем'я (як в Ізраїлі); звідси (збірно) військо або прислуга; образно - стадо}",
     "zh": "{一个民族（作为一个聚集的单位）；具体地说，一个支派（如以色列的支派）；因此（统称）部队或随从；比喻羊群}。"
-  }
+  },
+  "verses": [
+    "ezra 5:12",
+    "ezra 6:12",
+    "ezra 7:13",
+    "ezra 7:16",
+    "ezra 7:25",
+    "daniel 2:44",
+    "daniel 3:4",
+    "daniel 3:7",
+    "daniel 3:29",
+    "daniel 3:31",
+    "daniel 5:19",
+    "daniel 6:26",
+    "daniel 7:14",
+    "daniel 7:27"
+  ]
 }

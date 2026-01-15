@@ -37,16 +37,16 @@
   },
   "hebrew": "גְּוִיָּה",
   "verses": [
-    "daniel 10:6",
-    "ezekiel 1:11",
-    "ezekiel 1:23",
-    "firstSamuel 31:10",
-    "firstSamuel 31:12",
     "genesis 47:18",
     "judges 14:8",
     "judges 14:9",
-    "nahum 3:3",
+    "firstSamuel 31:10",
+    "firstSamuel 31:12",
     "nehemiah 9:37",
-    "psalms 110:6"
+    "psalms 110:6",
+    "ezekiel 1:11",
+    "ezekiel 1:23",
+    "daniel 10:6",
+    "nahum 3:3"
   ]
 }

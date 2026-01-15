@@ -35,5 +35,30 @@
     "tr": "(bir hayvanı, bir işçiyi, bir borçluyu, bir orduyu) sürmek; ima yoluyla, vergilendirmek, taciz etmek, zulmetmek",
     "uk": "гнати (тварину, робітника, боржника, армію); побічно - обкладати податками, переслідувати, тиранити",
     "zh": "驱赶（牲畜、工人、债务人、军队）；暗示征税、骚扰、暴虐"
-  }
+  },
+  "verses": [
+    "exodus 3:7",
+    "exodus 5:6",
+    "exodus 5:10",
+    "exodus 5:13",
+    "exodus 5:14",
+    "deuteronomy 15:2",
+    "deuteronomy 15:3",
+    "firstSamuel 13:6",
+    "firstSamuel 14:24",
+    "secondKings 23:35",
+    "job 3:18",
+    "job 39:7",
+    "isaiah 3:5",
+    "isaiah 3:12",
+    "isaiah 9:3",
+    "isaiah 14:2",
+    "isaiah 14:4",
+    "isaiah 53:7",
+    "isaiah 58:3",
+    "isaiah 60:17",
+    "daniel 11:20",
+    "zechariah 9:8",
+    "zechariah 10:4"
+  ]
 }

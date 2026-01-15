@@ -37,10 +37,6 @@
   },
   "hebrew": "יְחִיאֵל",
   "verses": [
-    "ezra 10:2",
-    "ezra 10:21",
-    "ezra 10:26",
-    "ezra 8:9",
     "firstChronicles 15:18",
     "firstChronicles 15:20",
     "firstChronicles 16:5",
@@ -50,6 +46,10 @@
     "secondChronicles 21:2",
     "secondChronicles 29:14",
     "secondChronicles 31:13",
-    "secondChronicles 35:8"
+    "secondChronicles 35:8",
+    "ezra 8:9",
+    "ezra 10:2",
+    "ezra 10:21",
+    "ezra 10:26"
   ]
 }

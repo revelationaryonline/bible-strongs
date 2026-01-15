@@ -35,5 +35,13 @@
     "tr": "düzgün bir şekilde kazımak, ancak bazı özel anlamlarda (çıkarma veya birleştirme)",
     "uk": "власне, вишкрібати, але в певних специфічних значеннях (видалення або об'єднання)",
     "zh": "正确地说，是刮掉，但在某些特殊意义上（清除或联想）是指"
-  }
+  },
+  "verses": [
+    "firstSamuel 2:36",
+    "firstSamuel 26:19",
+    "job 30:7",
+    "isaiah 3:17",
+    "isaiah 14:1",
+    "habakkuk 2:15"
+  ]
 }

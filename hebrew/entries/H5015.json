@@ -35,5 +35,20 @@
     "tr": "Nebo, bir Babil tanrısının adı, ayrıca Moab'da bir dağın ve Filistin'de bir yerin adı",
     "uk": "Небо - ім'я вавилонського божества, а також гори в Моаві та місця в Палестині",
     "zh": "尼波，巴比伦神的名字，也是摩押的一座山和巴勒斯坦一个地方的名字"
-  }
+  },
+  "verses": [
+    "numbers 32:3",
+    "numbers 32:38",
+    "numbers 33:47",
+    "deuteronomy 32:49",
+    "deuteronomy 34:1",
+    "firstChronicles 5:8",
+    "ezra 2:29",
+    "ezra 10:43",
+    "nehemiah 7:33",
+    "isaiah 15:2",
+    "isaiah 46:1",
+    "jeremiah 48:1",
+    "jeremiah 48:22"
+  ]
 }

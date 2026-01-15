@@ -35,5 +35,31 @@
     "tr": "depresyonda (mecazi olarak), zihinde (nazik) veya koşullarda (muhtaç, özellikle aziz)",
     "uk": "пригнічений (образно), в думках (лагідний) або обставинах (нужденний, особливо святий)",
     "zh": "郁郁不得志（温柔）或境遇不佳（有需要，尤其是圣人）"
-  }
+  },
+  "verses": [
+    "numbers 12:3",
+    "job 24:4",
+    "psalms 9:13",
+    "psalms 9:19",
+    "psalms 10:12",
+    "psalms 10:17",
+    "psalms 22:27",
+    "psalms 25:9",
+    "psalms 34:3",
+    "psalms 37:11",
+    "psalms 69:33",
+    "psalms 76:10",
+    "psalms 147:6",
+    "psalms 149:4",
+    "proverbs 3:34",
+    "proverbs 14:21",
+    "proverbs 16:19",
+    "isaiah 11:4",
+    "isaiah 29:19",
+    "isaiah 32:7",
+    "isaiah 61:1",
+    "amos 2:7",
+    "amos 8:4",
+    "zephaniah 2:3"
+  ]
 }

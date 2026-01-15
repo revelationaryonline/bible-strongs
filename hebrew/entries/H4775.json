@@ -35,5 +35,30 @@
     "tr": "isyan etmek",
     "uk": "бунтувати",
     "zh": "造反"
-  }
+  },
+  "verses": [
+    "genesis 14:4",
+    "numbers 14:9",
+    "joshua 22:16",
+    "joshua 22:18",
+    "joshua 22:19",
+    "joshua 22:29",
+    "secondKings 18:7",
+    "secondKings 18:20",
+    "secondKings 24:1",
+    "secondKings 24:20",
+    "secondChronicles 13:6",
+    "secondChronicles 36:13",
+    "nehemiah 2:19",
+    "nehemiah 6:6",
+    "nehemiah 9:26",
+    "job 24:13",
+    "isaiah 36:5",
+    "jeremiah 52:3",
+    "ezekiel 2:3",
+    "ezekiel 17:15",
+    "ezekiel 20:38",
+    "daniel 9:5",
+    "daniel 9:9"
+  ]
 }

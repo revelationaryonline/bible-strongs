@@ -37,15 +37,9 @@
   },
   "hebrew": "גֵּרְשׁוֹן",
   "verses": [
+    "genesis 46:11",
     "exodus 6:16",
     "exodus 6:17",
-    "firstChronicles 15:7",
-    "firstChronicles 5:27",
-    "genesis 46:11",
-    "joshua 21:27",
-    "joshua 21:6",
-    "numbers 10:17",
-    "numbers 26:57",
     "numbers 3:17",
     "numbers 3:18",
     "numbers 3:21",
@@ -53,6 +47,12 @@
     "numbers 4:22",
     "numbers 4:38",
     "numbers 4:41",
-    "numbers 7:7"
+    "numbers 7:7",
+    "numbers 10:17",
+    "numbers 26:57",
+    "joshua 21:6",
+    "joshua 21:27",
+    "firstChronicles 5:27",
+    "firstChronicles 15:7"
   ]
 }

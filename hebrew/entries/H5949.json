@@ -35,5 +35,31 @@
     "tr": "bir istismar (Tanrı'nın) veya bir performans (insanın, genellikle kötü anlamda); ima yoluyla, bir fırsat",
     "uk": "подвиг (Бога) або діяння (людини, часто в поганому сенсі); за змістом - можливість",
     "zh": "一种利用（神的利用），或一种表现（人的表现，通常是指不好的表现）；暗指一种机会"
-  }
+  },
+  "verses": [
+    "deuteronomy 22:14",
+    "deuteronomy 22:17",
+    "firstSamuel 2:3",
+    "firstChronicles 16:8",
+    "psalms 9:12",
+    "psalms 14:1",
+    "psalms 66:5",
+    "psalms 77:13",
+    "psalms 78:11",
+    "psalms 99:8",
+    "psalms 103:7",
+    "psalms 105:1",
+    "psalms 141:4",
+    "isaiah 12:4",
+    "ezekiel 14:22",
+    "ezekiel 14:23",
+    "ezekiel 20:43",
+    "ezekiel 20:44",
+    "ezekiel 21:29",
+    "ezekiel 24:14",
+    "ezekiel 36:17",
+    "ezekiel 36:19",
+    "zephaniah 3:7",
+    "zephaniah 3:11"
+  ]
 }

@@ -35,5 +35,15 @@
     "tr": "Mattithjah, dört İsraillinin adı",
     "uk": "Матвія, ім'я чотирьох ізраїльтян",
     "zh": "马提雅，四个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstChronicles 9:31",
+    "firstChronicles 15:18",
+    "firstChronicles 15:21",
+    "firstChronicles 16:5",
+    "firstChronicles 25:3",
+    "firstChronicles 25:21",
+    "ezra 10:43",
+    "nehemiah 8:4"
+  ]
 }

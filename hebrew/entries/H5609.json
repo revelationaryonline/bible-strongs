@@ -35,5 +35,11 @@
     "tr": "bir kitap",
     "uk": "книгу",
     "zh": "一本书"
-  }
+  },
+  "verses": [
+    "ezra 4:15",
+    "ezra 6:1",
+    "ezra 6:18",
+    "daniel 7:10"
+  ]
 }

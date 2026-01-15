@@ -37,12 +37,12 @@
   },
   "hebrew": "חֲגוֹר",
   "verses": [
-    "firstKings 2:5",
-    "firstSamuel 18:4",
     "genesis 3:7",
-    "isaiah 3:24",
-    "secondKings 3:21",
+    "firstSamuel 18:4",
     "secondSamuel 18:11",
-    "secondSamuel 20:8"
+    "secondSamuel 20:8",
+    "firstKings 2:5",
+    "secondKings 3:21",
+    "isaiah 3:24"
   ]
 }

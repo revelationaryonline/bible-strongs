@@ -8,9 +8,6 @@
   "translations": {},
   "hebrew": "זִכְרוֹן",
   "verses": [
-    "ecclesiastes 1:11",
-    "ecclesiastes 2:16",
-    "esther 6:1",
     "exodus 12:14",
     "exodus 13:9",
     "exodus 17:14",
@@ -18,17 +15,20 @@
     "exodus 28:29",
     "exodus 30:16",
     "exodus 39:7",
-    "isaiah 57:8",
-    "job 13:12",
-    "joshua 4:7",
     "leviticus 23:24",
-    "malachi 3:16",
-    "nehemiah 2:20",
+    "numbers 5:15",
+    "numbers 5:18",
     "numbers 10:10",
     "numbers 17:5",
     "numbers 31:54",
-    "numbers 5:15",
-    "numbers 5:18",
-    "zechariah 6:14"
+    "joshua 4:7",
+    "nehemiah 2:20",
+    "esther 6:1",
+    "job 13:12",
+    "ecclesiastes 1:11",
+    "ecclesiastes 2:16",
+    "isaiah 57:8",
+    "zechariah 6:14",
+    "malachi 3:16"
   ]
 }

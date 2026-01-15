@@ -35,5 +35,31 @@
     "tr": "sallamak, yani dalgalanmak; mecazi olarak, dolaşmak, kaçmak, kaybolmak; ayrıca (sempati içinde baş sallamaktan), teselli etmek, üzülmek veya (küçümseme içinde baş sallamaktan) alay etmek",
     "uk": "кивати, тобто махати рукою; переносно - блукати, тікати, зникати; також (від співчутливого хитання головою), втішати, жаліти або (від зневажливого кивання головою) глузувати",
     "zh": "点头，即摇摆不定；比喻徘徊、逃离、消失；也指（因同情而摇头）安慰、痛惜，或（因蔑视而甩头）嘲讽"
-  }
+  },
+  "verses": [
+    "genesis 4:12",
+    "genesis 4:14",
+    "firstKings 14:15",
+    "secondKings 21:8",
+    "job 2:11",
+    "job 42:11",
+    "psalms 11:1",
+    "psalms 36:12",
+    "psalms 69:21",
+    "proverbs 26:2",
+    "isaiah 24:20",
+    "isaiah 51:19",
+    "jeremiah 4:1",
+    "jeremiah 15:5",
+    "jeremiah 16:5",
+    "jeremiah 18:16",
+    "jeremiah 22:10",
+    "jeremiah 31:18",
+    "jeremiah 48:17",
+    "jeremiah 48:27",
+    "jeremiah 49:30",
+    "jeremiah 50:3",
+    "jeremiah 50:8",
+    "nahum 3:7"
+  ]
 }

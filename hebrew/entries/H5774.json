@@ -35,5 +35,36 @@
     "tr": "uçmak; ayrıca (loşluğu ima ederek) bayılmak (bayılmanın karanlığından)",
     "uk": "летіти; також (у значенні тьмяності) непритомніти (від темряви непритомніти)",
     "zh": "飞；还（暗示昏暗）晕倒（从昏厥的黑暗中晕倒）。"
-  }
+  },
+  "verses": [
+    "genesis 1:20",
+    "deuteronomy 4:17",
+    "judges 4:21",
+    "firstSamuel 14:28",
+    "firstSamuel 14:31",
+    "secondSamuel 21:15",
+    "secondSamuel 22:11",
+    "job 5:7",
+    "job 11:17",
+    "job 20:8",
+    "psalms 18:11",
+    "psalms 55:7",
+    "psalms 90:10",
+    "psalms 91:5",
+    "proverbs 23:5",
+    "proverbs 26:2",
+    "isaiah 6:2",
+    "isaiah 6:6",
+    "isaiah 11:14",
+    "isaiah 14:29",
+    "isaiah 30:6",
+    "isaiah 31:5",
+    "isaiah 60:8",
+    "ezekiel 32:10",
+    "hosea 9:11",
+    "nahum 3:16",
+    "habakkuk 1:8",
+    "zechariah 5:1",
+    "zechariah 5:2"
+  ]
 }

@@ -37,14 +37,14 @@
   },
   "hebrew": "אֵל",
   "verses": [
-    "deuteronomy 19:11",
-    "deuteronomy 4:42",
-    "deuteronomy 7:22",
-    "firstChronicles 20:8",
-    "genesis 19:25",
     "genesis 19:8",
+    "genesis 19:25",
     "genesis 26:3",
     "genesis 26:4",
-    "leviticus 18:27"
+    "leviticus 18:27",
+    "deuteronomy 4:42",
+    "deuteronomy 7:22",
+    "deuteronomy 19:11",
+    "firstChronicles 20:8"
   ]
 }

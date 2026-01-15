@@ -8,10 +8,17 @@
   "translations": {},
   "hebrew": "זָהַר",
   "verses": [
-    "daniel 12:3",
-    "ecclesiastes 12:12",
-    "ecclesiastes 4:13",
     "exodus 18:20",
+    "secondKings 6:10",
+    "secondChronicles 19:10",
+    "psalms 19:12",
+    "ecclesiastes 4:13",
+    "ecclesiastes 12:12",
+    "ezekiel 3:17",
+    "ezekiel 3:18",
+    "ezekiel 3:19",
+    "ezekiel 3:20",
+    "ezekiel 3:21",
     "ezekiel 33:3",
     "ezekiel 33:4",
     "ezekiel 33:5",
@@ -19,13 +26,6 @@
     "ezekiel 33:7",
     "ezekiel 33:8",
     "ezekiel 33:9",
-    "ezekiel 3:17",
-    "ezekiel 3:18",
-    "ezekiel 3:19",
-    "ezekiel 3:20",
-    "ezekiel 3:21",
-    "psalms 19:12",
-    "secondChronicles 19:10",
-    "secondKings 6:10"
+    "daniel 12:3"
   ]
 }

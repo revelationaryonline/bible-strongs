@@ -37,18 +37,18 @@
   },
   "hebrew": "דַּק",
   "verses": [
-    "exodus 16:14",
-    "firstKings 19:12",
-    "genesis 41:23",
-    "genesis 41:24",
     "genesis 41:3",
     "genesis 41:4",
     "genesis 41:6",
     "genesis 41:7",
-    "isaiah 29:5",
-    "isaiah 40:15",
+    "genesis 41:23",
+    "genesis 41:24",
+    "exodus 16:14",
     "leviticus 13:30",
     "leviticus 16:12",
-    "leviticus 21:20"
+    "leviticus 21:20",
+    "firstKings 19:12",
+    "isaiah 29:5",
+    "isaiah 40:15"
   ]
 }

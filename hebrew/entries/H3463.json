@@ -37,12 +37,12 @@
   },
   "hebrew": "יָשֵׁן",
   "verses": [
-    "daniel 12:2",
-    "firstKings 18:27",
-    "firstKings 3:20",
     "firstSamuel 26:7",
-    "hosea 7:6",
+    "firstKings 3:20",
+    "firstKings 18:27",
     "psalms 78:65",
-    "solomon 5:2"
+    "solomon 5:2",
+    "daniel 12:2",
+    "hosea 7:6"
   ]
 }

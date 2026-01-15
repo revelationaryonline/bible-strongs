@@ -35,5 +35,24 @@
     "tr": "parçalara ayırmak veya dağıtmak",
     "uk": "розбитися на шматки або розлетітися",
     "zh": "破"
-  }
+  },
+  "verses": [
+    "genesis 9:19",
+    "judges 7:19",
+    "firstSamuel 13:11",
+    "firstKings 5:23",
+    "psalms 2:9",
+    "psalms 137:9",
+    "isaiah 11:12",
+    "isaiah 27:9",
+    "isaiah 33:3",
+    "jeremiah 13:14",
+    "jeremiah 22:28",
+    "jeremiah 48:12",
+    "jeremiah 51:20",
+    "jeremiah 51:21",
+    "jeremiah 51:22",
+    "jeremiah 51:23",
+    "daniel 12:7"
+  ]
 }

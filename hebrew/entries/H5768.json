@@ -35,5 +35,27 @@
     "tr": "bir emzirme",
     "uk": "смоктати",
     "zh": "哺乳"
-  }
+  },
+  "verses": [
+    "firstSamuel 15:3",
+    "firstSamuel 22:19",
+    "secondKings 8:12",
+    "job 3:16",
+    "psalms 8:3",
+    "psalms 17:14",
+    "psalms 137:9",
+    "isaiah 13:16",
+    "jeremiah 6:11",
+    "jeremiah 9:20",
+    "jeremiah 44:7",
+    "lamentations 1:5",
+    "lamentations 2:11",
+    "lamentations 2:19",
+    "lamentations 2:20",
+    "lamentations 4:4",
+    "hosea 14:1",
+    "joel 2:16",
+    "micah 2:9",
+    "nahum 3:10"
+  ]
 }

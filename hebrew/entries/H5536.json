@@ -35,5 +35,20 @@
     "tr": "düzgün bir şekilde, bir söğüt dalı (sarkık olarak), yani bir söğüt; ancak sadece örülmüş olarak",
     "uk": "власне, вербову гілочку (як маятник), тобто осердя; але тільки в тому вигляді, в якому вона вплетена в кошик",
     "zh": "柳枝（下垂），即柳条；但仅指编织成篮子的柳条"
-  }
+  },
+  "verses": [
+    "genesis 40:16",
+    "genesis 40:17",
+    "genesis 40:18",
+    "exodus 29:3",
+    "exodus 29:23",
+    "exodus 29:32",
+    "leviticus 8:2",
+    "leviticus 8:26",
+    "leviticus 8:31",
+    "numbers 6:15",
+    "numbers 6:17",
+    "numbers 6:19",
+    "judges 6:19"
+  ]
 }

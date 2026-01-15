@@ -35,5 +35,31 @@
     "tr": "kutsama (eylemi); ima yoluyla, kutsayıcı bir armağan",
     "uk": "освячення (акт); підтекстом - освячувальний дар",
     "zh": "圣洁（行为）；暗指圣礼"
-  }
+  },
+  "verses": [
+    "exodus 25:6",
+    "exodus 29:7",
+    "exodus 29:21",
+    "exodus 29:29",
+    "exodus 30:25",
+    "exodus 30:31",
+    "exodus 31:11",
+    "exodus 35:8",
+    "exodus 35:15",
+    "exodus 35:28",
+    "exodus 37:29",
+    "exodus 39:38",
+    "exodus 40:9",
+    "exodus 40:15",
+    "leviticus 7:35",
+    "leviticus 8:2",
+    "leviticus 8:10",
+    "leviticus 8:12",
+    "leviticus 8:30",
+    "leviticus 10:7",
+    "leviticus 21:10",
+    "leviticus 21:12",
+    "numbers 4:16",
+    "numbers 18:8"
+  ]
 }

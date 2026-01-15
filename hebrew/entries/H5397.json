@@ -35,5 +35,31 @@
     "tr": "bir nefes, yani rüzgar, öfkeli veya hayati nefes, ilahi ilham, akıl. veya (somut olarak) bir hayvan",
     "uk": "подув, тобто вітер, гнівний або життєвий подих, божественне натхнення, інтелект. або (конкретно) тварина",
     "zh": "一扑，即风、生气或元气、神灵的启示、智力。 或（具体地说）一种动物"
-  }
+  },
+  "verses": [
+    "genesis 2:7",
+    "genesis 7:22",
+    "deuteronomy 20:16",
+    "joshua 10:40",
+    "joshua 11:11",
+    "joshua 11:14",
+    "secondSamuel 22:16",
+    "firstKings 15:29",
+    "firstKings 17:17",
+    "job 4:9",
+    "job 26:4",
+    "job 27:3",
+    "job 32:8",
+    "job 33:4",
+    "job 34:14",
+    "job 37:10",
+    "psalms 18:16",
+    "psalms 150:6",
+    "proverbs 20:27",
+    "isaiah 2:22",
+    "isaiah 30:33",
+    "isaiah 42:5",
+    "isaiah 57:16",
+    "daniel 10:17"
+  ]
 }

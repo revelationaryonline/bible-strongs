@@ -37,7 +37,6 @@
   },
   "hebrew": "כָּהַן",
   "verses": [
-    "deuteronomy 10:6",
     "exodus 28:1",
     "exodus 28:3",
     "exodus 28:4",
@@ -50,15 +49,16 @@
     "exodus 39:41",
     "exodus 40:13",
     "exodus 40:15",
-    "ezekiel 44:13",
-    "firstChronicles 24:2",
-    "firstChronicles 5:36",
-    "hosea 4:6",
-    "isaiah 61:10",
-    "leviticus 16:32",
     "leviticus 7:35",
+    "leviticus 16:32",
     "numbers 3:3",
     "numbers 3:4",
-    "secondChronicles 11:14"
+    "deuteronomy 10:6",
+    "firstChronicles 5:36",
+    "firstChronicles 24:2",
+    "secondChronicles 11:14",
+    "isaiah 61:10",
+    "ezekiel 44:13",
+    "hosea 4:6"
   ]
 }

@@ -35,5 +35,28 @@
     "tr": "yardım",
     "uk": "допомога",
     "zh": "援助"
-  }
+  },
+  "verses": [
+    "genesis 2:18",
+    "genesis 2:20",
+    "exodus 18:4",
+    "deuteronomy 33:7",
+    "deuteronomy 33:26",
+    "deuteronomy 33:29",
+    "psalms 20:3",
+    "psalms 33:20",
+    "psalms 70:6",
+    "psalms 89:20",
+    "psalms 115:9",
+    "psalms 115:10",
+    "psalms 115:11",
+    "psalms 121:1",
+    "psalms 121:2",
+    "psalms 124:8",
+    "psalms 146:5",
+    "isaiah 30:5",
+    "ezekiel 12:14",
+    "daniel 11:34",
+    "hosea 13:9"
+  ]
 }

@@ -35,5 +35,10 @@
     "tr": "{bir hediye; özellikle (iyi anlamda) bir kurban sunusu, (kötü anlamda) bir rüşvet}",
     "uk": "{подарунок; зокрема (у хорошому сенсі), жертвоприношення, (у поганому сенсі) хабар}",
     "zh": "{礼物；具体地说（好的意义上）是祭品，（坏的意义上）是贿赂}。"
-  }
+  },
+  "verses": [
+    "daniel 2:6",
+    "daniel 2:48",
+    "daniel 5:17"
+  ]
 }

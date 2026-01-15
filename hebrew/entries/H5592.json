@@ -35,5 +35,35 @@
     "tr": "bir giriş (sınır olarak); ayrıca bir çanak (kan veya şarap tutmak için)",
     "uk": "тамбур (як межа); також посуд (для зберігання крові або вина)",
     "zh": "盘"
-  }
+  },
+  "verses": [
+    "exodus 12:22",
+    "judges 19:27",
+    "secondSamuel 17:28",
+    "firstKings 7:50",
+    "firstKings 14:17",
+    "secondKings 12:10",
+    "secondKings 12:14",
+    "secondKings 22:4",
+    "secondKings 23:4",
+    "secondKings 25:18",
+    "firstChronicles 9:19",
+    "firstChronicles 9:22",
+    "secondChronicles 3:7",
+    "secondChronicles 23:4",
+    "secondChronicles 34:9",
+    "esther 2:21",
+    "esther 6:2",
+    "isaiah 6:4",
+    "jeremiah 35:4",
+    "jeremiah 52:19",
+    "jeremiah 52:24",
+    "ezekiel 40:6",
+    "ezekiel 40:7",
+    "ezekiel 41:16",
+    "ezekiel 43:8",
+    "amos 9:1",
+    "zephaniah 2:14",
+    "zechariah 12:2"
+  ]
 }

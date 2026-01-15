@@ -35,5 +35,29 @@
     "tr": "uygun olarak, ön kısım; zarf olarak kullanılır (özellikle edatla birlikte), karşısında, önünde, ilerisinde, adına",
     "uk": "власне, передня частина; вживається прислівниково (особливо з прийменником), навпроти, перед, вперед, від імені",
     "zh": "本义：前面的部分；用于副词（特别是与介词连用），相反，在前面，向前，代表"
-  }
+  },
+  "verses": [
+    "genesis 25:21",
+    "genesis 30:38",
+    "exodus 26:35",
+    "exodus 40:24",
+    "numbers 19:4",
+    "joshua 15:7",
+    "joshua 18:17",
+    "judges 18:6",
+    "judges 19:10",
+    "judges 20:43",
+    "firstKings 20:29",
+    "firstKings 22:35",
+    "secondChronicles 18:34",
+    "esther 5:1",
+    "proverbs 4:25",
+    "proverbs 5:21",
+    "jeremiah 17:16",
+    "lamentations 2:19",
+    "ezekiel 14:3",
+    "ezekiel 14:4",
+    "ezekiel 14:7",
+    "ezekiel 47:20"
+  ]
 }

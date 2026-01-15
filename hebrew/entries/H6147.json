@@ -35,5 +35,14 @@
     "tr": "Er, iki İsraillinin adı",
     "uk": "Імена двох ізраїльтян",
     "zh": "埃尔，两个以色列人的名字"
-  }
+  },
+  "verses": [
+    "genesis 38:3",
+    "genesis 38:6",
+    "genesis 38:7",
+    "genesis 46:12",
+    "numbers 26:19",
+    "firstChronicles 2:3",
+    "firstChronicles 4:21"
+  ]
 }

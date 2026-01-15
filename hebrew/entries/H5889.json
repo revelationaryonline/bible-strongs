@@ -35,5 +35,24 @@
     "tr": "durgun",
     "uk": "млявий",
     "zh": "慵懒"
-  }
+  },
+  "verses": [
+    "genesis 25:29",
+    "genesis 25:30",
+    "deuteronomy 25:18",
+    "judges 8:4",
+    "judges 8:5",
+    "secondSamuel 16:14",
+    "secondSamuel 17:29",
+    "job 22:7",
+    "psalms 63:2",
+    "psalms 143:6",
+    "proverbs 25:25",
+    "isaiah 5:27",
+    "isaiah 28:12",
+    "isaiah 29:8",
+    "isaiah 32:2",
+    "isaiah 46:1",
+    "jeremiah 31:25"
+  ]
 }

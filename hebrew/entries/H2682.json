@@ -37,7 +37,18 @@
   },
   "hebrew": "חָצִיר",
   "verses": [
+    "numbers 11:5",
     "firstKings 18:5",
+    "secondKings 19:26",
+    "job 8:12",
+    "job 40:15",
+    "psalms 37:2",
+    "psalms 90:5",
+    "psalms 103:15",
+    "psalms 104:14",
+    "psalms 129:6",
+    "psalms 147:8",
+    "proverbs 27:25",
     "isaiah 15:6",
     "isaiah 35:7",
     "isaiah 37:27",
@@ -45,17 +56,6 @@
     "isaiah 40:7",
     "isaiah 40:8",
     "isaiah 44:4",
-    "isaiah 51:12",
-    "job 40:15",
-    "job 8:12",
-    "numbers 11:5",
-    "proverbs 27:25",
-    "psalms 103:15",
-    "psalms 104:14",
-    "psalms 129:6",
-    "psalms 147:8",
-    "psalms 37:2",
-    "psalms 90:5",
-    "secondKings 19:26"
+    "isaiah 51:12"
   ]
 }

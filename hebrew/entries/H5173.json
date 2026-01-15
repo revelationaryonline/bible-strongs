@@ -35,5 +35,9 @@
     "tr": "bir büyü veya kehanet",
     "uk": "заклинання або віщування",
     "zh": "谶语"
-  }
+  },
+  "verses": [
+    "numbers 23:23",
+    "numbers 24:1"
+  ]
 }

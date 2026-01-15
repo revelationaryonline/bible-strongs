@@ -35,5 +35,35 @@
     "tr": "söz vermek (poz., Tanrı'ya bir şey yapmak veya vermek)",
     "uk": "пообіцяти (перен., зробити або віддати щось Богові)",
     "zh": "许诺"
-  }
+  },
+  "verses": [
+    "genesis 28:20",
+    "genesis 31:13",
+    "leviticus 27:8",
+    "numbers 6:2",
+    "numbers 6:21",
+    "numbers 21:2",
+    "numbers 30:3",
+    "numbers 30:4",
+    "numbers 30:11",
+    "deuteronomy 12:11",
+    "deuteronomy 12:17",
+    "deuteronomy 23:22",
+    "deuteronomy 23:23",
+    "deuteronomy 23:24",
+    "judges 11:30",
+    "judges 11:39",
+    "firstSamuel 1:11",
+    "secondSamuel 15:7",
+    "secondSamuel 15:8",
+    "psalms 76:12",
+    "psalms 132:2",
+    "ecclesiastes 5:3",
+    "ecclesiastes 5:4",
+    "isaiah 19:21",
+    "jeremiah 44:25",
+    "jonah 1:16",
+    "jonah 2:10",
+    "malachi 1:14"
+  ]
 }

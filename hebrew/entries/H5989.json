@@ -35,5 +35,17 @@
     "tr": "Ammihud, üç İsraillinin adı",
     "uk": "Амміхуд, ім'я трьох ізраїльтян",
     "zh": "阿米胡德，三个以色列人的名字"
-  }
+  },
+  "verses": [
+    "numbers 1:10",
+    "numbers 2:18",
+    "numbers 7:48",
+    "numbers 7:53",
+    "numbers 10:22",
+    "numbers 34:20",
+    "numbers 34:28",
+    "secondSamuel 13:37",
+    "firstChronicles 7:26",
+    "firstChronicles 9:4"
+  ]
 }

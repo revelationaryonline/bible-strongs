@@ -37,11 +37,6 @@
   },
   "hebrew": "כַּד",
   "verses": [
-    "ecclesiastes 12:6",
-    "firstKings 17:12",
-    "firstKings 17:14",
-    "firstKings 17:16",
-    "firstKings 18:34",
     "genesis 24:14",
     "genesis 24:15",
     "genesis 24:16",
@@ -53,6 +48,11 @@
     "genesis 24:46",
     "judges 7:16",
     "judges 7:19",
-    "judges 7:20"
+    "judges 7:20",
+    "firstKings 17:12",
+    "firstKings 17:14",
+    "firstKings 17:16",
+    "firstKings 18:34",
+    "ecclesiastes 12:6"
   ]
 }

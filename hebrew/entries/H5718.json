@@ -35,5 +35,16 @@
     "tr": "Adajah, sekiz İsraillinin adı",
     "uk": "Ададжа, ім'я восьми ізраїльтян",
     "zh": "亚达雅，八个以色列人的名字"
-  }
+  },
+  "verses": [
+    "secondKings 22:1",
+    "firstChronicles 6:26",
+    "firstChronicles 8:21",
+    "firstChronicles 9:12",
+    "secondChronicles 23:1",
+    "ezra 10:29",
+    "ezra 10:39",
+    "nehemiah 11:5",
+    "nehemiah 11:12"
+  ]
 }

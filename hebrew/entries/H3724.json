@@ -37,22 +37,22 @@
   },
   "hebrew": "כֹּפֶר",
   "verses": [
-    "amos 5:12",
+    "genesis 6:14",
     "exodus 21:30",
     "exodus 30:12",
-    "firstSamuel 12:3",
-    "firstSamuel 6:18",
-    "genesis 6:14",
-    "isaiah 43:3",
-    "job 33:24",
-    "job 36:18",
     "numbers 35:31",
     "numbers 35:32",
+    "firstSamuel 6:18",
+    "firstSamuel 12:3",
+    "job 33:24",
+    "job 36:18",
+    "psalms 49:8",
+    "proverbs 6:35",
     "proverbs 13:8",
     "proverbs 21:18",
-    "proverbs 6:35",
-    "psalms 49:8",
     "solomon 1:14",
-    "solomon 4:13"
+    "solomon 4:13",
+    "isaiah 43:3",
+    "amos 5:12"
   ]
 }

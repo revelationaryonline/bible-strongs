@@ -35,5 +35,35 @@
     "tr": "bir kamış, özellikle papirüs",
     "uk": "очерет, особливо папірус",
     "zh": "苇"
-  }
+  },
+  "verses": [
+    "exodus 2:3",
+    "exodus 2:5",
+    "exodus 10:19",
+    "exodus 13:18",
+    "exodus 15:4",
+    "exodus 15:22",
+    "exodus 23:31",
+    "numbers 14:25",
+    "numbers 21:4",
+    "numbers 33:10",
+    "numbers 33:11",
+    "deuteronomy 1:40",
+    "deuteronomy 2:1",
+    "deuteronomy 11:4",
+    "joshua 2:10",
+    "joshua 4:23",
+    "joshua 24:6",
+    "judges 11:16",
+    "firstKings 9:26",
+    "nehemiah 9:9",
+    "psalms 106:7",
+    "psalms 106:9",
+    "psalms 106:22",
+    "psalms 136:13",
+    "psalms 136:15",
+    "isaiah 19:6",
+    "jeremiah 49:21",
+    "jonah 2:6"
+  ]
 }

@@ -37,12 +37,6 @@
   },
   "hebrew": "דָּֽרְיָוֵשׁ",
   "verses": [
-    "daniel 6:1",
-    "daniel 6:10",
-    "daniel 6:2",
-    "daniel 6:26",
-    "daniel 6:29",
-    "daniel 6:7",
     "ezra 4:24",
     "ezra 5:5",
     "ezra 5:6",
@@ -51,6 +45,12 @@
     "ezra 6:12",
     "ezra 6:13",
     "ezra 6:14",
-    "ezra 6:15"
+    "ezra 6:15",
+    "daniel 6:1",
+    "daniel 6:2",
+    "daniel 6:7",
+    "daniel 6:10",
+    "daniel 6:26",
+    "daniel 6:29"
   ]
 }

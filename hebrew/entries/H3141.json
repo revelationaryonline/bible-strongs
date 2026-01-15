@@ -37,11 +37,7 @@
   },
   "hebrew": "יוֹרָם",
   "verses": [
-    "firstChronicles 26:25",
-    "firstChronicles 3:11",
-    "secondChronicles 22:5",
-    "secondChronicles 22:7",
-    "secondKings 11:2",
+    "secondSamuel 8:10",
     "secondKings 8:16",
     "secondKings 8:21",
     "secondKings 8:23",
@@ -52,6 +48,10 @@
     "secondKings 9:14",
     "secondKings 9:16",
     "secondKings 9:29",
-    "secondSamuel 8:10"
+    "secondKings 11:2",
+    "firstChronicles 3:11",
+    "firstChronicles 26:25",
+    "secondChronicles 22:5",
+    "secondChronicles 22:7"
   ]
 }

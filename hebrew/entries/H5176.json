@@ -35,5 +35,15 @@
     "tr": "Nakkaş, görünüşe göre İsrailli olmayan iki kişinin adı",
     "uk": "Нахаш, ім'я двох осіб, які, вочевидь, не є ізраїльтянами",
     "zh": "纳迦什，两个显然非以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstSamuel 11:1",
+    "firstSamuel 11:2",
+    "firstSamuel 12:12",
+    "secondSamuel 10:2",
+    "secondSamuel 17:25",
+    "secondSamuel 17:27",
+    "firstChronicles 19:1",
+    "firstChronicles 19:2"
+  ]
 }

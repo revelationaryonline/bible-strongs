@@ -35,5 +35,15 @@
     "tr": "Akkub, beş İsraillinin adı",
     "uk": "Аккуб, ім'я п'яти ізраїльтян",
     "zh": "阿库布，五个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstChronicles 3:24",
+    "firstChronicles 9:17",
+    "ezra 2:42",
+    "ezra 2:45",
+    "nehemiah 7:45",
+    "nehemiah 8:7",
+    "nehemiah 11:19",
+    "nehemiah 12:25"
+  ]
 }

@@ -37,23 +37,23 @@
   },
   "hebrew": "גָּלַח",
   "verses": [
-    "deuteronomy 21:12",
-    "ezekiel 44:20",
-    "firstChronicles 19:4",
     "genesis 41:14",
-    "isaiah 7:20",
-    "jeremiah 41:5",
-    "judges 16:17",
-    "judges 16:19",
-    "judges 16:22",
     "leviticus 13:33",
     "leviticus 14:8",
     "leviticus 14:9",
     "leviticus 21:5",
+    "numbers 6:9",
     "numbers 6:18",
     "numbers 6:19",
-    "numbers 6:9",
+    "deuteronomy 21:12",
+    "judges 16:17",
+    "judges 16:19",
+    "judges 16:22",
     "secondSamuel 10:4",
-    "secondSamuel 14:26"
+    "secondSamuel 14:26",
+    "firstChronicles 19:4",
+    "isaiah 7:20",
+    "jeremiah 41:5",
+    "ezekiel 44:20"
   ]
 }

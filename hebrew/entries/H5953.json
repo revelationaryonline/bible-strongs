@@ -35,5 +35,25 @@
     "tr": "iyice etkilemek; özellikle, toplamak (mecazi olarak da); ima yoluyla (kötü anlamda) aşırıya kaçmak, yani kötü davranmak, şımarıklık yapmak, acı vermek, dayatmak (gerçek anlamda da)",
     "uk": "здійснювати ретельно; зокрема, збирати (також у переносному значенні); за змістом (у поганому сенсі) перестаратися, тобто жорстоко поводитися, бути нахабним, завдавати болю, нав'язувати (також у прямому значенні)",
     "zh": "彻底实施；具体地说，拾取（也比喻）；暗指（在不好的意义上）过度，即虐待、猥亵、痛苦、强加（也指字面意思）。"
-  }
+  },
+  "verses": [
+    "exodus 10:2",
+    "leviticus 19:10",
+    "numbers 22:29",
+    "deuteronomy 24:21",
+    "judges 19:25",
+    "judges 20:45",
+    "firstSamuel 6:6",
+    "firstSamuel 31:4",
+    "firstChronicles 10:4",
+    "job 16:15",
+    "psalms 141:4",
+    "isaiah 3:12",
+    "jeremiah 6:9",
+    "jeremiah 38:19",
+    "lamentations 1:12",
+    "lamentations 1:22",
+    "lamentations 2:20",
+    "lamentations 3:51"
+  ]
 }

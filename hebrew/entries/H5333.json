@@ -35,5 +35,18 @@
     "tr": "sabit bir şey, örneğin bir vali, askeri bir görev, bir heykel",
     "uk": "щось стаціонарне, наприклад, префект, військовий пост, статуя",
     "zh": "固定的东西，即县长、军职、雕像"
-  }
+  },
+  "verses": [
+    "genesis 19:26",
+    "firstSamuel 10:5",
+    "firstSamuel 13:3",
+    "firstSamuel 13:4",
+    "secondSamuel 8:6",
+    "secondSamuel 8:14",
+    "firstKings 4:19",
+    "firstChronicles 11:16",
+    "firstChronicles 18:13",
+    "secondChronicles 8:10",
+    "secondChronicles 17:2"
+  ]
 }

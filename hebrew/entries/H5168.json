@@ -35,5 +35,12 @@
     "tr": "biz",
     "uk": "ми",
     "zh": "我们"
-  }
+  },
+  "verses": [
+    "genesis 42:11",
+    "exodus 16:7",
+    "exodus 16:8",
+    "numbers 32:32",
+    "lamentations 3:42"
+  ]
 }

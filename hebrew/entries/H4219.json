@@ -37,16 +37,8 @@
     "zh": "碗"
   },
   "verses": [
-    "amos 6:6",
     "exodus 27:3",
     "exodus 38:3",
-    "firstChronicles 28:17",
-    "firstKings 7:40",
-    "firstKings 7:45",
-    "firstKings 7:50",
-    "jeremiah 52:18",
-    "jeremiah 52:19",
-    "nehemiah 7:69",
     "numbers 4:14",
     "numbers 7:13",
     "numbers 7:19",
@@ -62,12 +54,20 @@
     "numbers 7:79",
     "numbers 7:84",
     "numbers 7:85",
-    "secondChronicles 4:11",
-    "secondChronicles 4:22",
-    "secondChronicles 4:8",
+    "firstKings 7:40",
+    "firstKings 7:45",
+    "firstKings 7:50",
     "secondKings 12:14",
     "secondKings 25:15",
-    "zechariah 14:20",
-    "zechariah 9:15"
+    "firstChronicles 28:17",
+    "secondChronicles 4:8",
+    "secondChronicles 4:11",
+    "secondChronicles 4:22",
+    "nehemiah 7:69",
+    "jeremiah 52:18",
+    "jeremiah 52:19",
+    "amos 6:6",
+    "zechariah 9:15",
+    "zechariah 14:20"
   ]
 }

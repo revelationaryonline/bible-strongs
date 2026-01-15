@@ -35,5 +35,22 @@
     "tr": "benzetmek, yani (geçişli olarak) mecazi bir dil kullanmak (bir alegori, atasözü, şarkı veya benzeri); geçişsiz olarak, benzemek",
     "uk": "уподібнювати, тобто (перехідно) використовувати образну мову (алегорію, прислів'я, пісню тощо); неперехідно - нагадувати",
     "zh": "比喻，即（转折地）使用比喻性语言（寓言、格言、歌谣等）；不转折地，指相似"
-  }
+  },
+  "verses": [
+    "numbers 21:27",
+    "job 30:19",
+    "psalms 28:1",
+    "psalms 49:13",
+    "psalms 49:21",
+    "psalms 143:7",
+    "isaiah 14:10",
+    "isaiah 46:5",
+    "ezekiel 12:23",
+    "ezekiel 16:44",
+    "ezekiel 17:2",
+    "ezekiel 18:2",
+    "ezekiel 18:3",
+    "ezekiel 21:5",
+    "ezekiel 24:3"
+  ]
 }

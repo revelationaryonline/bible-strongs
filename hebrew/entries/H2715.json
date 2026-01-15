@@ -37,18 +37,18 @@
   },
   "hebrew": "חֹר",
   "verses": [
-    "ecclesiastes 10:17",
-    "firstKings 21:11",
     "firstKings 21:8",
-    "isaiah 34:12",
-    "jeremiah 27:20",
-    "jeremiah 39:6",
-    "nehemiah 13:17",
+    "firstKings 21:11",
     "nehemiah 2:16",
-    "nehemiah 4:13",
     "nehemiah 4:8",
+    "nehemiah 4:13",
     "nehemiah 5:7",
     "nehemiah 6:17",
-    "nehemiah 7:5"
+    "nehemiah 7:5",
+    "nehemiah 13:17",
+    "ecclesiastes 10:17",
+    "isaiah 34:12",
+    "jeremiah 27:20",
+    "jeremiah 39:6"
   ]
 }

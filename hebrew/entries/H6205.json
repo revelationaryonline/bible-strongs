@@ -35,5 +35,22 @@
     "tr": "kasvet (alçalan bir gökyüzü gibi)",
     "uk": "морок (як небо, що опускається)",
     "zh": "昏暗"
-  }
+  },
+  "verses": [
+    "exodus 20:21",
+    "deuteronomy 4:11",
+    "deuteronomy 5:22",
+    "secondSamuel 22:10",
+    "firstKings 8:12",
+    "secondChronicles 6:1",
+    "job 22:13",
+    "job 38:9",
+    "psalms 18:10",
+    "psalms 97:2",
+    "isaiah 60:2",
+    "jeremiah 13:16",
+    "ezekiel 34:12",
+    "joel 2:2",
+    "zephaniah 1:15"
+  ]
 }

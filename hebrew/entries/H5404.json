@@ -35,5 +35,33 @@
     "tr": "kartal (veya diğer büyük yırtıcı kuşlar)",
     "uk": "орел (або інший великий хижий птах)",
     "zh": "老鹰"
-  }
+  },
+  "verses": [
+    "exodus 19:4",
+    "leviticus 11:13",
+    "deuteronomy 14:12",
+    "deuteronomy 28:49",
+    "deuteronomy 32:11",
+    "secondSamuel 1:23",
+    "job 9:26",
+    "job 39:27",
+    "psalms 103:5",
+    "proverbs 23:5",
+    "proverbs 30:17",
+    "proverbs 30:19",
+    "isaiah 40:31",
+    "jeremiah 4:13",
+    "jeremiah 48:40",
+    "jeremiah 49:16",
+    "jeremiah 49:22",
+    "lamentations 4:19",
+    "ezekiel 1:10",
+    "ezekiel 10:14",
+    "ezekiel 17:3",
+    "ezekiel 17:7",
+    "hosea 8:1",
+    "obadiah 1:4",
+    "micah 1:16",
+    "habakkuk 1:8"
+  ]
 }

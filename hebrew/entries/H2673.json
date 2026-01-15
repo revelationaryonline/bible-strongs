@@ -37,19 +37,19 @@
   },
   "hebrew": "חָצָה",
   "verses": [
-    "daniel 11:4",
-    "exodus 21:35",
-    "ezekiel 37:22",
     "genesis 32:8",
     "genesis 33:1",
-    "isaiah 30:28",
-    "job 40:30",
-    "judges 7:16",
-    "judges 9:43",
+    "exodus 21:35",
     "numbers 31:27",
     "numbers 31:42",
-    "psalms 55:24",
+    "judges 7:16",
+    "judges 9:43",
+    "secondKings 2:8",
     "secondKings 2:14",
-    "secondKings 2:8"
+    "job 40:30",
+    "psalms 55:24",
+    "isaiah 30:28",
+    "ezekiel 37:22",
+    "daniel 11:4"
   ]
 }

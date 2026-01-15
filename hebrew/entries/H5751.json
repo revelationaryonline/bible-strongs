@@ -35,5 +35,8 @@
     "tr": "{doğru olarak, yineleme veya devamlılık; sadece zarf olarak kullanılır (edatla veya edatsız), tekrar, tekrar, hala, daha}",
     "uk": "{правильно, ітерація або продовження; вживається тільки прислівниково (з прийменником або без нього), знову, повторно, все ще, ще, ще}",
     "zh": "{正确地说，是迭代或延续；仅用于副词（带或不带介词），再次、反复、仍然、更多}。"
-  }
+  },
+  "verses": [
+    "daniel 4:28"
+  ]
 }

@@ -35,5 +35,11 @@
     "tr": "Ataroth, Filistin'de iki yerin adı (bu nedenle basitçe)",
     "uk": "Атарот, назва (таким чином просто) двох місць у Палестині",
     "zh": "阿塔罗斯（Ataroth），巴勒斯坦两个地方的名称（因此简称为）"
-  }
+  },
+  "verses": [
+    "numbers 32:3",
+    "numbers 32:34",
+    "joshua 16:2",
+    "joshua 16:7"
+  ]
 }

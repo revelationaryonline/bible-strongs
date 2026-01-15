@@ -35,5 +35,9 @@
     "tr": "bir Avvite veya Avvah yerlisi (sadece çoğul)",
     "uk": "аввієць або уродженець Авви (тільки у множині)",
     "zh": "阿瓦特人（仅复数）"
-  }
+  },
+  "verses": [
+    "joshua 13:3",
+    "secondKings 17:31"
+  ]
 }

@@ -35,5 +35,22 @@
     "tr": "Eden, Adem'in evinin bulunduğu bölge",
     "uk": "Едем, місце проживання Адама",
     "zh": "伊甸园"
-  }
+  },
+  "verses": [
+    "genesis 2:8",
+    "genesis 2:10",
+    "genesis 2:15",
+    "genesis 3:23",
+    "genesis 3:24",
+    "genesis 4:16",
+    "secondChronicles 29:12",
+    "secondChronicles 31:15",
+    "isaiah 51:3",
+    "ezekiel 28:13",
+    "ezekiel 31:9",
+    "ezekiel 31:16",
+    "ezekiel 31:18",
+    "ezekiel 36:35",
+    "joel 2:3"
+  ]
 }

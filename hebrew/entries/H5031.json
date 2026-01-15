@@ -35,5 +35,13 @@
     "tr": "bir peygamber ya da (genellikle) esinlenmiş kadın; ima yoluyla bir şair; çağrışım yoluyla bir peygamber eşi",
     "uk": "пророчиця або (загалом) натхненна жінка; за підтекстом - поетеса; за асоціацією - дружина пророка",
     "zh": "女先知或（一般）受灵感启发的女性；暗示女诗人；联想到先知的妻子"
-  }
+  },
+  "verses": [
+    "exodus 15:20",
+    "judges 4:4",
+    "secondKings 22:14",
+    "secondChronicles 34:22",
+    "nehemiah 6:14",
+    "isaiah 8:3"
+  ]
 }

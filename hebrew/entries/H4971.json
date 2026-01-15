@@ -35,5 +35,12 @@
     "tr": "oran (boyut, sayı veya içerik olarak)",
     "uk": "пропорція (за розміром, кількістю або інгредієнтами)",
     "zh": "比例"
-  }
+  },
+  "verses": [
+    "exodus 5:8",
+    "exodus 30:32",
+    "exodus 30:37",
+    "secondChronicles 24:13",
+    "ezekiel 45:11"
+  ]
 }

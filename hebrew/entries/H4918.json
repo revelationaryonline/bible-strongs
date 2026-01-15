@@ -35,5 +35,32 @@
     "tr": "Meshullam, on yedi İsraillinin adı",
     "uk": "Мешуллам, ім'я сімнадцяти ізраїльтян",
     "zh": "米书兰，十七个以色列人的名字"
-  }
+  },
+  "verses": [
+    "secondKings 22:3",
+    "firstChronicles 3:19",
+    "firstChronicles 5:13",
+    "firstChronicles 8:17",
+    "firstChronicles 9:7",
+    "firstChronicles 9:8",
+    "firstChronicles 9:11",
+    "firstChronicles 9:12",
+    "secondChronicles 34:12",
+    "ezra 8:16",
+    "ezra 10:15",
+    "ezra 10:29",
+    "nehemiah 3:4",
+    "nehemiah 3:6",
+    "nehemiah 3:30",
+    "nehemiah 6:18",
+    "nehemiah 8:4",
+    "nehemiah 10:8",
+    "nehemiah 10:21",
+    "nehemiah 11:7",
+    "nehemiah 11:11",
+    "nehemiah 12:13",
+    "nehemiah 12:16",
+    "nehemiah 12:25",
+    "nehemiah 12:33"
+  ]
 }

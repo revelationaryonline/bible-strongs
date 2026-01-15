@@ -37,19 +37,19 @@
     "zh": "下雨"
   },
   "verses": [
-    "amos 4:7",
-    "exodus 16:4",
-    "exodus 9:18",
-    "exodus 9:23",
-    "ezekiel 38:22",
-    "genesis 19:24",
     "genesis 2:5",
     "genesis 7:4",
-    "isaiah 5:6",
+    "genesis 19:24",
+    "exodus 9:18",
+    "exodus 9:23",
+    "exodus 16:4",
     "job 20:23",
     "job 38:26",
     "psalms 11:6",
     "psalms 78:24",
-    "psalms 78:27"
+    "psalms 78:27",
+    "isaiah 5:6",
+    "ezekiel 38:22",
+    "amos 4:7"
   ]
 }

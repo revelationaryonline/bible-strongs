@@ -35,5 +35,17 @@
     "tr": "İddo (ya da İddi), beş İsraillinin adı",
     "uk": "Іддо (або Ідді), ім'я п'яти ізраїльтян",
     "zh": "伊多（或伊迪），五个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstKings 4:14",
+    "firstChronicles 6:6",
+    "secondChronicles 12:15",
+    "secondChronicles 13:22",
+    "ezra 5:1",
+    "ezra 6:14",
+    "nehemiah 12:4",
+    "nehemiah 12:16",
+    "zechariah 1:1",
+    "zechariah 1:7"
+  ]
 }

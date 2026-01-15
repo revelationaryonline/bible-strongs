@@ -37,23 +37,23 @@
   },
   "hebrew": "חֵךְ",
   "verses": [
-    "ezekiel 3:26",
-    "hosea 8:1",
+    "job 6:30",
     "job 12:11",
     "job 20:13",
     "job 29:10",
     "job 31:30",
     "job 33:2",
     "job 34:3",
-    "job 6:30",
-    "lamentations 4:4",
-    "proverbs 24:13",
-    "proverbs 5:3",
-    "proverbs 8:7",
     "psalms 119:103",
     "psalms 137:6",
+    "proverbs 5:3",
+    "proverbs 8:7",
+    "proverbs 24:13",
     "solomon 2:3",
     "solomon 5:16",
-    "solomon 7:10"
+    "solomon 7:10",
+    "lamentations 4:4",
+    "ezekiel 3:26",
+    "hosea 8:1"
   ]
 }

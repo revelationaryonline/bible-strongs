@@ -35,5 +35,27 @@
     "tr": "Azzah, Filistin'de bir yer",
     "uk": "Аза, місце в Палестині",
     "zh": "阿扎"
-  }
+  },
+  "verses": [
+    "genesis 10:19",
+    "deuteronomy 2:23",
+    "joshua 10:41",
+    "joshua 11:22",
+    "joshua 15:47",
+    "judges 1:18",
+    "judges 6:4",
+    "judges 16:1",
+    "judges 16:21",
+    "firstSamuel 6:17",
+    "firstKings 5:4",
+    "secondKings 18:8",
+    "firstChronicles 7:28",
+    "jeremiah 25:20",
+    "jeremiah 47:1",
+    "jeremiah 47:5",
+    "amos 1:6",
+    "amos 1:7",
+    "zephaniah 2:4",
+    "zechariah 9:5"
+  ]
 }

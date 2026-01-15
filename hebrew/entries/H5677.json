@@ -35,5 +35,22 @@
     "tr": "Eber, iki patriğin ve dört İsraillinin adı",
     "uk": "Ебер, ім'я двох патріархів і чотирьох ізраїльтян",
     "zh": "以伯，两个族长和四个以色列人的名字"
-  }
+  },
+  "verses": [
+    "genesis 10:21",
+    "genesis 10:24",
+    "genesis 10:25",
+    "genesis 11:14",
+    "genesis 11:15",
+    "genesis 11:16",
+    "genesis 11:17",
+    "numbers 24:24",
+    "firstChronicles 1:18",
+    "firstChronicles 1:19",
+    "firstChronicles 1:25",
+    "firstChronicles 5:13",
+    "firstChronicles 8:12",
+    "firstChronicles 8:22",
+    "nehemiah 12:20"
+  ]
 }

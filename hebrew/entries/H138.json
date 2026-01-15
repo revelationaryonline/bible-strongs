@@ -37,7 +37,11 @@
   },
   "hebrew": "אֲדֹנִיָּה",
   "verses": [
-    "firstChronicles 3:2",
+    "secondSamuel 3:4",
+    "firstKings 1:5",
+    "firstKings 1:7",
+    "firstKings 1:8",
+    "firstKings 1:9",
     "firstKings 1:11",
     "firstKings 1:13",
     "firstKings 1:18",
@@ -47,12 +51,8 @@
     "firstKings 1:42",
     "firstKings 1:43",
     "firstKings 1:49",
-    "firstKings 1:5",
     "firstKings 1:50",
     "firstKings 1:51",
-    "firstKings 1:7",
-    "firstKings 1:8",
-    "firstKings 1:9",
     "firstKings 2:13",
     "firstKings 2:19",
     "firstKings 2:21",
@@ -60,8 +60,8 @@
     "firstKings 2:23",
     "firstKings 2:24",
     "firstKings 2:28",
-    "nehemiah 10:17",
+    "firstChronicles 3:2",
     "secondChronicles 17:8",
-    "secondSamuel 3:4"
+    "nehemiah 10:17"
   ]
 }

@@ -35,5 +35,18 @@
     "tr": "bir mücevher (belki de diğer maddeleri çizmek için kullanılır), muhtemelen safir",
     "uk": "дорогоцінний камінь (можливо, використовувався для дряпання інших речовин), ймовірно, сапфір",
     "zh": "宝石（可能用于划伤其他物质），可能是蓝宝石"
-  }
+  },
+  "verses": [
+    "exodus 24:10",
+    "exodus 28:18",
+    "exodus 39:11",
+    "job 28:6",
+    "job 28:16",
+    "solomon 5:14",
+    "isaiah 54:11",
+    "lamentations 4:7",
+    "ezekiel 1:26",
+    "ezekiel 10:1",
+    "ezekiel 28:13"
+  ]
 }

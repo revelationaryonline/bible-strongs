@@ -35,5 +35,27 @@
     "tr": "dönen bir şey, örneğin tekerlekli bir araç",
     "uk": "щось, що обертається, тобто колісний транспортний засіб",
     "zh": "轮车"
-  }
+  },
+  "verses": [
+    "genesis 45:19",
+    "genesis 45:21",
+    "genesis 45:27",
+    "genesis 46:5",
+    "numbers 7:3",
+    "numbers 7:6",
+    "numbers 7:7",
+    "numbers 7:8",
+    "firstSamuel 6:7",
+    "firstSamuel 6:8",
+    "firstSamuel 6:10",
+    "firstSamuel 6:11",
+    "firstSamuel 6:14",
+    "secondSamuel 6:3",
+    "firstChronicles 13:7",
+    "psalms 46:10",
+    "isaiah 5:18",
+    "isaiah 28:27",
+    "isaiah 28:28",
+    "amos 2:13"
+  ]
 }

@@ -37,10 +37,14 @@
   },
   "hebrew": "אָכֵן",
   "verses": [
-    "exodus 2:14",
-    "firstKings 11:2",
-    "firstSamuel 15:32",
     "genesis 28:16",
+    "exodus 2:14",
+    "firstSamuel 15:32",
+    "firstKings 11:2",
+    "job 32:8",
+    "psalms 31:23",
+    "psalms 66:19",
+    "psalms 82:7",
     "isaiah 40:7",
     "isaiah 45:15",
     "isaiah 49:4",
@@ -49,10 +53,6 @@
     "jeremiah 3:23",
     "jeremiah 4:10",
     "jeremiah 8:8",
-    "job 32:8",
-    "psalms 31:23",
-    "psalms 66:19",
-    "psalms 82:7",
     "zephaniah 3:7"
   ]
 }

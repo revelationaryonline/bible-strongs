@@ -35,5 +35,23 @@
     "tr": "zevk, somut olarak (neden veya nesne) veya soyut olarak (duygu)",
     "uk": "захоплення, конкретно (причина або об'єкт) або абстрактно (почуття)",
     "zh": "愉悦，具体（原因或对象）或抽象（感觉）"
-  }
+  },
+  "verses": [
+    "job 8:19",
+    "psalms 48:3",
+    "isaiah 8:6",
+    "isaiah 24:8",
+    "isaiah 24:11",
+    "isaiah 32:13",
+    "isaiah 32:14",
+    "isaiah 60:15",
+    "isaiah 62:5",
+    "isaiah 65:18",
+    "isaiah 66:10",
+    "jeremiah 49:25",
+    "lamentations 2:15",
+    "lamentations 5:15",
+    "ezekiel 24:25",
+    "hosea 2:13"
+  ]
 }

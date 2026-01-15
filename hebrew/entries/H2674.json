@@ -37,11 +37,6 @@
   },
   "hebrew": "חָצוֹר",
   "verses": [
-    "firstKings 9:15",
-    "firstSamuel 12:9",
-    "jeremiah 49:28",
-    "jeremiah 49:30",
-    "jeremiah 49:33",
     "joshua 11:1",
     "joshua 11:10",
     "joshua 11:11",
@@ -50,9 +45,14 @@
     "joshua 15:23",
     "joshua 15:25",
     "joshua 19:36",
-    "judges 4:17",
     "judges 4:2",
+    "judges 4:17",
+    "firstSamuel 12:9",
+    "firstKings 9:15",
+    "secondKings 15:29",
     "nehemiah 11:33",
-    "secondKings 15:29"
+    "jeremiah 49:28",
+    "jeremiah 49:30",
+    "jeremiah 49:33"
   ]
 }

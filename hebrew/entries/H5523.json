@@ -35,5 +35,23 @@
     "tr": "Succoth, Mısır'da bir yerin ve Filistin'de üç yerin adı",
     "uk": "Суккот, назва міста в Єгипті та трьох міст у Палестині",
     "zh": "苏科士"
-  }
+  },
+  "verses": [
+    "genesis 33:17",
+    "exodus 12:37",
+    "exodus 13:20",
+    "numbers 33:5",
+    "numbers 33:6",
+    "joshua 13:27",
+    "judges 8:5",
+    "judges 8:6",
+    "judges 8:8",
+    "judges 8:14",
+    "judges 8:15",
+    "judges 8:16",
+    "firstKings 7:46",
+    "secondChronicles 4:17",
+    "psalms 60:8",
+    "psalms 108:8"
+  ]
 }

@@ -35,5 +35,29 @@
     "tr": "uygun olarak, ayrılmış bir şey, yani (soyut olarak) adanmışlık (bir priet veya Nazirite); dolayısıyla (somut olarak) kırkılmamış kilitler; ayrıca (ima yoluyla) bir şapka (özellikle kraliyet)",
     "uk": "власне, щось відокремлене, тобто (абстрактно) посвята (священика або назіріта); звідси (конкретно) нестрижені пасма; також (за підтекстом) каплиця (особливо королівських осіб)",
     "zh": "正确地说，是指被分别出来的东西，即（抽象地）献祭（祭司或拿细耳人的）；因此（具体地说）未剃的锁头；也指（暗指）（特别是皇室成员的）护髻"
-  }
+  },
+  "verses": [
+    "exodus 29:6",
+    "exodus 39:30",
+    "leviticus 8:9",
+    "leviticus 21:12",
+    "numbers 6:4",
+    "numbers 6:5",
+    "numbers 6:7",
+    "numbers 6:8",
+    "numbers 6:9",
+    "numbers 6:12",
+    "numbers 6:13",
+    "numbers 6:18",
+    "numbers 6:19",
+    "numbers 6:21",
+    "secondSamuel 1:10",
+    "secondKings 11:12",
+    "secondChronicles 23:11",
+    "psalms 89:40",
+    "psalms 132:18",
+    "proverbs 27:24",
+    "jeremiah 7:29",
+    "zechariah 9:16"
+  ]
 }

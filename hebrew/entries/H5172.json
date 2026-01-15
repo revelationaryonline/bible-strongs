@@ -35,5 +35,16 @@
     "tr": "uygun şekilde, tıslamak, yani (sihirli) bir büyü fısıldamak; genellikle, kehanette bulunmak",
     "uk": "власне, шипіти, тобто шепотіти (магічне) заклинання; загалом, пророкувати",
     "zh": "嘶嘶声，即低声念咒；一般指预言"
-  }
+  },
+  "verses": [
+    "genesis 30:27",
+    "genesis 44:5",
+    "genesis 44:15",
+    "leviticus 19:26",
+    "deuteronomy 18:10",
+    "firstKings 20:33",
+    "secondKings 17:17",
+    "secondKings 21:6",
+    "secondChronicles 33:6"
+  ]
 }

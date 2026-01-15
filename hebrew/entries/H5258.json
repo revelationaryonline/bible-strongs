@@ -35,5 +35,31 @@
     "tr": "dökmek, özellikle bir libasyon veya dökmek (metal); benzetme yoluyla, aking yağlamak",
     "uk": "виливати, особливо випивку, або відливати (метал); за аналогією, помазувати оливою",
     "zh": "酹，特别是酹酒，或铸造（金属）；类推，指膏药。"
-  }
+  },
+  "verses": [
+    "genesis 35:14",
+    "exodus 25:29",
+    "exodus 30:9",
+    "exodus 37:16",
+    "numbers 28:7",
+    "secondSamuel 23:16",
+    "secondKings 16:13",
+    "firstChronicles 11:18",
+    "psalms 2:6",
+    "psalms 16:4",
+    "proverbs 8:23",
+    "isaiah 29:10",
+    "isaiah 30:1",
+    "isaiah 40:19",
+    "isaiah 44:10",
+    "jeremiah 7:18",
+    "jeremiah 19:13",
+    "jeremiah 32:29",
+    "jeremiah 44:17",
+    "jeremiah 44:18",
+    "jeremiah 44:19",
+    "jeremiah 44:25",
+    "ezekiel 20:28",
+    "hosea 9:4"
+  ]
 }

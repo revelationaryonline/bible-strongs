@@ -37,14 +37,14 @@
   },
   "hebrew": "בֶּן־יְמִינִי",
   "verses": [
-    "esther 2:5",
-    "firstChronicles 27:12",
-    "firstKings 2:8",
-    "firstSamuel 9:21",
-    "judges 19:16",
     "judges 3:15",
-    "psalms 7:1",
+    "judges 19:16",
+    "firstSamuel 9:21",
     "secondSamuel 16:11",
-    "secondSamuel 19:17"
+    "secondSamuel 19:17",
+    "firstKings 2:8",
+    "firstChronicles 27:12",
+    "esther 2:5",
+    "psalms 7:1"
   ]
 }

@@ -35,5 +35,17 @@
     "tr": "uzak durmak, yani (geçişsiz) kaçınmak (yiyecek ve içecekten, kirlilikten ve hatta ilahi ibadetten (yani dinden dönmek)); özellikle, (kutsal amaçlara) ayırmak, yani adamak",
     "uk": "триматися осторонь, тобто (неперехідно) утримуватися (від їжі та пиття, від нечистоти, і навіть від божественного богослужіння (тобто відступити)); зокрема, виокремлювати (для священних цілей), тобто присвячувати",
     "zh": "远离，即（不及物动词）禁欲（不吃不喝，远离不洁，甚至远离神圣崇拜（即离经叛道））；具体地说，分别（用于神圣目的），即奉献"
-  }
+  },
+  "verses": [
+    "leviticus 15:31",
+    "leviticus 22:2",
+    "numbers 6:2",
+    "numbers 6:3",
+    "numbers 6:5",
+    "numbers 6:6",
+    "numbers 6:12",
+    "ezekiel 14:7",
+    "hosea 9:10",
+    "zechariah 7:3"
+  ]
 }

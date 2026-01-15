@@ -35,5 +35,19 @@
     "tr": "teminat veya faiz karşılığında ödünç vermek veya (karşılıklılık esasına göre) ödünç almak",
     "uk": "надавати в борг або (на умовах взаємності) брати в борг під заставу або відсотки",
     "zh": "担保或（通过互惠）借贷"
-  }
+  },
+  "verses": [
+    "exodus 22:24",
+    "deuteronomy 15:2",
+    "deuteronomy 24:10",
+    "deuteronomy 24:11",
+    "secondKings 4:1",
+    "nehemiah 5:7",
+    "nehemiah 5:10",
+    "nehemiah 5:11",
+    "psalms 109:11",
+    "isaiah 24:2",
+    "isaiah 50:1",
+    "jeremiah 15:10"
+  ]
 }

@@ -37,10 +37,7 @@
   },
   "hebrew": "חִידָה",
   "verses": [
-    "daniel 8:23",
-    "ezekiel 17:2",
-    "firstKings 10:1",
-    "habakkuk 2:6",
+    "numbers 12:8",
     "judges 14:12",
     "judges 14:13",
     "judges 14:14",
@@ -49,10 +46,13 @@
     "judges 14:17",
     "judges 14:18",
     "judges 14:19",
-    "numbers 12:8",
-    "proverbs 1:6",
+    "firstKings 10:1",
+    "secondChronicles 9:1",
     "psalms 49:5",
     "psalms 78:2",
-    "secondChronicles 9:1"
+    "proverbs 1:6",
+    "ezekiel 17:2",
+    "daniel 8:23",
+    "habakkuk 2:6"
   ]
 }

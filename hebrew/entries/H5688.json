@@ -35,5 +35,30 @@
     "tr": "iç içe geçmiş bir şey, örneğin bir ip, çelenk veya yeşillik",
     "uk": "щось переплетене, наприклад, нитка, вінок або листя",
     "zh": "缠绕物，如绳子、花环或叶子"
-  }
+  },
+  "verses": [
+    "exodus 28:14",
+    "exodus 28:22",
+    "exodus 28:24",
+    "exodus 28:25",
+    "exodus 39:15",
+    "exodus 39:17",
+    "exodus 39:18",
+    "judges 15:13",
+    "judges 15:14",
+    "judges 16:11",
+    "judges 16:12",
+    "job 39:10",
+    "psalms 2:3",
+    "psalms 118:27",
+    "psalms 129:4",
+    "isaiah 5:18",
+    "ezekiel 3:25",
+    "ezekiel 4:8",
+    "ezekiel 19:11",
+    "ezekiel 31:3",
+    "ezekiel 31:10",
+    "ezekiel 31:14",
+    "hosea 11:4"
+  ]
 }

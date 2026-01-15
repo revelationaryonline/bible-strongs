@@ -35,5 +35,21 @@
     "tr": "Nethanel, on İsraillinin adı",
     "uk": "Нетанел, ім'я десяти ізраїльтян",
     "zh": "拿但业，十个以色列人的名字"
-  }
+  },
+  "verses": [
+    "numbers 1:8",
+    "numbers 2:5",
+    "numbers 7:18",
+    "numbers 7:23",
+    "numbers 10:15",
+    "firstChronicles 2:14",
+    "firstChronicles 15:24",
+    "firstChronicles 24:6",
+    "firstChronicles 26:4",
+    "secondChronicles 17:7",
+    "secondChronicles 35:9",
+    "ezra 10:22",
+    "nehemiah 12:21",
+    "nehemiah 12:36"
+  ]
 }

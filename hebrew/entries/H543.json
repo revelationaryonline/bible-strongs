@@ -37,6 +37,7 @@
   },
   "hebrew": "אָמֵן",
   "verses": [
+    "numbers 5:22",
     "deuteronomy 27:15",
     "deuteronomy 27:16",
     "deuteronomy 27:17",
@@ -49,17 +50,16 @@
     "deuteronomy 27:24",
     "deuteronomy 27:25",
     "deuteronomy 27:26",
-    "firstChronicles 16:36",
     "firstKings 1:36",
-    "isaiah 65:16",
-    "jeremiah 11:5",
-    "jeremiah 28:6",
+    "firstChronicles 16:36",
     "nehemiah 5:13",
     "nehemiah 8:6",
-    "numbers 5:22",
-    "psalms 106:48",
     "psalms 41:14",
     "psalms 72:19",
-    "psalms 89:53"
+    "psalms 89:53",
+    "psalms 106:48",
+    "isaiah 65:16",
+    "jeremiah 11:5",
+    "jeremiah 28:6"
   ]
 }

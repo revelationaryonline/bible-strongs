@@ -37,11 +37,6 @@
     "zh": "一种"
   },
   "verses": [
-    "deuteronomy 14:13",
-    "deuteronomy 14:14",
-    "deuteronomy 14:15",
-    "deuteronomy 14:18",
-    "ezekiel 47:10",
     "genesis 1:11",
     "genesis 1:12",
     "genesis 1:21",
@@ -54,6 +49,11 @@
     "leviticus 11:16",
     "leviticus 11:19",
     "leviticus 11:22",
-    "leviticus 11:29"
+    "leviticus 11:29",
+    "deuteronomy 14:13",
+    "deuteronomy 14:14",
+    "deuteronomy 14:15",
+    "deuteronomy 14:18",
+    "ezekiel 47:10"
   ]
 }

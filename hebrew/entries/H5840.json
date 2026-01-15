@@ -35,5 +35,13 @@
     "tr": "Azrikam, dört İsraillinin adı",
     "uk": "Азрікам, ім'я чотирьох ізраїльтян",
     "zh": "阿兹里卡姆，四个以色列人的名字"
-  }
+  },
+  "verses": [
+    "firstChronicles 3:23",
+    "firstChronicles 8:38",
+    "firstChronicles 9:14",
+    "firstChronicles 9:44",
+    "secondChronicles 28:7",
+    "nehemiah 11:15"
+  ]
 }

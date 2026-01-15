@@ -35,5 +35,33 @@
     "tr": "uygun olarak, sağa sola sallamak (nadiren aşağı yukarı çırpmak); mecazi olarak, dolaşmak, kaçmak veya (nedensel olarak) uzaklaştırmak",
     "uk": "власне, махати туди-сюди (рідко махати вгору-вниз); образно, блукати, тікати або (каузативно) відганяти",
     "zh": "挥来挥去（很少上下翻飞）；比喻漫游、逃离或（因果关系）驱赶"
-  }
+  },
+  "verses": [
+    "genesis 31:40",
+    "secondSamuel 23:6",
+    "esther 6:1",
+    "job 15:23",
+    "job 18:18",
+    "job 20:8",
+    "psalms 31:12",
+    "psalms 55:8",
+    "psalms 64:9",
+    "psalms 68:13",
+    "proverbs 27:8",
+    "isaiah 10:14",
+    "isaiah 10:31",
+    "isaiah 16:2",
+    "isaiah 16:3",
+    "isaiah 21:14",
+    "isaiah 21:15",
+    "isaiah 22:3",
+    "isaiah 33:3",
+    "jeremiah 4:25",
+    "jeremiah 9:9",
+    "jeremiah 49:5",
+    "hosea 7:13",
+    "hosea 9:17",
+    "nahum 3:7",
+    "nahum 3:17"
+  ]
 }

@@ -35,5 +35,32 @@
     "tr": "yardım",
     "uk": "допомога",
     "zh": "援助"
-  }
+  },
+  "verses": [
+    "judges 5:23",
+    "secondChronicles 28:21",
+    "job 6:13",
+    "job 31:21",
+    "psalms 22:20",
+    "psalms 27:9",
+    "psalms 35:2",
+    "psalms 38:23",
+    "psalms 40:14",
+    "psalms 40:18",
+    "psalms 44:27",
+    "psalms 46:2",
+    "psalms 60:13",
+    "psalms 63:8",
+    "psalms 70:2",
+    "psalms 71:12",
+    "psalms 94:17",
+    "psalms 108:13",
+    "isaiah 10:3",
+    "isaiah 20:6",
+    "isaiah 31:1",
+    "isaiah 31:2",
+    "jeremiah 37:7",
+    "lamentations 4:17",
+    "nahum 3:9"
+  ]
 }

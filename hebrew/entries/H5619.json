@@ -35,5 +35,27 @@
     "tr": "doğru olarak, ağır olmak; ancak yalnızca lapidasyon veya tersi anlamında kullanılır (sanki bir delapidasyon gibi)",
     "uk": "власне, бути вагомим; але вживається лише у значенні лапідарності або її протилежності (ніби занепаду)",
     "zh": "本义是有分量；但仅用于青紫或与之相反的意思（如脱落）。"
-  }
+  },
+  "verses": [
+    "exodus 8:22",
+    "exodus 17:4",
+    "exodus 19:13",
+    "exodus 21:28",
+    "exodus 21:29",
+    "exodus 21:32",
+    "deuteronomy 13:11",
+    "deuteronomy 17:5",
+    "deuteronomy 22:21",
+    "deuteronomy 22:24",
+    "joshua 7:25",
+    "firstSamuel 30:6",
+    "secondSamuel 16:6",
+    "secondSamuel 16:13",
+    "firstKings 21:10",
+    "firstKings 21:13",
+    "firstKings 21:14",
+    "firstKings 21:15",
+    "isaiah 5:2",
+    "isaiah 62:10"
+  ]
 }

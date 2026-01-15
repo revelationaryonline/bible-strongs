@@ -35,5 +35,24 @@
     "tr": "(putperest) bir görüntü",
     "uk": "(ідолопоклонницький) образ",
     "zh": "偶像"
-  }
+  },
+  "verses": [
+    "firstSamuel 31:9",
+    "secondSamuel 5:21",
+    "firstChronicles 10:9",
+    "secondChronicles 24:18",
+    "psalms 106:36",
+    "psalms 106:38",
+    "psalms 115:4",
+    "psalms 135:15",
+    "isaiah 10:11",
+    "isaiah 46:1",
+    "jeremiah 50:2",
+    "hosea 4:17",
+    "hosea 8:4",
+    "hosea 13:2",
+    "hosea 14:9",
+    "micah 1:7",
+    "zechariah 13:2"
+  ]
 }
