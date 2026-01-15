@@ -34,5 +34,14 @@
     "tr": "{dört}",
     "uk": "{Чотири.}",
     "zh": "{四｝"
-  }
+  },
+  "hebrew": "אַרְבַּע",
+  "verses": [
+    "daniel 3:25",
+    "daniel 7:17",
+    "daniel 7:2",
+    "daniel 7:3",
+    "daniel 7:6",
+    "ezra 6:17"
+  ]
 }

@@ -34,5 +34,21 @@
     "tr": "Eliezer, bir Şamlının ve on İsraillinin adı",
     "uk": "Еліезер, ім'я дамаскина і одного з десяти ізраїльтян",
     "zh": "埃利泽，一个大马士革人和十个以色列人的名字"
-  }
+  },
+  "hebrew": "אֱלִיעֶזֶר",
+  "verses": [
+    "exodus 18:4",
+    "ezra 10:18",
+    "ezra 10:23",
+    "ezra 10:31",
+    "ezra 8:16",
+    "firstChronicles 15:24",
+    "firstChronicles 23:15",
+    "firstChronicles 23:17",
+    "firstChronicles 26:25",
+    "firstChronicles 27:16",
+    "firstChronicles 7:8",
+    "genesis 15:2",
+    "secondChronicles 20:37"
+  ]
 }

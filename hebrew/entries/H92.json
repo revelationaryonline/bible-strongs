@@ -34,5 +34,12 @@
     "tr": "bir bant, demet, düğüm veya kemer",
     "uk": "стрічка, джгут, вузол або арка",
     "zh": "带"
-  }
+  },
+  "hebrew": "אֲגֻדָּה",
+  "verses": [
+    "amos 9:6",
+    "exodus 12:22",
+    "isaiah 58:6",
+    "secondSamuel 2:25"
+  ]
 }

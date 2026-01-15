@@ -34,5 +34,24 @@
     "tr": "netleştirmek (yani aydınlatmak), incelemek, seçmek",
     "uk": "з'ясовувати (тобто прояснювати), досліджувати, відбирати",
     "zh": "澄清（即明亮）、检查、选择"
-  }
+  },
+  "hebrew": "בָּרַר",
+  "verses": [
+    "daniel 11:35",
+    "daniel 12:10",
+    "ecclesiastes 3:18",
+    "ezekiel 20:38",
+    "firstChronicles 16:41",
+    "firstChronicles 7:40",
+    "firstChronicles 9:22",
+    "isaiah 49:2",
+    "isaiah 52:11",
+    "jeremiah 4:11",
+    "jeremiah 51:11",
+    "job 33:3",
+    "nehemiah 5:18",
+    "psalms 18:27",
+    "secondSamuel 22:27",
+    "zephaniah 3:9"
+  ]
 }

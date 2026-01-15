@@ -34,5 +34,11 @@
     "tr": "Ashbel, bir İsrailli",
     "uk": "Ашбель, ізраїльтянка",
     "zh": "以色列人阿什贝尔"
-  }
+  },
+  "hebrew": "אַשְׁבֵּל",
+  "verses": [
+    "firstChronicles 8:1",
+    "genesis 46:21",
+    "numbers 26:38"
+  ]
 }

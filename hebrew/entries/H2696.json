@@ -34,5 +34,25 @@
     "tr": "Chetsron, Filistin'de bir yerin adı; ayrıca iki İsraillinin adı",
     "uk": "Хетрон, назва місця в Палестині, а також двох ізраїльтян",
     "zh": "切兹伦，巴勒斯坦的一个地名；也是两个以色列人的名字"
-  }
+  },
+  "hebrew": "חֶצְרוֹן",
+  "verses": [
+    "exodus 6:14",
+    "firstChronicles 2:18",
+    "firstChronicles 2:21",
+    "firstChronicles 2:24",
+    "firstChronicles 2:25",
+    "firstChronicles 2:5",
+    "firstChronicles 2:9",
+    "firstChronicles 4:1",
+    "firstChronicles 5:3",
+    "genesis 46:12",
+    "genesis 46:9",
+    "joshua 15:25",
+    "joshua 15:3",
+    "numbers 26:21",
+    "numbers 26:6",
+    "ruth 4:18",
+    "ruth 4:19"
+  ]
 }

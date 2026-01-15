@@ -34,5 +34,17 @@
     "tr": "bir vahiy, rüya ile beklenti",
     "uk": "одкровення, очікування уві сні",
     "zh": "梦寐以求的启示"
-  }
+  },
+  "hebrew": "חִזָּיוֹן",
+  "verses": [
+    "isaiah 22:1",
+    "isaiah 22:5",
+    "job 20:8",
+    "job 33:15",
+    "job 4:13",
+    "job 7:14",
+    "joel 3:1",
+    "secondSamuel 7:17",
+    "zechariah 13:4"
+  ]
 }

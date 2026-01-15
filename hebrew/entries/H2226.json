@@ -34,5 +34,29 @@
     "tr": "Zerak, üç İsraillinin, ayrıca bir İdumaealı ve bir Etiyopyalı prensin adı",
     "uk": "Зерах, ім'я трьох ізраїльтян, а також ідумеянина та ефіопського князя",
     "zh": "谢拉，三个以色列人的名字，也是一个伊都马人和一个埃塞俄比亚王子的名字"
-  }
+  },
+  "hebrew": "זֶרַח",
+  "verses": [
+    "firstChronicles 1:37",
+    "firstChronicles 1:44",
+    "firstChronicles 2:4",
+    "firstChronicles 2:6",
+    "firstChronicles 4:24",
+    "firstChronicles 6:26",
+    "firstChronicles 6:6",
+    "firstChronicles 9:6",
+    "genesis 36:13",
+    "genesis 36:17",
+    "genesis 36:33",
+    "genesis 38:30",
+    "genesis 46:12",
+    "joshua 22:20",
+    "joshua 7:1",
+    "joshua 7:18",
+    "joshua 7:24",
+    "nehemiah 11:24",
+    "numbers 26:13",
+    "numbers 26:20",
+    "secondChronicles 14:8"
+  ]
 }

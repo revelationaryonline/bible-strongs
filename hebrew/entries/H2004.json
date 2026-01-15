@@ -34,5 +34,21 @@
     "tr": "they (sadece vurgulu olduğunda kullanılır)",
     "uk": "вони (вживається тільки в наказовому способі)",
     "zh": "他们"
-  }
+  },
+  "hebrew": "הֵן",
+  "verses": [
+    "exodus 25:29",
+    "exodus 37:16",
+    "ezekiel 16:47",
+    "ezekiel 16:52",
+    "ezekiel 18:14",
+    "genesis 19:29",
+    "genesis 30:26",
+    "jeremiah 48:9",
+    "jeremiah 4:29",
+    "jeremiah 51:43",
+    "leviticus 10:1",
+    "leviticus 11:21",
+    "numbers 16:7"
+  ]
 }

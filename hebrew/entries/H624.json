@@ -34,5 +34,11 @@
     "tr": "toplanmış (yalnızca çoğul olarak), yani bir adak koleksiyonu)",
     "uk": "зібрані (тільки у множині), тобто колекція приношень)",
     "zh": "收集（只有复数），即收集祭品）"
-  }
+  },
+  "hebrew": "אָסֻף",
+  "verses": [
+    "firstChronicles 26:15",
+    "firstChronicles 26:17",
+    "nehemiah 12:25"
+  ]
 }

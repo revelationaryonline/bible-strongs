@@ -34,5 +34,16 @@
     "tr": "{bir meşe ya da başka güçlü bir ağaç}",
     "uk": "{дуб або інше міцне дерево}",
     "zh": "{一棵橡树或其他强壮的树｝"
-  }
+  },
+  "hebrew": "אַלּוֹן",
+  "verses": [
+    "amos 2:9",
+    "ezekiel 27:6",
+    "genesis 35:8",
+    "hosea 4:13",
+    "isaiah 2:13",
+    "isaiah 44:14",
+    "isaiah 6:13",
+    "zechariah 11:2"
+  ]
 }

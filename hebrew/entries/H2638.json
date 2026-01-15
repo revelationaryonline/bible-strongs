@@ -34,5 +34,27 @@
     "tr": "eksik; dolayısıyla, olmadan",
     "uk": "не вистачає; отже, без",
     "zh": "缺乏；因此，没有"
-  }
+  },
+  "hebrew": "חָסֵר",
+  "verses": [
+    "ecclesiastes 10:3",
+    "ecclesiastes 6:2",
+    "firstKings 11:22",
+    "firstKings 17:16",
+    "firstSamuel 21:16",
+    "proverbs 10:13",
+    "proverbs 10:21",
+    "proverbs 11:12",
+    "proverbs 12:11",
+    "proverbs 12:9",
+    "proverbs 15:21",
+    "proverbs 17:18",
+    "proverbs 24:30",
+    "proverbs 28:16",
+    "proverbs 6:32",
+    "proverbs 7:7",
+    "proverbs 9:16",
+    "proverbs 9:4",
+    "secondSamuel 3:29"
+  ]
 }

@@ -34,5 +34,13 @@
     "tr": "İki nehrin (Fırat ve Dicle) Aram'ı veya Mezopotamya",
     "uk": "Арам (двох) річок (Євфрату і Тигру) або Месопотамії",
     "zh": "两河（幼发拉底河和底格里斯河）之地的阿拉姆或美索不达米亚"
-  }
+  },
+  "hebrew": "אֲרַם נַהֲרַיִם",
+  "verses": [
+    "deuteronomy 23:5",
+    "firstChronicles 19:6",
+    "genesis 24:10",
+    "judges 3:8",
+    "psalms 60:2"
+  ]
 }

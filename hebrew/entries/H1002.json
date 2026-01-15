@@ -34,5 +34,24 @@
     "tr": "bir kale veya saray",
     "uk": "замок або палац",
     "zh": "宫殿"
-  }
+  },
+  "hebrew": "בִּירָה",
+  "verses": [
+    "daniel 8:2",
+    "esther 1:2",
+    "esther 1:5",
+    "esther 2:3",
+    "esther 2:5",
+    "esther 2:8",
+    "esther 3:15",
+    "esther 8:14",
+    "esther 9:11",
+    "esther 9:12",
+    "esther 9:6",
+    "firstChronicles 29:1",
+    "firstChronicles 29:19",
+    "nehemiah 1:1",
+    "nehemiah 2:8",
+    "nehemiah 7:2"
+  ]
 }

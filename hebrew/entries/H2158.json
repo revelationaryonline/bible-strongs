@@ -34,5 +34,14 @@
     "tr": "enstrümantal müziğin eşlik edeceği bir şarkı",
     "uk": "пісня, яка буде супроводжуватися інструментальною музикою",
     "zh": "器乐曲"
-  }
+  },
+  "hebrew": "זָמִיר",
+  "verses": [
+    "isaiah 24:16",
+    "isaiah 25:5",
+    "job 35:10",
+    "psalms 119:54",
+    "psalms 95:2",
+    "secondSamuel 23:1"
+  ]
 }

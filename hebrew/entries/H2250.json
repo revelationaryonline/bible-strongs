@@ -34,5 +34,14 @@
     "tr": "uygun şekilde, bağlanmış (çizgili), yani bir yara izi (veya siyah-mavi işaretin kendisi)",
     "uk": "належним чином перев'язаний (зі смужками), тобто вал (або власне чорно-синя мітка)",
     "zh": "缚（有条纹），即一个纬线（或黑蓝印记本身）"
-  }
+  },
+  "hebrew": "חַבּוּרָה",
+  "verses": [
+    "exodus 21:25",
+    "genesis 4:23",
+    "isaiah 1:6",
+    "isaiah 53:5",
+    "proverbs 20:30",
+    "psalms 38:6"
+  ]
 }

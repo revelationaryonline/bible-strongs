@@ -34,5 +34,17 @@
     "tr": "bir kürek",
     "uk": "лопату",
     "zh": "铁锹"
-  }
+  },
+  "hebrew": "יָע",
+  "verses": [
+    "exodus 27:3",
+    "exodus 38:3",
+    "firstKings 7:40",
+    "firstKings 7:45",
+    "jeremiah 52:18",
+    "numbers 4:14",
+    "secondChronicles 4:11",
+    "secondChronicles 4:16",
+    "secondKings 25:14"
+  ]
 }

@@ -34,5 +34,18 @@
     "tr": "dönüşler (yani durumlar); (zarf) nedeniyle",
     "uk": "звороти (тобто випадки); (прислівник) через",
     "zh": "转折（即场合）；（副词）由于"
-  }
+  },
+  "hebrew": "אוֹדוֹת",
+  "verses": [
+    "exodus 18:8",
+    "genesis 21:11",
+    "genesis 21:25",
+    "genesis 26:32",
+    "jeremiah 3:8",
+    "joshua 14:6",
+    "judges 6:7",
+    "numbers 12:1",
+    "numbers 13:24",
+    "secondSamuel 13:16"
+  ]
 }

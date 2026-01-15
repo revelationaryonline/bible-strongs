@@ -34,5 +34,18 @@
     "tr": "hangi yer?; ayrıca (zamana ilişkin) ne zaman?; veya (araçlara ilişkin) nasıl?",
     "uk": "де?; також (про час) коли?; або (про засоби) як?",
     "zh": "何地；又（时间）何时；或（手段）如何？"
-  }
+  },
+  "hebrew": "אֵיפֹה",
+  "verses": [
+    "firstSamuel 19:22",
+    "genesis 37:16",
+    "isaiah 49:21",
+    "jeremiah 36:19",
+    "jeremiah 3:2",
+    "job 38:4",
+    "job 4:7",
+    "judges 8:18",
+    "ruth 2:19",
+    "secondSamuel 9:4"
+  ]
 }

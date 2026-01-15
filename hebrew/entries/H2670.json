@@ -34,5 +34,25 @@
     "tr": "muaf (esaretten, vergiden veya bakımdan)",
     "uk": "звільнені (від кабали, податків або опіки)",
     "zh": "免除"
-  }
+  },
+  "hebrew": "חׇפְשִׁי",
+  "verses": [
+    "deuteronomy 15:12",
+    "deuteronomy 15:13",
+    "deuteronomy 15:18",
+    "exodus 21:2",
+    "exodus 21:26",
+    "exodus 21:27",
+    "exodus 21:5",
+    "firstSamuel 17:25",
+    "isaiah 58:6",
+    "jeremiah 34:10",
+    "jeremiah 34:11",
+    "jeremiah 34:14",
+    "jeremiah 34:16",
+    "jeremiah 34:9",
+    "job 39:5",
+    "job 3:19",
+    "psalms 88:6"
+  ]
 }

@@ -34,5 +34,16 @@
     "tr": "{yöneten kişi, bir rahip; ayrıca (nezaketen) bir rahip vekili (meslekten olmayan biri olmasına rağmen)}",
     "uk": "{хто служить, священик; також (за ввічливістю) діючий священик (хоча й мирянин) }",
     "zh": "{主持仪式的人，牧师；也是（礼节性的）代理牧师（尽管是非宗教人士）}。"
-  }
+  },
+  "hebrew": "כָּהֵן",
+  "verses": [
+    "ezra 6:16",
+    "ezra 6:18",
+    "ezra 6:9",
+    "ezra 7:12",
+    "ezra 7:13",
+    "ezra 7:16",
+    "ezra 7:21",
+    "ezra 7:24"
+  ]
 }

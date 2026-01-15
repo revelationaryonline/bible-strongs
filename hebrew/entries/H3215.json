@@ -33,5 +33,12 @@
     "tr": "{bir uluma}",
     "uk": "{Виття.}",
     "zh": "{fn华文楷体fs121cH0080FFi1}嚎叫"
-  }
+  },
+  "hebrew": "יְלָלָה",
+  "verses": [
+    "isaiah 15:8",
+    "jeremiah 25:36",
+    "zechariah 11:3",
+    "zephaniah 1:10"
+  ]
 }

@@ -34,5 +34,16 @@
     "tr": "{devekuşu (muhtemelen cevap veren çığlığından)",
     "uk": "{страус (ймовірно, від його крику у відповідь}",
     "zh": "{鸵鸟（可能来自它的应答叫声｝"
-  }
+  },
+  "hebrew": "יַעֲנָה",
+  "verses": [
+    "deuteronomy 14:15",
+    "isaiah 13:21",
+    "isaiah 34:13",
+    "isaiah 43:20",
+    "jeremiah 50:39",
+    "job 30:29",
+    "leviticus 11:16",
+    "micah 1:8"
+  ]
 }

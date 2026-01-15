@@ -34,5 +34,11 @@
     "tr": "Jarib, üç İsraillinin adı",
     "uk": "Джаріб, ім'я трьох ізраїльтян",
     "zh": "雅里布，三个以色列人的名字"
-  }
+  },
+  "hebrew": "יָרִיב",
+  "verses": [
+    "ezra 10:18",
+    "ezra 8:16",
+    "firstChronicles 4:24"
+  ]
 }

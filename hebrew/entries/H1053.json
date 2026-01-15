@@ -34,5 +34,27 @@
     "tr": "Beth-Shemesh, Filistin'de bir yer",
     "uk": "Бет-Шемеш, місце в Палестині",
     "zh": "伯希和"
-  }
+  },
+  "hebrew": "בֵּית שֶׁמֶשׁ",
+  "verses": [
+    "firstChronicles 6:44",
+    "firstKings 4:9",
+    "firstSamuel 6:12",
+    "firstSamuel 6:13",
+    "firstSamuel 6:15",
+    "firstSamuel 6:19",
+    "firstSamuel 6:20",
+    "firstSamuel 6:9",
+    "jeremiah 43:13",
+    "joshua 15:10",
+    "joshua 19:22",
+    "joshua 19:38",
+    "joshua 21:16",
+    "judges 1:33",
+    "secondChronicles 25:21",
+    "secondChronicles 25:23",
+    "secondChronicles 28:18",
+    "secondKings 14:11",
+    "secondKings 14:13"
+  ]
 }

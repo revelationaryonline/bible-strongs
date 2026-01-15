@@ -34,5 +34,18 @@
     "tr": "Beriah, dört İsraillinin adı",
     "uk": "Берія, ім'я чотирьох ізраїльтян",
     "zh": "贝利亚，四个以色列人的名字"
-  }
+  },
+  "hebrew": "בְּרִיעָה",
+  "verses": [
+    "firstChronicles 23:10",
+    "firstChronicles 23:11",
+    "firstChronicles 7:23",
+    "firstChronicles 7:30",
+    "firstChronicles 7:31",
+    "firstChronicles 8:13",
+    "firstChronicles 8:16",
+    "genesis 46:17",
+    "numbers 26:44",
+    "numbers 26:45"
+  ]
 }

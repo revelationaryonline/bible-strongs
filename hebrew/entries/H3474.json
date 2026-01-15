@@ -34,5 +34,34 @@
     "tr": "düz veya eşit olmak; mecazi olarak, doğru, hoş, müreffeh olmak (nedensel olarak, yapmak)",
     "uk": "бути прямим або рівним; у переносному значенні - бути (причинно, робити) правильним, приємним, процвітаючим",
     "zh": "直或平；比喻（因果关系，使）正确、愉快、繁荣"
-  }
+  },
+  "hebrew": "יָשַׁר",
+  "verses": [
+    "firstChronicles 13:4",
+    "firstKings 6:35",
+    "firstKings 9:12",
+    "firstSamuel 18:20",
+    "firstSamuel 18:26",
+    "firstSamuel 6:12",
+    "habakkuk 2:4",
+    "isaiah 40:3",
+    "isaiah 45:13",
+    "isaiah 45:2",
+    "jeremiah 18:4",
+    "jeremiah 27:5",
+    "job 37:3",
+    "judges 14:3",
+    "judges 14:7",
+    "numbers 23:27",
+    "proverbs 11:5",
+    "proverbs 15:21",
+    "proverbs 3:6",
+    "proverbs 4:25",
+    "proverbs 9:15",
+    "psalms 119:128",
+    "psalms 5:9",
+    "secondChronicles 30:4",
+    "secondChronicles 32:30",
+    "secondSamuel 17:4"
+  ]
 }

@@ -35,5 +35,34 @@
     "tr": "bir ilmik (hayvanları yakalamak için) (gerçek veya mecazi anlamda); ima yoluyla, bir kanca (burun için)",
     "uk": "зашморг (для ловлі тварин) (у прямому чи переносному значенні); у переносному значенні - гачок (для носа)",
     "zh": "绳索（用于捕捉动物）（字面或比喻）；暗示钩子（用于鼻子）"
-  }
+  },
+  "verses": [
+    "amos 3:5",
+    "deuteronomy 7:16",
+    "exodus 10:7",
+    "exodus 23:33",
+    "exodus 34:12",
+    "firstSamuel 18:21",
+    "isaiah 8:14",
+    "job 34:30",
+    "job 40:24",
+    "joshua 23:13",
+    "judges 2:3",
+    "judges 8:27",
+    "proverbs 12:13",
+    "proverbs 13:14",
+    "proverbs 14:27",
+    "proverbs 18:7",
+    "proverbs 20:25",
+    "proverbs 22:25",
+    "proverbs 29:25",
+    "proverbs 29:6",
+    "psalms 106:36",
+    "psalms 140:6",
+    "psalms 141:9",
+    "psalms 18:6",
+    "psalms 64:6",
+    "psalms 69:23",
+    "secondSamuel 22:6"
+  ]
 }

@@ -34,5 +34,31 @@
     "tr": "kum (yuvarlak veya dönen parçacıklar olarak)",
     "uk": "пісок (у вигляді круглих або закручених частинок)",
     "zh": "沙粒"
-  }
+  },
+  "hebrew": "חוֹל",
+  "verses": [
+    "deuteronomy 33:19",
+    "exodus 2:12",
+    "firstKings 4:20",
+    "firstKings 5:9",
+    "firstSamuel 13:5",
+    "genesis 22:17",
+    "genesis 32:13",
+    "genesis 41:49",
+    "habakkuk 1:9",
+    "hosea 2:1",
+    "isaiah 10:22",
+    "isaiah 48:19",
+    "jeremiah 15:8",
+    "jeremiah 33:22",
+    "jeremiah 5:22",
+    "job 29:18",
+    "job 6:3",
+    "joshua 11:4",
+    "judges 7:12",
+    "proverbs 27:3",
+    "psalms 139:18",
+    "psalms 78:27",
+    "secondSamuel 17:11"
+  ]
 }

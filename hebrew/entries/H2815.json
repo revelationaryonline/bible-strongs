@@ -34,5 +34,13 @@
     "tr": "Çaşşub, iki ya da üç İsraillinin adı",
     "uk": "Чашшуб, ім'я двох чи трьох ізраїльтян",
     "zh": "沙舒伯，两三个以色列人的名字"
-  }
+  },
+  "hebrew": "חַשּׁוּב",
+  "verses": [
+    "firstChronicles 9:14",
+    "nehemiah 10:24",
+    "nehemiah 11:15",
+    "nehemiah 3:11",
+    "nehemiah 3:23"
+  ]
 }

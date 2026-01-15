@@ -34,5 +34,18 @@
     "tr": "Joach, dört İsraillinin adı",
     "uk": "Йоах, ім'я чотирьох ізраїльтян",
     "zh": "约雅斤，四个以色列人的名字"
-  }
+  },
+  "hebrew": "יוֹאָח",
+  "verses": [
+    "firstChronicles 26:4",
+    "firstChronicles 6:6",
+    "isaiah 36:11",
+    "isaiah 36:22",
+    "isaiah 36:3",
+    "secondChronicles 29:12",
+    "secondChronicles 34:8",
+    "secondKings 18:18",
+    "secondKings 18:26",
+    "secondKings 18:37"
+  ]
 }

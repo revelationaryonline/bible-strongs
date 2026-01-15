@@ -34,5 +34,15 @@
     "tr": "Gedor, Filistin'de bir yer; ayrıca üç İsraillinin adı",
     "uk": "Гедор, місце в Палестині; також ім'я трьох ізраїльтян",
     "zh": "基多，巴勒斯坦的一个地方；也是三个以色列人的名字"
-  }
+  },
+  "hebrew": "גְדֹר",
+  "verses": [
+    "firstChronicles 12:8",
+    "firstChronicles 4:18",
+    "firstChronicles 4:39",
+    "firstChronicles 4:4",
+    "firstChronicles 8:31",
+    "firstChronicles 9:37",
+    "joshua 15:58"
+  ]
 }

@@ -34,5 +34,19 @@
     "tr": "Javan, Joktan'ın bir oğlunun ve onun soyundan gelen ırkın (İyonlar, yani Yunanlılar) ve topraklarının adı; ayrıca Arabistan'da bir yerin adı",
     "uk": "Яван, ім'я сина Йоктана і раси (іонійців, тобто греків), що походить від нього, з їхньою територією; також місцевість в Аравії",
     "zh": "雅万，约克坦一个儿子的名字，也是他的后裔（伊奥尼亚人，即希腊人）及其领地的名字；也是阿拉伯一个地方的名字"
-  }
+  },
+  "hebrew": "יָוָן",
+  "verses": [
+    "daniel 10:20",
+    "daniel 11:2",
+    "daniel 8:21",
+    "ezekiel 27:13",
+    "ezekiel 27:19",
+    "firstChronicles 1:5",
+    "firstChronicles 1:7",
+    "genesis 10:2",
+    "genesis 10:4",
+    "isaiah 66:19",
+    "zechariah 9:13"
+  ]
 }

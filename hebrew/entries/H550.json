@@ -34,5 +34,30 @@
     "tr": "Amnon (ya da Aminon), Davut'un oğlu",
     "uk": "Амнон (або Амінон), син Давида",
     "zh": "亚米农，大卫的儿子"
-  }
+  },
+  "hebrew": "אַמְנוֹן",
+  "verses": [
+    "firstChronicles 3:1",
+    "firstChronicles 4:20",
+    "secondSamuel 13:1",
+    "secondSamuel 13:10",
+    "secondSamuel 13:15",
+    "secondSamuel 13:2",
+    "secondSamuel 13:20",
+    "secondSamuel 13:22",
+    "secondSamuel 13:26",
+    "secondSamuel 13:27",
+    "secondSamuel 13:28",
+    "secondSamuel 13:29",
+    "secondSamuel 13:3",
+    "secondSamuel 13:32",
+    "secondSamuel 13:33",
+    "secondSamuel 13:39",
+    "secondSamuel 13:4",
+    "secondSamuel 13:6",
+    "secondSamuel 13:7",
+    "secondSamuel 13:8",
+    "secondSamuel 13:9",
+    "secondSamuel 3:2"
+  ]
 }

@@ -34,5 +34,17 @@
     "tr": "Baanah, dört İsraillinin adı",
     "uk": "Баана, ім'я чотирьох ізраїльтян",
     "zh": "巴拿（Baanah），四个以色列人的名字"
-  }
+  },
+  "hebrew": "בַּעֲנָה",
+  "verses": [
+    "ezra 2:2",
+    "firstChronicles 11:30",
+    "nehemiah 10:28",
+    "nehemiah 7:7",
+    "secondSamuel 23:29",
+    "secondSamuel 4:2",
+    "secondSamuel 4:5",
+    "secondSamuel 4:6",
+    "secondSamuel 4:9"
+  ]
 }

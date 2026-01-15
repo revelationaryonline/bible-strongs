@@ -34,5 +34,11 @@
     "tr": "Jigal, üç İsraillinin adı",
     "uk": "Джигал, ім'я трьох ізраїльтян",
     "zh": "吉甲，三个以色列人的名字"
-  }
+  },
+  "hebrew": "יִגְאָל",
+  "verses": [
+    "firstChronicles 3:22",
+    "numbers 13:7",
+    "secondSamuel 23:36"
+  ]
 }

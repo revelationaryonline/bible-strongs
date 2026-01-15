@@ -34,5 +34,10 @@
     "tr": "kirli bir kuş, belki de papağan (sinirliliğinden dolayı)",
     "uk": "нечистий птах, можливо, папуга (через свою запальність)",
     "zh": "不洁之鸟，也许是鹦鹉（因其易怒）"
-  }
+  },
+  "hebrew": "אֲנָפָה",
+  "verses": [
+    "deuteronomy 14:18",
+    "leviticus 11:19"
+  ]
 }

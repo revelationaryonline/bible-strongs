@@ -34,5 +34,27 @@
     "tr": "bir suçlu ya da suçlu sayılan biri",
     "uk": "злочинець, або той, кого визнали винним",
     "zh": "罪犯"
-  }
+  },
+  "hebrew": "חַטָּא",
+  "verses": [
+    "amos 9:10",
+    "amos 9:8",
+    "firstKings 1:21",
+    "firstSamuel 15:18",
+    "genesis 13:13",
+    "isaiah 13:9",
+    "isaiah 1:28",
+    "isaiah 33:14",
+    "numbers 17:3",
+    "numbers 32:14",
+    "proverbs 13:21",
+    "proverbs 1:10",
+    "proverbs 23:17",
+    "psalms 104:35",
+    "psalms 1:1",
+    "psalms 1:5",
+    "psalms 25:8",
+    "psalms 26:9",
+    "psalms 51:15"
+  ]
 }

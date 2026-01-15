@@ -34,5 +34,16 @@
     "tr": "Adar, 12. İbrani ayı",
     "uk": "Адар, 12-й єврейський місяць",
     "zh": "亚达"
-  }
+  },
+  "hebrew": "אֲדָר",
+  "verses": [
+    "esther 3:13",
+    "esther 3:7",
+    "esther 8:12",
+    "esther 9:1",
+    "esther 9:15",
+    "esther 9:17",
+    "esther 9:19",
+    "esther 9:21"
+  ]
 }

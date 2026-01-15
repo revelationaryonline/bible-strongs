@@ -34,5 +34,25 @@
     "tr": "{kudretli (Tanrı'dan söz edilir)}",
     "uk": "{\"Могутній (про Бога)",
     "zh": "{强大的（上帝之语）}"
-  }
+  },
+  "hebrew": "אַבִּיר",
+  "verses": [
+    "firstSamuel 21:8",
+    "isaiah 10:13",
+    "isaiah 34:7",
+    "isaiah 46:12",
+    "jeremiah 46:15",
+    "jeremiah 47:3",
+    "jeremiah 50:11",
+    "jeremiah 8:16",
+    "job 24:22",
+    "job 34:20",
+    "judges 5:22",
+    "lamentations 1:15",
+    "psalms 22:13",
+    "psalms 50:13",
+    "psalms 68:31",
+    "psalms 76:6",
+    "psalms 78:25"
+  ]
 }

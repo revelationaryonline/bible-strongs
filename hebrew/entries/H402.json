@@ -34,5 +34,26 @@
     "tr": "yemek",
     "uk": "їжа",
     "zh": "食物"
-  }
+  },
+  "hebrew": "אׇכְלָה",
+  "verses": [
+    "exodus 16:15",
+    "ezekiel 15:4",
+    "ezekiel 15:6",
+    "ezekiel 21:37",
+    "ezekiel 23:37",
+    "ezekiel 29:5",
+    "ezekiel 34:10",
+    "ezekiel 34:5",
+    "ezekiel 34:8",
+    "ezekiel 35:12",
+    "ezekiel 39:4",
+    "genesis 1:29",
+    "genesis 1:30",
+    "genesis 6:21",
+    "genesis 9:3",
+    "jeremiah 12:9",
+    "leviticus 11:39",
+    "leviticus 25:6"
+  ]
 }

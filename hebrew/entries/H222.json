@@ -34,5 +34,12 @@
     "tr": "Uriel, iki İsraillinin adı",
     "uk": "Уріель, ім'я двох ізраїльтян",
     "zh": "乌列尔，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אוּרִיאֵל",
+  "verses": [
+    "firstChronicles 15:11",
+    "firstChronicles 15:5",
+    "firstChronicles 6:9",
+    "secondChronicles 13:2"
+  ]
 }

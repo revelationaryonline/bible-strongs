@@ -34,5 +34,25 @@
     "tr": "eylemle (geride veya içeride tutmak) veya sözle (yasaklamak) kısıtlamak",
     "uk": "обмежувати, дією (стримувати або утримувати) або словом (забороняти)",
     "zh": "限制，通过行为（阻止或禁止）或言语（禁止）"
-  }
+  },
+  "hebrew": "כָּלָא",
+  "verses": [
+    "daniel 9:24",
+    "ecclesiastes 8:8",
+    "exodus 36:6",
+    "ezekiel 31:15",
+    "firstSamuel 25:33",
+    "firstSamuel 6:10",
+    "genesis 23:6",
+    "genesis 8:2",
+    "haggai 1:10",
+    "isaiah 43:6",
+    "jeremiah 32:2",
+    "jeremiah 32:3",
+    "numbers 11:28",
+    "psalms 119:101",
+    "psalms 40:10",
+    "psalms 40:12",
+    "psalms 88:9"
+  ]
 }

@@ -35,5 +35,28 @@
     "tr": "buhur (beyazlığından veya belki de dumanından)",
     "uk": "ладан (через його білизну або, можливо, через його дим)",
     "zh": "乳香"
-  }
+  },
+  "verses": [
+    "exodus 30:34",
+    "firstChronicles 9:29",
+    "isaiah 43:23",
+    "isaiah 60:6",
+    "isaiah 66:3",
+    "jeremiah 17:26",
+    "jeremiah 41:5",
+    "jeremiah 6:20",
+    "leviticus 24:7",
+    "leviticus 2:1",
+    "leviticus 2:15",
+    "leviticus 2:16",
+    "leviticus 2:2",
+    "leviticus 5:11",
+    "leviticus 6:8",
+    "nehemiah 13:5",
+    "nehemiah 13:9",
+    "numbers 5:15",
+    "solomon 3:6",
+    "solomon 4:14",
+    "solomon 4:6"
+  ]
 }

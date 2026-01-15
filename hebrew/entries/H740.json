@@ -34,5 +34,12 @@
     "tr": "Ariel, Kudüs için sembolik bir isim, aynı zamanda bir İsraillinin adı",
     "uk": "Аріель - символічне ім'я Єрусалиму, а також ім'я ізраїльтянина",
     "zh": "阿列尔，一个象征耶路撒冷的名字，也是一个以色列人的名字"
-  }
+  },
+  "hebrew": "אֲרִיאֵל",
+  "verses": [
+    "ezra 8:16",
+    "isaiah 29:1",
+    "isaiah 29:2",
+    "isaiah 29:7"
+  ]
 }

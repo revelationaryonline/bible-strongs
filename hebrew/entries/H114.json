@@ -34,5 +34,9 @@
     "tr": "Addon, görünüşe göre bir İsrailli",
     "uk": "Аддон, очевидно, ізраїльтянин",
     "zh": "阿顿，显然是以色列人"
-  }
+  },
+  "hebrew": "אַדּוֹן",
+  "verses": [
+    "nehemiah 7:61"
+  ]
 }

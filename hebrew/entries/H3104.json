@@ -34,5 +34,33 @@
     "tr": "bir boru sesi (sürekli sesinden); özellikle gümüş trompetlerin işareti; dolayısıyla, enstrümanın kendisi ve böylece tanıtılan festival",
     "uk": "звук рогу (від його безперервного звучання); зокрема, сигнал срібних сурм; отже, сам інструмент і фестиваль, який таким чином запроваджено",
     "zh": "号角声（由其连续不断的声音而得名）；具体地说，是银号角的信号；因此，指乐器本身和由此引出的节日"
-  }
+  },
+  "hebrew": "יוֹבֵל",
+  "verses": [
+    "exodus 19:13",
+    "joshua 6:13",
+    "joshua 6:4",
+    "joshua 6:5",
+    "joshua 6:6",
+    "joshua 6:8",
+    "leviticus 25:10",
+    "leviticus 25:11",
+    "leviticus 25:12",
+    "leviticus 25:13",
+    "leviticus 25:15",
+    "leviticus 25:28",
+    "leviticus 25:30",
+    "leviticus 25:31",
+    "leviticus 25:33",
+    "leviticus 25:40",
+    "leviticus 25:50",
+    "leviticus 25:52",
+    "leviticus 25:54",
+    "leviticus 27:17",
+    "leviticus 27:18",
+    "leviticus 27:21",
+    "leviticus 27:23",
+    "leviticus 27:24",
+    "numbers 36:4"
+  ]
 }

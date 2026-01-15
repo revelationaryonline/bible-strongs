@@ -34,5 +34,23 @@
     "tr": "Achitub, birkaç rahibin adı",
     "uk": "Ахітуб, ім'я кількох священиків",
     "zh": "阿奇图布"
-  }
+  },
+  "hebrew": "אֲחִיטוּב",
+  "verses": [
+    "ezra 7:2",
+    "firstChronicles 18:16",
+    "firstChronicles 5:33",
+    "firstChronicles 5:34",
+    "firstChronicles 5:37",
+    "firstChronicles 5:38",
+    "firstChronicles 6:37",
+    "firstChronicles 9:11",
+    "firstSamuel 14:3",
+    "firstSamuel 22:11",
+    "firstSamuel 22:12",
+    "firstSamuel 22:20",
+    "firstSamuel 22:9",
+    "nehemiah 11:11",
+    "secondSamuel 8:17"
+  ]
 }

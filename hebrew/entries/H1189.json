@@ -34,5 +34,11 @@
     "tr": "Baal-Tsephon, Mısır'da bir yer",
     "uk": "Баал-Цефон, місце в Єгипті",
     "zh": "巴尔采丰"
-  }
+  },
+  "hebrew": "בַּעַל צְפוֹן",
+  "verses": [
+    "exodus 14:2",
+    "exodus 14:9",
+    "numbers 33:7"
+  ]
 }

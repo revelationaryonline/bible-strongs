@@ -35,5 +35,33 @@
     "tr": "bir çıkış, yani (eylem) bir çıkış veya (yer) bir çıkış; dolayısıyla, bir kaynak veya ürün; özellikle, şafak, güneşin doğuşu (Doğu), ihracat, söz, bir kapı, bir çeşme, bir maden, bir çayır (ot üreten olarak)",
     "uk": "вихід, тобто (дія) вихід, або (місце) вихід; отже, джерело або продукт; зокрема, світанок, схід сонця (Схід), вивезення, вимовляння, ворота, фонтан, копальня, луг (як такий, що дає траву)",
     "zh": "出口，即（行为）出口，或（地点）出口；因此，指来源或产品；具体指黎明、太阳（东方）升起、出口、话语、大门、喷泉、矿井、草地（作为草的产地）。"
-  }
+  },
+  "verses": [
+    "daniel 9:25",
+    "deuteronomy 23:24",
+    "deuteronomy 8:3",
+    "ezekiel 12:4",
+    "ezekiel 42:11",
+    "ezekiel 43:11",
+    "ezekiel 44:5",
+    "firstKings 10:28",
+    "hosea 6:3",
+    "isaiah 41:18",
+    "isaiah 58:11",
+    "jeremiah 17:16",
+    "job 28:1",
+    "job 38:27",
+    "numbers 30:13",
+    "numbers 33:2",
+    "psalms 107:33",
+    "psalms 107:35",
+    "psalms 19:7",
+    "psalms 65:9",
+    "psalms 75:7",
+    "psalms 89:35",
+    "secondChronicles 1:16",
+    "secondChronicles 32:30",
+    "secondKings 2:21",
+    "secondSamuel 3:25"
+  ]
 }

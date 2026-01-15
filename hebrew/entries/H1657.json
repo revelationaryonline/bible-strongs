@@ -34,5 +34,22 @@
     "tr": "Goshen, İsraillilerin Mısır'daki ikametgahı; ayrıca Filistin'de bir yer",
     "uk": "Гошен, місце проживання ізраїльтян в Єгипті; також місце в Палестині",
     "zh": "戈申，以色列人在埃及的居住地；也是巴勒斯坦的一个地方"
-  }
+  },
+  "hebrew": "גֹּשֶׁן",
+  "verses": [
+    "exodus 8:18",
+    "exodus 9:26",
+    "genesis 45:10",
+    "genesis 46:28",
+    "genesis 46:29",
+    "genesis 46:34",
+    "genesis 47:1",
+    "genesis 47:27",
+    "genesis 47:4",
+    "genesis 47:6",
+    "genesis 50:8",
+    "joshua 10:41",
+    "joshua 11:16",
+    "joshua 15:51"
+  ]
 }

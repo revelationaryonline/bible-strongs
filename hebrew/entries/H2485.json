@@ -34,5 +34,13 @@
     "tr": "bir flüt (delikli olarak)",
     "uk": "флейта (перфорована)",
     "zh": "笛"
-  }
+  },
+  "hebrew": "חָלִיל",
+  "verses": [
+    "firstKings 1:40",
+    "firstSamuel 10:5",
+    "isaiah 30:29",
+    "isaiah 5:12",
+    "jeremiah 48:36"
+  ]
 }

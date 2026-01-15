@@ -34,5 +34,14 @@
     "tr": "doğru olarak, Judah, dolayısıyla, Judaea",
     "uk": "власне, Юда, отже, Юдея",
     "zh": "犹大"
-  }
+  },
+  "hebrew": "יְהוּד",
+  "verses": [
+    "daniel 2:25",
+    "daniel 5:13",
+    "daniel 6:14",
+    "ezra 5:1",
+    "ezra 5:8",
+    "ezra 7:14"
+  ]
 }

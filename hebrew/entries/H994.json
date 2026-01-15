@@ -34,5 +34,20 @@
     "tr": "ah o!; izinle, ya da lütfen",
     "uk": "о, це!; з дозволу, або якщо дозволите",
     "zh": "哦，那好吧；请允许，或者如果需要的话"
-  }
+  },
+  "hebrew": "בִּי",
+  "verses": [
+    "exodus 4:10",
+    "exodus 4:13",
+    "firstKings 3:17",
+    "firstKings 3:26",
+    "firstSamuel 1:26",
+    "genesis 43:20",
+    "genesis 44:18",
+    "joshua 7:8",
+    "judges 13:8",
+    "judges 6:13",
+    "judges 6:15",
+    "numbers 12:11"
+  ]
 }

@@ -34,5 +34,13 @@
     "tr": "{bir yıldız falcısı (büyülü çizgiler veya daireler çizen)}",
     "uk": "{гороскоп (малює магічні лінії або кола)}",
     "zh": "{占星家（画神奇的线或圈）}"
-  }
+  },
+  "hebrew": "חַרְטֹם",
+  "verses": [
+    "daniel 2:10",
+    "daniel 2:27",
+    "daniel 4:4",
+    "daniel 4:6",
+    "daniel 5:11"
+  ]
 }

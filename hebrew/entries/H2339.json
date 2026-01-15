@@ -34,5 +34,15 @@
     "tr": "bir ip; dolaylı olarak bir ölçüm bandı",
     "uk": "нитка; за змістом - вимірювальна стрічка",
     "zh": "弦；牵连到卷尺"
-  }
+  },
+  "hebrew": "חוּט",
+  "verses": [
+    "ecclesiastes 4:12",
+    "firstKings 7:15",
+    "genesis 14:23",
+    "jeremiah 52:21",
+    "joshua 2:18",
+    "judges 16:12",
+    "solomon 4:3"
+  ]
 }

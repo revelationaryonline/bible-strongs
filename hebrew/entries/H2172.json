@@ -34,5 +34,12 @@
     "tr": "bir enstrüman eşliğinde söylenen bir müzik parçası veya şarkı",
     "uk": "музичний твір або пісню, яку потрібно виконувати під акомпанемент інструмента",
     "zh": "乐曲"
-  }
+  },
+  "hebrew": "זִמְרָה",
+  "verses": [
+    "amos 5:23",
+    "isaiah 51:3",
+    "psalms 81:3",
+    "psalms 98:5"
+  ]
 }

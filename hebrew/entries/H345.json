@@ -34,5 +34,14 @@
     "tr": "Ajah, iki İsraillinin adı",
     "uk": "Ая, ім'я двох ізраїльтян",
     "zh": "阿雅，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אַיָּה",
+  "verses": [
+    "firstChronicles 1:40",
+    "genesis 36:24",
+    "secondSamuel 21:10",
+    "secondSamuel 21:11",
+    "secondSamuel 21:8",
+    "secondSamuel 3:7"
+  ]
 }

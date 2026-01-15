@@ -34,5 +34,15 @@
     "tr": "Chavilah, iki ya da üç doğu bölgesinin adı; ayrıca belki de iki adamın adı",
     "uk": "Чавіла, назва двох або трьох східних регіонів; також, можливо, двох чоловіків",
     "zh": "查维拉（Chavilah），东部两三个地区的名字；也可能是两个人的名字"
-  }
+  },
+  "hebrew": "חֲוִילָה",
+  "verses": [
+    "firstChronicles 1:23",
+    "firstChronicles 1:9",
+    "firstSamuel 15:7",
+    "genesis 10:29",
+    "genesis 10:7",
+    "genesis 25:18",
+    "genesis 2:11"
+  ]
 }

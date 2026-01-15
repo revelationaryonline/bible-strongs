@@ -34,5 +34,10 @@
     "tr": "Telem, Idumaea'da bir yerin adı, ayrıca bir tapınak kapıcısının adı",
     "uk": "Телема, назва місця в Ідумеї, а також храмового сторожа",
     "zh": "特勒姆（Telem）是伊都马亚（Idumaea）的一个地名，也是一个寺庙看门人的名字。"
-  }
+  },
+  "hebrew": "טֶלֶם",
+  "verses": [
+    "ezra 10:24",
+    "joshua 15:24"
+  ]
 }

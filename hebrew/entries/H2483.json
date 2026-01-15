@@ -34,5 +34,30 @@
     "tr": "hastalık, endişe, felaket",
     "uk": "хвороба, тривога, лихо",
     "zh": "弊病、焦虑、灾难"
-  }
+  },
+  "hebrew": "חֳלִי",
+  "verses": [
+    "deuteronomy 28:59",
+    "deuteronomy 28:61",
+    "deuteronomy 7:15",
+    "ecclesiastes 5:16",
+    "ecclesiastes 6:2",
+    "firstKings 17:17",
+    "hosea 5:13",
+    "isaiah 1:5",
+    "isaiah 38:9",
+    "isaiah 53:3",
+    "isaiah 53:4",
+    "jeremiah 10:19",
+    "jeremiah 6:7",
+    "psalms 41:4",
+    "secondChronicles 16:12",
+    "secondChronicles 21:15",
+    "secondChronicles 21:18",
+    "secondChronicles 21:19",
+    "secondKings 13:14",
+    "secondKings 1:2",
+    "secondKings 8:8",
+    "secondKings 8:9"
+  ]
 }

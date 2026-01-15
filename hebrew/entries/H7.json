@@ -34,5 +34,14 @@
     "tr": "{doğru olarak, uzaklaşmak, yani kendini kaybetmek; ima yoluyla yok olmak (nedensel, yok etmek)}",
     "uk": "{власне, заблукати, тобто загубити себе; підтекстом - загинути (спричинити, знищити)}",
     "zh": "{正确地说，是游荡，即迷失方向；暗指灭亡（因果关系，毁灭）}。"
-  }
+  },
+  "hebrew": "אֲבַד",
+  "verses": [
+    "daniel 2:12",
+    "daniel 2:18",
+    "daniel 2:24",
+    "daniel 7:11",
+    "daniel 7:26",
+    "jeremiah 10:11"
+  ]
 }

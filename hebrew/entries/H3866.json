@@ -35,5 +35,10 @@
     "tr": "bir Ludite veya Lud sakinleri (sadece çoğul olarak)",
     "uk": "лудіт або мешканці Луду (тільки у множині)",
     "zh": "卢德人或卢德居民（仅指复数）"
-  }
+  },
+  "verses": [
+    "firstChronicles 1:11",
+    "genesis 10:13",
+    "jeremiah 46:9"
+  ]
 }

@@ -35,5 +35,12 @@
     "tr": "gizli bir depo; dolayısıyla, gizlenmiş bir değerli (gömülü); genellikle para",
     "uk": "таємне сховище; отже, прихована цінність (закопана); як правило, гроші",
     "zh": "秘密库房；因此，秘密贵重物品（埋藏）；一般是金钱"
-  }
+  },
+  "verses": [
+    "genesis 43:23",
+    "isaiah 45:3",
+    "jeremiah 41:8",
+    "job 3:21",
+    "proverbs 2:4"
+  ]
 }

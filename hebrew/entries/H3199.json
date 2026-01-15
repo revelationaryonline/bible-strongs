@@ -34,5 +34,16 @@
     "tr": "Jakin, üç İsraillinin ve bir tapınak sütununun adı",
     "uk": "Якін, ім'я трьох ізраїльтян і храмового стовпа",
     "zh": "雅金，三个以色列人和一根神庙柱子的名字"
-  }
+  },
+  "hebrew": "יָכִין",
+  "verses": [
+    "exodus 6:15",
+    "firstChronicles 24:17",
+    "firstChronicles 9:10",
+    "firstKings 7:21",
+    "genesis 46:10",
+    "nehemiah 11:10",
+    "numbers 26:12",
+    "secondChronicles 3:17"
+  ]
 }

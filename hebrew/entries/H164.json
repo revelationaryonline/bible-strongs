@@ -34,5 +34,16 @@
     "tr": "Ehud, iki ya da üç İsraillinin adı",
     "uk": "Ехуд, ім'я двох чи трьох ізраїльтян",
     "zh": "埃胡德，两三个以色列人的名字"
-  }
+  },
+  "hebrew": "אֵהוּד",
+  "verses": [
+    "firstChronicles 7:10",
+    "judges 3:15",
+    "judges 3:16",
+    "judges 3:20",
+    "judges 3:21",
+    "judges 3:23",
+    "judges 3:26",
+    "judges 4:1"
+  ]
 }

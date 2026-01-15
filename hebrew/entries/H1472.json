@@ -34,5 +34,19 @@
     "tr": "canlı ya da ölü bir beden",
     "uk": "тіло, живе чи мертве",
     "zh": "尸体"
-  }
+  },
+  "hebrew": "גְּוִיָּה",
+  "verses": [
+    "daniel 10:6",
+    "ezekiel 1:11",
+    "ezekiel 1:23",
+    "firstSamuel 31:10",
+    "firstSamuel 31:12",
+    "genesis 47:18",
+    "judges 14:8",
+    "judges 14:9",
+    "nahum 3:3",
+    "nehemiah 9:37",
+    "psalms 110:6"
+  ]
 }

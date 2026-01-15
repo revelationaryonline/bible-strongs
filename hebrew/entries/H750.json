@@ -34,5 +34,23 @@
     "tr": "uzun",
     "uk": "довгий",
     "zh": "长"
-  }
+  },
+  "hebrew": "אָרֵךְ",
+  "verses": [
+    "ecclesiastes 7:8",
+    "exodus 34:6",
+    "ezekiel 17:3",
+    "jeremiah 15:15",
+    "joel 2:13",
+    "jonah 4:2",
+    "nahum 1:3",
+    "nehemiah 9:17",
+    "numbers 14:18",
+    "proverbs 14:29",
+    "proverbs 15:18",
+    "proverbs 16:32",
+    "psalms 103:8",
+    "psalms 145:8",
+    "psalms 86:15"
+  ]
 }

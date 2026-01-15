@@ -34,5 +34,29 @@
     "tr": "belki bir cep (Urim ve Thummim'i tuttuğu için) veya zengin (mücevherler içerdiği için), sadece başrahibin gorget'i için kullanılır",
     "uk": "можливо, кишеньковий (як такий, що тримає урим і туммім), або багатий (як такий, що містить коштовне каміння), використовуваний лише з горгета первосвященика",
     "zh": "也许是一个口袋（装着乌林和达摩），或者是一个丰富的口袋（装着宝石），只用于大祭司的袍子"
-  }
+  },
+  "hebrew": "חֹשֶׁן",
+  "verses": [
+    "exodus 25:7",
+    "exodus 28:15",
+    "exodus 28:22",
+    "exodus 28:23",
+    "exodus 28:24",
+    "exodus 28:26",
+    "exodus 28:28",
+    "exodus 28:29",
+    "exodus 28:30",
+    "exodus 28:4",
+    "exodus 29:5",
+    "exodus 35:27",
+    "exodus 35:9",
+    "exodus 39:15",
+    "exodus 39:16",
+    "exodus 39:17",
+    "exodus 39:19",
+    "exodus 39:21",
+    "exodus 39:8",
+    "exodus 39:9",
+    "leviticus 8:8"
+  ]
 }

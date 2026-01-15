@@ -1,0 +1,43 @@
+{
+  "number": "H4484",
+  "language": "hebrew",
+  "transliteration": "mᵉnêʼ",
+  "pronunciation": "men-ay'",
+  "definition": "numbered",
+  "kjvTranslation": "Mene.",
+  "hebrew": "מְנֵא",
+  "translations": {
+    "bg": "номерирани",
+    "cs": "číslované",
+    "da": "nummereret",
+    "de": "nummeriert",
+    "el": "αριθμημένο",
+    "es": "numerado",
+    "et": "nummerdatud",
+    "fi": "numeroitu",
+    "fr": "numéroté",
+    "hu": "számozott",
+    "id": "bernomor",
+    "it": "numerato",
+    "ja": "番号",
+    "ko": "번호",
+    "lt": "numeruotas",
+    "lv": "numurēts",
+    "nb": "nummerert",
+    "nl": "genummerd",
+    "pl": "ponumerowane",
+    "pt": "numerado",
+    "ro": "numerotate",
+    "ru": "пронумерованный",
+    "sk": "číslované",
+    "sl": "oštevilčen",
+    "sv": "numrerad",
+    "tr": "numaralı",
+    "uk": "пронумеровані",
+    "zh": "编号"
+  },
+  "verses": [
+    "daniel 5:25",
+    "daniel 5:26"
+  ]
+}

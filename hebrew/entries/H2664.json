@@ -34,5 +34,28 @@
     "tr": "aramak; nedensel olarak, kendini gizlemek (yani aranmasına izin vermek) veya maskelemek",
     "uk": "шукати; каузативно, приховувати себе (тобто давати себе шукати) або маскувати",
     "zh": "寻找；因果关系是隐藏自己（即让人寻找），或掩盖"
-  }
+  },
+  "hebrew": "חָפַשׂ",
+  "verses": [
+    "amos 9:3",
+    "firstKings 20:38",
+    "firstKings 20:6",
+    "firstKings 22:30",
+    "firstSamuel 23:23",
+    "firstSamuel 28:8",
+    "genesis 31:35",
+    "genesis 44:12",
+    "job 30:18",
+    "lamentations 3:40",
+    "obadiah 1:6",
+    "proverbs 20:27",
+    "proverbs 28:12",
+    "proverbs 2:4",
+    "psalms 64:7",
+    "psalms 77:7",
+    "secondChronicles 18:29",
+    "secondChronicles 35:22",
+    "secondKings 10:23",
+    "zephaniah 1:12"
+  ]
 }

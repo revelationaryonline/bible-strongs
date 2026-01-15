@@ -34,5 +34,32 @@
     "tr": "düz bir rota, yani doğrudan yelken açmak",
     "uk": "прямий курс, тобто пливти прямо",
     "zh": "直航"
-  }
+  },
+  "hebrew": "דִּין",
+  "verses": [
+    "deuteronomy 32:36",
+    "ecclesiastes 6:10",
+    "firstSamuel 2:10",
+    "genesis 15:14",
+    "genesis 30:6",
+    "genesis 49:16",
+    "genesis 6:3",
+    "isaiah 3:13",
+    "jeremiah 21:12",
+    "jeremiah 22:16",
+    "jeremiah 30:13",
+    "jeremiah 5:28",
+    "job 36:31",
+    "proverbs 31:9",
+    "psalms 110:6",
+    "psalms 135:14",
+    "psalms 50:4",
+    "psalms 54:3",
+    "psalms 72:2",
+    "psalms 7:9",
+    "psalms 96:10",
+    "psalms 9:9",
+    "secondSamuel 19:10",
+    "zechariah 3:7"
+  ]
 }

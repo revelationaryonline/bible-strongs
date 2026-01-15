@@ -34,5 +34,24 @@
     "tr": "{bir el (açık olan (güç, araç, yön vb. gösteren)}",
     "uk": "{рука (відкрита (вказує на силу, засоби, напрямок і т.д.)}",
     "zh": "{一只手（张开的手（表示权力、手段、方向等）}。"
-  }
+  },
+  "hebrew": "יַד",
+  "verses": [
+    "daniel 2:34",
+    "daniel 2:38",
+    "daniel 2:45",
+    "daniel 3:15",
+    "daniel 3:17",
+    "daniel 4:32",
+    "daniel 5:23",
+    "daniel 5:24",
+    "daniel 5:5",
+    "daniel 6:28",
+    "daniel 7:25",
+    "ezra 5:12",
+    "ezra 5:8",
+    "ezra 6:12",
+    "ezra 7:14",
+    "ezra 7:25"
+  ]
 }

@@ -34,5 +34,17 @@
     "tr": "bir kafes; (ima yoluyla) bir pencere, güvercinlik (güvercin delikleri nedeniyle), baca (duman için açıklıkları olan), savak (su için açıklıkları olan)",
     "uk": "решітка; (імпліцитно) вікно, голубник (через голуб'ятники), димар (з отворами для диму), шлюз (з отворами для води)",
     "zh": "格子；（暗示）窗户、鸽笼（因为有鸽子洞）、烟囱（有烟孔）、水闸（有水孔）"
-  }
+  },
+  "hebrew": "אֲרֻבָּה",
+  "verses": [
+    "ecclesiastes 12:3",
+    "genesis 7:11",
+    "genesis 8:2",
+    "hosea 13:3",
+    "isaiah 24:18",
+    "isaiah 60:8",
+    "malachi 3:10",
+    "secondKings 7:19",
+    "secondKings 7:2"
+  ]
 }

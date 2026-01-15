@@ -34,5 +34,18 @@
     "tr": "Adem ilk insanın adı, aynı zamanda Filistin'de bir yerin adı",
     "uk": "Адам - ім'я першої людини, також від місця в Палестині",
     "zh": "亚当是第一个人的名字，也是巴勒斯坦一个地方的名字"
-  }
+  },
+  "hebrew": "אָדָם",
+  "verses": [
+    "firstChronicles 1:1",
+    "genesis 3:17",
+    "genesis 4:25",
+    "genesis 5:1",
+    "genesis 5:3",
+    "genesis 5:4",
+    "genesis 5:5",
+    "hosea 6:7",
+    "job 31:33",
+    "joshua 3:16"
+  ]
 }

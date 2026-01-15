@@ -34,5 +34,11 @@
     "tr": "{doğru olarak, kesilen bir şey; dolayısıyla, bir hayvan (veya et, kesilmiş olarak); soyut olarak kasaplık (veya somut olarak, bir kesim yeri)}",
     "uk": "{власне, щось зарізане; отже, звір (або м'ясо, як зарізане); абстрактно - бійня (або конкретно - місце забою)}",
     "zh": "{正确地说，是指被屠宰的东西；因此，是指野兽（或肉，如屠宰过的）；抽象地指屠宰场（或具体地说，屠宰场）}。"
-  }
+  },
+  "hebrew": "טִבְחָה",
+  "verses": [
+    "firstSamuel 25:11",
+    "jeremiah 12:3",
+    "psalms 44:23"
+  ]
 }

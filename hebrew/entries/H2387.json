@@ -34,5 +34,10 @@
     "tr": "Şezir, iki İsraillinin adı",
     "uk": "Чезір, ім'я двох ізраїльтян",
     "zh": "切齐尔，两个以色列人的名字"
-  }
+  },
+  "hebrew": "חֵזִיר",
+  "verses": [
+    "firstChronicles 24:15",
+    "nehemiah 10:21"
+  ]
 }

@@ -34,5 +34,10 @@
     "tr": "Bered, Filistin'in güneyinde bir yerin adı, ayrıca bir İsraillinin adı",
     "uk": "Беред - назва місця на південь від Палестини, також ізраїльтянина",
     "zh": "贝雷德，巴勒斯坦南部的一个地名，也是一个以色列人的名字"
-  }
+  },
+  "hebrew": "בֶּרֶד",
+  "verses": [
+    "firstChronicles 7:20",
+    "genesis 16:14"
+  ]
 }

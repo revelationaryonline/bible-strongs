@@ -34,5 +34,19 @@
     "tr": "Chanani, altı İsraillinin adı",
     "uk": "Чанані, ім'я шести ізраїльтян",
     "zh": "查纳尼，六个以色列人的名字"
-  }
+  },
+  "hebrew": "חֲנָנִי",
+  "verses": [
+    "ezra 10:20",
+    "firstChronicles 25:25",
+    "firstChronicles 25:4",
+    "firstKings 16:1",
+    "firstKings 16:7",
+    "nehemiah 12:36",
+    "nehemiah 1:2",
+    "nehemiah 7:2",
+    "secondChronicles 16:7",
+    "secondChronicles 19:2",
+    "secondChronicles 20:34"
+  ]
 }

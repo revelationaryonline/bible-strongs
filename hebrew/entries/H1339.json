@@ -34,5 +34,19 @@
     "tr": "Bath-Sheba, Süleyman'ın annesi",
     "uk": "Вірсавія, мати Соломона",
     "zh": "所罗门的母亲巴思-示巴"
-  }
+  },
+  "hebrew": "בַּת־שֶׁבַע",
+  "verses": [
+    "firstKings 1:11",
+    "firstKings 1:15",
+    "firstKings 1:16",
+    "firstKings 1:28",
+    "firstKings 1:31",
+    "firstKings 2:13",
+    "firstKings 2:18",
+    "firstKings 2:19",
+    "psalms 51:2",
+    "secondSamuel 11:3",
+    "secondSamuel 12:24"
+  ]
 }

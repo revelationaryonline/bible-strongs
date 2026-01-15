@@ -35,5 +35,30 @@
     "tr": "Karmel, Filistin'de bir tepenin ve bir kasabanın adı",
     "uk": "Кармель - назва пагорба і міста в Палестині",
     "zh": "卡梅尔"
-  }
+  },
+  "verses": [
+    "amos 1:2",
+    "amos 9:3",
+    "firstKings 18:19",
+    "firstKings 18:20",
+    "firstKings 18:42",
+    "firstSamuel 15:12",
+    "firstSamuel 25:2",
+    "firstSamuel 25:40",
+    "firstSamuel 25:5",
+    "firstSamuel 25:7",
+    "isaiah 33:9",
+    "isaiah 35:2",
+    "jeremiah 46:18",
+    "jeremiah 50:19",
+    "joshua 12:22",
+    "joshua 15:55",
+    "joshua 19:26",
+    "micah 7:14",
+    "nahum 1:4",
+    "secondChronicles 26:10",
+    "secondKings 2:25",
+    "secondKings 4:25",
+    "solomon 7:6"
+  ]
 }

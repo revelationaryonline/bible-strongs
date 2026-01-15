@@ -34,5 +34,17 @@
     "tr": "bir Yehudalı (veya Musevi), yani Yahudi",
     "uk": "іудаїст (або юдаїст), тобто єврей",
     "zh": "耶胡达人，即犹太人"
-  }
+  },
+  "hebrew": "יְהוּדָאִי",
+  "verses": [
+    "daniel 3:12",
+    "daniel 3:8",
+    "ezra 4:12",
+    "ezra 4:23",
+    "ezra 5:1",
+    "ezra 5:5",
+    "ezra 6:14",
+    "ezra 6:7",
+    "ezra 6:8"
+  ]
 }

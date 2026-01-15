@@ -34,5 +34,36 @@
     "tr": "test etmek (özellikle metaller); genel ve mecazi olarak, araştırmak",
     "uk": "випробовувати (особливо метали); у прямому і переносному значенні - досліджувати",
     "zh": "检验（特别是金属）；一般地，比喻调查"
-  }
+  },
+  "hebrew": "בָּחַן",
+  "verses": [
+    "ezekiel 21:18",
+    "firstChronicles 29:17",
+    "genesis 42:15",
+    "genesis 42:16",
+    "jeremiah 11:20",
+    "jeremiah 12:3",
+    "jeremiah 17:10",
+    "jeremiah 20:12",
+    "jeremiah 6:27",
+    "jeremiah 9:6",
+    "job 12:11",
+    "job 23:10",
+    "job 34:3",
+    "job 34:36",
+    "job 7:18",
+    "malachi 3:10",
+    "malachi 3:15",
+    "proverbs 17:3",
+    "psalms 11:4",
+    "psalms 11:5",
+    "psalms 139:23",
+    "psalms 17:3",
+    "psalms 26:2",
+    "psalms 66:10",
+    "psalms 7:10",
+    "psalms 81:8",
+    "psalms 95:9",
+    "zechariah 13:9"
+  ]
 }

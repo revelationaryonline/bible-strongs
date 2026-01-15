@@ -34,5 +34,23 @@
     "tr": "{Darejavesh, birkaç Pers kralının (adından ziyade) unvanı}",
     "uk": "{Дареджавеш - титул (а не ім'я) кількох перських царів.}",
     "zh": "{达雷杰维什，几位波斯国王的头衔（而非名字）}。"
-  }
+  },
+  "hebrew": "דָּֽרְיָוֵשׁ",
+  "verses": [
+    "daniel 6:1",
+    "daniel 6:10",
+    "daniel 6:2",
+    "daniel 6:26",
+    "daniel 6:29",
+    "daniel 6:7",
+    "ezra 4:24",
+    "ezra 5:5",
+    "ezra 5:6",
+    "ezra 5:7",
+    "ezra 6:1",
+    "ezra 6:12",
+    "ezra 6:13",
+    "ezra 6:14",
+    "ezra 6:15"
+  ]
 }

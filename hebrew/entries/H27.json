@@ -34,5 +34,13 @@
     "tr": "Abidan, bir İsrailli",
     "uk": "Абідан, ізраїльтянин",
     "zh": "以色列人阿比丹"
-  }
+  },
+  "hebrew": "אֲבִידָן",
+  "verses": [
+    "numbers 10:24",
+    "numbers 1:11",
+    "numbers 2:22",
+    "numbers 7:60",
+    "numbers 7:65"
+  ]
 }

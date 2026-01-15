@@ -34,5 +34,13 @@
     "tr": "Şatuş, dört ya da beş İsraillinin adı",
     "uk": "Чаттуш, ім'я чотирьох чи п'яти ізраїльтян",
     "zh": "查图什，四五个以色列人的名字"
-  }
+  },
+  "hebrew": "חַטּוּשׁ",
+  "verses": [
+    "ezra 8:2",
+    "firstChronicles 3:22",
+    "nehemiah 10:5",
+    "nehemiah 12:2",
+    "nehemiah 3:10"
+  ]
 }

@@ -34,5 +34,9 @@
     "tr": "bir kelime",
     "uk": "на два слова",
     "zh": "一句话"
-  }
+  },
+  "hebrew": "דַּבָּרָה",
+  "verses": [
+    "deuteronomy 33:3"
+  ]
 }

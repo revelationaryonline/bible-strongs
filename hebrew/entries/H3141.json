@@ -34,5 +34,24 @@
     "tr": "Joram, üç İsrailli ve bir Suriyelinin adı",
     "uk": "Джорам, ім'я трьох ізраїльтян і одного сирійця",
     "zh": "约兰，三个以色列人和一个叙利亚人的名字"
-  }
+  },
+  "hebrew": "יוֹרָם",
+  "verses": [
+    "firstChronicles 26:25",
+    "firstChronicles 3:11",
+    "secondChronicles 22:5",
+    "secondChronicles 22:7",
+    "secondKings 11:2",
+    "secondKings 8:16",
+    "secondKings 8:21",
+    "secondKings 8:23",
+    "secondKings 8:24",
+    "secondKings 8:25",
+    "secondKings 8:28",
+    "secondKings 8:29",
+    "secondKings 9:14",
+    "secondKings 9:16",
+    "secondKings 9:29",
+    "secondSamuel 8:10"
+  ]
 }

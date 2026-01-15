@@ -34,5 +34,10 @@
     "tr": "{between (her isimden önce, genellikle diğer parçacıklarla birlikte tekrarlanır); ayrıca bağlaç olarak, either...or}",
     "uk": "{між (повторюється перед кожним іменником, часто з іншими частками); також як сполучник або...або}",
     "zh": "{between（在每个名词前重复出现，通常与其他微粒一起出现）；也用作连词，要么......要么}。"
-  }
+  },
+  "hebrew": "בֵּין",
+  "verses": [
+    "daniel 7:5",
+    "daniel 7:8"
+  ]
 }

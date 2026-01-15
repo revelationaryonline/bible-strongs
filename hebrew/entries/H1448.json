@@ -34,5 +34,19 @@
     "tr": "muhafaza (özellikle sürüler için)",
     "uk": "вольєр (особливо для отар)",
     "zh": "圈地"
-  }
+  },
+  "hebrew": "גְּדֵרָה",
+  "verses": [
+    "ezekiel 42:12",
+    "firstChronicles 4:23",
+    "firstSamuel 24:4",
+    "hosea 2:8",
+    "jeremiah 49:3",
+    "nahum 3:17",
+    "numbers 32:16",
+    "numbers 32:24",
+    "numbers 32:36",
+    "psalms 89:41",
+    "zephaniah 2:6"
+  ]
 }

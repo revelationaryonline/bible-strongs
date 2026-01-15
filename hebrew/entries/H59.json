@@ -34,5 +34,12 @@
     "tr": "Abel, Filistin'de iki yerin adı.",
     "uk": "Авель - назва двох місць у Палестині.",
     "zh": "亚伯，巴勒斯坦两个地名。"
-  }
+  },
+  "hebrew": "אָבֵל",
+  "verses": [
+    "firstSamuel 6:18",
+    "secondSamuel 20:14",
+    "secondSamuel 20:15",
+    "secondSamuel 20:18"
+  ]
 }

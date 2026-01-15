@@ -34,5 +34,16 @@
     "tr": "korku, endişe",
     "uk": "страх, тривога",
     "zh": "恐惧、焦虑"
-  }
+  },
+  "hebrew": "חֲרָדָה",
+  "verses": [
+    "daniel 10:7",
+    "ezekiel 26:16",
+    "firstSamuel 14:15",
+    "genesis 27:33",
+    "isaiah 21:4",
+    "jeremiah 30:5",
+    "proverbs 29:25",
+    "secondKings 4:13"
+  ]
 }

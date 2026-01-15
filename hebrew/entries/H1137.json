@@ -34,5 +34,22 @@
     "tr": "Bani, beş İsraillinin adı",
     "uk": "Бані, ім'я п'яти ізраїльтян",
     "zh": "巴尼，五个以色列人的名字"
-  }
+  },
+  "hebrew": "בָּנִי",
+  "verses": [
+    "ezra 10:29",
+    "ezra 10:34",
+    "ezra 10:38",
+    "ezra 2:10",
+    "firstChronicles 6:31",
+    "firstChronicles 9:4",
+    "nehemiah 10:14",
+    "nehemiah 10:15",
+    "nehemiah 11:22",
+    "nehemiah 3:17",
+    "nehemiah 8:7",
+    "nehemiah 9:4",
+    "nehemiah 9:5",
+    "secondSamuel 23:36"
+  ]
 }

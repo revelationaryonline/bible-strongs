@@ -34,5 +34,14 @@
     "tr": "bir yumruk (sadece ikilide)",
     "uk": "кулак (тільки в дуалі)",
     "zh": "拳头"
-  }
+  },
+  "hebrew": "חֹפֶן",
+  "verses": [
+    "ecclesiastes 4:6",
+    "exodus 9:8",
+    "ezekiel 10:2",
+    "ezekiel 10:7",
+    "leviticus 16:12",
+    "proverbs 30:4"
+  ]
 }

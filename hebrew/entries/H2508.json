@@ -34,5 +34,11 @@
     "tr": "bir parçası",
     "uk": "частина",
     "zh": "一部分"
-  }
+  },
+  "hebrew": "חֲלָק",
+  "verses": [
+    "daniel 4:12",
+    "daniel 4:20",
+    "ezra 4:16"
+  ]
 }

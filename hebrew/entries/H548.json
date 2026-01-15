@@ -34,5 +34,10 @@
     "tr": "sabit bir şey, örneğin bir antlaşma. bir ödenek",
     "uk": "щось фіксоване, тобто угода. дозвіл",
     "zh": "固定的东西，如盟约。"
-  }
+  },
+  "hebrew": "אֲמָנָה",
+  "verses": [
+    "nehemiah 10:1",
+    "nehemiah 11:23"
+  ]
 }

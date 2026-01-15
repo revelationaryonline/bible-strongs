@@ -34,5 +34,35 @@
     "tr": "bir plan, özellikle de kötü bir plan",
     "uk": "план, особливо поганий",
     "zh": "计划，尤其是坏计划"
-  }
+  },
+  "hebrew": "זִמָּה",
+  "verses": [
+    "ezekiel 16:27",
+    "ezekiel 16:43",
+    "ezekiel 16:58",
+    "ezekiel 22:11",
+    "ezekiel 22:9",
+    "ezekiel 23:21",
+    "ezekiel 23:27",
+    "ezekiel 23:29",
+    "ezekiel 23:35",
+    "ezekiel 23:44",
+    "ezekiel 23:48",
+    "ezekiel 23:49",
+    "ezekiel 24:13",
+    "hosea 6:9",
+    "isaiah 32:7",
+    "jeremiah 13:27",
+    "job 17:11",
+    "job 31:11",
+    "judges 20:6",
+    "leviticus 18:17",
+    "leviticus 19:29",
+    "leviticus 20:14",
+    "proverbs 10:23",
+    "proverbs 21:27",
+    "proverbs 24:9",
+    "psalms 119:150",
+    "psalms 26:10"
+  ]
 }

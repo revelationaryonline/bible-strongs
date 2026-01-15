@@ -34,5 +34,10 @@
     "tr": "{doğrusu, bir anne (yani ölçü birimi veya ön kol (dirseğin altı), yani bir kübit; ayrıca bir kapı tabanı (girişin bir bağı olarak)}",
     "uk": "{правильно, матір (тобто одиниця виміру, або передпліччя (нижче ліктя), тобто лікоть; також дверна основа (як зв'язка входу)}",
     "zh": "{\"母\"（即度量单位，或前臂（肘部以下），即一立方厘米；也指门基（作为入口的纽带）}。"
-  }
+  },
+  "hebrew": "אַמָּה",
+  "verses": [
+    "daniel 3:1",
+    "ezra 6:3"
+  ]
 }

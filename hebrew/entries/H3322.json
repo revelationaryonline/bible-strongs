@@ -34,5 +34,24 @@
     "tr": "kalıcı olarak yerleştirmek için",
     "uk": "розмістити на постійній основі",
     "zh": "永久安置"
-  }
+  },
+  "hebrew": "יָצַג",
+  "verses": [
+    "amos 5:15",
+    "deuteronomy 28:56",
+    "exodus 10:24",
+    "firstChronicles 16:1",
+    "firstSamuel 5:2",
+    "genesis 30:38",
+    "genesis 33:15",
+    "genesis 43:9",
+    "genesis 47:2",
+    "hosea 2:5",
+    "jeremiah 51:34",
+    "job 17:6",
+    "judges 6:37",
+    "judges 7:5",
+    "judges 8:27",
+    "secondSamuel 6:17"
+  ]
 }

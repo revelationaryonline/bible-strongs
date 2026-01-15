@@ -34,5 +34,23 @@
     "tr": "bir rezervuar (develerin dinlenme yeri olarak diz çöktüğü)",
     "uk": "водойма (біля якої верблюди стають на коліна як місце відпочинку)",
     "zh": "蓄水池"
-  }
+  },
+  "hebrew": "בְּרֵכָה",
+  "verses": [
+    "ecclesiastes 2:6",
+    "firstKings 22:38",
+    "isaiah 22:11",
+    "isaiah 22:9",
+    "isaiah 36:2",
+    "isaiah 7:3",
+    "nahum 2:9",
+    "nehemiah 2:14",
+    "nehemiah 3:15",
+    "nehemiah 3:16",
+    "secondKings 18:17",
+    "secondKings 20:20",
+    "secondSamuel 2:13",
+    "secondSamuel 4:12",
+    "solomon 7:5"
+  ]
 }

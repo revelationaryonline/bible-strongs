@@ -34,5 +34,10 @@
     "tr": "{bir sebep, takım elbise veya stil}",
     "uk": "{причина, костюм або стиль}",
     "zh": "{一个理由、一套衣服或一种风格}"
-  }
+  },
+  "hebrew": "דִּבְרָה",
+  "verses": [
+    "daniel 2:30",
+    "daniel 4:14"
+  ]
 }

@@ -34,5 +34,15 @@
     "tr": "{yemek (gerçek ya da mecazi anlamda)}",
     "uk": "{їсти (в прямому чи переносному значенні)",
     "zh": "{吃（字面或比喻）}。"
-  }
+  },
+  "hebrew": "אֲכַל",
+  "verses": [
+    "daniel 3:8",
+    "daniel 4:30",
+    "daniel 6:25",
+    "daniel 7:19",
+    "daniel 7:23",
+    "daniel 7:5",
+    "daniel 7:7"
+  ]
 }

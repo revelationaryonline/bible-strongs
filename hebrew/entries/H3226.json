@@ -34,5 +34,14 @@
     "tr": "Jamin, üç İsraillinin adı",
     "uk": "Ямін, ім'я трьох ізраїльтян",
     "zh": "雅明，三个以色列人的名字"
-  }
+  },
+  "hebrew": "יָמִין",
+  "verses": [
+    "exodus 6:15",
+    "firstChronicles 2:27",
+    "firstChronicles 4:24",
+    "genesis 46:10",
+    "nehemiah 8:7",
+    "numbers 26:12"
+  ]
 }

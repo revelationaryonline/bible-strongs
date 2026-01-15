@@ -34,5 +34,28 @@
     "tr": "reddetmek, vazgeçmek, başarısız olmak",
     "uk": "відкидати, залишати, зазнавати невдачі",
     "zh": "摒弃、抛弃、失败"
-  }
+  },
+  "hebrew": "זָנַח",
+  "verses": [
+    "firstChronicles 28:9",
+    "hosea 8:3",
+    "hosea 8:5",
+    "isaiah 19:6",
+    "lamentations 2:7",
+    "lamentations 3:17",
+    "lamentations 3:31",
+    "psalms 108:12",
+    "psalms 43:2",
+    "psalms 44:10",
+    "psalms 44:24",
+    "psalms 60:12",
+    "psalms 60:3",
+    "psalms 74:1",
+    "psalms 77:8",
+    "psalms 88:15",
+    "psalms 89:39",
+    "secondChronicles 11:14",
+    "secondChronicles 29:19",
+    "zechariah 10:6"
+  ]
 }

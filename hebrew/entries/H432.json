@@ -34,5 +34,10 @@
     "tr": "hayır, yani (yumuşatılmış) eğer",
     "uk": "ні, тобто (пом'якшено) якщо",
     "zh": "不，即（软化）如果"
-  }
+  },
+  "hebrew": "אִלּוּ",
+  "verses": [
+    "ecclesiastes 6:6",
+    "esther 7:4"
+  ]
 }

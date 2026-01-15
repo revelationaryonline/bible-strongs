@@ -34,5 +34,12 @@
     "tr": "Ararat (ya da daha doğrusu Ermenistan)",
     "uk": "Арарат (точніше, Вірменія)",
     "zh": "亚美尼亚"
-  }
+  },
+  "hebrew": "אֲרָרַט",
+  "verses": [
+    "genesis 8:4",
+    "isaiah 37:38",
+    "jeremiah 51:27",
+    "secondKings 19:37"
+  ]
 }

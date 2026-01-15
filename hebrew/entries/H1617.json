@@ -34,5 +34,17 @@
     "tr": "Gera, altı İsraillinin adı",
     "uk": "Гера, ім'я шести ізраїльтян",
     "zh": "吉拉，六个以色列人的名字"
-  }
+  },
+  "hebrew": "גֵּרָא",
+  "verses": [
+    "firstChronicles 8:3",
+    "firstChronicles 8:5",
+    "firstChronicles 8:7",
+    "firstKings 2:8",
+    "genesis 46:21",
+    "judges 3:15",
+    "secondSamuel 16:5",
+    "secondSamuel 19:17",
+    "secondSamuel 19:19"
+  ]
 }

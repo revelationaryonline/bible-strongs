@@ -34,5 +34,13 @@
     "tr": "Chashum, iki ya da üç İsraillinin adı",
     "uk": "Хашум, ім'я двох чи трьох ізраїльтян",
     "zh": "查舒姆，两三个以色列人的名字"
-  }
+  },
+  "hebrew": "חָשֻׁם",
+  "verses": [
+    "ezra 10:33",
+    "ezra 2:19",
+    "nehemiah 10:19",
+    "nehemiah 7:22",
+    "nehemiah 8:4"
+  ]
 }

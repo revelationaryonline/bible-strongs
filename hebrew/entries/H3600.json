@@ -34,5 +34,9 @@
     "tr": "bir pişirme aralığı (kazanın yerleştirildiği iki paralel taştan oluşan)",
     "uk": "варильна поверхня (складається з двох паралельних каменів, на яких встановлений котел)",
     "zh": "灶台"
-  }
+  },
+  "hebrew": "כִּיר",
+  "verses": [
+    "leviticus 11:35"
+  ]
 }

@@ -34,5 +34,16 @@
     "tr": "{bir koleksiyon, yani kişiler topluluğu}",
     "uk": "{колектив, тобто спільнота людей}",
     "zh": "{一个集合，即人的群体}。"
-  }
+  },
+  "hebrew": "אֻמָּה",
+  "verses": [
+    "daniel 3:29",
+    "daniel 3:31",
+    "daniel 3:4",
+    "daniel 3:7",
+    "daniel 5:19",
+    "daniel 6:26",
+    "daniel 7:14",
+    "ezra 4:10"
+  ]
 }

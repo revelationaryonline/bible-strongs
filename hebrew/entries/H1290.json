@@ -34,5 +34,33 @@
     "tr": "bir diz",
     "uk": "коліно",
     "zh": "膝关节"
-  }
+  },
+  "hebrew": "בֶּרֶךְ",
+  "verses": [
+    "daniel 10:10",
+    "deuteronomy 28:35",
+    "ezekiel 21:12",
+    "ezekiel 47:4",
+    "ezekiel 7:17",
+    "ezra 9:5",
+    "firstKings 18:42",
+    "firstKings 19:18",
+    "firstKings 8:54",
+    "genesis 30:3",
+    "genesis 48:12",
+    "genesis 50:23",
+    "isaiah 35:3",
+    "isaiah 45:23",
+    "isaiah 66:12",
+    "job 3:12",
+    "job 4:4",
+    "judges 16:19",
+    "judges 7:5",
+    "judges 7:6",
+    "nahum 2:11",
+    "psalms 109:24",
+    "secondChronicles 6:13",
+    "secondKings 1:13",
+    "secondKings 4:20"
+  ]
 }

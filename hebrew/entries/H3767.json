@@ -35,5 +35,16 @@
     "tr": "erkeklerin veya çekirgelerin bacakları (dizden ayak bileğine kadar) (sadece ikilide)",
     "uk": "нога (від коліна до щиколотки) людини або сарани (тільки в дуалі)",
     "zh": "人或蝗虫的腿（从膝盖到脚踝）（仅在双人中）"
-  }
+  },
+  "verses": [
+    "amos 3:12",
+    "exodus 12:9",
+    "exodus 29:17",
+    "leviticus 11:21",
+    "leviticus 1:13",
+    "leviticus 1:9",
+    "leviticus 4:11",
+    "leviticus 8:21",
+    "leviticus 9:14"
+  ]
 }

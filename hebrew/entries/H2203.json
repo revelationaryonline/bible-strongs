@@ -34,5 +34,10 @@
     "tr": "asfalt (güneşte yumuşama eğiliminden dolayı)",
     "uk": "асфальт (через його схильність до розм'якшення на сонці)",
     "zh": "沥青（在阳光下易软化）"
-  }
+  },
+  "hebrew": "זֶפֶת",
+  "verses": [
+    "exodus 2:3",
+    "isaiah 34:9"
+  ]
 }

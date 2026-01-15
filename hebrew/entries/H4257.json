@@ -35,5 +35,9 @@
     "tr": "'Machalath', muhtemelen popüler bir şarkının başlığı (ilk kelimesi)",
     "uk": "\"Machalath\", ймовірно, назва (початкове слово) популярної пісні",
     "zh": "Machalath\"，可能是一首流行歌曲的歌名（首字母）。"
-  }
+  },
+  "verses": [
+    "psalms 53:1",
+    "psalms 88:1"
+  ]
 }

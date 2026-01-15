@@ -34,5 +34,10 @@
     "tr": "{bir deniz (gürültülü dalgalar halinde kırılan) veya büyük bir su kütlesi; özellikle (artikel ile) Akdeniz; bazen büyük bir nehir veya yapay bir havza; yerel olarak batı veya (nadiren) güney}",
     "uk": "{море (як розбите шумним прибоєм) або велика водойма; зокрема (з артиклем), Середземне море; іноді велика річка або штучний басейн; локально, захід, або (рідко) південь}",
     "zh": "{海（在喧闹的海浪中破碎）或大型水体；特别是（带冠词的）地中海；有时是一条大河或一个人造盆地；当地指西部或（很少）南部}。"
-  }
+  },
+  "hebrew": "יָם",
+  "verses": [
+    "daniel 7:2",
+    "daniel 7:3"
+  ]
 }

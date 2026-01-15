@@ -34,5 +34,36 @@
     "tr": "{vermek (gerçek ya da mecazi); genellikle koymak; zorunlu olarak (dönüşlü) gelmek}",
     "uk": "{давати (у прямому чи переносному значенні); загалом, ставити; наказово (рефлекторно) приходити}",
     "zh": "{给予（不管是字面的还是比喻的）；一般是指：\"把\"；命令式（反身式）\"来\"}。"
-  }
+  },
+  "hebrew": "יְהַב",
+  "verses": [
+    "daniel 2:21",
+    "daniel 2:23",
+    "daniel 2:37",
+    "daniel 2:38",
+    "daniel 2:48",
+    "daniel 3:28",
+    "daniel 4:13",
+    "daniel 5:17",
+    "daniel 5:18",
+    "daniel 5:19",
+    "daniel 5:28",
+    "daniel 6:3",
+    "daniel 7:11",
+    "daniel 7:12",
+    "daniel 7:14",
+    "daniel 7:22",
+    "daniel 7:25",
+    "daniel 7:27",
+    "daniel 7:4",
+    "daniel 7:6",
+    "ezra 4:20",
+    "ezra 5:12",
+    "ezra 5:14",
+    "ezra 5:16",
+    "ezra 6:4",
+    "ezra 6:8",
+    "ezra 6:9",
+    "ezra 7:19"
+  ]
 }

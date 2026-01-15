@@ -34,5 +34,15 @@
     "tr": "şu ya da bu",
     "uk": "те чи інше",
     "zh": "诸如此类"
-  }
+  },
+  "hebrew": "הַלָּז",
+  "verses": [
+    "daniel 8:16",
+    "firstSamuel 14:1",
+    "firstSamuel 17:26",
+    "judges 6:20",
+    "secondKings 23:17",
+    "secondKings 4:25",
+    "zechariah 2:8"
+  ]
 }

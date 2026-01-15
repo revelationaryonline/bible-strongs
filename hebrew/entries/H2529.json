@@ -34,5 +34,17 @@
     "tr": "kesilmiş süt veya peynir",
     "uk": "згорнуте молоко або сир",
     "zh": "酪"
-  }
+  },
+  "hebrew": "חֶמְאָה",
+  "verses": [
+    "deuteronomy 32:14",
+    "genesis 18:8",
+    "isaiah 7:15",
+    "isaiah 7:22",
+    "job 20:17",
+    "job 29:6",
+    "judges 5:25",
+    "proverbs 30:33",
+    "secondSamuel 17:29"
+  ]
 }

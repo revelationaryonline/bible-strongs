@@ -34,5 +34,15 @@
     "tr": "kefaret (sadece çoğul olarak)",
     "uk": "спокута (тільки у множині)",
     "zh": "祛除（只有复数）"
-  }
+  },
+  "hebrew": "כִּפֻּר",
+  "verses": [
+    "exodus 29:36",
+    "exodus 30:10",
+    "leviticus 23:27",
+    "leviticus 23:28",
+    "leviticus 25:9",
+    "numbers 29:11",
+    "numbers 5:8"
+  ]
 }

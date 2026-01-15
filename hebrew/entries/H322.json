@@ -34,5 +34,14 @@
     "tr": "geriye doğru",
     "uk": "назад",
     "zh": "后退"
-  }
+  },
+  "hebrew": "אֲחֹרַנִּית",
+  "verses": [
+    "firstKings 18:37",
+    "firstSamuel 4:18",
+    "genesis 9:23",
+    "isaiah 38:8",
+    "secondKings 20:10",
+    "secondKings 20:11"
+  ]
 }

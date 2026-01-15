@@ -34,5 +34,12 @@
     "tr": "aramice'de (sadece zarf)",
     "uk": "(тільки прислівник) арамейською мовою",
     "zh": "(阿拉姆语"
-  }
+  },
+  "hebrew": "אֲרָמִית",
+  "verses": [
+    "daniel 2:4",
+    "ezra 4:7",
+    "isaiah 36:11",
+    "secondKings 18:26"
+  ]
 }

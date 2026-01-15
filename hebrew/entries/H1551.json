@@ -34,5 +34,14 @@
     "tr": "Filistin'in kuzeyinde Galil (özel bir devre olarak)",
     "uk": "Галіль (як спеціальна траса) на півночі Палестини",
     "zh": "巴勒斯坦北部的加利勒（特别赛道"
-  }
+  },
+  "hebrew": "גָּלִיל",
+  "verses": [
+    "firstChronicles 6:61",
+    "firstKings 9:11",
+    "isaiah 8:23",
+    "joshua 20:7",
+    "joshua 21:32",
+    "secondKings 15:29"
+  ]
 }

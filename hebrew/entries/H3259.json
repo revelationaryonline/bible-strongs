@@ -34,5 +34,37 @@
     "tr": "(anlaşma veya atama yoluyla) kararlaştırmak; ima yoluyla, (belirli bir zamanda) buluşmak, (duruşmaya) çağırmak, (belirli bir mahalle veya konuma) yönlendirmek, (evlilik için) nişanlanmak",
     "uk": "призначати (за домовленістю або призначенням); неявно, зустрічатися (у визначений час), викликати (до суду), спрямовувати (у певний квартал або на певну посаду), заручатися (до шлюбу)",
     "zh": "确定（通过协议或任命）；暗指（在规定的时间）会面、传唤（审判）、指示（在某一地区或位置）、订婚"
-  }
+  },
+  "hebrew": "יָעַד",
+  "verses": [
+    "amos 3:3",
+    "exodus 21:8",
+    "exodus 21:9",
+    "exodus 25:22",
+    "exodus 29:42",
+    "exodus 29:43",
+    "exodus 30:36",
+    "exodus 30:6",
+    "ezekiel 21:21",
+    "firstKings 8:5",
+    "jeremiah 24:1",
+    "jeremiah 47:7",
+    "jeremiah 49:19",
+    "jeremiah 50:44",
+    "job 2:11",
+    "job 9:19",
+    "joshua 11:5",
+    "micah 6:9",
+    "nehemiah 6:10",
+    "nehemiah 6:2",
+    "numbers 10:3",
+    "numbers 10:4",
+    "numbers 14:35",
+    "numbers 16:11",
+    "numbers 17:19",
+    "numbers 27:3",
+    "psalms 48:5",
+    "secondChronicles 5:6",
+    "secondSamuel 20:5"
+  ]
 }

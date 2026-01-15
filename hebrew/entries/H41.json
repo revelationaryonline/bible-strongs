@@ -34,5 +34,19 @@
     "tr": "Abinadab, dört İsraillinin adı",
     "uk": "Авінадаб, ім'я чотирьох ізраїльтян",
     "zh": "亚比拿达，四个以色列人的名字"
-  }
+  },
+  "hebrew": "אֲבִינָדָב",
+  "verses": [
+    "firstChronicles 10:2",
+    "firstChronicles 13:7",
+    "firstChronicles 2:13",
+    "firstChronicles 8:33",
+    "firstChronicles 9:39",
+    "firstSamuel 16:8",
+    "firstSamuel 17:13",
+    "firstSamuel 31:2",
+    "firstSamuel 7:1",
+    "secondSamuel 6:3",
+    "secondSamuel 6:4"
+  ]
 }

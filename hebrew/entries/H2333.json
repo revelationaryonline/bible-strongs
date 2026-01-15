@@ -34,5 +34,12 @@
     "tr": "ima yoluyla, bir kamp veya köy",
     "uk": "підтекстом - табір або село",
     "zh": "屯子"
-  }
+  },
+  "hebrew": "חַוָּה",
+  "verses": [
+    "firstChronicles 2:23",
+    "firstKings 4:13",
+    "joshua 13:30",
+    "numbers 32:41"
+  ]
 }

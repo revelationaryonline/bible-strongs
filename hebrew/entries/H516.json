@@ -34,5 +34,12 @@
     "tr": "'Yok etmemelisin'; muhtemelen popüler bir şarkının açılış sözleri",
     "uk": "\"Ти не повинен руйнувати\" - ймовірно, це початкові слова популярної пісні",
     "zh": "你不能破坏\"；可能是一首流行歌曲的开头语"
-  }
+  },
+  "hebrew": "אַל תַּשְׁחֵת",
+  "verses": [
+    "psalms 57:1",
+    "psalms 58:1",
+    "psalms 59:1",
+    "psalms 75:1"
+  ]
 }

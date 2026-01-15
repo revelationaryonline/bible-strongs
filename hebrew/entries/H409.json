@@ -34,5 +34,11 @@
     "tr": "{değil (nitelikli olumsuzluk, küçümseyici olarak kullanılır); bir kez (Eyüp 24:25) isim olarak, hiçbir şey}",
     "uk": "{не (кваліфіковане заперечення, використовується як депресивний зворот); колись (Йова 24:25) як іменник, ніщо}",
     "zh": "{不是（限定的否定，用作贬义词）；曾经（约伯记 24:25）作为名词，什么都不是}。"
-  }
+  },
+  "hebrew": "אַל",
+  "verses": [
+    "daniel 2:24",
+    "daniel 4:16",
+    "daniel 5:10"
+  ]
 }

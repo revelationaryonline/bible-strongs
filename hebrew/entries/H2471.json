@@ -34,5 +34,19 @@
     "tr": "bir kek (genellikle delinmiş olarak)",
     "uk": "торт (як зазвичай проколотий)",
     "zh": "饼"
-  }
+  },
+  "hebrew": "חַלָּה",
+  "verses": [
+    "exodus 29:2",
+    "exodus 29:23",
+    "leviticus 24:5",
+    "leviticus 2:4",
+    "leviticus 7:12",
+    "leviticus 7:13",
+    "leviticus 8:26",
+    "numbers 15:20",
+    "numbers 6:15",
+    "numbers 6:19",
+    "secondSamuel 6:19"
+  ]
 }

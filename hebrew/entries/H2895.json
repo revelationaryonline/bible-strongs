@@ -34,5 +34,32 @@
     "tr": "en geniş anlamda iyi (veya iyi) olmak (geçişli olarak, yapmak veya yapmak)",
     "uk": "бути (транзитивно, робити або робити) добрим (або добре) у найширшому сенсі",
     "zh": "好"
-  }
+  },
+  "hebrew": "טוֹב",
+  "verses": [
+    "deuteronomy 15:16",
+    "deuteronomy 5:33",
+    "esther 1:19",
+    "esther 3:9",
+    "esther 5:4",
+    "esther 5:8",
+    "esther 7:3",
+    "ezekiel 33:32",
+    "ezekiel 36:11",
+    "firstChronicles 13:2",
+    "firstKings 8:18",
+    "firstSamuel 16:16",
+    "firstSamuel 16:23",
+    "jeremiah 32:41",
+    "nehemiah 2:5",
+    "nehemiah 2:7",
+    "numbers 11:18",
+    "numbers 24:1",
+    "numbers 24:5",
+    "psalms 119:68",
+    "psalms 125:4",
+    "secondChronicles 6:8",
+    "secondKings 10:30",
+    "solomon 4:10"
+  ]
 }

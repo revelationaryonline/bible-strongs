@@ -34,5 +34,30 @@
     "tr": "sözle (yalan söylemek, taklit etmek, reddetmek) veya eylemle (hayal kırıklığına uğratmak, başarısız olmak, yaltaklanmak) gerçek dışı olmak",
     "uk": "бути неправдивим, словом (брехати, прикидатися, відхрещуватися) або ділом (розчаровувати, провалюватися, кривити душею)",
     "zh": "言不由衷（说谎、假装、不承认）或言行不一（失望、失败、畏缩）"
-  }
+  },
+  "hebrew": "כָּחַשׁ",
+  "verses": [
+    "deuteronomy 33:29",
+    "firstKings 13:18",
+    "genesis 18:15",
+    "habakkuk 3:17",
+    "hosea 4:2",
+    "hosea 9:2",
+    "isaiah 59:13",
+    "jeremiah 5:12",
+    "job 31:28",
+    "job 8:18",
+    "joshua 24:27",
+    "joshua 7:11",
+    "leviticus 19:11",
+    "leviticus 5:21",
+    "leviticus 5:22",
+    "proverbs 30:9",
+    "psalms 109:24",
+    "psalms 18:45",
+    "psalms 66:3",
+    "psalms 81:16",
+    "secondSamuel 22:45",
+    "zechariah 13:4"
+  ]
 }

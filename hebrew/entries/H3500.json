@@ -34,5 +34,16 @@
     "tr": "Jether, beş ya da altı İsraillinin ve bir Midyanlının adı",
     "uk": "Джетер, ім'я п'яти чи шести ізраїльтян і одного мідіянина",
     "zh": "约特，五六个以色列人和一个米甸人的名字"
-  }
+  },
+  "hebrew": "יֶתֶר",
+  "verses": [
+    "exodus 4:18",
+    "firstChronicles 2:17",
+    "firstChronicles 2:32",
+    "firstChronicles 4:17",
+    "firstChronicles 7:38",
+    "firstKings 2:32",
+    "firstKings 2:5",
+    "judges 8:20"
+  ]
 }

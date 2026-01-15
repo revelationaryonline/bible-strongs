@@ -34,5 +34,11 @@
     "tr": "Muz, dört İsraillinin adı",
     "uk": "Банан, ім'я чотирьох ізраїльських",
     "zh": "香蕉，四个以色列人的名字"
-  }
+  },
+  "hebrew": "בַּעֲנָא",
+  "verses": [
+    "firstKings 4:12",
+    "firstKings 4:16",
+    "nehemiah 3:4"
+  ]
 }

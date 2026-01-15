@@ -34,5 +34,14 @@
     "tr": "Eşkol, bir Amorlu'nun adı, ayrıca Filistin'de bir vadinin adı",
     "uk": "Ешкол, ім'я аморея, а також назва долини в Палестині",
     "zh": "埃什科尔，一个亚摩利人的名字，也是巴勒斯坦一个山谷的名字"
-  }
+  },
+  "hebrew": "אֶשְׁכֹּל",
+  "verses": [
+    "deuteronomy 1:24",
+    "genesis 14:13",
+    "genesis 14:24",
+    "numbers 13:23",
+    "numbers 13:24",
+    "numbers 32:9"
+  ]
 }

@@ -34,5 +34,30 @@
     "tr": "Jochanan, dokuz İsraillinin adı",
     "uk": "Йоханан, ім'я дев'яти ізраїльтян",
     "zh": "约迦南，九个以色列人的名字"
-  }
+  },
+  "hebrew": "יוֹחָנָן",
+  "verses": [
+    "ezra 8:12",
+    "firstChronicles 3:15",
+    "firstChronicles 3:24",
+    "firstChronicles 5:35",
+    "firstChronicles 5:36",
+    "jeremiah 40:13",
+    "jeremiah 40:15",
+    "jeremiah 40:16",
+    "jeremiah 40:8",
+    "jeremiah 41:11",
+    "jeremiah 41:13",
+    "jeremiah 41:14",
+    "jeremiah 41:15",
+    "jeremiah 41:16",
+    "jeremiah 42:1",
+    "jeremiah 42:8",
+    "jeremiah 43:2",
+    "jeremiah 43:4",
+    "jeremiah 43:5",
+    "nehemiah 12:22",
+    "nehemiah 12:23",
+    "secondKings 25:23"
+  ]
 }

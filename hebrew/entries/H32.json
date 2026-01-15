@@ -34,5 +34,14 @@
     "tr": "Abihail ya da Abichail, üç İsrailli ve iki İsrailli kadının adı",
     "uk": "Авіхаїл або Авіхаїл, ім'я трьох ізраїльтян і двох ізраїльтянок",
     "zh": "亚比筛，三个以色列人和两个以色列女人的名字"
-  }
+  },
+  "hebrew": "אֲבִיהַיִל",
+  "verses": [
+    "esther 2:15",
+    "esther 9:29",
+    "firstChronicles 2:29",
+    "firstChronicles 5:14",
+    "numbers 3:35",
+    "secondChronicles 11:18"
+  ]
 }

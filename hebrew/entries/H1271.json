@@ -34,5 +34,18 @@
     "tr": "Barzillai, üç İsraillinin adı",
     "uk": "Барзілай, ім'я трьох ізраїльтян",
     "zh": "巴齐莱，三个以色列人的名字"
-  }
+  },
+  "hebrew": "בַּרְזִלַּי",
+  "verses": [
+    "ezra 2:61",
+    "firstKings 2:7",
+    "nehemiah 7:63",
+    "secondSamuel 17:27",
+    "secondSamuel 19:32",
+    "secondSamuel 19:33",
+    "secondSamuel 19:34",
+    "secondSamuel 19:35",
+    "secondSamuel 19:40",
+    "secondSamuel 21:8"
+  ]
 }

@@ -34,5 +34,27 @@
     "tr": "bir hin veya sıvı ölçüsü",
     "uk": "хін або рідка міра",
     "zh": "斛"
-  }
+  },
+  "hebrew": "הִין",
+  "verses": [
+    "exodus 29:40",
+    "exodus 30:24",
+    "ezekiel 45:24",
+    "ezekiel 46:11",
+    "ezekiel 46:14",
+    "ezekiel 46:5",
+    "ezekiel 46:7",
+    "ezekiel 4:11",
+    "leviticus 19:36",
+    "leviticus 23:13",
+    "numbers 15:10",
+    "numbers 15:4",
+    "numbers 15:5",
+    "numbers 15:6",
+    "numbers 15:7",
+    "numbers 15:9",
+    "numbers 28:14",
+    "numbers 28:5",
+    "numbers 28:7"
+  ]
 }

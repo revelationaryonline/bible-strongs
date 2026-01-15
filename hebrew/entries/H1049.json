@@ -34,5 +34,12 @@
     "tr": "Beth-Tsur, Filistin'de bir yer",
     "uk": "Бет-Цур, місце в Палестині",
     "zh": "贝瑟尔"
-  }
+  },
+  "hebrew": "בֵּית צוּר",
+  "verses": [
+    "firstChronicles 2:45",
+    "joshua 15:58",
+    "nehemiah 3:16",
+    "secondChronicles 11:7"
+  ]
 }

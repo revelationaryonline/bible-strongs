@@ -34,5 +34,19 @@
     "tr": "Yehohanan, sekiz İsraillinin adı",
     "uk": "Єгоханан, ім'я восьми ізраїльтян",
     "zh": "耶和查南，八个以色列人的名字"
-  }
+  },
+  "hebrew": "יְהוֹחָנָן",
+  "verses": [
+    "ezra 10:28",
+    "ezra 10:6",
+    "firstChronicles 12:13",
+    "firstChronicles 12:5",
+    "firstChronicles 26:3",
+    "nehemiah 12:13",
+    "nehemiah 12:42",
+    "nehemiah 6:18",
+    "secondChronicles 17:15",
+    "secondChronicles 23:1",
+    "secondChronicles 28:12"
+  ]
 }

@@ -34,5 +34,37 @@
     "tr": "tanıdık; bir arkadaş, aynı zamanda nazik; dolayısıyla, bir boğa (evcil olarak; eril olmasına rağmen bir ineğe uygulanır); ve böylece, bir reis (düzgün sığırlar gibi dikkate değer olarak)",
     "uk": "знайомий; друг, також лагідний; отже, бичок (як ручний; застосовується, хоча й чоловічого роду, до корови); і так, отаман (як визначний, як охайна худоба)",
     "zh": "熟悉的；朋友，也指温顺的；因此指犍牛（因为温顺；虽然是阳性，但也指母牛）；因此指酋长（因为引人注目，就像整齐的牛一样）。"
-  }
+  },
+  "hebrew": "אַלּוּף",
+  "verses": [
+    "exodus 15:15",
+    "firstChronicles 1:51",
+    "firstChronicles 1:52",
+    "firstChronicles 1:53",
+    "firstChronicles 1:54",
+    "genesis 36:15",
+    "genesis 36:16",
+    "genesis 36:17",
+    "genesis 36:18",
+    "genesis 36:19",
+    "genesis 36:21",
+    "genesis 36:29",
+    "genesis 36:30",
+    "genesis 36:40",
+    "genesis 36:41",
+    "genesis 36:42",
+    "genesis 36:43",
+    "jeremiah 11:19",
+    "jeremiah 13:21",
+    "jeremiah 3:4",
+    "micah 7:5",
+    "proverbs 16:28",
+    "proverbs 17:9",
+    "proverbs 2:17",
+    "psalms 144:14",
+    "psalms 55:14",
+    "zechariah 12:5",
+    "zechariah 12:6",
+    "zechariah 9:7"
+  ]
 }

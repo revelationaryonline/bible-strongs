@@ -34,5 +34,9 @@
     "tr": "Bul, sekizinci İbrani ayı",
     "uk": "Бул, восьмий єврейський місяць",
     "zh": "布拉，希伯来文第八个月"
-  }
+  },
+  "hebrew": "בּוּל",
+  "verses": [
+    "firstKings 6:38"
+  ]
 }

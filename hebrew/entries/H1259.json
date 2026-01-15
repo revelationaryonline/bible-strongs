@@ -34,5 +34,34 @@
     "tr": "dolu",
     "uk": "град",
     "zh": "冰雹"
-  }
+  },
+  "hebrew": "בָּרָד",
+  "verses": [
+    "exodus 10:12",
+    "exodus 10:15",
+    "exodus 10:5",
+    "exodus 9:18",
+    "exodus 9:19",
+    "exodus 9:22",
+    "exodus 9:23",
+    "exodus 9:24",
+    "exodus 9:25",
+    "exodus 9:26",
+    "exodus 9:28",
+    "exodus 9:29",
+    "exodus 9:33",
+    "exodus 9:34",
+    "haggai 2:17",
+    "isaiah 28:17",
+    "isaiah 28:2",
+    "isaiah 30:30",
+    "job 38:22",
+    "joshua 10:11",
+    "psalms 105:32",
+    "psalms 148:8",
+    "psalms 18:13",
+    "psalms 18:14",
+    "psalms 78:47",
+    "psalms 78:48"
+  ]
 }

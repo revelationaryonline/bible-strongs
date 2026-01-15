@@ -34,5 +34,14 @@
     "tr": "yahudi (zarf olarak kullanılan) dili",
     "uk": "єврейська (вживається прислівниково) мова",
     "zh": "犹太语"
-  }
+  },
+  "hebrew": "יְהוּדִית",
+  "verses": [
+    "isaiah 36:11",
+    "isaiah 36:13",
+    "nehemiah 13:24",
+    "secondChronicles 32:18",
+    "secondKings 18:26",
+    "secondKings 18:28"
+  ]
 }

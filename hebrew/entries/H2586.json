@@ -34,5 +34,18 @@
     "tr": "Şanun, bir Ammonlu ve iki İsraillinin adı",
     "uk": "Ханун, ім'я аммонітянина та двох ізраїльтян",
     "zh": "查农，一个亚扪人和两个以色列人的名字"
-  }
+  },
+  "hebrew": "חָנוּן",
+  "verses": [
+    "firstChronicles 19:2",
+    "firstChronicles 19:3",
+    "firstChronicles 19:4",
+    "firstChronicles 19:6",
+    "nehemiah 3:13",
+    "nehemiah 3:30",
+    "secondSamuel 10:1",
+    "secondSamuel 10:2",
+    "secondSamuel 10:3",
+    "secondSamuel 10:4"
+  ]
 }

@@ -34,5 +34,17 @@
     "tr": "Betsalel, iki İsraillinin adı",
     "uk": "Бецалель, ім'я двох ізраїльтян",
     "zh": "贝沙勒，两个以色列人的名字"
-  }
+  },
+  "hebrew": "בְּצַלְאֵל",
+  "verses": [
+    "exodus 31:2",
+    "exodus 35:30",
+    "exodus 36:1",
+    "exodus 36:2",
+    "exodus 37:1",
+    "exodus 38:22",
+    "ezra 10:30",
+    "firstChronicles 2:20",
+    "secondChronicles 1:5"
+  ]
 }

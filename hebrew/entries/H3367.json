@@ -34,5 +34,15 @@
     "tr": "{değer, yani (somut olarak) zenginlik; soyut olarak, pahalılık, saygınlık}",
     "uk": "{цінність, тобто (конкретно) багатство; абстрактно - дорожнеча, гідність}",
     "zh": "{价值，即（具体地说）财富；抽象地说，成本、尊严}。"
-  }
+  },
+  "hebrew": "יְקָר",
+  "verses": [
+    "daniel 2:37",
+    "daniel 2:6",
+    "daniel 4:27",
+    "daniel 4:33",
+    "daniel 5:18",
+    "daniel 5:20",
+    "daniel 7:14"
+  ]
 }

@@ -34,5 +34,12 @@
     "tr": "Jishvi, iki İsraillinin adı",
     "uk": "Їшві, ім'я двох ізраїльтян",
     "zh": "吉什维，两个以色列人的名字"
-  }
+  },
+  "hebrew": "יִשְׁוִי",
+  "verses": [
+    "firstChronicles 7:30",
+    "firstSamuel 14:49",
+    "genesis 46:17",
+    "numbers 26:44"
+  ]
 }

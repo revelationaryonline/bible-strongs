@@ -34,5 +34,17 @@
     "tr": "Çeper, Filistin'de bir yer; ayrıca üç İsraillinin adı",
     "uk": "Хефер, місцевість у Палестині; також ім'я трьох ізраїльтян",
     "zh": "谢弗，巴勒斯坦的一个地方；也是三个以色列人的名字"
-  }
+  },
+  "hebrew": "חֵפֶר",
+  "verses": [
+    "firstChronicles 11:36",
+    "firstChronicles 4:6",
+    "firstKings 4:10",
+    "joshua 12:17",
+    "joshua 17:2",
+    "joshua 17:3",
+    "numbers 26:32",
+    "numbers 26:33",
+    "numbers 27:1"
+  ]
 }

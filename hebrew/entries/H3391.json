@@ -34,5 +34,21 @@
     "tr": "bir lunation, yani ay",
     "uk": "лунація, тобто місяць",
     "zh": "月轮"
-  }
+  },
+  "hebrew": "יֶרַח",
+  "verses": [
+    "deuteronomy 21:13",
+    "deuteronomy 33:14",
+    "exodus 2:2",
+    "firstKings 6:37",
+    "firstKings 6:38",
+    "firstKings 8:2",
+    "isaiah 60:20",
+    "job 29:2",
+    "job 39:2",
+    "job 3:6",
+    "job 7:3",
+    "secondKings 15:13",
+    "zechariah 11:8"
+  ]
 }

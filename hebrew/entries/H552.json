@@ -34,5 +34,13 @@
     "tr": "{verily}",
     "uk": "{Істинно.}",
     "zh": "{verily}{verily}{verily}{verily}"
-  }
+  },
+  "hebrew": "אֻמְנָם",
+  "verses": [
+    "firstKings 8:27",
+    "genesis 18:13",
+    "numbers 22:37",
+    "psalms 58:2",
+    "secondChronicles 6:18"
+  ]
 }

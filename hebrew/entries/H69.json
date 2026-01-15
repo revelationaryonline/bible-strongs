@@ -34,5 +34,16 @@
     "tr": "{bir taş}",
     "uk": "{Камінь.}",
     "zh": "{一块石头｝"
-  }
+  },
+  "hebrew": "אֶבֶן",
+  "verses": [
+    "daniel 2:34",
+    "daniel 2:35",
+    "daniel 2:45",
+    "daniel 5:23",
+    "daniel 5:4",
+    "daniel 6:18",
+    "ezra 5:8",
+    "ezra 6:4"
+  ]
 }

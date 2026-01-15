@@ -34,5 +34,12 @@
     "tr": "Bukki, iki İsraillinin adı",
     "uk": "Буккі, ім'я двох ізраїльтян",
     "zh": "布基，两个以色列人的名字"
-  }
+  },
+  "hebrew": "בֻּקִּי",
+  "verses": [
+    "ezra 7:4",
+    "firstChronicles 5:31",
+    "firstChronicles 6:36",
+    "numbers 34:22"
+  ]
 }

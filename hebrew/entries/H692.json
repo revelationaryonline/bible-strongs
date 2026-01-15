@@ -34,5 +34,10 @@
     "tr": "Areli (ya da topluca Arelit), bir İsrailli ve onun soyundan gelenler",
     "uk": "Арелі (або ареліти, збірно), ізраїльтянин та його нащадки",
     "zh": "阿雷利（或统称阿雷利人），以色列人及其后裔"
-  }
+  },
+  "hebrew": "אַרְאֵלִי",
+  "verses": [
+    "genesis 46:16",
+    "numbers 26:17"
+  ]
 }

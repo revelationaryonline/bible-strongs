@@ -34,5 +34,11 @@
     "tr": "sessiz",
     "uk": "тихо",
     "zh": "安静"
-  }
+  },
+  "hebrew": "דְּמָמָה",
+  "verses": [
+    "firstKings 19:12",
+    "job 4:16",
+    "psalms 107:29"
+  ]
 }

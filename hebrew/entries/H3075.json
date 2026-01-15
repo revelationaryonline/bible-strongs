@@ -34,5 +34,12 @@
     "tr": "Yehozabad, üç İsraillinin adı",
     "uk": "Єгозавад, ім'я трьох ізраїльтян",
     "zh": "耶合撒巴，三个以色列人的名字"
-  }
+  },
+  "hebrew": "יְהוֹזָבָד",
+  "verses": [
+    "firstChronicles 26:4",
+    "secondChronicles 17:18",
+    "secondChronicles 24:26",
+    "secondKings 12:22"
+  ]
 }

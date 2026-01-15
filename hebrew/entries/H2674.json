@@ -34,5 +34,25 @@
     "tr": "Chatsor, Filistin'de iki ve Arabistan'da bir yerin adı (bu nedenle basitçe)",
     "uk": "Чацор - назва двох місць у Палестині та одного в Аравії",
     "zh": "查托尔（Chatsor），巴勒斯坦两个地方和阿拉伯一个地方的名称（因此很简单）。"
-  }
+  },
+  "hebrew": "חָצוֹר",
+  "verses": [
+    "firstKings 9:15",
+    "firstSamuel 12:9",
+    "jeremiah 49:28",
+    "jeremiah 49:30",
+    "jeremiah 49:33",
+    "joshua 11:1",
+    "joshua 11:10",
+    "joshua 11:11",
+    "joshua 11:13",
+    "joshua 12:19",
+    "joshua 15:23",
+    "joshua 15:25",
+    "joshua 19:36",
+    "judges 4:17",
+    "judges 4:2",
+    "nehemiah 11:33",
+    "secondKings 15:29"
+  ]
 }

@@ -34,5 +34,10 @@
     "tr": "Beth-Palet, Filistin'de bir yer",
     "uk": "Бет-Палет, місце в Палестині",
     "zh": "贝思-帕莱特"
-  }
+  },
+  "hebrew": "בֵּית פֶּלֶט",
+  "verses": [
+    "joshua 15:27",
+    "nehemiah 11:26"
+  ]
 }

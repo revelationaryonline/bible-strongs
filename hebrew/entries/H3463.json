@@ -34,5 +34,15 @@
     "tr": "uykulu",
     "uk": "сонний",
     "zh": "想睡"
-  }
+  },
+  "hebrew": "יָשֵׁן",
+  "verses": [
+    "daniel 12:2",
+    "firstKings 18:27",
+    "firstKings 3:20",
+    "firstSamuel 26:7",
+    "hosea 7:6",
+    "psalms 78:65",
+    "solomon 5:2"
+  ]
 }

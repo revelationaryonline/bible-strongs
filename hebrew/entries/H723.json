@@ -34,5 +34,11 @@
     "tr": "bir hayvan için sürü yeri",
     "uk": "місце для випасу тварин",
     "zh": "畜牧场"
-  }
+  },
+  "hebrew": "אֻרְוָה",
+  "verses": [
+    "firstKings 5:6",
+    "secondChronicles 32:28",
+    "secondChronicles 9:25"
+  ]
 }

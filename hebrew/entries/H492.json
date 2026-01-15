@@ -34,5 +34,11 @@
     "tr": "birisi (yani, kişi veya yer adı verilmeden falanca)",
     "uk": "дехто (тобто так і так, без зазначення імені особи чи місця)",
     "zh": "某人"
-  }
+  },
+  "hebrew": "אַלְמֹנִי",
+  "verses": [
+    "firstSamuel 21:3",
+    "ruth 4:1",
+    "secondKings 6:8"
+  ]
 }

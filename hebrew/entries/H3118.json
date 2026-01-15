@@ -34,5 +34,23 @@
     "tr": "bir gün",
     "uk": "в день",
     "zh": "一天"
-  }
+  },
+  "hebrew": "יוֹם",
+  "verses": [
+    "daniel 2:28",
+    "daniel 2:44",
+    "daniel 4:31",
+    "daniel 5:11",
+    "daniel 6:11",
+    "daniel 6:13",
+    "daniel 6:14",
+    "daniel 6:8",
+    "daniel 7:13",
+    "daniel 7:22",
+    "daniel 7:9",
+    "ezra 4:15",
+    "ezra 4:19",
+    "ezra 6:15",
+    "ezra 6:9"
+  ]
 }

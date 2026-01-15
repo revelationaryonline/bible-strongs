@@ -34,5 +34,10 @@
     "tr": "bir kanun, bir karar",
     "uk": "постанова, резолюція",
     "zh": "法规、决议"
-  }
+  },
+  "hebrew": "חֵקֶק",
+  "verses": [
+    "isaiah 10:1",
+    "judges 5:15"
+  ]
 }

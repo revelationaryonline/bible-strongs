@@ -34,5 +34,22 @@
     "tr": "Jechiel (ya da Jechavel), sekiz İsraillinin adı",
     "uk": "Єхіїл (або Єхавель), ім'я восьми ізраїльтян",
     "zh": "耶基勒（或耶查威尔），八个以色列人的名字"
-  }
+  },
+  "hebrew": "יְחִיאֵל",
+  "verses": [
+    "ezra 10:2",
+    "ezra 10:21",
+    "ezra 10:26",
+    "ezra 8:9",
+    "firstChronicles 15:18",
+    "firstChronicles 15:20",
+    "firstChronicles 16:5",
+    "firstChronicles 23:8",
+    "firstChronicles 27:32",
+    "firstChronicles 29:8",
+    "secondChronicles 21:2",
+    "secondChronicles 29:14",
+    "secondChronicles 31:13",
+    "secondChronicles 35:8"
+  ]
 }

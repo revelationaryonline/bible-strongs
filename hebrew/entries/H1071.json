@@ -34,5 +34,12 @@
     "tr": "Beker, iki İsraillinin adı",
     "uk": "Бекер, ім'я двох ізраїльтян",
     "zh": "贝克尔，两个以色列人的名字"
-  }
+  },
+  "hebrew": "בֶכֶר",
+  "verses": [
+    "firstChronicles 7:6",
+    "firstChronicles 7:8",
+    "genesis 46:21",
+    "numbers 26:35"
+  ]
 }

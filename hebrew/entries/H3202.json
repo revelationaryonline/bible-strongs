@@ -34,5 +34,19 @@
     "tr": "{yapabilmek, gerçek anlamda (can, could) veya ahlaki olarak (may, might)}",
     "uk": "{бути в змозі, буквально (can, could) або морально (may, might)}",
     "zh": "{能够，字面意义上（能、可）或道义上（可、可能）}。"
-  }
+  },
+  "hebrew": "יְכֵל",
+  "verses": [
+    "daniel 2:10",
+    "daniel 2:27",
+    "daniel 2:47",
+    "daniel 3:17",
+    "daniel 3:29",
+    "daniel 4:15",
+    "daniel 4:34",
+    "daniel 5:16",
+    "daniel 6:21",
+    "daniel 6:5",
+    "daniel 7:21"
+  ]
 }

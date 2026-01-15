@@ -34,5 +34,11 @@
     "tr": "Asriel, iki İsraillinin adı",
     "uk": "Асріель, ім'я двох ізраїльтян",
     "zh": "亚斯利尔，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אַשְׂרִיאֵל",
+  "verses": [
+    "firstChronicles 7:14",
+    "joshua 17:2",
+    "numbers 26:31"
+  ]
 }

@@ -34,5 +34,30 @@
     "tr": "kÜLLER",
     "uk": "попіл",
     "zh": "灰烬"
-  }
+  },
+  "hebrew": "אֵפֶר",
+  "verses": [
+    "daniel 9:3",
+    "esther 4:1",
+    "esther 4:3",
+    "ezekiel 27:30",
+    "ezekiel 28:18",
+    "genesis 18:27",
+    "isaiah 44:20",
+    "isaiah 58:5",
+    "isaiah 61:3",
+    "jeremiah 6:26",
+    "job 13:12",
+    "job 2:8",
+    "job 30:19",
+    "job 42:6",
+    "jonah 3:6",
+    "lamentations 3:16",
+    "malachi 3:21",
+    "numbers 19:10",
+    "numbers 19:9",
+    "psalms 102:10",
+    "psalms 147:16",
+    "secondSamuel 13:19"
+  ]
 }

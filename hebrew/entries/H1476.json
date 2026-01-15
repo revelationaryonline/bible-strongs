@@ -34,5 +34,12 @@
     "tr": "Guni, iki İsraillinin adı",
     "uk": "Гуні, ім'я двох ізраїльтян",
     "zh": "古尼，两个以色列人的名字"
-  }
+  },
+  "hebrew": "גּוּנִי",
+  "verses": [
+    "firstChronicles 5:15",
+    "firstChronicles 7:13",
+    "genesis 46:24",
+    "numbers 26:48"
+  ]
 }

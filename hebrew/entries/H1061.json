@@ -34,5 +34,24 @@
     "tr": "mahsulün ilk meyveleri",
     "uk": "перші плоди врожаю",
     "zh": "庄稼的收成"
-  }
+  },
+  "hebrew": "בִּכּוּר",
+  "verses": [
+    "exodus 23:16",
+    "exodus 23:19",
+    "exodus 34:22",
+    "exodus 34:26",
+    "ezekiel 44:30",
+    "isaiah 28:4",
+    "leviticus 23:17",
+    "leviticus 23:20",
+    "leviticus 2:14",
+    "nahum 3:12",
+    "nehemiah 10:36",
+    "nehemiah 13:31",
+    "numbers 13:20",
+    "numbers 18:13",
+    "numbers 28:26",
+    "secondKings 4:42"
+  ]
 }

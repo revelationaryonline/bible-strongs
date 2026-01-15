@@ -34,5 +34,14 @@
     "tr": "bir mahkeme kararı",
     "uk": "заборона",
     "zh": "禁令"
-  }
+  },
+  "hebrew": "אֱסָר",
+  "verses": [
+    "daniel 6:10",
+    "daniel 6:13",
+    "daniel 6:14",
+    "daniel 6:16",
+    "daniel 6:8",
+    "daniel 6:9"
+  ]
 }

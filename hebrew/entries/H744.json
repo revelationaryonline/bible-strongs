@@ -34,5 +34,17 @@
     "tr": "{bir aslan}",
     "uk": "{Лев.}",
     "zh": "{一只狮子}"
-  }
+  },
+  "hebrew": "אַרְיֵה",
+  "verses": [
+    "daniel 6:13",
+    "daniel 6:17",
+    "daniel 6:20",
+    "daniel 6:21",
+    "daniel 6:23",
+    "daniel 6:25",
+    "daniel 6:28",
+    "daniel 6:8",
+    "daniel 7:4"
+  ]
 }

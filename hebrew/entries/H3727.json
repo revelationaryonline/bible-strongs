@@ -34,5 +34,30 @@
     "tr": "bir kapak (sadece kutsal sandığın kapağında kullanılır)",
     "uk": "кришка (використовується тільки від кришки священного ковчега)",
     "zh": "盖子"
-  }
+  },
+  "hebrew": "כַּפֹּרֶת",
+  "verses": [
+    "exodus 25:17",
+    "exodus 25:18",
+    "exodus 25:19",
+    "exodus 25:20",
+    "exodus 25:21",
+    "exodus 25:22",
+    "exodus 26:34",
+    "exodus 30:6",
+    "exodus 31:7",
+    "exodus 35:12",
+    "exodus 37:6",
+    "exodus 37:7",
+    "exodus 37:8",
+    "exodus 37:9",
+    "exodus 39:35",
+    "exodus 40:20",
+    "firstChronicles 28:11",
+    "leviticus 16:13",
+    "leviticus 16:14",
+    "leviticus 16:15",
+    "leviticus 16:2",
+    "numbers 7:89"
+  ]
 }

@@ -34,5 +34,27 @@
     "tr": "bir adam",
     "uk": "чоловік",
     "zh": "男人"
-  }
+  },
+  "hebrew": "אֱנָשׁ",
+  "verses": [
+    "daniel 2:10",
+    "daniel 2:38",
+    "daniel 2:43",
+    "daniel 3:10",
+    "daniel 4:13",
+    "daniel 4:14",
+    "daniel 4:22",
+    "daniel 4:29",
+    "daniel 4:30",
+    "daniel 5:21",
+    "daniel 5:5",
+    "daniel 5:7",
+    "daniel 6:13",
+    "daniel 6:8",
+    "daniel 7:13",
+    "daniel 7:4",
+    "daniel 7:8",
+    "ezra 4:11",
+    "ezra 6:11"
+  ]
 }

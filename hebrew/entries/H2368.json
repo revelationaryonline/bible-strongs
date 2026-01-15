@@ -34,5 +34,21 @@
     "tr": "bir imza yüzüğü",
     "uk": "перстень з підписом",
     "zh": "签名环"
-  }
+  },
+  "hebrew": "חוֹתָם",
+  "verses": [
+    "exodus 28:11",
+    "exodus 28:21",
+    "exodus 28:36",
+    "exodus 39:14",
+    "exodus 39:30",
+    "exodus 39:6",
+    "firstKings 21:8",
+    "genesis 38:18",
+    "haggai 2:23",
+    "jeremiah 22:24",
+    "job 38:14",
+    "job 41:7",
+    "solomon 8:6"
+  ]
 }

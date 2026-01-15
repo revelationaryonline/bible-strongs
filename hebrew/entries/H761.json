@@ -34,5 +34,18 @@
     "tr": "bir Aramlı veya Arami",
     "uk": "араміт або арамеєць",
     "zh": "阿拉米人"
-  }
+  },
+  "hebrew": "אֲרַמִּי",
+  "verses": [
+    "deuteronomy 26:5",
+    "firstChronicles 7:14",
+    "genesis 25:20",
+    "genesis 28:5",
+    "genesis 31:20",
+    "genesis 31:24",
+    "secondKings 5:20",
+    "secondKings 8:28",
+    "secondKings 8:29",
+    "secondKings 9:15"
+  ]
 }

@@ -34,5 +34,21 @@
     "tr": "Zimri, beş İsraillinin ve bir Arap kabilesinin adı",
     "uk": "Зімрі, ім'я п'яти ізраїльтян та арабського племені",
     "zh": "齐姆利，五个以色列人和一个阿拉伯部落的名字"
-  }
+  },
+  "hebrew": "זִמְרִי",
+  "verses": [
+    "firstChronicles 2:6",
+    "firstChronicles 8:36",
+    "firstChronicles 9:42",
+    "firstKings 16:10",
+    "firstKings 16:12",
+    "firstKings 16:15",
+    "firstKings 16:16",
+    "firstKings 16:18",
+    "firstKings 16:20",
+    "firstKings 16:9",
+    "jeremiah 25:25",
+    "numbers 25:14",
+    "secondKings 9:31"
+  ]
 }

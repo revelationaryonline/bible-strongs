@@ -34,5 +34,28 @@
     "tr": "Elkanah, birkaç İsraillinin adı",
     "uk": "Елкана, ім'я кількох ізраїльтян",
     "zh": "以利加拿，几个以色列人的名字"
-  }
+  },
+  "hebrew": "אֶלְקָנָה",
+  "verses": [
+    "exodus 6:24",
+    "firstChronicles 12:7",
+    "firstChronicles 15:23",
+    "firstChronicles 6:10",
+    "firstChronicles 6:11",
+    "firstChronicles 6:12",
+    "firstChronicles 6:19",
+    "firstChronicles 6:20",
+    "firstChronicles 6:21",
+    "firstChronicles 6:8",
+    "firstChronicles 9:16",
+    "firstSamuel 1:1",
+    "firstSamuel 1:19",
+    "firstSamuel 1:21",
+    "firstSamuel 1:23",
+    "firstSamuel 1:4",
+    "firstSamuel 1:8",
+    "firstSamuel 2:11",
+    "firstSamuel 2:20",
+    "secondChronicles 28:7"
+  ]
 }

@@ -34,5 +34,17 @@
     "tr": "Jobab, iki İsrailli ve üç yabancının adı",
     "uk": "Йовав, ім'я двох ізраїльтян і трьох іноземців",
     "zh": "约伯，两个以色列人和三个外国人的名字"
-  }
+  },
+  "hebrew": "יוֹבָב",
+  "verses": [
+    "firstChronicles 1:23",
+    "firstChronicles 1:44",
+    "firstChronicles 1:45",
+    "firstChronicles 8:18",
+    "firstChronicles 8:9",
+    "genesis 10:29",
+    "genesis 36:33",
+    "genesis 36:34",
+    "joshua 11:1"
+  ]
 }

@@ -34,5 +34,12 @@
     "tr": "Jishi, dört İsraillinin adı",
     "uk": "Джиші, ім'я чотирьох ізраїльтян",
     "zh": "吉斯，四个以色列人的名字"
-  }
+  },
+  "hebrew": "יִשְׁעִי",
+  "verses": [
+    "firstChronicles 2:31",
+    "firstChronicles 4:20",
+    "firstChronicles 4:42",
+    "firstChronicles 5:24"
+  ]
 }

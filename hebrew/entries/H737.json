@@ -34,5 +34,12 @@
     "tr": "bir miktar yiyecek",
     "uk": "раціон харчування",
     "zh": "口粮"
-  }
+  },
+  "hebrew": "אֲרֻחָה",
+  "verses": [
+    "jeremiah 40:5",
+    "jeremiah 52:34",
+    "proverbs 15:17",
+    "secondKings 25:30"
+  ]
 }

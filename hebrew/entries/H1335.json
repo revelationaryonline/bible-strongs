@@ -34,5 +34,11 @@
     "tr": "bir bölüm",
     "uk": "розділ",
     "zh": "一节"
-  }
+  },
+  "hebrew": "בֶּתֶר",
+  "verses": [
+    "genesis 15:10",
+    "jeremiah 34:18",
+    "jeremiah 34:19"
+  ]
 }

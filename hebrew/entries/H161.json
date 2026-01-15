@@ -34,5 +34,10 @@
     "tr": "Ohad, bir İsrailli",
     "uk": "Охад, ізраїльтянин",
     "zh": "以色列人奥哈德"
-  }
+  },
+  "hebrew": "אֹהַד",
+  "verses": [
+    "exodus 6:15",
+    "genesis 46:10"
+  ]
 }

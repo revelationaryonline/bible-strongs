@@ -34,5 +34,12 @@
     "tr": "bir eritme fırını (indirgen metaller olarak)",
     "uk": "плавильна піч (для відновлення металів)",
     "zh": "熔炉（作为还原金属）"
-  }
+  },
+  "hebrew": "כִּבְשָׁן",
+  "verses": [
+    "exodus 19:18",
+    "exodus 9:10",
+    "exodus 9:8",
+    "genesis 19:28"
+  ]
 }

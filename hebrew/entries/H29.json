@@ -34,5 +34,33 @@
     "tr": "Abijah, birkaç İsrailli erkeğin ve iki İsrailli kadının adı",
     "uk": "Авія, ім'я кількох ізраїльтян і двох ізраїльтянок",
     "zh": "亚比雅，几个以色列男子和两个以色列女子的名字"
-  }
+  },
+  "hebrew": "אֲבִיָּה",
+  "verses": [
+    "firstChronicles 24:10",
+    "firstChronicles 2:24",
+    "firstChronicles 3:10",
+    "firstChronicles 6:13",
+    "firstChronicles 7:8",
+    "firstKings 14:1",
+    "firstSamuel 8:2",
+    "nehemiah 10:8",
+    "nehemiah 12:17",
+    "nehemiah 12:4",
+    "secondChronicles 11:20",
+    "secondChronicles 11:22",
+    "secondChronicles 12:16",
+    "secondChronicles 13:1",
+    "secondChronicles 13:15",
+    "secondChronicles 13:17",
+    "secondChronicles 13:19",
+    "secondChronicles 13:2",
+    "secondChronicles 13:20",
+    "secondChronicles 13:21",
+    "secondChronicles 13:22",
+    "secondChronicles 13:23",
+    "secondChronicles 13:3",
+    "secondChronicles 13:4",
+    "secondChronicles 29:1"
+  ]
 }

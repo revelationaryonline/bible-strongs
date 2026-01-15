@@ -34,5 +34,15 @@
     "tr": "bir kemer (bel için)",
     "uk": "ремінь (для талії)",
     "zh": "腰带"
-  }
+  },
+  "hebrew": "חֲגוֹר",
+  "verses": [
+    "firstKings 2:5",
+    "firstSamuel 18:4",
+    "genesis 3:7",
+    "isaiah 3:24",
+    "secondKings 3:21",
+    "secondSamuel 18:11",
+    "secondSamuel 20:8"
+  ]
 }

@@ -34,5 +34,34 @@
     "tr": "Yehoram, bir Suriyelinin ve üç İsraillinin adı",
     "uk": "Єгорам, ім'я сирійця та трьох ізраїльтян",
     "zh": "耶和兰，一个叙利亚人和三个以色列人的名字"
-  }
+  },
+  "hebrew": "יְהוֹרָם",
+  "verses": [
+    "firstKings 22:51",
+    "secondChronicles 17:8",
+    "secondChronicles 21:1",
+    "secondChronicles 21:16",
+    "secondChronicles 21:3",
+    "secondChronicles 21:4",
+    "secondChronicles 21:5",
+    "secondChronicles 21:9",
+    "secondChronicles 22:1",
+    "secondChronicles 22:11",
+    "secondChronicles 22:5",
+    "secondChronicles 22:6",
+    "secondChronicles 22:7",
+    "secondKings 12:19",
+    "secondKings 1:17",
+    "secondKings 3:1",
+    "secondKings 3:6",
+    "secondKings 8:16",
+    "secondKings 8:25",
+    "secondKings 8:29",
+    "secondKings 9:15",
+    "secondKings 9:17",
+    "secondKings 9:21",
+    "secondKings 9:22",
+    "secondKings 9:23",
+    "secondKings 9:24"
+  ]
 }

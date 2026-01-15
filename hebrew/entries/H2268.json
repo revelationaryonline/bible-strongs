@@ -34,5 +34,18 @@
     "tr": "Cheber, bir Kenitlinin ve üç İsraillinin adı",
     "uk": "Чебер, ім'я кеніта і трьох ізраїльтян",
     "zh": "切伯，一个基尼人和三个以色列人的名字"
-  }
+  },
+  "hebrew": "חֶבֶר",
+  "verses": [
+    "firstChronicles 4:18",
+    "firstChronicles 7:31",
+    "firstChronicles 7:32",
+    "firstChronicles 8:17",
+    "genesis 46:17",
+    "judges 4:11",
+    "judges 4:17",
+    "judges 4:21",
+    "judges 5:24",
+    "numbers 26:45"
+  ]
 }

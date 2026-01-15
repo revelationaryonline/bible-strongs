@@ -34,5 +34,9 @@
     "tr": "{Bir Kasdlı ya da Kesed'in soyundan; ima yoluyla, bir Keldani (sanki böyle bir soydan geliyormuş gibi); ayrıca bir astrolog (sanki o halkın atasözü gibi}",
     "uk": "{касдит, або нащадок Кеседа; непрямо, халдей (нібито так походить); також астролог (нібито прислів'я цього народу}",
     "zh": "{一个卡斯迪特人，或凯赛德的后裔；暗指一个迦勒底人（好像是这样的后裔）；也是一个占星家（好像是那个民族的谚语}。"
-  }
+  },
+  "hebrew": "כַּסְדַּי",
+  "verses": [
+    "ezra 5:12"
+  ]
 }

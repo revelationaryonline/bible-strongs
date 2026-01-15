@@ -35,5 +35,15 @@
     "tr": "pelin otu (zehirli ve bu nedenle lanetli olarak kabul edilir)",
     "uk": "полин (вважається отруйним, а тому проклятим)",
     "zh": "艾草"
-  }
+  },
+  "verses": [
+    "amos 5:7",
+    "amos 6:12",
+    "deuteronomy 29:17",
+    "jeremiah 23:15",
+    "jeremiah 9:14",
+    "lamentations 3:15",
+    "lamentations 3:19",
+    "proverbs 5:4"
+  ]
 }

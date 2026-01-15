@@ -34,5 +34,21 @@
     "tr": "{gümüş (soluk renginden dolayı); ima yoluyla, para}",
     "uk": "{срібло (від його блідого кольору); за імплікацією - гроші}",
     "zh": "{银（因其颜色苍白）；暗指金钱}."
-  }
+  },
+  "hebrew": "כְּסַף",
+  "verses": [
+    "daniel 2:32",
+    "daniel 2:35",
+    "daniel 2:45",
+    "daniel 5:2",
+    "daniel 5:23",
+    "daniel 5:4",
+    "ezra 5:14",
+    "ezra 6:5",
+    "ezra 7:15",
+    "ezra 7:16",
+    "ezra 7:17",
+    "ezra 7:18",
+    "ezra 7:22"
+  ]
 }

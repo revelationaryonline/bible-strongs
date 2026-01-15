@@ -34,5 +34,14 @@
     "tr": "bir Hagrite veya belirli bir Arap klanının üyesi",
     "uk": "хагрит або член певного арабського клану",
     "zh": "哈格尔人或某阿拉伯部族成员"
-  }
+  },
+  "hebrew": "הַגְרִי",
+  "verses": [
+    "firstChronicles 11:38",
+    "firstChronicles 27:31",
+    "firstChronicles 5:10",
+    "firstChronicles 5:19",
+    "firstChronicles 5:20",
+    "psalms 83:7"
+  ]
 }

@@ -34,5 +34,26 @@
     "tr": "bir kor",
     "uk": "вугілля",
     "zh": "烬"
-  }
+  },
+  "hebrew": "גֶּחֶל",
+  "verses": [
+    "ezekiel 10:2",
+    "ezekiel 1:13",
+    "ezekiel 24:11",
+    "isaiah 44:19",
+    "isaiah 47:14",
+    "job 41:13",
+    "leviticus 16:12",
+    "proverbs 25:22",
+    "proverbs 26:21",
+    "proverbs 6:28",
+    "psalms 120:4",
+    "psalms 140:11",
+    "psalms 18:13",
+    "psalms 18:14",
+    "psalms 18:9",
+    "secondSamuel 14:7",
+    "secondSamuel 22:13",
+    "secondSamuel 22:9"
+  ]
 }

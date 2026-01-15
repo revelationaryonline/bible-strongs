@@ -34,5 +34,10 @@
     "tr": "Elzabad, iki İsraillinin adı",
     "uk": "Ельзабад, ім'я двох ізраїльтян",
     "zh": "埃尔扎巴德，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אֶלְזָבָד",
+  "verses": [
+    "firstChronicles 12:13",
+    "firstChronicles 26:7"
+  ]
 }

@@ -34,5 +34,9 @@
     "tr": "{eklemek veya artırmak (genellikle zarf, bir şeyi yapmaya devam etmek)}",
     "uk": "{додавати або збільшувати (часто прислівник, продовжувати робити щось)}",
     "zh": "{增加或增强（通常是副词，继续做某事）}"
-  }
+  },
+  "hebrew": "יְסַף",
+  "verses": [
+    "daniel 4:33"
+  ]
 }

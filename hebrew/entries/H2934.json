@@ -34,5 +34,37 @@
     "tr": "gizlemek (üzerini örterek)",
     "uk": "ховатися (накриваючись)",
     "zh": "隐藏"
-  }
+  },
+  "hebrew": "טָמַן",
+  "verses": [
+    "deuteronomy 33:19",
+    "exodus 2:12",
+    "genesis 35:4",
+    "isaiah 2:10",
+    "jeremiah 13:4",
+    "jeremiah 13:5",
+    "jeremiah 13:6",
+    "jeremiah 13:7",
+    "jeremiah 18:22",
+    "jeremiah 43:10",
+    "jeremiah 43:9",
+    "job 18:10",
+    "job 20:26",
+    "job 31:33",
+    "job 3:16",
+    "job 40:13",
+    "joshua 2:6",
+    "joshua 7:21",
+    "joshua 7:22",
+    "proverbs 19:24",
+    "proverbs 26:15",
+    "psalms 140:6",
+    "psalms 142:4",
+    "psalms 31:5",
+    "psalms 35:7",
+    "psalms 35:8",
+    "psalms 64:6",
+    "psalms 9:16",
+    "secondKings 7:8"
+  ]
 }

@@ -34,5 +34,16 @@
     "tr": "bir dilekçe",
     "uk": "петицію",
     "zh": "请愿书"
-  }
+  },
+  "hebrew": "בַּקָּשָׁה",
+  "verses": [
+    "esther 5:3",
+    "esther 5:6",
+    "esther 5:7",
+    "esther 5:8",
+    "esther 7:2",
+    "esther 7:3",
+    "esther 9:12",
+    "ezra 7:6"
+  ]
 }

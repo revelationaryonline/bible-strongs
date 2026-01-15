@@ -34,5 +34,10 @@
     "tr": "aşekelin bir bölümü (yarısı), yani bir beka (bir ağırlık ve bir sikke)",
     "uk": "частина (половина) ашкеля, тобто бека (гиря і монета)",
     "zh": "一段（半段）阿舍克勒，即一个贝卡（一个砝码和一个硬币）"
-  }
+  },
+  "hebrew": "בֶּקַע",
+  "verses": [
+    "exodus 38:26",
+    "genesis 24:22"
+  ]
 }

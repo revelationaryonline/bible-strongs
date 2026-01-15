@@ -34,5 +34,10 @@
     "tr": "bir çift taş (sadece çift); bir çömlekçi çarkı veya bir ebe taburesi (aralarında bir destek bulunan iki yatay diskten oluşur)",
     "uk": "пара каменів (тільки подвійних); гончарний круг або акушерський стілець (складається з двох горизонтальних дисків з підставкою між ними)",
     "zh": "一对石头（仅双）；陶轮或接生凳（同样由两个横盘组成，中间有一个支撑物）"
-  }
+  },
+  "hebrew": "אֹבֶן",
+  "verses": [
+    "exodus 1:16",
+    "jeremiah 18:3"
+  ]
 }

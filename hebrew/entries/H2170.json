@@ -34,5 +34,12 @@
     "tr": "enstrümantal müzik",
     "uk": "інструментальна музика",
     "zh": "器乐"
-  }
+  },
+  "hebrew": "זְמָר",
+  "verses": [
+    "daniel 3:10",
+    "daniel 3:15",
+    "daniel 3:5",
+    "daniel 3:7"
+  ]
 }

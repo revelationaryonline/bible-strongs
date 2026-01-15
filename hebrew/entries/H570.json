@@ -34,5 +34,13 @@
     "tr": "dün ya da dün gece",
     "uk": "вчора або минулої ночі",
     "zh": "昨夜"
-  }
+  },
+  "hebrew": "אֶמֶשׁ",
+  "verses": [
+    "genesis 19:34",
+    "genesis 31:29",
+    "genesis 31:42",
+    "job 30:3",
+    "secondKings 9:26"
+  ]
 }

@@ -34,5 +34,15 @@
     "tr": "Abiezer, iki İsraillinin adı",
     "uk": "Абієзер, ім'я двох ізраїльтян",
     "zh": "亚比泽，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אֲבִיעֶזֶר",
+  "verses": [
+    "firstChronicles 11:28",
+    "firstChronicles 27:12",
+    "firstChronicles 7:18",
+    "joshua 17:2",
+    "judges 6:34",
+    "judges 8:2",
+    "secondSamuel 23:27"
+  ]
 }

@@ -5,6 +5,7 @@
   "pronunciation": "abe",
   "definition": "{a green plant}",
   "kjvTranslation": "fruit.",
+  "hebrew": "אֵב",
   "translations": {
     "bg": "{зелено растение}",
     "cs": "{zelená rostlina}",
@@ -34,5 +35,10 @@
     "tr": "{yeşil bir bitki}",
     "uk": "[зелена рослина]",
     "zh": "{一种绿色植物｝"
-  }
+  },
+  "verses": [
+    "daniel 4:11",
+    "daniel 4:18",
+    "daniel 4:9"
+  ]
 }

@@ -34,5 +34,32 @@
     "tr": "ihtişam (yani heybetli bir biçim ve görünüm)",
     "uk": "велич (тобто імпозантна форма та зовнішній вигляд)",
     "zh": "雄伟"
-  }
+  },
+  "hebrew": "הוֹד",
+  "verses": [
+    "daniel 10:8",
+    "daniel 11:21",
+    "firstChronicles 16:27",
+    "firstChronicles 29:11",
+    "firstChronicles 29:25",
+    "habakkuk 3:3",
+    "hosea 14:7",
+    "isaiah 30:30",
+    "jeremiah 22:18",
+    "job 37:22",
+    "job 39:20",
+    "job 40:10",
+    "numbers 27:20",
+    "proverbs 5:9",
+    "psalms 104:1",
+    "psalms 111:3",
+    "psalms 145:5",
+    "psalms 148:13",
+    "psalms 21:6",
+    "psalms 45:4",
+    "psalms 8:2",
+    "psalms 96:6",
+    "zechariah 10:3",
+    "zechariah 6:13"
+  ]
 }

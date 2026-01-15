@@ -34,5 +34,10 @@
     "tr": "Bedan, iki İsraillinin adı",
     "uk": "Бедан, ім'я двох ізраїльтян",
     "zh": "贝丹，两个以色列人的名字"
-  }
+  },
+  "hebrew": "בְּדָן",
+  "verses": [
+    "firstChronicles 7:17",
+    "firstSamuel 12:11"
+  ]
 }

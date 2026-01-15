@@ -35,5 +35,21 @@
     "tr": "eğer değilse",
     "uk": "якщо ні",
     "zh": "否则"
-  }
+  },
+  "verses": [
+    "deuteronomy 32:27",
+    "firstSamuel 25:34",
+    "genesis 31:42",
+    "genesis 43:10",
+    "isaiah 1:9",
+    "judges 14:18",
+    "psalms 106:23",
+    "psalms 119:92",
+    "psalms 124:1",
+    "psalms 124:2",
+    "psalms 27:13",
+    "psalms 94:17",
+    "secondKings 3:14",
+    "secondSamuel 2:27"
+  ]
 }

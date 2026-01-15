@@ -34,5 +34,23 @@
     "tr": "Çur, dört İsraillinin ve bir Midyanlının adı",
     "uk": "Чур, ім'я чотирьох ізраїльтян і одного мідіянина",
     "zh": "丘尔，四个以色列人和一个米甸人的名字"
-  }
+  },
+  "hebrew": "חוּר",
+  "verses": [
+    "exodus 17:10",
+    "exodus 17:12",
+    "exodus 24:14",
+    "exodus 31:2",
+    "exodus 35:30",
+    "exodus 38:22",
+    "firstChronicles 2:19",
+    "firstChronicles 2:20",
+    "firstChronicles 2:50",
+    "firstChronicles 4:1",
+    "firstChronicles 4:4",
+    "joshua 13:21",
+    "nehemiah 3:9",
+    "numbers 31:8",
+    "secondChronicles 1:5"
+  ]
 }

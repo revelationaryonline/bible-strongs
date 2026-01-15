@@ -35,5 +35,15 @@
     "tr": "Karmi, üç İsraillinin adı",
     "uk": "Кармі, ім'я трьох ізраїльтян",
     "zh": "卡尔米，三个以色列人的名字"
-  }
+  },
+  "verses": [
+    "exodus 6:14",
+    "firstChronicles 2:7",
+    "firstChronicles 4:1",
+    "firstChronicles 5:3",
+    "genesis 46:9",
+    "joshua 7:1",
+    "joshua 7:18",
+    "numbers 26:6"
+  ]
 }

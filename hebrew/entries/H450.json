@@ -34,5 +34,12 @@
     "tr": "Eljada, iki İsraillinin ve bir Arami liderinin adı",
     "uk": "Елджада, ім'я двох ізраїльтян та арамейського вождя",
     "zh": "埃尔雅达，两个以色列人和一个亚兰人领袖的名字"
-  }
+  },
+  "hebrew": "אֶלְיָדָע",
+  "verses": [
+    "firstChronicles 3:8",
+    "firstKings 11:23",
+    "secondChronicles 17:17",
+    "secondSamuel 5:16"
+  ]
 }

@@ -34,5 +34,10 @@
     "tr": "ne yazık ki!",
     "uk": "на жаль!",
     "zh": "唉"
-  }
+  },
+  "hebrew": "אִי",
+  "verses": [
+    "ecclesiastes 10:16",
+    "ecclesiastes 4:10"
+  ]
 }

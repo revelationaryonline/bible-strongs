@@ -34,5 +34,14 @@
     "tr": "Elitsaphan ya da Eltsaphan, bir İsrailli",
     "uk": "Еліцафан або Елцафан, ізраїльтянин",
     "zh": "以利萨番"
-  }
+  },
+  "hebrew": "אֱלִיצָפָן",
+  "verses": [
+    "exodus 6:22",
+    "firstChronicles 15:8",
+    "leviticus 10:4",
+    "numbers 34:25",
+    "numbers 3:30",
+    "secondChronicles 29:13"
+  ]
 }

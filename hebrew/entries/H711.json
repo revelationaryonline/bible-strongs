@@ -34,5 +34,11 @@
     "tr": "{mor}",
     "uk": "{Фіолетовий.}",
     "zh": "{purple}紫色"
-  }
+  },
+  "hebrew": "אַרְגְּוָן",
+  "verses": [
+    "daniel 5:16",
+    "daniel 5:29",
+    "daniel 5:7"
+  ]
 }

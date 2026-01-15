@@ -34,5 +34,12 @@
     "tr": "Jimnah, iki İsraillinin adı; ayrıca (artikel ile) onlardan birinin neslinin adı",
     "uk": "Джімна, ім'я двох ізраїльтян; також (з артиклем) нащадків одного з них",
     "zh": "吉姆纳，两个以色列人的名字；也是其中一人后代的名字（带冠词"
-  }
+  },
+  "hebrew": "יִמְנָה",
+  "verses": [
+    "firstChronicles 7:30",
+    "genesis 46:17",
+    "numbers 26:44",
+    "secondChronicles 31:14"
+  ]
 }

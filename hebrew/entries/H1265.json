@@ -34,5 +34,28 @@
     "tr": "bir selvi (?) ağacı; dolayısıyla bir mızrak veya bir müzik aleti (bu ağaçtan yapılmış gibi)",
     "uk": "кипарисове (?) дерево; отже, спис або музичний інструмент (як виготовлений з цього дерева)",
     "zh": "一种柏树；因此是一种长矛或乐器（用这种木材制成）。"
-  }
+  },
+  "hebrew": "בְּרוֹשׁ",
+  "verses": [
+    "ezekiel 27:5",
+    "ezekiel 31:8",
+    "firstKings 5:22",
+    "firstKings 5:24",
+    "firstKings 6:15",
+    "firstKings 6:34",
+    "firstKings 9:11",
+    "hosea 14:9",
+    "isaiah 14:8",
+    "isaiah 37:24",
+    "isaiah 41:19",
+    "isaiah 55:13",
+    "isaiah 60:13",
+    "nahum 2:4",
+    "psalms 104:17",
+    "secondChronicles 2:7",
+    "secondChronicles 3:5",
+    "secondKings 19:23",
+    "secondSamuel 6:5",
+    "zechariah 11:2"
+  ]
 }

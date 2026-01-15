@@ -34,5 +34,13 @@
     "tr": "Asir, iki İsraillinin adı",
     "uk": "Асир, ім'я двох ізраїльтян",
     "zh": "阿西尔，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אַסִּיר",
+  "verses": [
+    "exodus 6:24",
+    "firstChronicles 3:17",
+    "firstChronicles 6:22",
+    "firstChronicles 6:7",
+    "firstChronicles 6:8"
+  ]
 }

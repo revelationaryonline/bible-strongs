@@ -34,5 +34,9 @@
     "tr": "{kardeş (gerçek ilişki ve mecazi yakınlık veya benzerlik anlamında en geniş anlamda kullanılır)}",
     "uk": "{брат (вживається в найширшому значенні буквального споріднення та метафоричної спорідненості чи подібності)}",
     "zh": "{兄弟（用于最广义的字面关系和比喻的亲缘关系或相似之处）}。"
-  }
+  },
+  "hebrew": "אַח",
+  "verses": [
+    "ezra 7:18"
+  ]
 }

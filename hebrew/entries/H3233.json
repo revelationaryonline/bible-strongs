@@ -34,5 +34,27 @@
     "tr": "sağ (yani sağ el)",
     "uk": "праворуч (тобто по праву руку)",
     "zh": "右侧"
-  }
+  },
+  "hebrew": "יְמָנִי",
+  "verses": [
+    "exodus 29:20",
+    "ezekiel 47:1",
+    "ezekiel 47:2",
+    "ezekiel 4:6",
+    "firstKings 6:8",
+    "firstKings 7:21",
+    "firstKings 7:39",
+    "leviticus 14:14",
+    "leviticus 14:16",
+    "leviticus 14:17",
+    "leviticus 14:25",
+    "leviticus 14:27",
+    "leviticus 14:28",
+    "leviticus 8:23",
+    "leviticus 8:24",
+    "secondChronicles 23:10",
+    "secondChronicles 3:17",
+    "secondChronicles 4:10",
+    "secondKings 11:11"
+  ]
 }

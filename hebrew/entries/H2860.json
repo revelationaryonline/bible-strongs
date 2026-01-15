@@ -34,5 +34,27 @@
     "tr": "evlilik yoluyla akraba (özellikle gelin yoluyla); mecazi olarak, sünnet edilmiş bir çocuk (dini bir evlenme türü olarak)",
     "uk": "родич по шлюбу (особливо по лінії нареченої); образно - обрізана дитина (як різновид релігійного шлюбу)",
     "zh": "姻亲（特别是通过新娘）；比喻受过割礼的孩子（作为一种宗教上的婚配）。"
-  }
+  },
+  "hebrew": "חָתָן",
+  "verses": [
+    "exodus 4:25",
+    "exodus 4:26",
+    "firstSamuel 18:18",
+    "firstSamuel 22:14",
+    "genesis 19:12",
+    "genesis 19:14",
+    "isaiah 61:10",
+    "isaiah 62:5",
+    "jeremiah 16:9",
+    "jeremiah 25:10",
+    "jeremiah 33:11",
+    "jeremiah 7:34",
+    "joel 2:16",
+    "judges 15:6",
+    "judges 19:5",
+    "nehemiah 13:28",
+    "nehemiah 6:18",
+    "psalms 19:6",
+    "secondKings 8:27"
+  ]
 }

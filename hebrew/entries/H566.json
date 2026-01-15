@@ -34,5 +34,10 @@
     "tr": "İmri, iki İsraillinin adı",
     "uk": "Імрі, ім'я двох ізраїльтян",
     "zh": "伊米利，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אִמְרִי",
+  "verses": [
+    "firstChronicles 9:4",
+    "nehemiah 3:2"
+  ]
 }

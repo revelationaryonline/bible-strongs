@@ -34,5 +34,10 @@
     "tr": "Etsbon, iki İsraillinin adı",
     "uk": "Ецбон, ім'я двох ізраїльтян",
     "zh": "埃兹邦，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אֶצְבּוֹן",
+  "verses": [
+    "firstChronicles 7:7",
+    "genesis 46:16"
+  ]
 }

@@ -34,5 +34,15 @@
     "tr": "bir gece nöbeti",
     "uk": "нічний дозор",
     "zh": "守夜"
-  }
+  },
+  "hebrew": "אַשְׁמֻרָה",
+  "verses": [
+    "exodus 14:24",
+    "firstSamuel 11:11",
+    "judges 7:19",
+    "lamentations 2:19",
+    "psalms 119:148",
+    "psalms 63:7",
+    "psalms 90:4"
+  ]
 }

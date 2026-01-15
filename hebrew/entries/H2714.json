@@ -34,5 +34,20 @@
     "tr": "inceleme, numaralandırma, müzakere",
     "uk": "обстеження, перерахування, обговорення",
     "zh": "审查、列举、审议"
-  }
+  },
+  "hebrew": "חֵקֶר",
+  "verses": [
+    "isaiah 40:28",
+    "job 11:7",
+    "job 34:24",
+    "job 36:26",
+    "job 38:16",
+    "job 5:9",
+    "job 8:8",
+    "job 9:10",
+    "judges 5:16",
+    "proverbs 25:27",
+    "proverbs 25:3",
+    "psalms 145:3"
+  ]
 }

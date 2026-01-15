@@ -34,5 +34,10 @@
     "tr": "(Öküz başı alfabenin ilk harfidir ve sonunda rakam olarak kullanılmıştır) bin}",
     "uk": "{звідси (голова вола - перша літера алфавіту, яка згодом стала числівником) тисяча}",
     "zh": "{因此（牛头是字母表的第一个字母，最终被用作数字）千｝"
-  }
+  },
+  "hebrew": "אֲלַף",
+  "verses": [
+    "daniel 5:1",
+    "daniel 7:10"
+  ]
 }

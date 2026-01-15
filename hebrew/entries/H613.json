@@ -34,5 +34,11 @@
     "tr": "{bir bağ (özellikle bir mahkumun kelepçesi)}",
     "uk": "{зв'язок (особливо кайдани в'язня)",
     "zh": "{束缚（特别是囚犯的手铐）}"
-  }
+  },
+  "hebrew": "אֱסוּר",
+  "verses": [
+    "daniel 4:12",
+    "daniel 4:20",
+    "ezra 7:26"
+  ]
 }

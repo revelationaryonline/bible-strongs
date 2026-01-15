@@ -34,5 +34,18 @@
     "tr": "{en geniş anlamda bir oğul (soyadının kurucusu olarak)}",
     "uk": "{син (як творець прізвища), у найширшому розумінні}",
     "zh": "{儿子（作为姓氏的建立者），广义上的儿子}。"
-  }
+  },
+  "hebrew": "בֵּן",
+  "verses": [
+    "daniel 2:25",
+    "daniel 2:38",
+    "daniel 5:13",
+    "daniel 5:21",
+    "daniel 6:14",
+    "daniel 6:25",
+    "ezra 6:10",
+    "ezra 6:16",
+    "ezra 6:9",
+    "ezra 7:23"
+  ]
 }

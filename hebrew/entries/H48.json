@@ -34,5 +34,17 @@
     "tr": "Abiram, iki İsraillinin adı",
     "uk": "Авірам, ім'я двох ізраїльтян",
     "zh": "亚比兰，两个以色列人的名字"
-  }
+  },
+  "hebrew": "אֲבִירָם",
+  "verses": [
+    "deuteronomy 11:6",
+    "firstKings 16:34",
+    "numbers 16:1",
+    "numbers 16:12",
+    "numbers 16:24",
+    "numbers 16:25",
+    "numbers 16:27",
+    "numbers 26:9",
+    "psalms 106:17"
+  ]
 }

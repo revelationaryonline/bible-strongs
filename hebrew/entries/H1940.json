@@ -34,5 +34,12 @@
     "tr": "bir Yahudi",
     "uk": "єврейка",
     "zh": "一个犹太人"
-  }
+  },
+  "hebrew": "הוֹדִיָּה",
+  "verses": [
+    "firstChronicles 4:19",
+    "nehemiah 10:11",
+    "nehemiah 10:14",
+    "nehemiah 10:19"
+  ]
 }

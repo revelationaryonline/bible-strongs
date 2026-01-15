@@ -34,5 +34,24 @@
     "tr": "nerede? (sadece edat öneki ile bağlantılı olarak, whence)",
     "uk": "де? (лише у поєднанні з прийменниковим префіксом звідки)",
     "zh": "哪里？(只与介词前置词 \"从何而来 \"有关）"
-  }
+  },
+  "hebrew": "אַיִן",
+  "verses": [
+    "genesis 29:4",
+    "genesis 42:7",
+    "isaiah 39:3",
+    "job 1:7",
+    "job 28:12",
+    "job 28:20",
+    "jonah 1:8",
+    "joshua 2:4",
+    "joshua 9:8",
+    "judges 17:9",
+    "judges 19:17",
+    "nahum 3:7",
+    "numbers 11:13",
+    "psalms 121:1",
+    "secondKings 20:14",
+    "secondKings 6:27"
+  ]
 }

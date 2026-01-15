@@ -34,5 +34,19 @@
     "tr": "Elihu, Eyüp'ün arkadaşlarından birinin ve üç İsraillinin adı",
     "uk": "Елігу, ім'я одного з друзів Йова та трьох ізраїльтян",
     "zh": "以利户，约伯的一个朋友的名字，也是三个以色列人的名字"
-  }
+  },
+  "hebrew": "אֱלִיהוּ",
+  "verses": [
+    "firstChronicles 12:21",
+    "firstChronicles 26:7",
+    "firstChronicles 27:18",
+    "firstSamuel 1:1",
+    "job 32:2",
+    "job 32:4",
+    "job 32:5",
+    "job 32:6",
+    "job 34:1",
+    "job 35:1",
+    "job 36:1"
+  ]
 }

@@ -34,5 +34,10 @@
     "tr": "Jishvah, bir İsrailli",
     "uk": "Ішва, ізраїльтянин",
     "zh": "以色列人吉什瓦"
-  }
+  },
+  "hebrew": "יִשְׁוָה",
+  "verses": [
+    "firstChronicles 7:30",
+    "genesis 46:17"
+  ]
 }

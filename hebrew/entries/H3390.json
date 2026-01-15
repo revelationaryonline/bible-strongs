@@ -34,5 +34,33 @@
     "tr": "{Kudüs}",
     "uk": "{Єрусалим.}",
     "zh": "{耶路撒冷｝"
-  }
+  },
+  "hebrew": "יְרוּשָׁלֵם",
+  "verses": [
+    "daniel 5:2",
+    "daniel 5:3",
+    "daniel 6:11",
+    "ezra 4:12",
+    "ezra 4:20",
+    "ezra 4:23",
+    "ezra 4:24",
+    "ezra 4:8",
+    "ezra 5:1",
+    "ezra 5:14",
+    "ezra 5:15",
+    "ezra 5:16",
+    "ezra 5:17",
+    "ezra 5:2",
+    "ezra 6:12",
+    "ezra 6:18",
+    "ezra 6:3",
+    "ezra 6:5",
+    "ezra 6:9",
+    "ezra 7:13",
+    "ezra 7:14",
+    "ezra 7:15",
+    "ezra 7:16",
+    "ezra 7:17",
+    "ezra 7:19"
+  ]
 }

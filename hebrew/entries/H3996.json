@@ -35,5 +35,30 @@
     "tr": "bir giriş (yer veya eylem); özellikle gün batımı veya batı; ayrıca (edat ile zarf) doğru",
     "uk": "вхід (місце або дія); особливо захід сонця або захід; також (прислівник з прийменником) назустріч",
     "zh": "入口（地方或行为）；特别是日落或西方；也是（带介词的副词）朝向"
-  }
+  },
+  "verses": [
+    "deuteronomy 11:30",
+    "ezekiel 26:10",
+    "ezekiel 33:31",
+    "ezekiel 42:9",
+    "ezekiel 44:5",
+    "ezekiel 46:19",
+    "firstChronicles 4:39",
+    "firstChronicles 9:19",
+    "jeremiah 38:14",
+    "joshua 1:4",
+    "joshua 23:4",
+    "judges 1:24",
+    "judges 1:25",
+    "malachi 1:11",
+    "proverbs 8:3",
+    "psalms 104:19",
+    "psalms 113:3",
+    "psalms 50:1",
+    "secondChronicles 23:13",
+    "secondChronicles 23:15",
+    "secondKings 11:16",
+    "secondKings 16:18",
+    "zechariah 8:7"
+  ]
 }

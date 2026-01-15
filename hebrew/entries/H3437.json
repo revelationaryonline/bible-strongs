@@ -34,5 +34,11 @@
     "tr": "Yaşub, iki İsraillinin adı",
     "uk": "Яшуб, ім'я двох ізраїльтян",
     "zh": "雅书，两个以色列人的名字"
-  }
+  },
+  "hebrew": "יָשׁוּב",
+  "verses": [
+    "ezra 10:29",
+    "firstChronicles 7:1",
+    "numbers 26:24"
+  ]
 }

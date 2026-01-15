@@ -34,5 +34,16 @@
     "tr": "Ethan, dört İsraillinin adı",
     "uk": "Ітан, ім'я чотирьох ізраїльтян",
     "zh": "伊桑，四个以色列人的名字"
-  }
+  },
+  "hebrew": "אֵיתָן",
+  "verses": [
+    "firstChronicles 15:17",
+    "firstChronicles 15:19",
+    "firstChronicles 2:6",
+    "firstChronicles 2:8",
+    "firstChronicles 6:27",
+    "firstChronicles 6:29",
+    "firstKings 5:11",
+    "psalms 89:1"
+  ]
 }

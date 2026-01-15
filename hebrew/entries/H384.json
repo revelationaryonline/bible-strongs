@@ -34,5 +34,10 @@
     "tr": "Ithiel, bir İsraillinin adı, aynı zamanda sembolik bir kişinin adı",
     "uk": "Ітіель, ім'я ізраїльтянина, а також символічної особи",
     "zh": "伊提尔，以色列人的名字，也是一个象征性人物的名字"
-  }
+  },
+  "hebrew": "אִיתִיאֵל",
+  "verses": [
+    "nehemiah 11:7",
+    "proverbs 30:1"
+  ]
 }

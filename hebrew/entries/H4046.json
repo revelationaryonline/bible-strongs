@@ -35,5 +35,32 @@
     "tr": "bir salgın; benzetme yoluyla, yenilgi",
     "uk": "пошесть; за аналогією, поразка",
     "zh": "瘟疫；比喻失败"
-  }
+  },
+  "verses": [
+    "exodus 9:14",
+    "ezekiel 24:16",
+    "firstChronicles 21:17",
+    "firstChronicles 21:22",
+    "firstSamuel 4:17",
+    "firstSamuel 6:4",
+    "numbers 14:37",
+    "numbers 17:13",
+    "numbers 17:14",
+    "numbers 17:15",
+    "numbers 25:18",
+    "numbers 25:19",
+    "numbers 25:8",
+    "numbers 25:9",
+    "numbers 31:16",
+    "psalms 106:29",
+    "psalms 106:30",
+    "secondChronicles 21:14",
+    "secondSamuel 17:9",
+    "secondSamuel 18:7",
+    "secondSamuel 24:21",
+    "secondSamuel 24:25",
+    "zechariah 14:12",
+    "zechariah 14:15",
+    "zechariah 14:18"
+  ]
 }

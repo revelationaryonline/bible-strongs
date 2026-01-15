@@ -34,5 +34,13 @@
     "tr": "{Elin yayılması, yani avuç içi genişliği (parmakların 'açıklığı' değil); mimari olarak bir korniş (destek avuç içi olarak)}",
     "uk": "{розмах руки, тобто ширина долоні (а не \"розмах\" пальців); в архітектурі - кронштейн (як опорна долоня)}",
     "zh": "{手的张开，即手掌的宽度（而不是手指的 \"宽度\"）；在建筑上是指檐槽（作为支撑手掌）}。"
-  }
+  },
+  "hebrew": "טֹפַח",
+  "verses": [
+    "exodus 25:25",
+    "exodus 37:12",
+    "ezekiel 40:43",
+    "ezekiel 40:5",
+    "ezekiel 43:13"
+  ]
 }

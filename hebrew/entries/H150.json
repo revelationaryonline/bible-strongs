@@ -34,5 +34,10 @@
     "tr": "bir Daric veya Pers sikkesi",
     "uk": "дарійська або перська монета",
     "zh": "达拉钱币"
-  }
+  },
+  "hebrew": "אֲדַרְכֹּן",
+  "verses": [
+    "ezra 8:27",
+    "firstChronicles 29:7"
+  ]
 }

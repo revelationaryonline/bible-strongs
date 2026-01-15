@@ -34,5 +34,32 @@
     "tr": "Abişay, bir İsrailli",
     "uk": "Авішай, ізраїльтянин",
     "zh": "以色列人亚比筛"
-  }
+  },
+  "hebrew": "אֲבִישַׁי",
+  "verses": [
+    "firstChronicles 11:20",
+    "firstChronicles 18:12",
+    "firstChronicles 19:11",
+    "firstChronicles 19:15",
+    "firstChronicles 2:16",
+    "firstSamuel 26:6",
+    "firstSamuel 26:7",
+    "firstSamuel 26:8",
+    "firstSamuel 26:9",
+    "secondSamuel 10:10",
+    "secondSamuel 10:14",
+    "secondSamuel 16:11",
+    "secondSamuel 16:9",
+    "secondSamuel 18:12",
+    "secondSamuel 18:2",
+    "secondSamuel 18:5",
+    "secondSamuel 19:22",
+    "secondSamuel 20:10",
+    "secondSamuel 20:6",
+    "secondSamuel 21:17",
+    "secondSamuel 23:18",
+    "secondSamuel 2:18",
+    "secondSamuel 2:24",
+    "secondSamuel 3:30"
+  ]
 }

@@ -34,5 +34,14 @@
     "tr": "Jachaziel, beş İsraillinin adı",
     "uk": "Яхазіл, ім'я п'яти ізраїльтян",
     "zh": "雅迦谢耳，五个以色列人的名字"
-  }
+  },
+  "hebrew": "יַחֲזִיאֵל",
+  "verses": [
+    "ezra 8:5",
+    "firstChronicles 12:5",
+    "firstChronicles 16:6",
+    "firstChronicles 23:19",
+    "firstChronicles 24:23",
+    "secondChronicles 20:14"
+  ]
 }

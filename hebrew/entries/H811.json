@@ -34,5 +34,17 @@
     "tr": "bir salkım üzüm veya başka bir meyve",
     "uk": "гроно винограду або інших фруктів",
     "zh": "一串葡萄或其他水果"
-  }
+  },
+  "hebrew": "אֶשְׁכּוֹל",
+  "verses": [
+    "deuteronomy 32:32",
+    "genesis 40:10",
+    "isaiah 65:8",
+    "micah 7:1",
+    "numbers 13:23",
+    "numbers 13:24",
+    "solomon 1:14",
+    "solomon 7:8",
+    "solomon 7:9"
+  ]
 }

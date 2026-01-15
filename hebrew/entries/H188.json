@@ -34,5 +34,31 @@
     "tr": "ağıt; ayrıca ünlem olarak Oh!",
     "uk": "плач; також вигук Ох!",
     "zh": "感叹词；也有唉声叹气的哦！"
-  }
+  },
+  "hebrew": "אוֹי",
+  "verses": [
+    "ezekiel 16:23",
+    "ezekiel 24:6",
+    "ezekiel 24:9",
+    "firstSamuel 4:7",
+    "firstSamuel 4:8",
+    "hosea 7:13",
+    "hosea 9:12",
+    "isaiah 24:16",
+    "isaiah 3:11",
+    "isaiah 3:9",
+    "isaiah 6:5",
+    "jeremiah 10:19",
+    "jeremiah 13:27",
+    "jeremiah 15:10",
+    "jeremiah 45:3",
+    "jeremiah 48:46",
+    "jeremiah 4:13",
+    "jeremiah 4:31",
+    "jeremiah 6:4",
+    "lamentations 5:16",
+    "numbers 21:29",
+    "numbers 24:23",
+    "proverbs 23:29"
+  ]
 }

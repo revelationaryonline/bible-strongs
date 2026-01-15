@@ -34,5 +34,14 @@
     "tr": "{Belteshatstsar, Daniel'in Babil'deki adı}",
     "uk": "{Белтешатсар, вавилонське ім'я Даниїла.}",
     "zh": "{贝尔特沙特萨，丹尼尔在巴比伦的名字｝"
-  }
+  },
+  "hebrew": "בֵּלְטְשַׁאצַּר",
+  "verses": [
+    "daniel 2:26",
+    "daniel 4:15",
+    "daniel 4:16",
+    "daniel 4:5",
+    "daniel 4:6",
+    "daniel 5:12"
+  ]
 }

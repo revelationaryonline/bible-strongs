@@ -34,5 +34,9 @@
     "tr": "{bunlar ya da şunlar}",
     "uk": "{ті чи інші}",
     "zh": "{这些或那些}"
-  }
+  },
+  "hebrew": "אֵל",
+  "verses": [
+    "ezra 5:15"
+  ]
 }

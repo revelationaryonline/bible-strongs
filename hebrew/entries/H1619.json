@@ -34,5 +34,11 @@
     "tr": "Gareb, bir İsraillinin adı, ayrıca Kudüs yakınlarında bir tepenin adı",
     "uk": "Гареб, ім'я ізраїльтянина, а також пагорб поблизу Єрусалиму",
     "zh": "加勒布，一个以色列人的名字，也是耶路撒冷附近一座小山的名字"
-  }
+  },
+  "hebrew": "גָּרֵב",
+  "verses": [
+    "firstChronicles 11:40",
+    "jeremiah 31:39",
+    "secondSamuel 23:38"
+  ]
 }

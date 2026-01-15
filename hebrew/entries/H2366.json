@@ -34,5 +34,12 @@
     "tr": "Chushim, üç İsraillinin adı",
     "uk": "Чушім, ім'я трьох ізраїльтян",
     "zh": "丘西姆，三个以色列人的名字"
-  }
+  },
+  "hebrew": "חוּשִׁים",
+  "verses": [
+    "firstChronicles 7:12",
+    "firstChronicles 8:11",
+    "firstChronicles 8:8",
+    "genesis 46:23"
+  ]
 }

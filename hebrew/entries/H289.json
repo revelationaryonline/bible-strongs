@@ -34,5 +34,12 @@
     "tr": "Achiman, bir Anakit ve bir İsraillinin adı",
     "uk": "Ахіман, ім'я анакітянина та ізраїльтянина",
     "zh": "阿希曼，一个亚拿基人和一个以色列人的名字"
-  }
+  },
+  "hebrew": "אֲחִימַן",
+  "verses": [
+    "firstChronicles 9:17",
+    "joshua 15:14",
+    "judges 1:10",
+    "numbers 13:22"
+  ]
 }

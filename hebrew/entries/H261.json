@@ -34,5 +34,9 @@
     "tr": "Echud, üç İsraillinin adı",
     "uk": "Ехуд, ім'я трьох ізраїльтян",
     "zh": "埃古德，三个以色列人的名字"
-  }
+  },
+  "hebrew": "אֵחוּד",
+  "verses": [
+    "firstChronicles 8:6"
+  ]
 }

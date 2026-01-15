@@ -34,5 +34,11 @@
     "tr": "çiftçilik veya mevsimi",
     "uk": "оранка або її сезон",
     "zh": "耕期"
-  }
+  },
+  "hebrew": "חָרִישׁ",
+  "verses": [
+    "exodus 34:21",
+    "firstSamuel 8:12",
+    "genesis 45:6"
+  ]
 }

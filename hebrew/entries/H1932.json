@@ -34,5 +34,30 @@
     "tr": "{he (she or it); self, or (especially with the article) the same; sometimes (as demonstrative) this or that; occasionally (instead of copula) as or are}",
     "uk": "{він (вона або воно); сам, або (особливо з артиклем) той самий; іноді (як демонстрація) цей або той; інколи (замість копули) як або є}",
     "zh": "{他（她或它）；自己，或（尤其是带冠词的）一样；有时（作为状语）这或那；偶尔（代替副词）如或都}。"
-  }
+  },
+  "hebrew": "הוּא",
+  "verses": [
+    "daniel 2:20",
+    "daniel 2:21",
+    "daniel 2:22",
+    "daniel 2:28",
+    "daniel 2:32",
+    "daniel 2:38",
+    "daniel 2:44",
+    "daniel 2:47",
+    "daniel 2:9",
+    "daniel 3:15",
+    "daniel 4:19",
+    "daniel 4:21",
+    "daniel 4:27",
+    "daniel 5:13",
+    "daniel 6:11",
+    "daniel 6:17",
+    "daniel 6:27",
+    "daniel 6:5",
+    "daniel 7:24",
+    "daniel 7:7",
+    "ezra 5:8",
+    "ezra 6:15"
+  ]
 }

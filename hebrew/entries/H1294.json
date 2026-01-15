@@ -34,5 +34,10 @@
     "tr": "Beraka, bir İsraillinin ve aynı zamanda Filistin'de bir vadinin adı",
     "uk": "Берака - ім'я ізраїльтянина, а також назва долини в Палестині",
     "zh": "贝拉卡，一个以色列人的名字，也是巴勒斯坦一个山谷的名字"
-  }
+  },
+  "hebrew": "בְּרָכָה",
+  "verses": [
+    "firstChronicles 12:3",
+    "secondChronicles 20:26"
+  ]
 }

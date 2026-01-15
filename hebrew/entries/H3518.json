@@ -34,5 +34,32 @@
     "tr": "sona erdirmek veya (nedensel olarak) söndürmek (ateş, ışık, öfke)",
     "uk": "закінчуватися або (причинно) гаснути (вогонь, світло, гнів)",
     "zh": "熄灭或（因果关系）熄灭（火、光、愤怒）"
-  }
+  },
+  "hebrew": "כָּבָה",
+  "verses": [
+    "amos 5:6",
+    "ezekiel 21:3",
+    "ezekiel 21:4",
+    "ezekiel 32:7",
+    "firstSamuel 3:3",
+    "isaiah 1:31",
+    "isaiah 34:10",
+    "isaiah 42:3",
+    "isaiah 43:17",
+    "isaiah 66:24",
+    "jeremiah 17:27",
+    "jeremiah 21:12",
+    "jeremiah 4:4",
+    "jeremiah 7:20",
+    "leviticus 6:5",
+    "leviticus 6:6",
+    "proverbs 26:20",
+    "proverbs 31:18",
+    "secondChronicles 29:7",
+    "secondChronicles 34:25",
+    "secondKings 22:17",
+    "secondSamuel 14:7",
+    "secondSamuel 21:17",
+    "solomon 8:7"
+  ]
 }

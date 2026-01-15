@@ -34,5 +34,10 @@
     "tr": "varlık, sadece zarf olarak kullanılır, var veya vardır",
     "uk": "сутність, що вживається тільки прислівниково, є або є",
     "zh": "实体，仅用于副词，有或有"
-  }
+  },
+  "hebrew": "אִשׁ",
+  "verses": [
+    "micah 6:10",
+    "secondSamuel 14:19"
+  ]
 }

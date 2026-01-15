@@ -35,5 +35,26 @@
     "tr": "geri çekilmek (hem gerçek hem de mecazi anlamda, ister geçişsiz ister geçişli olsun)",
     "uk": "виходити (як у прямому, так і в переносному значенні, незалежно від того, чи є він перехідним або неперехідним)",
     "zh": "退避（无论是字面意义还是比喻意义，无论是不及物动词还是及物动词）"
-  }
+  },
+  "verses": [
+    "exodus 13:22",
+    "exodus 33:11",
+    "isaiah 22:25",
+    "isaiah 46:7",
+    "isaiah 54:10",
+    "isaiah 59:21",
+    "jeremiah 17:8",
+    "jeremiah 31:36",
+    "job 23:12",
+    "joshua 1:8",
+    "judges 6:18",
+    "micah 2:3",
+    "micah 2:4",
+    "nahum 3:1",
+    "numbers 14:44",
+    "proverbs 17:13",
+    "psalms 55:12",
+    "zechariah 14:4",
+    "zechariah 3:9"
+  ]
 }

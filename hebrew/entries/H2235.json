@@ -34,5 +34,10 @@
     "tr": "ekilen bir şey (sadece çoğul olarak), yani bir sebze (yiyecek olarak)",
     "uk": "щось посіяне (тільки у множині), тобто овоч (як їжа)",
     "zh": "播种的东西（只有复数），即蔬菜（作为食物）"
-  }
+  },
+  "hebrew": "זֵרֹעַ",
+  "verses": [
+    "daniel 1:12",
+    "daniel 1:16"
+  ]
 }

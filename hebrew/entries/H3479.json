@@ -34,5 +34,15 @@
     "tr": "{Yisrael, Yakup'un sembolik adı; ayrıca (tipik olarak) onun soyundan gelenlerin adı}",
     "uk": "{Ісраель, символічне ім'я Якова; також (зазвичай) його нащадків}",
     "zh": "{吉斯拉，雅各布的象征性名字；也（典型地）指他的子孙后代}......"
-  }
+  },
+  "hebrew": "יִשְׂרָאֵל",
+  "verses": [
+    "ezra 5:1",
+    "ezra 5:11",
+    "ezra 6:14",
+    "ezra 6:16",
+    "ezra 6:17",
+    "ezra 7:13",
+    "ezra 7:15"
+  ]
 }

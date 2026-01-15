@@ -34,5 +34,31 @@
     "tr": "yırtılmış bir şey, yani bir parça, örneğin taze bir yaprak, av, yiyecek",
     "uk": "щось розірване, тобто фрагмент, наприклад, свіжий листок, здобич, їжа",
     "zh": "被撕裂的东西，即碎片，例如新鲜的叶子、猎物、食物"
-  }
+  },
+  "hebrew": "טֶרֶף",
+  "verses": [
+    "amos 3:4",
+    "ezekiel 17:9",
+    "ezekiel 19:3",
+    "ezekiel 19:6",
+    "ezekiel 22:25",
+    "ezekiel 22:27",
+    "genesis 49:9",
+    "isaiah 31:4",
+    "isaiah 5:29",
+    "job 24:5",
+    "job 29:17",
+    "job 38:39",
+    "job 4:11",
+    "malachi 3:10",
+    "nahum 2:13",
+    "nahum 2:14",
+    "nahum 3:1",
+    "numbers 23:24",
+    "proverbs 31:15",
+    "psalms 104:21",
+    "psalms 111:5",
+    "psalms 124:6",
+    "psalms 76:5"
+  ]
 }

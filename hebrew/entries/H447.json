@@ -34,5 +34,18 @@
     "tr": "Eliel, dokuz İsraillinin adı",
     "uk": "Еліель, ім'я дев'яти ізраїльтян",
     "zh": "以利尔，九个以色列人的名字"
-  }
+  },
+  "hebrew": "אֱלִיאֵל",
+  "verses": [
+    "firstChronicles 11:46",
+    "firstChronicles 11:47",
+    "firstChronicles 12:12",
+    "firstChronicles 15:11",
+    "firstChronicles 15:9",
+    "firstChronicles 5:24",
+    "firstChronicles 6:19",
+    "firstChronicles 8:20",
+    "firstChronicles 8:22",
+    "secondChronicles 31:13"
+  ]
 }

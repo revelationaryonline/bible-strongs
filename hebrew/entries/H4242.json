@@ -35,5 +35,22 @@
     "tr": "fiyat, ödeme, ücretler",
     "uk": "ціна, оплата, заробітна плата",
     "zh": "价格、付款、工资"
-  }
+  },
+  "verses": [
+    "daniel 11:39",
+    "deuteronomy 23:19",
+    "firstKings 10:28",
+    "firstKings 21:2",
+    "isaiah 45:13",
+    "isaiah 55:1",
+    "jeremiah 15:13",
+    "job 28:15",
+    "lamentations 5:4",
+    "micah 3:11",
+    "proverbs 17:16",
+    "proverbs 27:26",
+    "psalms 44:13",
+    "secondChronicles 1:16",
+    "secondSamuel 24:24"
+  ]
 }

@@ -34,5 +34,10 @@
     "tr": "bir Arvadlı veya Arvad vatandaşı",
     "uk": "арвадієць або громадянин Арвада",
     "zh": "阿瓦德人或阿瓦德公民"
-  }
+  },
+  "hebrew": "אַרְוָדִי",
+  "verses": [
+    "firstChronicles 1:16",
+    "genesis 10:18"
+  ]
 }
