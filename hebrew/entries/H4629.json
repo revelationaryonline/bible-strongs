@@ -6,6 +6,9 @@
   "definition": "a nude place, i.e. a common",
   "kjvTranslation": "meadows.",
   "hebrew": "מַעֲרֶה",
+  "verses": [
+    "judges 20:33"
+  ],
   "translations": {
     "bg": "голо място, т.е. общо",
     "cs": "nahé místo, tj. společné místo",
@@ -35,8 +38,5 @@
     "tr": "çıplak bir yer, yani ortak bir",
     "uk": "оголене місце, тобто загальне",
     "zh": "裸地，即公共场所"
-  },
-  "verses": [
-    "judges 20:33"
-  ]
+  }
 }

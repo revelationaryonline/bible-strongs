@@ -6,6 +6,15 @@
   "definition": "a magazine",
   "kjvTranslation": "store(-house), treasure.",
   "hebrew": "מִסְכְּנָה",
+  "verses": [
+    "exodus 1:11",
+    "firstKings 9:19",
+    "secondChronicles 16:4",
+    "secondChronicles 17:12",
+    "secondChronicles 32:28",
+    "secondChronicles 8:4",
+    "secondChronicles 8:6"
+  ],
   "translations": {
     "bg": "списание",
     "cs": "časopis",
@@ -35,14 +44,5 @@
     "tr": "bir dergi",
     "uk": "журнал",
     "zh": "杂志"
-  },
-  "verses": [
-    "exodus 1:11",
-    "firstKings 9:19",
-    "secondChronicles 16:4",
-    "secondChronicles 17:12",
-    "secondChronicles 32:28",
-    "secondChronicles 8:4",
-    "secondChronicles 8:6"
-  ]
+  }
 }

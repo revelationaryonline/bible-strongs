@@ -6,6 +6,9 @@
   "definition": "anguish",
   "kjvTranslation": "sorrow.",
   "hebrew": "מַעֲצֵבָה",
+  "verses": [
+    "isaiah 50:11"
+  ],
   "translations": {
     "bg": "мъка",
     "cs": "úzkost",
@@ -35,8 +38,5 @@
     "tr": "ızdırap",
     "uk": "страждання",
     "zh": "痛楚"
-  },
-  "verses": [
-    "isaiah 50:11"
-  ]
+  }
 }

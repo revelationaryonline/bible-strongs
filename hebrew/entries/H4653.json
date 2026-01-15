@@ -6,6 +6,9 @@
   "definition": "a classification",
   "kjvTranslation": "division.",
   "hebrew": "מִפְלַגָּה",
+  "verses": [
+    "secondChronicles 35:12"
+  ],
   "translations": {
     "bg": "класификация",
     "cs": "klasifikace",
@@ -35,8 +38,5 @@
     "tr": "bir sınıflandırma",
     "uk": "класифікацію",
     "zh": "分类"
-  },
-  "verses": [
-    "secondChronicles 35:12"
-  ]
+  }
 }

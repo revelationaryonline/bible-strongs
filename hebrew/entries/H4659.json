@@ -6,6 +6,11 @@
   "definition": "a performance",
   "kjvTranslation": "work.",
   "hebrew": "מִפְעָל",
+  "verses": [
+    "proverbs 8:22",
+    "psalms 46:9",
+    "psalms 66:5"
+  ],
   "translations": {
     "bg": "представяне",
     "cs": "představení",
@@ -35,10 +40,5 @@
     "tr": "bir performans",
     "uk": "виступ",
     "zh": "演出"
-  },
-  "verses": [
-    "proverbs 8:22",
-    "psalms 46:9",
-    "psalms 66:5"
-  ]
+  }
 }

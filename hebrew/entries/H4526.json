@@ -6,6 +6,22 @@
   "definition": "something enclosing, i.e. a margin (of a region, of a panel); concretely, a stronghold",
   "kjvTranslation": "border, close place, hole.",
   "hebrew": "מִסְגֶּרֶת",
+  "verses": [
+    "exodus 25:25",
+    "exodus 25:27",
+    "exodus 37:12",
+    "exodus 37:14",
+    "firstKings 7:28",
+    "firstKings 7:29",
+    "firstKings 7:31",
+    "firstKings 7:32",
+    "firstKings 7:35",
+    "firstKings 7:36",
+    "micah 7:17",
+    "psalms 18:46",
+    "secondKings 16:17",
+    "secondSamuel 22:46"
+  ],
   "translations": {
     "bg": "нещо, което огражда, т.е. край (на област, на панел); по-конкретно крепост",
     "cs": "něco ohraničujícího, tj. okraj (oblasti, panelu); konkrétně pevnost",
@@ -35,21 +51,5 @@
     "tr": "çevreleyen bir şey, yani bir kenar (bir bölgenin, bir panelin); somut olarak, bir kale",
     "uk": "щось огороджувальне, тобто край (регіону, панелі); конкретно - фортеця",
     "zh": "围起来的东西，即边缘（区域、板块的边缘）；具体指一个据点"
-  },
-  "verses": [
-    "exodus 25:25",
-    "exodus 25:27",
-    "exodus 37:12",
-    "exodus 37:14",
-    "firstKings 7:28",
-    "firstKings 7:29",
-    "firstKings 7:31",
-    "firstKings 7:32",
-    "firstKings 7:35",
-    "firstKings 7:36",
-    "micah 7:17",
-    "psalms 18:46",
-    "secondKings 16:17",
-    "secondSamuel 22:46"
-  ]
+  }
 }

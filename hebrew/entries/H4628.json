@@ -6,6 +6,22 @@
   "definition": "the west (as a region of the evening sun)",
   "kjvTranslation": "west.",
   "hebrew": "מַעֲרָב",
+  "verses": [
+    "daniel 8:5",
+    "firstChronicles 12:16",
+    "firstChronicles 26:16",
+    "firstChronicles 26:18",
+    "firstChronicles 26:30",
+    "firstChronicles 7:28",
+    "isaiah 43:5",
+    "isaiah 45:6",
+    "isaiah 59:19",
+    "psalms 103:12",
+    "psalms 107:3",
+    "psalms 75:7",
+    "secondChronicles 32:30",
+    "secondChronicles 33:14"
+  ],
   "translations": {
     "bg": "запад (като район на вечерното слънце)",
     "cs": "západ (jako oblast večerního slunce)",
@@ -35,21 +51,5 @@
     "tr": "batı (akşam güneşinin bir bölgesi olarak)",
     "uk": "захід (як регіон вечірнього сонця)",
     "zh": "西边"
-  },
-  "verses": [
-    "daniel 8:5",
-    "firstChronicles 12:16",
-    "firstChronicles 26:16",
-    "firstChronicles 26:18",
-    "firstChronicles 26:30",
-    "firstChronicles 7:28",
-    "isaiah 43:5",
-    "isaiah 45:6",
-    "isaiah 59:19",
-    "psalms 103:12",
-    "psalms 107:3",
-    "psalms 75:7",
-    "secondChronicles 32:30",
-    "secondChronicles 33:14"
-  ]
+  }
 }

@@ -6,6 +6,14 @@
   "definition": "Maon, the name of an Israelite and of a place in Palestine",
   "kjvTranslation": "Maon, Maonites. Compare H1010 (בֵּית בַּעַל מְעוֹן), H4586 (מְעוּנִי)lemma מְעוּנָי third vowel, corrected to מְעוּנִי.",
   "hebrew": "מָעוֹן",
+  "verses": [
+    "firstChronicles 2:45",
+    "firstSamuel 23:24",
+    "firstSamuel 23:25",
+    "firstSamuel 25:2",
+    "joshua 15:55",
+    "judges 10:12"
+  ],
   "translations": {
     "bg": "Маон, име на израилтянин и на място в Палестина",
     "cs": "Maon, jméno Izraelity a místa v Palestině",
@@ -35,13 +43,5 @@
     "tr": "Maon, bir İsraillinin ve Filistin'de bir yerin adı",
     "uk": "Маон - ім'я ізраїльтянина та місцевість у Палестині",
     "zh": "马翁，一个以色列人的名字和巴勒斯坦的一个地名"
-  },
-  "verses": [
-    "firstChronicles 2:45",
-    "firstSamuel 23:24",
-    "firstSamuel 23:25",
-    "firstSamuel 25:2",
-    "joshua 15:55",
-    "judges 10:12"
-  ]
+  }
 }

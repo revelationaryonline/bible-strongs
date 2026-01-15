@@ -6,6 +6,24 @@
   "definition": "a track (literally or figuratively); also a rampart (as circular)",
   "kjvTranslation": "going, path, trench, way(-side).",
   "hebrew": "מַעְגָּל",
+  "verses": [
+    "firstSamuel 17:20",
+    "firstSamuel 26:5",
+    "firstSamuel 26:7",
+    "isaiah 26:7",
+    "isaiah 59:8",
+    "proverbs 2:15",
+    "proverbs 2:18",
+    "proverbs 2:9",
+    "proverbs 4:11",
+    "proverbs 4:26",
+    "proverbs 5:21",
+    "proverbs 5:6",
+    "psalms 140:6",
+    "psalms 17:5",
+    "psalms 23:3",
+    "psalms 65:12"
+  ],
   "translations": {
     "bg": "път (буквално или преносно); също и крепостна стена (като кръгла)",
     "cs": "dráha (doslova nebo obrazně); také val (jako kruhový)",
@@ -35,23 +53,5 @@
     "tr": "bir yol (gerçek veya mecazi anlamda); ayrıca bir sur (dairesel olarak)",
     "uk": "колія (у прямому чи переносному значенні); також вал (як круглий)",
     "zh": "甬道（字面意思或比喻意思）；也指（环形的）城墙"
-  },
-  "verses": [
-    "firstSamuel 17:20",
-    "firstSamuel 26:5",
-    "firstSamuel 26:7",
-    "isaiah 26:7",
-    "isaiah 59:8",
-    "proverbs 2:15",
-    "proverbs 2:18",
-    "proverbs 2:9",
-    "proverbs 4:11",
-    "proverbs 4:26",
-    "proverbs 5:21",
-    "proverbs 5:6",
-    "psalms 140:6",
-    "psalms 17:5",
-    "psalms 23:3",
-    "psalms 65:12"
-  ]
+  }
 }

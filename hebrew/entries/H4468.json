@@ -6,6 +6,17 @@
   "definition": "{dominion, i.e. (abstractly) the estate (rule) or (concretely) the country (realm)}",
   "kjvTranslation": "kingdom, reign.",
   "hebrew": "מַמְלָכוּת",
+  "verses": [
+    "firstSamuel 15:28",
+    "hosea 1:4",
+    "jeremiah 26:1",
+    "joshua 13:12",
+    "joshua 13:21",
+    "joshua 13:27",
+    "joshua 13:30",
+    "joshua 13:31",
+    "secondSamuel 16:3"
+  ],
   "translations": {
     "bg": "{Доминион, т.е. (абстрактно) имение (управление) или (конкретно) държава (царство)}",
     "cs": "{panství, tj. (abstraktně) panství (vláda) nebo (konkrétně) země (říše)}",
@@ -35,16 +46,5 @@
     "tr": "{hâkimiyet, yani (soyut olarak) mülk (yönetim) veya (somut olarak) ülke (krallık)}",
     "uk": "{домініон, тобто (абстрактно) володіння (правління) або (конкретно) країна (царство)}",
     "zh": "{统治，即（抽象地）产业（统治）或（具体地说）国家（领域）}。"
-  },
-  "verses": [
-    "firstSamuel 15:28",
-    "hosea 1:4",
-    "jeremiah 26:1",
-    "joshua 13:12",
-    "joshua 13:21",
-    "joshua 13:27",
-    "joshua 13:30",
-    "joshua 13:31",
-    "secondSamuel 16:3"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "a pile of rubbish (as contorted), i.e. a ruin",
   "kjvTranslation": "heap.",
   "hebrew": "מְעִי",
+  "verses": [
+    "isaiah 17:1"
+  ],
   "translations": {
     "bg": "купчина боклук (изкривен), т.е. развалина",
     "cs": "hromada odpadků (jako pokroucená), tj. ruina",
@@ -35,8 +38,5 @@
     "tr": "bir çöp yığını (çarpıtılmış olarak), yani bir harabe",
     "uk": "купа сміття (у спотвореному вигляді), тобто руїна",
     "zh": "一堆废墟"
-  },
-  "verses": [
-    "isaiah 17:1"
-  ]
+  }
 }

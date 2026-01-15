@@ -6,6 +6,10 @@
   "definition": "numbered",
   "kjvTranslation": "Mene.",
   "hebrew": "מְנֵא",
+  "verses": [
+    "daniel 5:25",
+    "daniel 5:26"
+  ],
   "translations": {
     "bg": "номерирани",
     "cs": "číslované",
@@ -35,9 +39,5 @@
     "tr": "numaralı",
     "uk": "пронумеровані",
     "zh": "编号"
-  },
-  "verses": [
-    "daniel 5:25",
-    "daniel 5:26"
-  ]
+  }
 }

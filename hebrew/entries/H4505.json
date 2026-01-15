@@ -6,6 +6,16 @@
   "definition": "Menachem, an Israelite",
   "kjvTranslation": "Menahem.",
   "hebrew": "מְנַחֵם",
+  "verses": [
+    "secondKings 15:14",
+    "secondKings 15:16",
+    "secondKings 15:17",
+    "secondKings 15:19",
+    "secondKings 15:20",
+    "secondKings 15:21",
+    "secondKings 15:22",
+    "secondKings 15:23"
+  ],
   "translations": {
     "bg": "Менахем, израилтянин",
     "cs": "Menachem, Izraelita",
@@ -35,15 +45,5 @@
     "tr": "Menachem, bir İsrailli",
     "uk": "Менахем, ізраїльтянин",
     "zh": "以色列人梅纳希姆"
-  },
-  "verses": [
-    "secondKings 15:14",
-    "secondKings 15:16",
-    "secondKings 15:17",
-    "secondKings 15:19",
-    "secondKings 15:20",
-    "secondKings 15:21",
-    "secondKings 15:22",
-    "secondKings 15:23"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "a poising",
   "kjvTranslation": "balancing.",
   "hebrew": "מִפְלָשׂ",
+  "verses": [
+    "job 37:16"
+  ],
   "translations": {
     "bg": "уравновесяване",
     "cs": "vyrovnaný",
@@ -35,8 +38,5 @@
     "tr": "bir duruş",
     "uk": "врівноваження",
     "zh": "蓄势"
-  },
-  "verses": [
-    "job 37:16"
-  ]
+  }
 }

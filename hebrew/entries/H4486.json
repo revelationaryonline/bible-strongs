@@ -6,6 +6,12 @@
   "definition": "wisdom or intelligence",
   "kjvTranslation": "knowledge, reason, understanding.",
   "hebrew": "מַנְדַּע",
+  "verses": [
+    "daniel 2:21",
+    "daniel 4:31",
+    "daniel 4:33",
+    "daniel 5:12"
+  ],
   "translations": {
     "bg": "мъдрост или интелигентност",
     "cs": "moudrost nebo inteligence",
@@ -35,11 +41,5 @@
     "tr": "bilgelik veya zeka",
     "uk": "мудрість або інтелект",
     "zh": "智慧"
-  },
-  "verses": [
-    "daniel 2:21",
-    "daniel 4:31",
-    "daniel 4:33",
-    "daniel 5:12"
-  ]
+  }
 }

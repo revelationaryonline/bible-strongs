@@ -6,6 +6,10 @@
   "definition": "a falling off, i.e. chaff; also something pendulous, i.e. a flap",
   "kjvTranslation": "flake, refuse.",
   "hebrew": "מַפָּל",
+  "verses": [
+    "amos 8:6",
+    "job 41:15"
+  ],
   "translations": {
     "bg": "отпадане, т.е. плява; също и нещо висящо, т.е. клапа",
     "cs": "odpadávání, tj. plevy; také něco převislého, tj. klapka",
@@ -35,9 +39,5 @@
     "tr": "düşmek, yani saman; ayrıca sarkık bir şey, yani bir kanat",
     "uk": "те, що відпадає, тобто полова; також щось маятникове, тобто стулка",
     "zh": "脱落，即糠秕；也指下垂的东西，即襟翼"
-  },
-  "verses": [
-    "amos 8:6",
-    "job 41:15"
-  ]
+  }
 }

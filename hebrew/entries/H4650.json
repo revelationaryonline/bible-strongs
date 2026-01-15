@@ -6,6 +6,9 @@
   "definition": "a breaker, i.e. mallet",
   "kjvTranslation": "maul.",
   "hebrew": "מֵפִיץ",
+  "verses": [
+    "proverbs 25:18"
+  ],
   "translations": {
     "bg": "чук, т.е. чукче",
     "cs": "rozbrušovačka, tj. palička",
@@ -35,8 +38,5 @@
     "tr": "bir kırıcı, yani tokmak",
     "uk": "брейкер, тобто молоток",
     "zh": "槌"
-  },
-  "verses": [
-    "proverbs 25:18"
-  ]
+  }
 }

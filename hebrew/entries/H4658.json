@@ -6,6 +6,16 @@
   "definition": "fall, i.e. decadence; concretely, a ruin; specifically a carcase",
   "kjvTranslation": "carcase, fall, ruin.",
   "hebrew": "מַפֶּלֶת",
+  "verses": [
+    "ezekiel 26:15",
+    "ezekiel 26:18",
+    "ezekiel 27:27",
+    "ezekiel 31:13",
+    "ezekiel 31:16",
+    "ezekiel 32:10",
+    "judges 14:8",
+    "proverbs 29:16"
+  ],
   "translations": {
     "bg": "падение, т.е. упадък; конкретно, развалина; по-специално труп",
     "cs": "pád, tj. úpadek; konkrétně zřícenina; konkrétně mrtvola",
@@ -35,15 +45,5 @@
     "tr": "düşüş, yani çöküş; somut olarak bir harabe; özellikle bir ceset",
     "uk": "падіння, тобто занепад; конкретно - руїна; конкретно - туша",
     "zh": "堕落，即颓废；具体地说，就是废墟；具体地说，就是一具尸体"
-  },
-  "verses": [
-    "ezekiel 26:15",
-    "ezekiel 26:18",
-    "ezekiel 27:27",
-    "ezekiel 31:13",
-    "ezekiel 31:16",
-    "ezekiel 32:10",
-    "judges 14:8",
-    "proverbs 29:16"
-  ]
+  }
 }

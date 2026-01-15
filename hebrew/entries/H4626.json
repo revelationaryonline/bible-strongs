@@ -6,6 +6,10 @@
   "definition": "a nude place, i.e. (literally) the pudenda, or (figuratively) a vacant space",
   "kjvTranslation": "nakedness, proportion.",
   "hebrew": "מַעַר",
+  "verses": [
+    "firstKings 7:36",
+    "nahum 3:5"
+  ],
   "translations": {
     "bg": "голо място, т.е. (буквално) пудендата или (преносно) празно пространство",
     "cs": "nahé místo, tj. (doslova) pudenda nebo (přeneseně) volný prostor",
@@ -35,9 +39,5 @@
     "tr": "çıplak bir yer, yani (gerçek anlamda) pudenda veya (mecazi anlamda) boş bir alan",
     "uk": "оголене місце, тобто (буквально) пуденда, або (образно) порожній простір",
     "zh": "裸处，即（字面意思）阴户，或（比喻）空地"
-  },
-  "verses": [
-    "firstKings 7:36",
-    "nahum 3:5"
-  ]
+  }
 }

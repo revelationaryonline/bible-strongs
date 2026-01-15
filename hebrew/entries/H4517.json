@@ -6,6 +6,9 @@
   "definition": "a sistrum (so called from its rattling sound)",
   "kjvTranslation": "cornet.",
   "hebrew": "מְנַעְנַע",
+  "verses": [
+    "secondSamuel 6:5"
+  ],
   "translations": {
     "bg": "sistrum (наречен така заради дрънчащия си звук)",
     "cs": "sistrum (nazývané tak podle chrastivého zvuku)",
@@ -35,8 +38,5 @@
     "tr": "bir sistrum (çıngırak sesinden dolayı böyle adlandırılır)",
     "uk": "систрум (названий так через свій брязкаючий звук)",
     "zh": "响板"
-  },
-  "verses": [
-    "secondSamuel 6:5"
-  ]
+  }
 }

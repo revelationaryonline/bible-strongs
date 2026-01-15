@@ -6,6 +6,9 @@
   "definition": "a possession",
   "kjvTranslation": "breeding.",
   "hebrew": "מִמְשָׁק",
+  "verses": [
+    "zephaniah 2:9"
+  ],
   "translations": {
     "bg": "притежание",
     "cs": "vlastnictví",
@@ -35,8 +38,5 @@
     "tr": "bir mülkiyet",
     "uk": "володіння",
     "zh": "拥有"
-  },
-  "verses": [
-    "zephaniah 2:9"
-  ]
+  }
 }

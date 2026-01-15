@@ -6,6 +6,9 @@
   "definition": "a balustrade (for stairs)",
   "kjvTranslation": "pillar.",
   "hebrew": "מִסְעָד",
+  "verses": [
+    "firstKings 10:12"
+  ],
   "translations": {
     "bg": "балюстрада (за стълби)",
     "cs": "zábradlí (pro schody)",
@@ -35,8 +38,5 @@
     "tr": "bir korkuluk (merdivenler için)",
     "uk": "балюстрада (для сходів)",
     "zh": "栏杆"
-  },
-  "verses": [
-    "firstKings 10:12"
-  ]
+  }
 }

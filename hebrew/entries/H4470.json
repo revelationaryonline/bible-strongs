@@ -6,6 +6,9 @@
   "definition": "sorrow",
   "kjvTranslation": "bitterness.",
   "hebrew": "מֶמֶר",
+  "verses": [
+    "proverbs 17:25"
+  ],
   "translations": {
     "bg": "скръб",
     "cs": "smutek",
@@ -35,8 +38,5 @@
     "tr": "üzüntü",
     "uk": "скорбота",
     "zh": "悲伤"
-  },
-  "verses": [
-    "proverbs 17:25"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "a continuator, i.e. heir",
   "kjvTranslation": "son.",
   "hebrew": "מָנוֹן",
+  "verses": [
+    "proverbs 29:21"
+  ],
   "translations": {
     "bg": "продължител, т.е. наследник",
     "cs": "pokračovatel, tj. dědic",
@@ -35,8 +38,5 @@
     "tr": "bir devam ettirici, yani mirasçı",
     "uk": "продовжувач, тобто спадкоємець",
     "zh": "延续者，即继承人"
-  },
-  "verses": [
-    "proverbs 29:21"
-  ]
+  }
 }

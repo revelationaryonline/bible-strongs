@@ -6,6 +6,9 @@
   "definition": "Maasai, an Israelite",
   "kjvTranslation": "Maasiai.",
   "hebrew": "מַעֲשַׂי",
+  "verses": [
+    "firstChronicles 9:12"
+  ],
   "translations": {
     "bg": "Масаи, израилтянин",
     "cs": "Masaj, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Maasai, bir İsrailli",
     "uk": "Масаї, ізраїльтянин",
     "zh": "马赛人"
-  },
-  "verses": [
-    "firstChronicles 9:12"
-  ]
+  }
 }

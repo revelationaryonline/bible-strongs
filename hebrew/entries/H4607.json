@@ -6,6 +6,9 @@
   "definition": "a raising (of the hands)",
   "kjvTranslation": "lifting up.",
   "hebrew": "מֹעַל",
+  "verses": [
+    "nehemiah 8:6"
+  ],
   "translations": {
     "bg": "вдигане (на ръцете)",
     "cs": "zvednutí (rukou)",
@@ -35,8 +38,5 @@
     "tr": "(ellerin) kaldırılması",
     "uk": "підняття (рук)",
     "zh": "举手"
-  },
-  "verses": [
-    "nehemiah 8:6"
-  ]
+  }
 }

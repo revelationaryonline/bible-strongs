@@ -6,6 +6,20 @@
   "definition": "literally a whatness (so to speak), i.e. manna (so called from the question about it)",
   "kjvTranslation": "manna.",
   "hebrew": "מָן",
+  "verses": [
+    "deuteronomy 8:16",
+    "deuteronomy 8:3",
+    "exodus 16:15",
+    "exodus 16:31",
+    "exodus 16:33",
+    "exodus 16:35",
+    "joshua 5:12",
+    "nehemiah 9:20",
+    "numbers 11:6",
+    "numbers 11:7",
+    "numbers 11:9",
+    "psalms 78:24"
+  ],
   "translations": {
     "bg": "буквално какво (така да се каже), т.е. манна (наречена така от въпроса за нея)",
     "cs": "doslova co (takříkajíc), tj. manna (tak se nazývá podle otázky na ni)",
@@ -35,19 +49,5 @@
     "tr": "kelimenin tam anlamıyla bir şeylik (tabiri caizse), yani manna (hakkındaki sorudan dolayı böyle adlandırılmıştır)",
     "uk": "буквально \"що є\" (так би мовити), тобто манна (названа так від питання про неї)",
     "zh": "字面意思是 \"什么\"（可以这么说），即 \"吗哪（因关于它的问题而得名）\"。"
-  },
-  "verses": [
-    "deuteronomy 8:16",
-    "deuteronomy 8:3",
-    "exodus 16:15",
-    "exodus 16:31",
-    "exodus 16:33",
-    "exodus 16:35",
-    "joshua 5:12",
-    "nehemiah 9:20",
-    "numbers 11:6",
-    "numbers 11:7",
-    "numbers 11:9",
-    "psalms 78:24"
-  ]
+  }
 }

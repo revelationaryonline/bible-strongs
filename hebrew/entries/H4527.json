@@ -6,6 +6,9 @@
   "definition": "a foundation",
   "kjvTranslation": "foundation.",
   "hebrew": "מַסַּד",
+  "verses": [
+    "firstKings 7:9"
+  ],
   "translations": {
     "bg": "основа",
     "cs": "nadace",
@@ -35,8 +38,5 @@
     "tr": "bir vakıf",
     "uk": "фундамент",
     "zh": "奠基石"
-  },
-  "verses": [
-    "firstKings 7:9"
-  ]
+  }
 }

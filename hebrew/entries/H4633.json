@@ -6,6 +6,9 @@
   "definition": "an arrangement, i.e. (figuratively) mental disposition",
   "kjvTranslation": "preparation.",
   "hebrew": "מַעֲרָךְ",
+  "verses": [
+    "proverbs 16:1"
+  ],
   "translations": {
     "bg": "подреденост, т.е. (в преносен смисъл) умствена нагласа",
     "cs": "uspořádání, tj. (přeneseně) duševní dispozice",
@@ -35,8 +38,5 @@
     "tr": "bir düzenleme, yani (mecazi olarak) zihinsel eğilim",
     "uk": "аранжування, тобто (образно) ментальна диспозиція",
     "zh": "一种安排，即（比喻）心理倾向"
-  },
-  "verses": [
-    "proverbs 16:1"
-  ]
+  }
 }

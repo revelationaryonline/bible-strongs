@@ -6,6 +6,9 @@
   "definition": "the bellows (i.e. blower) of aforge",
   "kjvTranslation": "bellows.",
   "hebrew": "מַפֻּחַ",
+  "verses": [
+    "jeremiah 6:29"
+  ],
   "translations": {
     "bg": "мехът (т.е. вентилаторът) на ковачницата",
     "cs": "měch (tj. dmychadlo) kovárny",
@@ -35,8 +38,5 @@
     "tr": "bir demirhanenin körüğü (yani üfleyici)",
     "uk": "сильфон (тобто повітродувка) ковадла",
     "zh": "风箱"
-  },
-  "verses": [
-    "jeremiah 6:29"
-  ]
+  }
 }

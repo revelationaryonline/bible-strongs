@@ -6,6 +6,9 @@
   "definition": "nakedness, i.e. (in plural) the pudenda",
   "kjvTranslation": "nakedness.",
   "hebrew": "מָעוֹר",
+  "verses": [
+    "habakkuk 2:15"
+  ],
   "translations": {
     "bg": "голотата, т.е. (в множествено число) пудендата",
     "cs": "nahota, tj. (v množném čísle) pudenda",
@@ -35,8 +38,5 @@
     "tr": "çıplaklık, yani (çoğul olarak) pudenda",
     "uk": "оголеність, тобто (у множині) пуденди",
     "zh": "裸体，即（复数）阴部"
-  },
-  "verses": [
-    "habakkuk 2:15"
-  ]
+  }
 }

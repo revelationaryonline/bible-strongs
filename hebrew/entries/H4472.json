@@ -6,6 +6,9 @@
   "definition": "a bitterness, i.e. (figuratively) calamity",
   "kjvTranslation": "bitterness.",
   "hebrew": "מַמְרֹר",
+  "verses": [
+    "job 9:18"
+  ],
   "translations": {
     "bg": "горчивина, т.е. (в преносен смисъл) бедствие",
     "cs": "hořkost, tj. (přeneseně) neštěstí",
@@ -35,8 +38,5 @@
     "tr": "bir acı, yani (mecazi olarak) felaket",
     "uk": "гіркота, тобто (образно) лихо",
     "zh": "苦，即（比喻）灾难"
-  },
-  "verses": [
-    "job 9:18"
-  ]
+  }
 }

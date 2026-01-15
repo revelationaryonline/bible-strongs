@@ -6,6 +6,11 @@
   "definition": "to press, i.e. to pierce, emasculate, handle",
   "kjvTranslation": "bruised, stuck, be pressed.",
   "hebrew": "מָעַךְ",
+  "verses": [
+    "ezekiel 23:3",
+    "firstSamuel 26:7",
+    "leviticus 22:24"
+  ],
   "translations": {
     "bg": "да притискам, т.е. да пробивам, кастрирам, обработвам",
     "cs": "stisknout, tj. propíchnout, vykastrovat, zpracovat",
@@ -35,10 +40,5 @@
     "tr": "bastırmak, yani delmek, iğdiş etmek, ele almak",
     "uk": "тиснути, тобто пронизувати, вихолощувати, обробляти",
     "zh": "按，即刺穿、阉割、处理"
-  },
-  "verses": [
-    "ezekiel 23:3",
-    "firstSamuel 26:7",
-    "leviticus 22:24"
-  ]
+  }
 }

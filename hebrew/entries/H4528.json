@@ -6,6 +6,9 @@
   "definition": "a colonnade or internal portico (from its rows of pillars)",
   "kjvTranslation": "porch.",
   "hebrew": "מִסְדְּרוֹן",
+  "verses": [
+    "judges 3:23"
+  ],
   "translations": {
     "bg": "колонада или вътрешен портик (от редиците колони)",
     "cs": "kolonáda nebo vnitřní portikus (podle řady sloupů)",
@@ -35,8 +38,5 @@
     "tr": "bir sütun dizisi veya iç revak (sütun sıralarından)",
     "uk": "колонада або внутрішній портик (з її рядів колон)",
     "zh": "柱廊"
-  },
-  "verses": [
-    "judges 3:23"
-  ]
+  }
 }

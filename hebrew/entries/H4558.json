@@ -6,6 +6,9 @@
   "definition": "Mispar, an Israelite",
   "kjvTranslation": "Mizpar. Compare H4559 (מִסְפֶּרֶת).",
   "hebrew": "מִסְפָּר",
+  "verses": [
+    "ezra 2:2"
+  ],
   "translations": {
     "bg": "Миспар, израилтянин",
     "cs": "Mispar, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Mispar, bir İsrailli",
     "uk": "Міспар, ізраїльтянин",
     "zh": "米斯帕，以色列人"
-  },
-  "verses": [
-    "ezra 2:2"
-  ]
+  }
 }

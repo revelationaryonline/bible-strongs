@@ -6,6 +6,9 @@
   "definition": "a vestment",
   "kjvTranslation": "garment.",
   "hebrew": "מַעֲטֶה",
+  "verses": [
+    "isaiah 61:3"
+  ],
   "translations": {
     "bg": "ризница",
     "cs": "hábit",
@@ -35,8 +38,5 @@
     "tr": "bir giysi",
     "uk": "вбрання",
     "zh": "圣衣"
-  },
-  "verses": [
-    "isaiah 61:3"
-  ]
+  }
 }

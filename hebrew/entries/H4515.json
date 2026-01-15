@@ -6,6 +6,9 @@
   "definition": "a bolt",
   "kjvTranslation": "shoe.",
   "hebrew": "מִנְעָל",
+  "verses": [
+    "deuteronomy 33:25"
+  ],
   "translations": {
     "bg": "болт",
     "cs": "šroub",
@@ -35,8 +38,5 @@
     "tr": "bir cıvata",
     "uk": "болт",
     "zh": "螺栓"
-  },
-  "verses": [
-    "deuteronomy 33:25"
-  ]
+  }
 }

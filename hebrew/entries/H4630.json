@@ -6,6 +6,9 @@
   "definition": "an open spot",
   "kjvTranslation": "army (from the margin).",
   "hebrew": "מַעֲרָה",
+  "verses": [
+    "firstSamuel 17:23"
+  ],
   "translations": {
     "bg": "свободно място",
     "cs": "volné místo",
@@ -35,8 +38,5 @@
     "tr": "açık bir nokta",
     "uk": "вільне місце",
     "zh": "空位"
-  },
-  "verses": [
-    "firstSamuel 17:23"
-  ]
+  }
 }

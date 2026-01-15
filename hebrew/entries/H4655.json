@@ -6,6 +6,9 @@
   "definition": "an escape",
   "kjvTranslation": "escape.",
   "hebrew": "מִפְלָט",
+  "verses": [
+    "psalms 55:9"
+  ],
   "translations": {
     "bg": "бягство",
     "cs": "útěk",
@@ -35,8 +38,5 @@
     "tr": "bir kaçış",
     "uk": "втеча",
     "zh": "逃生"
-  },
-  "verses": [
-    "psalms 55:9"
-  ]
+  }
 }

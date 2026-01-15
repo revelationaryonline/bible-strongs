@@ -6,6 +6,9 @@
   "definition": "Minni, an Armenian province",
   "kjvTranslation": "Minni.",
   "hebrew": "מִנִּי",
+  "verses": [
+    "jeremiah 51:27"
+  ],
   "translations": {
     "bg": "Минни, арменска провинция",
     "cs": "Minni, arménská provincie",
@@ -35,8 +38,5 @@
     "tr": "Minni, bir Ermeni vilayeti",
     "uk": "Мінні, вірменська провінція",
     "zh": "明尼"
-  },
-  "verses": [
-    "jeremiah 51:27"
-  ]
+  }
 }

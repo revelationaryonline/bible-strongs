@@ -6,6 +6,13 @@
   "definition": "properly, a fixed weight or measured amount, i.e. (techn.) a maneh or mina",
   "kjvTranslation": "maneh, pound.",
   "hebrew": "מָנֶה",
+  "verses": [
+    "ezekiel 45:12",
+    "ezra 2:69",
+    "firstKings 10:17",
+    "nehemiah 7:70",
+    "nehemiah 7:71"
+  ],
   "translations": {
     "bg": "правилно, определено тегло или измерено количество, т.е. (techn.) maneh или mina",
     "cs": "správně pevně stanovená hmotnost nebo odměřené množství, tj. (techn.) maneh nebo mina",
@@ -35,12 +42,5 @@
     "tr": "uygun şekilde, sabit bir ağırlık veya ölçülen miktar, yani (teknik) bir maneh veya mina",
     "uk": "власне, фіксовану вагу або виміряну кількість, тобто (техн.) ману або міну",
     "zh": "正确地说，是指固定的重量或定量，即（技术上的）一个马内或米纳"
-  },
-  "verses": [
-    "ezekiel 45:12",
-    "ezra 2:69",
-    "firstKings 10:17",
-    "nehemiah 7:70",
-    "nehemiah 7:71"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "darkness",
   "kjvTranslation": "dimness.",
   "hebrew": "מָעוּף",
+  "verses": [
+    "isaiah 8:22"
+  ],
   "translations": {
     "bg": "тъмнина",
     "cs": "temnota",
@@ -35,8 +38,5 @@
     "tr": "karanlık",
     "uk": "темрява",
     "zh": "黑影"
-  },
-  "verses": [
-    "isaiah 8:22"
-  ]
+  }
 }

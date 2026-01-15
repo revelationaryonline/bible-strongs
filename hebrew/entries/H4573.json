@@ -6,6 +6,9 @@
   "definition": "Maadjah, an Israelite",
   "kjvTranslation": "Maadiah. Compare H4153 (מוֹעַדְיָה).",
   "hebrew": "מַעֲדְיָה",
+  "verses": [
+    "nehemiah 12:5"
+  ],
   "translations": {
     "bg": "Мааджа, израилтянин",
     "cs": "Maadjah, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Maadjah, bir İsrailli",
     "uk": "Мааджа, ізраїльтянин",
     "zh": "以色列人 Maadjah"
-  },
-  "verses": [
-    "nehemiah 12:5"
-  ]
+  }
 }

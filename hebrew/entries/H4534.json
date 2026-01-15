@@ -6,6 +6,9 @@
   "definition": "a hedge",
   "kjvTranslation": "thorn hedge.",
   "hebrew": "מְסוּכָה",
+  "verses": [
+    "micah 7:4"
+  ],
   "translations": {
     "bg": "хедж",
     "cs": "živý plot",
@@ -35,8 +38,5 @@
     "tr": "bir çit",
     "uk": "живопліт",
     "zh": "篱"
-  },
-  "verses": [
-    "micah 7:4"
-  ]
+  }
 }

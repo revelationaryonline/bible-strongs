@@ -6,6 +6,11 @@
   "definition": "a veil",
   "kjvTranslation": "vail.",
   "hebrew": "מַסְוֶה",
+  "verses": [
+    "exodus 34:33",
+    "exodus 34:34",
+    "exodus 34:35"
+  ],
   "translations": {
     "bg": "воал",
     "cs": "závoj",
@@ -35,10 +40,5 @@
     "tr": "bir peçe",
     "uk": "вуаль",
     "zh": "幂"
-  },
-  "verses": [
-    "exodus 34:33",
-    "exodus 34:34",
-    "exodus 34:35"
-  ]
+  }
 }

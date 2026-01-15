@@ -6,6 +6,10 @@
   "definition": "a terror, i.e. an idol",
   "kjvTranslation": "idol.",
   "hebrew": "מִפְלֶצֶת",
+  "verses": [
+    "firstKings 15:13",
+    "secondChronicles 15:16"
+  ],
   "translations": {
     "bg": "ужас, т.е. идол",
     "cs": "hrůza, tj. modla",
@@ -35,9 +39,5 @@
     "tr": "bir terör, yani bir put",
     "uk": "терор, тобто ідол",
     "zh": "恐怖，即偶像"
-  },
-  "verses": [
-    "firstKings 15:13",
-    "secondChronicles 15:16"
-  ]
+  }
 }

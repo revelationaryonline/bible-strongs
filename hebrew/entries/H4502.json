@@ -6,6 +6,9 @@
   "definition": "a prince",
   "kjvTranslation": "crowned.",
   "hebrew": "מִנְּזָר",
+  "verses": [
+    "nahum 3:17"
+  ],
   "translations": {
     "bg": "принц",
     "cs": "princ",
@@ -35,8 +38,5 @@
     "tr": "bir prens",
     "uk": "принц",
     "zh": "王子"
-  },
-  "verses": [
-    "nahum 3:17"
-  ]
+  }
 }

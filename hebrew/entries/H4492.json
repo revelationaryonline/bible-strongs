@@ -6,6 +6,9 @@
   "definition": "properly, a channel or fissure, i.e. (by implication) a cavern",
   "kjvTranslation": "den.",
   "hebrew": "מִנְהָרָה",
+  "verses": [
+    "judges 6:2"
+  ],
   "translations": {
     "bg": "правилно, канал или пукнатина, т.е. (по подразбиране) пещера",
     "cs": "správně kanál nebo puklina, tj. (implicitně) jeskyně",
@@ -35,8 +38,5 @@
     "tr": "uygun şekilde, bir kanal veya yarık, yani (ima yoluyla) bir mağara",
     "uk": "власне, канал або тріщина, тобто (побічно) печера",
     "zh": "正确地说，是一个通道或裂缝，即（暗示）一个洞穴"
-  },
-  "verses": [
-    "judges 6:2"
-  ]
+  }
 }

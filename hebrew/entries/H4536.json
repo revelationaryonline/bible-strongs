@@ -6,6 +6,9 @@
   "definition": "trade",
   "kjvTranslation": "traffic.",
   "hebrew": "מִסְחָר",
+  "verses": [
+    "firstKings 10:15"
+  ],
   "translations": {
     "bg": "търговия",
     "cs": "obchod",
@@ -35,8 +38,5 @@
     "tr": "tİCARET",
     "uk": "торгівля",
     "zh": "贸易"
-  },
-  "verses": [
-    "firstKings 10:15"
-  ]
+  }
 }

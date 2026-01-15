@@ -6,6 +6,22 @@
   "definition": "properly, something weighed out, i.e. (generally) a division; specifically (of food) a ration; also a lot",
   "kjvTranslation": "such things as belonged, part, portion.",
   "hebrew": "מָנָה",
+  "verses": [
+    "esther 2:9",
+    "esther 9:19",
+    "esther 9:22",
+    "exodus 29:26",
+    "firstSamuel 1:4",
+    "firstSamuel 1:5",
+    "firstSamuel 9:23",
+    "jeremiah 13:25",
+    "leviticus 7:33",
+    "leviticus 8:29",
+    "nehemiah 8:10",
+    "nehemiah 8:12",
+    "psalms 16:5",
+    "secondChronicles 31:19"
+  ],
   "translations": {
     "bg": "правилно, нещо претеглено, т.е. (по принцип) разделение; по-специално (за храна) дажба; също и много",
     "cs": "správně něco odváženého, tj. (obecně) dělení; konkrétně (potraviny) příděl; také množství",
@@ -35,21 +51,5 @@
     "tr": "uygun şekilde, tartılan bir şey, yani (genellikle) bir bölüm; özellikle (gıda) bir rasyon; ayrıca bir lot",
     "uk": "власне, щось зважене, тобто (загалом) поділ; зокрема (про їжу) пайок; також багато",
     "zh": "称量的东西，即（一般）分量；特别是（食品）定量；也指很多"
-  },
-  "verses": [
-    "esther 2:9",
-    "esther 9:19",
-    "esther 9:22",
-    "exodus 29:26",
-    "firstSamuel 1:4",
-    "firstSamuel 1:5",
-    "firstSamuel 9:23",
-    "jeremiah 13:25",
-    "leviticus 7:33",
-    "leviticus 8:29",
-    "nehemiah 8:10",
-    "nehemiah 8:12",
-    "psalms 16:5",
-    "secondChronicles 31:19"
-  ]
+  }
 }

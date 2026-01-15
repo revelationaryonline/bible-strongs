@@ -6,6 +6,12 @@
   "definition": "a yoke (properly, for plowing), i.e. the frame of aloom",
   "kjvTranslation": "beam.",
   "hebrew": "מָנוֹר",
+  "verses": [
+    "firstChronicles 11:23",
+    "firstChronicles 20:5",
+    "firstSamuel 17:7",
+    "secondSamuel 21:19"
+  ],
   "translations": {
     "bg": "ярем (за оран), т.е. рамата на товара",
     "cs": "jařmo (správně k orbě), tj. rám pluhu",
@@ -35,11 +41,5 @@
     "tr": "bir boyunduruk (çift sürmek için), yani biçerdöverin iskeleti",
     "uk": "ярмо (власне, для оранки), тобто рама алома",
     "zh": "轭（耕地用），即耧车的车架"
-  },
-  "verses": [
-    "firstChronicles 11:23",
-    "firstChronicles 20:5",
-    "firstSamuel 17:7",
-    "secondSamuel 21:19"
-  ]
+  }
 }

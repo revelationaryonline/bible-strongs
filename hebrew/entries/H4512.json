@@ -6,6 +6,9 @@
   "definition": "completion, i.e. (in produce) wealth",
   "kjvTranslation": "perfection.",
   "hebrew": "מִנְלֶה",
+  "verses": [
+    "job 15:29"
+  ],
   "translations": {
     "bg": "завършеност, т.е. (в производството) богатство",
     "cs": "dokončení, tj. (v produkci) bohatství",
@@ -35,8 +38,5 @@
     "tr": "tamamlanması, yani (ürün olarak) zenginlik",
     "uk": "завершення, тобто (у виробництві) багатство",
     "zh": "完成，即（生产）财富"
-  },
-  "verses": [
-    "job 15:29"
-  ]
+  }
 }

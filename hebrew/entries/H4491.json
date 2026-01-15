@@ -6,6 +6,9 @@
   "definition": "the driving (of a chariot)",
   "kjvTranslation": "driving.",
   "hebrew": "מִנְהָג",
+  "verses": [
+    "secondKings 9:20"
+  ],
   "translations": {
     "bg": "управление (на колесница)",
     "cs": "řízení (vozu)",
@@ -35,8 +38,5 @@
     "tr": "(bir savaş arabasının) sürülmesi",
     "uk": "водіння (колісниці)",
     "zh": "御驾"
-  },
-  "verses": [
-    "secondKings 9:20"
-  ]
+  }
 }

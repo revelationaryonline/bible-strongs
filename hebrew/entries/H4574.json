@@ -6,6 +6,12 @@
   "definition": "a delicacy or (abstractly) pleasure (adverbially, cheerfully)",
   "kjvTranslation": "dainty, delicately, delight.",
   "hebrew": "מַעֲדָן",
+  "verses": [
+    "firstSamuel 15:32",
+    "genesis 49:20",
+    "lamentations 4:5",
+    "proverbs 29:17"
+  ],
   "translations": {
     "bg": "деликатес или (абстрактно) удоволствие (наречие, весело)",
     "cs": "pochoutka nebo (abstraktně) potěšení (příslovečně, vesele)",
@@ -35,11 +41,5 @@
     "tr": "bir incelik veya (soyut olarak) zevk (zarf olarak, neşeyle)",
     "uk": "делікатес або (абстрактно) задоволення (прислівниково, весело)",
     "zh": "一种享受"
-  },
-  "verses": [
-    "firstSamuel 15:32",
-    "genesis 49:20",
-    "lamentations 4:5",
-    "proverbs 29:17"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "Maadai, an Israelite",
   "kjvTranslation": "Maadai.",
   "hebrew": "מַעֲדַי",
+  "verses": [
+    "ezra 10:34"
+  ],
   "translations": {
     "bg": "Маадай, израилтянин",
     "cs": "Maadai, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Maadai, bir İsrailli",
     "uk": "Маадай, ізраїльтянин",
     "zh": "以色列人玛代"
-  },
-  "verses": [
-    "ezra 10:34"
-  ]
+  }
 }

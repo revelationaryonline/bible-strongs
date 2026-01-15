@@ -6,6 +6,10 @@
   "definition": "a veil (as spread out)",
   "kjvTranslation": "kerchief.",
   "hebrew": "מִסְפָּחָה",
+  "verses": [
+    "ezekiel 13:18",
+    "ezekiel 13:21"
+  ],
   "translations": {
     "bg": "завеса (разстлана)",
     "cs": "závoj (jako rozprostřený)",
@@ -35,9 +39,5 @@
     "tr": "bir örtü (yayılmış olarak)",
     "uk": "фата (розстелена)",
     "zh": "缦"
-  },
-  "verses": [
-    "ezekiel 13:18",
-    "ezekiel 13:21"
-  ]
+  }
 }

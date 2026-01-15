@@ -6,6 +6,9 @@
   "definition": "Maats, an Israelite",
   "kjvTranslation": "Maaz.",
   "hebrew": "מַעַץ",
+  "verses": [
+    "firstChronicles 2:27"
+  ],
   "translations": {
     "bg": "Маатс, израилтянин",
     "cs": "Maats, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Maats, bir İsrailli",
     "uk": "Маатс, ізраїльтянин",
     "zh": "以色列人 Maats"
-  },
-  "verses": [
-    "firstChronicles 2:27"
-  ]
+  }
 }

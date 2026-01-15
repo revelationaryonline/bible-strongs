@@ -6,6 +6,11 @@
   "definition": "Steep of Scorpions, a place in the Desert",
   "kjvTranslation": "Maaleh-accrabim, the ascent (going up) of Akrabbim.",
   "hebrew": "מַעֲלֵה עַקְרַבִּים",
+  "verses": [
+    "joshua 15:3",
+    "judges 1:36",
+    "numbers 34:4"
+  ],
   "translations": {
     "bg": "Стръмнина от скорпиони, място в пустинята",
     "cs": "Steep of Scorpions, místo v poušti",
@@ -35,10 +40,5 @@
     "tr": "Akreplerin Sarplığı, Çölde bir yer",
     "uk": "Скеля Скорпіонів, місце в пустелі",
     "zh": "沙漠中的蝎子陡坡"
-  },
-  "verses": [
-    "joshua 15:3",
-    "judges 1:36",
-    "numbers 34:4"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "fainting, i.e. (figuratively) disconsolate",
   "kjvTranslation": "is afflicted.",
   "hebrew": "מָס",
+  "verses": [
+    "job 6:14"
+  ],
   "translations": {
     "bg": "припадане, т.е. (в преносен смисъл) обезсърчение",
     "cs": "mdloby, tj. (přeneseně) sklíčenost",
@@ -35,8 +38,5 @@
     "tr": "baygın, yani (mecazi olarak) keyifsiz",
     "uk": "знепритомніти, тобто (образно) розгубитися",
     "zh": "昏厥，即（比喻）凄凉"
-  },
-  "verses": [
-    "job 6:14"
-  ]
+  }
 }

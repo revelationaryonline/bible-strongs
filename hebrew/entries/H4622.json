@@ -6,6 +6,9 @@
   "definition": "objectively, a hindrance",
   "kjvTranslation": "restraint.",
   "hebrew": "מַעְצוֹר",
+  "verses": [
+    "firstSamuel 14:6"
+  ],
   "translations": {
     "bg": "обективно, пречка",
     "cs": "objektivně překážka",
@@ -35,8 +38,5 @@
     "tr": "nesnel olarak, bir engel",
     "uk": "об'єктивно, перешкода",
     "zh": "绊脚石"
-  },
-  "verses": [
-    "firstSamuel 14:6"
-  ]
+  }
 }

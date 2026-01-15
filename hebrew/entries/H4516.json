@@ -6,6 +6,9 @@
   "definition": "a delicacy",
   "kjvTranslation": "dainty.",
   "hebrew": "מַנְעַם",
+  "verses": [
+    "psalms 141:4"
+  ],
   "translations": {
     "bg": "деликатес",
     "cs": "lahůdka",
@@ -35,8 +38,5 @@
     "tr": "bir incelik",
     "uk": "делікатес",
     "zh": "炼珍"
-  },
-  "verses": [
-    "psalms 141:4"
-  ]
+  }
 }

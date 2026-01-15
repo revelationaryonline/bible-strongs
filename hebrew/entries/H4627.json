@@ -6,6 +6,16 @@
   "definition": "traffic; by implication, mercantile goods",
   "kjvTranslation": "market, merchandise.",
   "hebrew": "מַעֲרָב",
+  "verses": [
+    "ezekiel 27:13",
+    "ezekiel 27:17",
+    "ezekiel 27:19",
+    "ezekiel 27:25",
+    "ezekiel 27:27",
+    "ezekiel 27:33",
+    "ezekiel 27:34",
+    "ezekiel 27:9"
+  ],
   "translations": {
     "bg": "трафик; по подразбиране - търговски стоки",
     "cs": "doprava; implicitně obchodní zboží",
@@ -35,15 +45,5 @@
     "tr": "trafik; dolaylı olarak, ticari mallar",
     "uk": "трафік; по суті, комерційні товари",
     "zh": "交通；暗示商品"
-  },
-  "verses": [
-    "ezekiel 27:13",
-    "ezekiel 27:17",
-    "ezekiel 27:19",
-    "ezekiel 27:25",
-    "ezekiel 27:27",
-    "ezekiel 27:33",
-    "ezekiel 27:34",
-    "ezekiel 27:9"
-  ]
+  }
 }

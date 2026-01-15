@@ -6,6 +6,9 @@
   "definition": "Maok, a Philistine",
   "kjvTranslation": "Maoch.",
   "hebrew": "מָעוֹךְ",
+  "verses": [
+    "firstSamuel 27:2"
+  ],
   "translations": {
     "bg": "Маок, филистимец",
     "cs": "Maok, Filištín",
@@ -35,8 +38,5 @@
     "tr": "Maok, bir Filistinli",
     "uk": "Маок, филистимлянин",
     "zh": "非利士人莫克"
-  },
-  "verses": [
-    "firstSamuel 27:2"
-  ]
+  }
 }

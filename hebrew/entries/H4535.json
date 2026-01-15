@@ -6,6 +6,9 @@
   "definition": "a cordon, (adverbially) or (as a) military barrier",
   "kjvTranslation": "broken down.",
   "hebrew": "מַסָּח",
+  "verses": [
+    "secondKings 11:6"
+  ],
   "translations": {
     "bg": "кордон, (наречие) или (като) военна преграда",
     "cs": "kordon, (příslovečně) nebo (jako) vojenská překážka",
@@ -35,8 +38,5 @@
     "tr": "bir kordon, (zarf olarak) veya (bir) askeri bariyer",
     "uk": "кордон, (прислівниково) або (як) військовий бар'єр",
     "zh": "警戒线"
-  },
-  "verses": [
-    "secondKings 11:6"
-  ]
+  }
 }

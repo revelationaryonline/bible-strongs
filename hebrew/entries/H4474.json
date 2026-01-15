@@ -6,6 +6,13 @@
   "definition": "a ruler or (abstractly) rule",
   "kjvTranslation": "dominion, that ruled.",
   "hebrew": "מִמְשָׁל",
+  "verses": [
+    "daniel 11:3",
+    "daniel 11:5",
+    "firstChronicles 26:6",
+    "secondChronicles 8:6",
+    "secondKings 20:13"
+  ],
   "translations": {
     "bg": "владетел или (абстрактно) правило",
     "cs": "vládce nebo (abstraktně) pravidlo",
@@ -35,12 +42,5 @@
     "tr": "bir yönetici veya (soyut olarak) kural",
     "uk": "правитель або (абстрактно) правило",
     "zh": "统治者"
-  },
-  "verses": [
-    "daniel 11:3",
-    "daniel 11:5",
-    "firstChronicles 26:6",
-    "secondChronicles 8:6",
-    "secondKings 20:13"
-  ]
+  }
 }

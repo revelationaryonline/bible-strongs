@@ -6,6 +6,9 @@
   "definition": "burdensomeness",
   "kjvTranslation": "burdensome.",
   "hebrew": "מַעֲמָסָה",
+  "verses": [
+    "zechariah 12:3"
+  ],
   "translations": {
     "bg": "обремененост",
     "cs": "zatížení",
@@ -35,8 +38,5 @@
     "tr": "külfetli̇li̇k",
     "uk": "обтяжливість",
     "zh": "负担"
-  },
-  "verses": [
-    "zechariah 12:3"
-  ]
+  }
 }

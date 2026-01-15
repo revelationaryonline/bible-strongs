@@ -6,6 +6,9 @@
   "definition": "a smiter, i.e. a war club",
   "kjvTranslation": "battle ax.",
   "hebrew": "מַפֵּץ",
+  "verses": [
+    "jeremiah 51:20"
+  ],
   "translations": {
     "bg": "бияч, т.е. бойна тояга",
     "cs": "biják, tj. válečný kyj",
@@ -35,8 +38,5 @@
     "tr": "bir vurucu, yani bir savaş sopası",
     "uk": "смитер, тобто військовий клуб",
     "zh": "锤"
-  },
-  "verses": [
-    "jeremiah 51:20"
-  ]
+  }
 }

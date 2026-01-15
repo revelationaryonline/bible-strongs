@@ -6,6 +6,9 @@
   "definition": "bare",
   "kjvTranslation": "naked.",
   "hebrew": "מַעֲרֹם",
+  "verses": [
+    "secondChronicles 28:15"
+  ],
   "translations": {
     "bg": "гол",
     "cs": "holý",
@@ -35,8 +38,5 @@
     "tr": "çıplak",
     "uk": "голий",
     "zh": "光秃秃的"
-  },
-  "verses": [
-    "secondChronicles 28:15"
-  ]
+  }
 }

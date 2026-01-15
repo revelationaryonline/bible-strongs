@@ -6,6 +6,9 @@
   "definition": "indigence",
   "kjvTranslation": "scarceness.",
   "hebrew": "מִסְכֵּנֻת",
+  "verses": [
+    "deuteronomy 8:9"
+  ],
   "translations": {
     "bg": "недоимък",
     "cs": "chudoba",
@@ -35,8 +38,5 @@
     "tr": "yoksulluk",
     "uk": "бідність",
     "zh": "贫穷"
-  },
-  "verses": [
-    "deuteronomy 8:9"
-  ]
+  }
 }

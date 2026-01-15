@@ -6,6 +6,9 @@
   "definition": "a miracle",
   "kjvTranslation": "wondrous work.",
   "hebrew": "מִפְלָאָה",
+  "verses": [
+    "job 37:16"
+  ],
   "translations": {
     "bg": "чудо",
     "cs": "zázrak",
@@ -35,8 +38,5 @@
     "tr": "bir mucize",
     "uk": "диво",
     "zh": "生死肉骨"
-  },
-  "verses": [
-    "job 37:16"
-  ]
+  }
 }

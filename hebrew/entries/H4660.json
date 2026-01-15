@@ -6,6 +6,9 @@
   "definition": "a smiting to pieces",
   "kjvTranslation": "slaughter.",
   "hebrew": "מַפָּץ",
+  "verses": [
+    "ezekiel 9:2"
+  ],
   "translations": {
     "bg": "разбиване на парчета",
     "cs": "rozbití na kusy",
@@ -35,8 +38,5 @@
     "tr": "paramparça etmek",
     "uk": "розбиття на шматки",
     "zh": "粉身碎骨"
-  },
-  "verses": [
-    "ezekiel 9:2"
-  ]
+  }
 }

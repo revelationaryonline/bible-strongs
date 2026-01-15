@@ -6,6 +6,9 @@
   "definition": "properly, a hider, i.e. (abstractly) a hiding, i.e. aversion",
   "kjvTranslation": "hid.",
   "hebrew": "מַסְתֵּר",
+  "verses": [
+    "isaiah 53:3"
+  ],
   "translations": {
     "bg": "правилно, скривалище, т.е. (абстрактно) скриване, т.е. отвращение",
     "cs": "správně skrývač, tj. (abstraktně) schovávač, tj. averze",
@@ -35,8 +38,5 @@
     "tr": "uygun bir şekilde, bir saklayıcı, yani (soyut olarak) bir gizleme, yani isteksizlik",
     "uk": "власне, хованець, тобто (абстрактно) приховування, тобто відраза",
     "zh": "正确地说，是隐藏，即（抽象地）隐藏，即厌恶"
-  },
-  "verses": [
-    "isaiah 53:3"
-  ]
+  }
 }

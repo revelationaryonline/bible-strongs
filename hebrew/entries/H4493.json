@@ -6,6 +6,9 @@
   "definition": "a nodding or toss (of the head in derision)",
   "kjvTranslation": "shaking.",
   "hebrew": "מָנוֹד",
+  "verses": [
+    "psalms 44:15"
+  ],
   "translations": {
     "bg": "кимване или подхвърляне (на главата в знак на присмех)",
     "cs": "kývání hlavou nebo házení hlavou (s posměchem)",
@@ -35,8 +38,5 @@
     "tr": "baş sallama veya savurma (alaycı bir şekilde başın sallanması)",
     "uk": "кивок або підкидання (насмішкувате кивання головою)",
     "zh": "嚯"
-  },
-  "verses": [
-    "psalms 44:15"
-  ]
+  }
 }

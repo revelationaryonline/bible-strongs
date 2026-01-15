@@ -6,6 +6,12 @@
   "definition": "a sacrificial basin (for holding blood)",
   "kjvTranslation": "bowl.",
   "hebrew": "מְנַקִּית",
+  "verses": [
+    "exodus 25:29",
+    "exodus 37:16",
+    "jeremiah 52:19",
+    "numbers 4:7"
+  ],
   "translations": {
     "bg": "жертвен съд (за съхраняване на кръв)",
     "cs": "obětní mísa (na krev)",
@@ -35,11 +41,5 @@
     "tr": "bir kurban leğeni (kan tutmak için)",
     "uk": "жертовний таз (для зберігання крові)",
     "zh": "歃血为盟"
-  },
-  "verses": [
-    "exodus 25:29",
-    "exodus 37:16",
-    "jeremiah 52:19",
-    "numbers 4:7"
-  ]
+  }
 }

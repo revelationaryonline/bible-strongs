@@ -6,6 +6,9 @@
   "definition": "Moph, the capital of Lower Egypt",
   "kjvTranslation": "Memphis. Compare H5297 (נֹף).",
   "hebrew": "מֹף",
+  "verses": [
+    "hosea 9:6"
+  ],
   "translations": {
     "bg": "Моф, столицата на Долен Египет",
     "cs": "Moph, hlavní město Dolního Egypta",
@@ -35,8 +38,5 @@
     "tr": "Moph, Aşağı Mısır'ın başkenti",
     "uk": "Моф, столиця Нижнього Єгипту",
     "zh": "莫夫"
-  },
-  "verses": [
-    "hosea 9:6"
-  ]
+  }
 }

@@ -6,6 +6,18 @@
   "definition": "properly, a concealer, i.e. a covert",
   "kjvTranslation": "secret(-ly, place).",
   "hebrew": "מִסְתָּר",
+  "verses": [
+    "habakkuk 3:14",
+    "isaiah 45:3",
+    "jeremiah 13:17",
+    "jeremiah 23:24",
+    "jeremiah 49:10",
+    "lamentations 3:10",
+    "psalms 10:8",
+    "psalms 10:9",
+    "psalms 17:12",
+    "psalms 64:5"
+  ],
   "translations": {
     "bg": "правилно, коректор, т.е. скрит",
     "cs": "správně, korektor, tj. skrytý",
@@ -35,17 +47,5 @@
     "tr": "düzgün bir şekilde, bir kapatıcı, yani gizli bir",
     "uk": "власне, консилер, тобто маскування",
     "zh": "正确地说，是一个隐藏者，即一个隐蔽的"
-  },
-  "verses": [
-    "habakkuk 3:14",
-    "isaiah 45:3",
-    "jeremiah 13:17",
-    "jeremiah 23:24",
-    "jeremiah 49:10",
-    "lamentations 3:10",
-    "psalms 10:8",
-    "psalms 10:9",
-    "psalms 17:12",
-    "psalms 64:5"
-  ]
+  }
 }

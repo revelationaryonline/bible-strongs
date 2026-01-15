@@ -6,6 +6,12 @@
   "definition": "a peg (as bristling from the surface)",
   "kjvTranslation": "nail.",
   "hebrew": "מַסְמֵר",
+  "verses": [
+    "firstChronicles 22:3",
+    "isaiah 41:7",
+    "jeremiah 10:4",
+    "secondChronicles 3:9"
+  ],
   "translations": {
     "bg": "колче (като настръхнало от повърхността)",
     "cs": "kolík (jako štětiny z povrchu)",
@@ -35,11 +41,5 @@
     "tr": "bir kazık (yüzeyden çıkan kıl gibi)",
     "uk": "кілочок (як щетина з поверхні)",
     "zh": "芒刺"
-  },
-  "verses": [
-    "firstChronicles 22:3",
-    "isaiah 41:7",
-    "jeremiah 10:4",
-    "secondChronicles 3:9"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "the Apportioner, i.e. Fate (as an idol)",
   "kjvTranslation": "number.",
   "hebrew": "מְנִי",
+  "verses": [
+    "isaiah 65:11"
+  ],
   "translations": {
     "bg": "разпределителят, т.е. Съдбата (като идол)",
     "cs": "rozdělovatel, tj. Osud (jako modla)",
@@ -35,8 +38,5 @@
     "tr": "paylaştırıcı, yani Kader (bir put olarak)",
     "uk": "прихильник, тобто Доля (як ідол)",
     "zh": "分配者，即命运（作为偶像）"
-  },
-  "verses": [
-    "isaiah 65:11"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "the belly, i.e. (figuratively) interior",
   "kjvTranslation": "gravel.",
   "hebrew": "מֵעָה",
+  "verses": [
+    "isaiah 48:19"
+  ],
   "translations": {
     "bg": "корема, т.е. (образно) вътрешността",
     "cs": "břicho, tj. (obrazně řečeno) vnitřek",
@@ -35,8 +38,5 @@
     "tr": "göbek, yani (mecazi olarak) iç kısım",
     "uk": "черево, тобто (образно) нутро",
     "zh": "腹内"
-  },
-  "verses": [
-    "isaiah 48:19"
-  ]
+  }
 }

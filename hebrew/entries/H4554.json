@@ -6,6 +6,13 @@
   "definition": "fodder",
   "kjvTranslation": "provender.",
   "hebrew": "מִסְפּוֹא",
+  "verses": [
+    "genesis 24:25",
+    "genesis 24:32",
+    "genesis 42:27",
+    "genesis 43:24",
+    "judges 19:19"
+  ],
   "translations": {
     "bg": "фураж",
     "cs": "krmivo",
@@ -35,12 +42,5 @@
     "tr": "yEM",
     "uk": "корм",
     "zh": "刍秣"
-  },
-  "verses": [
-    "genesis 24:25",
-    "genesis 24:32",
-    "genesis 42:27",
-    "genesis 43:24",
-    "judges 19:19"
-  ]
+  }
 }

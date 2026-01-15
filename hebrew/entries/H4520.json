@@ -6,6 +6,12 @@
   "definition": "a Menashshite or descendant of Menashsheh",
   "kjvTranslation": "of Manasseh, Manassites.",
   "hebrew": "מְנַשִּׁי",
+  "verses": [
+    "deuteronomy 29:7",
+    "deuteronomy 4:43",
+    "firstChronicles 26:32",
+    "secondKings 10:33"
+  ],
   "translations": {
     "bg": "менашит или потомък на Менаше",
     "cs": "menaššita nebo potomek Menašeho",
@@ -35,11 +41,5 @@
     "tr": "bir Menaşşit ya da Menaşşeh'in soyundan",
     "uk": "менашитом або нащадком Менашші",
     "zh": "米拿许人或米拿许的后裔"
-  },
-  "verses": [
-    "deuteronomy 29:7",
-    "deuteronomy 4:43",
-    "firstChronicles 26:32",
-    "secondKings 10:33"
-  ]
+  }
 }

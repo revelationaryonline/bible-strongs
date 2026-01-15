@@ -6,6 +6,19 @@
   "definition": "a crossing-place (of a river, a ford; of a mountain, a pass); abstractly, a transit, i.e. (figuratively) overwhelming",
   "kjvTranslation": "ford, place where...pass, passage.",
   "hebrew": "מַעֲבָר",
+  "verses": [
+    "firstSamuel 13:23",
+    "firstSamuel 14:4",
+    "genesis 32:23",
+    "isaiah 10:29",
+    "isaiah 16:2",
+    "isaiah 30:32",
+    "jeremiah 51:32",
+    "joshua 2:7",
+    "judges 12:5",
+    "judges 12:6",
+    "judges 3:28"
+  ],
   "translations": {
     "bg": "място за пресичане (на река, брод; на планина, проход); абстрактно, преминаване, т.е. (в преносен смисъл) преодоляване",
     "cs": "místo přechodu (přes řeku, brod; přes hory, průsmyk); abstraktně přechod, tj. (přeneseně) ohromující",
@@ -35,18 +48,5 @@
     "tr": "bir geçiş yeri (bir nehir, bir geçit; bir dağ, bir geçit); soyut olarak, bir transit, yani (mecazi olarak) ezici",
     "uk": "місце переправи (річки, броду; гори, перевалу); абстрактно - транзитний, тобто (образно) переважний",
     "zh": "渡口（河流的岔口；山峰的隘口）；抽象地指过境，即（形象地）压倒一切"
-  },
-  "verses": [
-    "firstSamuel 13:23",
-    "firstSamuel 14:4",
-    "genesis 32:23",
-    "isaiah 10:29",
-    "isaiah 16:2",
-    "isaiah 30:32",
-    "jeremiah 51:32",
-    "joshua 2:7",
-    "judges 12:5",
-    "judges 12:6",
-    "judges 3:28"
-  ]
+  }
 }

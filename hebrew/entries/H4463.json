@@ -6,6 +6,11 @@
   "definition": "a mortal disease; concretely, a corpse",
   "kjvTranslation": "death.",
   "hebrew": "מָמוֹת",
+  "verses": [
+    "ezekiel 28:8",
+    "jeremiah 16:4",
+    "secondKings 11:2"
+  ],
   "translations": {
     "bg": "смъртно заболяване; конкретно - труп",
     "cs": "smrtelná nemoc; konkrétně mrtvola",
@@ -35,10 +40,5 @@
     "tr": "ölümcül bir hastalık; somut olarak bir ceset",
     "uk": "смертельна хвороба; конкретно - труп",
     "zh": "死症；具体地说，就是一具尸体"
-  },
-  "verses": [
-    "ezekiel 28:8",
-    "jeremiah 16:4",
-    "secondKings 11:2"
-  ]
+  }
 }

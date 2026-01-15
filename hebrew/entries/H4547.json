@@ -6,6 +6,9 @@
   "definition": "a thoroughfare (as turnpiked)",
   "kjvTranslation": "highway.",
   "hebrew": "מַסְלוּל",
+  "verses": [
+    "isaiah 35:8"
+  ],
   "translations": {
     "bg": "пътна артерия (с пътни платна)",
     "cs": "dopravní tepny (s odbočkami)",
@@ -35,8 +38,5 @@
     "tr": "bir cadde (turnikeli olarak)",
     "uk": "магістраль (з кільцевим рухом)",
     "zh": "衢"
-  },
-  "verses": [
-    "isaiah 35:8"
-  ]
+  }
 }

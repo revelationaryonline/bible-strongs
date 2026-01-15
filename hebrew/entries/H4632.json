@@ -6,6 +6,9 @@
   "definition": "Mearah, a place in Palestine",
   "kjvTranslation": "Mearah.",
   "hebrew": "מְעָרָה",
+  "verses": [
+    "joshua 13:4"
+  ],
   "translations": {
     "bg": "Mearah, място в Палестина",
     "cs": "Mearah, místo v Palestině",
@@ -35,8 +38,5 @@
     "tr": "Mearah, Filistin'de bir yer",
     "uk": "Меара, місце в Палестині",
     "zh": "米亚拉"
-  },
-  "verses": [
-    "joshua 13:4"
-  ]
+  }
 }

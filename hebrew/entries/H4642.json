@@ -6,6 +6,10 @@
   "definition": "oppression",
   "kjvTranslation": "oppression, [idiom] oppressor.",
   "hebrew": "מַעֲשַׁקָּה",
+  "verses": [
+    "isaiah 33:15",
+    "proverbs 28:16"
+  ],
   "translations": {
     "bg": "потисничество",
     "cs": "útlak",
@@ -35,9 +39,5 @@
     "tr": "bASKI",
     "uk": "гноблення",
     "zh": "镇压"
-  },
-  "verses": [
-    "isaiah 33:15",
-    "proverbs 28:16"
-  ]
+  }
 }

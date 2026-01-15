@@ -6,6 +6,9 @@
   "definition": "Meonothai, an Israelite",
   "kjvTranslation": "Meonothai.",
   "hebrew": "מְעוֹנֹתַי",
+  "verses": [
+    "firstChronicles 4:14"
+  ],
   "translations": {
     "bg": "Меонотай, израилтянин",
     "cs": "Meonothai, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Meonothai, bir İsrailli",
     "uk": "Меонотай, ізраїльтянин",
     "zh": "米诺泰，以色列人"
-  },
-  "verses": [
-    "firstChronicles 4:14"
-  ]
+  }
 }

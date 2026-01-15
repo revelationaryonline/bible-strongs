@@ -6,6 +6,16 @@
   "definition": "a retreat (literally or figuratively); abstractly, a fleeing",
   "kjvTranslation": "[idiom] apace, escape, way to flee, flight, refuge.",
   "hebrew": "מָנוֹס",
+  "verses": [
+    "amos 2:14",
+    "jeremiah 16:19",
+    "jeremiah 25:35",
+    "jeremiah 46:5",
+    "job 11:20",
+    "psalms 142:5",
+    "psalms 59:17",
+    "secondSamuel 22:3"
+  ],
   "translations": {
     "bg": "отстъпление (в буквален или преносен смисъл); абстрактно - бягство",
     "cs": "ústup (doslova nebo obrazně); abstraktně útěk",
@@ -35,15 +45,5 @@
     "tr": "bir geri çekilme (gerçek veya mecazi anlamda); soyut olarak, bir kaçış",
     "uk": "відступ (у прямому чи переносному значенні); абстрактно - втеча",
     "zh": "退却（字面或比喻）；抽象地说，逃离"
-  },
-  "verses": [
-    "amos 2:14",
-    "jeremiah 16:19",
-    "jeremiah 25:35",
-    "jeremiah 46:5",
-    "job 11:20",
-    "psalms 142:5",
-    "psalms 59:17",
-    "secondSamuel 22:3"
-  ]
+  }
 }

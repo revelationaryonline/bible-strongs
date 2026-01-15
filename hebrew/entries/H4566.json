@@ -6,6 +6,9 @@
   "definition": "an act",
   "kjvTranslation": "work.",
   "hebrew": "מַעְבָּד",
+  "verses": [
+    "job 34:25"
+  ],
   "translations": {
     "bg": "действие",
     "cs": "akt",
@@ -35,8 +38,5 @@
     "tr": "bir eylem",
     "uk": "вчинок",
     "zh": "作为"
-  },
-  "verses": [
-    "job 34:25"
-  ]
+  }
 }

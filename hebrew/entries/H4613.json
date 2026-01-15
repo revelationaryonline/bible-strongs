@@ -6,6 +6,9 @@
   "definition": "literally a foothold",
   "kjvTranslation": "standing.",
   "hebrew": "מׇעֳמָד",
+  "verses": [
+    "psalms 69:3"
+  ],
   "translations": {
     "bg": "буквално опора",
     "cs": "doslova opěrný bod",
@@ -35,8 +38,5 @@
     "tr": "kelimenin tam anlamıyla bir dayanak",
     "uk": "буквально точку опори",
     "zh": "据点"
-  },
-  "verses": [
-    "psalms 69:3"
-  ]
+  }
 }

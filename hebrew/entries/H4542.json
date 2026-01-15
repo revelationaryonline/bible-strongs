@@ -6,6 +6,11 @@
   "definition": "indigent",
   "kjvTranslation": "poor (man).",
   "hebrew": "מִסְכֵּן",
+  "verses": [
+    "ecclesiastes 4:13",
+    "ecclesiastes 9:15",
+    "ecclesiastes 9:16"
+  ],
   "translations": {
     "bg": "неплатежоспособни лица",
     "cs": "indigentní",
@@ -35,10 +40,5 @@
     "tr": "yoksul",
     "uk": "бідний",
     "zh": "贫困"
-  },
-  "verses": [
-    "ecclesiastes 4:13",
-    "ecclesiastes 9:15",
-    "ecclesiastes 9:16"
-  ]
+  }
 }

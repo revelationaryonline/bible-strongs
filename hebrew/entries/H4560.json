@@ -6,6 +6,10 @@
   "definition": "to sunder, i.e. (transitively) set apart, or (reflex.) apostatize",
   "kjvTranslation": "commit, deliver.",
   "hebrew": "מָסַר",
+  "verses": [
+    "numbers 31:16",
+    "numbers 31:5"
+  ],
   "translations": {
     "bg": "да се отдели, т.е. (преходно) да се отдели или (рефлексивно) да отстъпи",
     "cs": "oddělit, tj. (přechodně) oddělit, nebo (reflex.) odpadnout od víry",
@@ -35,9 +39,5 @@
     "tr": "parçalamak, yani (geçişli olarak) ayırmak ya da (refleks olarak) dinden döndürmek",
     "uk": "відлучатися, тобто (транзитивно) відокремлюватися, або (рефлекторно) відступничати",
     "zh": "分离，即（暂时）分开，或（反射）叛教"
-  },
-  "verses": [
-    "numbers 31:16",
-    "numbers 31:5"
-  ]
+  }
 }

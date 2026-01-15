@@ -6,6 +6,18 @@
   "definition": "Mamre, an Amorite",
   "kjvTranslation": "Mamre.",
   "hebrew": "מַמְרֵא",
+  "verses": [
+    "genesis 13:18",
+    "genesis 14:13",
+    "genesis 14:24",
+    "genesis 18:1",
+    "genesis 23:17",
+    "genesis 23:19",
+    "genesis 25:9",
+    "genesis 35:27",
+    "genesis 49:30",
+    "genesis 50:13"
+  ],
   "translations": {
     "bg": "Мамре, амореец",
     "cs": "Mamre, Amorita",
@@ -35,17 +47,5 @@
     "tr": "Mamre, bir Amorit",
     "uk": "Мамре, аморець",
     "zh": "马姆雷，亚摩利人"
-  },
-  "verses": [
-    "genesis 13:18",
-    "genesis 14:13",
-    "genesis 14:24",
-    "genesis 18:1",
-    "genesis 23:17",
-    "genesis 23:19",
-    "genesis 25:9",
-    "genesis 35:27",
-    "genesis 49:30",
-    "genesis 50:13"
-  ]
+  }
 }

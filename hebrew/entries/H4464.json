@@ -6,6 +6,10 @@
   "definition": "a mongrel, i.e. born of aJewish father and aheathen mother",
   "kjvTranslation": "bastard.",
   "hebrew": "מַמְזֵר",
+  "verses": [
+    "deuteronomy 23:3",
+    "zechariah 9:6"
+  ],
   "translations": {
     "bg": "кръвосмешение, т.е. роден от баща евреин и майка езичница",
     "cs": "míšenec, tj. narozený zžidovského otce apohanské matky",
@@ -35,9 +39,5 @@
     "tr": "melez, yani Yahudi bir baba ve putperest bir anneden doğmuş",
     "uk": "дворнягою, тобто народженим від батька-єврея та матері-неєврейки",
     "zh": "杂种，即父亲是犹太人，母亲是异教徒"
-  },
-  "verses": [
-    "deuteronomy 23:3",
-    "zechariah 9:6"
-  ]
+  }
 }

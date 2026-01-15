@@ -6,6 +6,9 @@
   "definition": "a sale",
   "kjvTranslation": "[phrase] sold as.",
   "hebrew": "מִמְכֶּרֶת",
+  "verses": [
+    "leviticus 25:42"
+  ],
   "translations": {
     "bg": "продажба",
     "cs": "prodej",
@@ -35,8 +38,5 @@
     "tr": "bir satış",
     "uk": "розпродаж",
     "zh": "销售"
-  },
-  "verses": [
-    "leviticus 25:42"
-  ]
+  }
 }

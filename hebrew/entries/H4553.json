@@ -6,6 +6,20 @@
   "definition": "a lamentation",
   "kjvTranslation": "lamentation, one mourneth, mourning, wailing.",
   "hebrew": "מִסְפֵּד",
+  "verses": [
+    "amos 5:16",
+    "amos 5:17",
+    "esther 4:3",
+    "ezekiel 27:31",
+    "genesis 50:10",
+    "isaiah 22:12",
+    "jeremiah 48:38",
+    "jeremiah 6:26",
+    "joel 2:12",
+    "micah 1:8",
+    "psalms 30:12",
+    "zechariah 12:11"
+  ],
   "translations": {
     "bg": "оплакване",
     "cs": "nářek",
@@ -35,19 +49,5 @@
     "tr": "bir ağıt",
     "uk": "плач",
     "zh": "感叹"
-  },
-  "verses": [
-    "amos 5:16",
-    "amos 5:17",
-    "esther 4:3",
-    "ezekiel 27:31",
-    "genesis 50:10",
-    "isaiah 22:12",
-    "jeremiah 48:38",
-    "jeremiah 6:26",
-    "joel 2:12",
-    "micah 1:8",
-    "psalms 30:12",
-    "zechariah 12:11"
-  ]
+  }
 }

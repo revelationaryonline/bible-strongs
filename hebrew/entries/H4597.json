@@ -6,6 +6,9 @@
   "definition": "Maai, an Israelite",
   "kjvTranslation": "Maai.",
   "hebrew": "מָעַי",
+  "verses": [
+    "nehemiah 12:36"
+  ],
   "translations": {
     "bg": "Мааи, израилтянин",
     "cs": "Maai, Izraelka",
@@ -35,8 +38,5 @@
     "tr": "Maai, bir İsrailli",
     "uk": "Маї, ізраїльтянин",
     "zh": "马埃，以色列人"
-  },
-  "verses": [
-    "nehemiah 12:36"
-  ]
+  }
 }

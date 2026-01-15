@@ -6,6 +6,18 @@
   "definition": "{an abode, of God (the Tabernacle or the Temple), men (their home) or animals (their lair); hence, a retreat (asylum)}",
   "kjvTranslation": "den, habitation, (dwelling) place, refuge.",
   "hebrew": "מְעוֹנָה",
+  "verses": [
+    "amos 3:4",
+    "deuteronomy 33:27",
+    "jeremiah 21:13",
+    "job 37:8",
+    "job 38:40",
+    "nahum 2:13",
+    "psalms 104:22",
+    "psalms 76:3",
+    "solomon 4:8",
+    "zephaniah 3:7"
+  ],
   "translations": {
     "bg": "{обиталище на Бога (Скинията или Храма), на хората (техния дом) или на животните (тяхното леговище); оттук - убежище}",
     "cs": "{příbytek Boha (svatostánek nebo chrám), lidí (jejich domov) nebo zvířat (jejich doupě); tedy útočiště (azyl)}",
@@ -35,17 +47,5 @@
     "tr": "{Tanrı'nın (Buluşma Çadırı veya Tapınak), insanların (evleri) veya hayvanların (inleri) bir meskeni; dolayısıyla, bir sığınak (asylum)}",
     "uk": "{оселя Бога (скинія або храм), людей (їхній дім) або тварин (їхнє лігво); отже, притулок (притулок)}",
     "zh": "{居所，神（会幕或圣殿）、人（他们的家）或动物（他们的巢穴）的居所；因此，是一个撤退（庇护所）}。"
-  },
-  "verses": [
-    "amos 3:4",
-    "deuteronomy 33:27",
-    "jeremiah 21:13",
-    "job 37:8",
-    "job 38:40",
-    "nahum 2:13",
-    "psalms 104:22",
-    "psalms 76:3",
-    "solomon 4:8",
-    "zephaniah 3:7"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "a bond, i.e. group",
   "kjvTranslation": "influence.",
   "hebrew": "מַעֲדַנָּה",
+  "verses": [
+    "job 38:31"
+  ],
   "translations": {
     "bg": "връзка, т.е. група",
     "cs": "vazba, tj. skupina",
@@ -35,8 +38,5 @@
     "tr": "bir bağ, yani grup",
     "uk": "бонд, тобто група",
     "zh": "债券"
-  },
-  "verses": [
-    "job 38:31"
-  ]
+  }
 }

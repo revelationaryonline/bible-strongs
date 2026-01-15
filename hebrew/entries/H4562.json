@@ -6,6 +6,9 @@
   "definition": "a band",
   "kjvTranslation": "bond.",
   "hebrew": "מָסֹרֶת",
+  "verses": [
+    "ezekiel 20:37"
+  ],
   "translations": {
     "bg": "група",
     "cs": "kapela",
@@ -35,8 +38,5 @@
     "tr": "bir grup",
     "uk": "гурт",
     "zh": "乐队"
-  },
-  "verses": [
-    "ezekiel 20:37"
-  ]
+  }
 }

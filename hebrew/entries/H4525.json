@@ -6,6 +6,15 @@
   "definition": "a fastener, i.e. (of a person) a smith, (of a thing) a prison",
   "kjvTranslation": "prison, smith.",
   "hebrew": "מַסְגֵּר",
+  "verses": [
+    "isaiah 24:22",
+    "isaiah 42:7",
+    "jeremiah 24:1",
+    "jeremiah 29:2",
+    "psalms 142:8",
+    "secondKings 24:14",
+    "secondKings 24:16"
+  ],
   "translations": {
     "bg": "закопчалка, т.е. (за човек) ковач, (за вещ) затвор",
     "cs": "spojovací prostředek, tj. (osoby) kovář, (věci) vězení",
@@ -35,14 +44,5 @@
     "tr": "bir bağlantı elemanı, yani (bir kişinin) bir demirci, (bir şeyin) bir hapishane",
     "uk": "застібка, тобто (про людину) коваль, (про річ) в'язниця",
     "zh": "扣件，即（人）铁匠，（物）监狱"
-  },
-  "verses": [
-    "isaiah 24:22",
-    "isaiah 42:7",
-    "jeremiah 24:1",
-    "jeremiah 29:2",
-    "psalms 142:8",
-    "secondKings 24:14",
-    "secondKings 24:16"
-  ]
+  }
 }

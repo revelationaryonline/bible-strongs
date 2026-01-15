@@ -6,6 +6,9 @@
   "definition": "Mispereth, an Israelite",
   "kjvTranslation": "Mispereth. Compare H4458 (מֶלְתָּחָה).",
   "hebrew": "מִסְפֶּרֶת",
+  "verses": [
+    "nehemiah 7:7"
+  ],
   "translations": {
     "bg": "Мисперет, израилтянин",
     "cs": "Misperet, Izraelita",
@@ -35,8 +38,5 @@
     "tr": "Mispereth, bir İsrailli",
     "uk": "Місперет, ізраїльтянин",
     "zh": "米斯佩勒，以色列人"
-  },
-  "verses": [
-    "nehemiah 7:7"
-  ]
+  }
 }

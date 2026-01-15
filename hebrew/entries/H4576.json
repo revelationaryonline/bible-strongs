@@ -6,6 +6,9 @@
   "definition": "a (weeding) hoe",
   "kjvTranslation": "mattock.",
   "hebrew": "מַעְדֵּר",
+  "verses": [
+    "isaiah 7:25"
+  ],
   "translations": {
     "bg": "мотика (за плевене)",
     "cs": "motyčka (na plevel)",
@@ -35,8 +38,5 @@
     "tr": "bir (ot ayıklama) çapası",
     "uk": "мотика (для прополки)",
     "zh": "锄头"
-  },
-  "verses": [
-    "isaiah 7:25"
-  ]
+  }
 }

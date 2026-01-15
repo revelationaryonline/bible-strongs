@@ -6,6 +6,13 @@
   "definition": "a divan (as enclosing the room); abstractly (adverbial) around",
   "kjvTranslation": "that compass about, (place) round about, at table.",
   "hebrew": "מֵסַב",
+  "verses": [
+    "firstKings 6:29",
+    "job 37:12",
+    "psalms 140:10",
+    "secondKings 23:5",
+    "solomon 1:12"
+  ],
   "translations": {
     "bg": "диван (като ограждащ стаята); абстрактно (наречие) около",
     "cs": "divan (jako obklopující místnost); abstraktně (příslovečné určení) kolem",
@@ -35,12 +42,5 @@
     "tr": "bir divan (odayı çevreleyen olarak); soyut olarak (zarf) etrafında",
     "uk": "диван (як огородження кімнати); абстрактно (прислівник) навколо",
     "zh": "厢房；抽象地（副词）围绕着"
-  },
-  "verses": [
-    "firstKings 6:29",
-    "job 37:12",
-    "psalms 140:10",
-    "secondKings 23:5",
-    "solomon 1:12"
-  ]
+  }
 }

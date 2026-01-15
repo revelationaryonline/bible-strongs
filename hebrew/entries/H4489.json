@@ -6,6 +6,10 @@
   "definition": "properly, something weighed out, i.e. (figuratively) a portion of time, i.e. an instance",
   "kjvTranslation": "time.",
   "hebrew": "מֹנֶה",
+  "verses": [
+    "genesis 31:41",
+    "genesis 31:7"
+  ],
   "translations": {
     "bg": "правилно, нещо претеглено, т.е. (в преносен смисъл) част от времето, т.е. случай",
     "cs": "správně něco odvážného, tj. (přeneseně) část času, tj. instance",
@@ -35,9 +39,5 @@
     "tr": "uygun şekilde, tartılan bir şey, yani (mecazi olarak) zamanın bir kısmı, yani bir örnek",
     "uk": "власне, щось зважене, тобто (образно) відрізок часу, тобто екземпляр",
     "zh": "秤出来的东西，即（比喻）一部分时间，即一个实例"
-  },
-  "verses": [
-    "genesis 31:41",
-    "genesis 31:7"
-  ]
+  }
 }

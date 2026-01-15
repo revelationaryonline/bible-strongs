@@ -6,6 +6,9 @@
   "definition": "Maarath, a place in Palestine",
   "kjvTranslation": "Maarath.",
   "hebrew": "מַעֲרָת",
+  "verses": [
+    "joshua 15:59"
+  ],
   "translations": {
     "bg": "Maarath, място в Палестина",
     "cs": "Maarath, místo v Palestině",
@@ -35,8 +38,5 @@
     "tr": "Maarath, Filistin'de bir yer",
     "uk": "Маарат, місце в Палестині",
     "zh": "马拉特"
-  },
-  "verses": [
-    "joshua 15:59"
-  ]
+  }
 }

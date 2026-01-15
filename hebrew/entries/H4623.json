@@ -6,6 +6,9 @@
   "definition": "subjectively, control",
   "kjvTranslation": "rule.",
   "hebrew": "מַעְצָר",
+  "verses": [
+    "proverbs 25:28"
+  ],
   "translations": {
     "bg": "субективно, контрол",
     "cs": "subjektivně, kontrola",
@@ -35,8 +38,5 @@
     "tr": "öznel olarak, kontrol",
     "uk": "суб'єктивно, контроль",
     "zh": "主观控制"
-  },
-  "verses": [
-    "proverbs 25:28"
-  ]
+  }
 }

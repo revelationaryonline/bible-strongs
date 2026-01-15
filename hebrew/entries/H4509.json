@@ -6,6 +6,11 @@
   "definition": "Minjamin, the name of two Israelites",
   "kjvTranslation": "Miniamin. Compare H4326 (מִיָּמִן).",
   "hebrew": "מִנְיָמִין",
+  "verses": [
+    "nehemiah 12:17",
+    "nehemiah 12:41",
+    "secondChronicles 31:15"
+  ],
   "translations": {
     "bg": "Минджамин, името на двама израилтяни",
     "cs": "Minjamin, jméno dvou Izraelitů",
@@ -35,10 +40,5 @@
     "tr": "Minjamin, iki İsraillinin adı",
     "uk": "Мінджамін, ім'я двох ізраїльтян",
     "zh": "民雅悯，两个以色列人的名字"
-  },
-  "verses": [
-    "nehemiah 12:17",
-    "nehemiah 12:41",
-    "secondChronicles 31:15"
-  ]
+  }
 }

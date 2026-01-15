@@ -6,6 +6,17 @@
   "definition": "an arrangement, i.e. (concretely) a pile (of loaves)",
   "kjvTranslation": "row, shewbread.",
   "hebrew": "מַעֲרֶכֶת",
+  "verses": [
+    "firstChronicles 23:29",
+    "firstChronicles 28:16",
+    "firstChronicles 9:32",
+    "leviticus 24:6",
+    "leviticus 24:7",
+    "nehemiah 10:34",
+    "secondChronicles 13:11",
+    "secondChronicles 29:18",
+    "secondChronicles 2:3"
+  ],
   "translations": {
     "bg": "подредба, т.е. (конкретно) купчина (хлябове)",
     "cs": "uspořádání, tj. (konkrétně) hromada (chlebů)",
@@ -35,16 +46,5 @@
     "tr": "bir düzenleme, yani (somut olarak) bir yığın (somun)",
     "uk": "розташування, тобто (конкретно) стос (хлібів)",
     "zh": "排列，即（具体地说）一堆（面包）"
-  },
-  "verses": [
-    "firstChronicles 23:29",
-    "firstChronicles 28:16",
-    "firstChronicles 9:32",
-    "leviticus 24:6",
-    "leviticus 24:7",
-    "nehemiah 10:34",
-    "secondChronicles 13:11",
-    "secondChronicles 29:18",
-    "secondChronicles 2:3"
-  ]
+  }
 }

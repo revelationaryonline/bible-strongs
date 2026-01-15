@@ -6,6 +6,23 @@
   "definition": "an elevation, i.e. (concretely) acclivity or platform; abstractly (the relation or state) a rise or (figuratively) priority",
   "kjvTranslation": "ascent, before, chiefest, cliff, that goeth up, going up, hill, mounting up, stairs.",
   "hebrew": "מַעֲלֶה",
+  "verses": [
+    "ezekiel 40:31",
+    "ezekiel 40:34",
+    "ezekiel 40:37",
+    "firstSamuel 9:11",
+    "isaiah 15:5",
+    "jeremiah 48:5",
+    "joshua 15:7",
+    "joshua 18:17",
+    "judges 8:13",
+    "nehemiah 12:37",
+    "nehemiah 9:4",
+    "secondChronicles 20:16",
+    "secondChronicles 32:33",
+    "secondKings 9:27",
+    "secondSamuel 15:30"
+  ],
   "translations": {
     "bg": "възвишение, т.е. (конкретно) възвишение или платформа; абстрактно (отношение или състояние) издигане или (образно) предимство",
     "cs": "vyvýšenina, tj. (konkrétně) vyvýšenina nebo plošina; abstraktně (vztah nebo stav) vyvýšenina nebo (přeneseně) přednost",
@@ -35,22 +52,5 @@
     "tr": "bir yükselti, yani (somut olarak) akivite veya platform; soyut olarak (ilişki veya durum) bir yükselti veya (mecazi olarak) öncelik",
     "uk": "висота, тобто (конкретно) піднесеність або платформа; абстрактно (відношення або стан) піднесення або (образно) пріоритет",
     "zh": "高地，即（具体地说）斜坡或平台；抽象地说（关系或状态）上升或（比喻）优先权"
-  },
-  "verses": [
-    "ezekiel 40:31",
-    "ezekiel 40:34",
-    "ezekiel 40:37",
-    "firstSamuel 9:11",
-    "isaiah 15:5",
-    "jeremiah 48:5",
-    "joshua 15:7",
-    "joshua 18:17",
-    "judges 8:13",
-    "nehemiah 12:37",
-    "nehemiah 9:4",
-    "secondChronicles 20:16",
-    "secondChronicles 32:33",
-    "secondKings 9:27",
-    "secondSamuel 15:30"
-  ]
+  }
 }

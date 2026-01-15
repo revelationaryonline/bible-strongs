@@ -6,6 +6,9 @@
   "definition": "outspread (i.e. with outstretched wings)",
   "kjvTranslation": "anointed.",
   "hebrew": "מִמְשַׁח",
+  "verses": [
+    "ezekiel 28:14"
+  ],
   "translations": {
     "bg": "разперени (т.е. с разперени крила)",
     "cs": "roztažená (tj. s roztaženými křídly)",
@@ -35,8 +38,5 @@
     "tr": "outspread (yani uzanmış kanatlarla)",
     "uk": "з розпростертими (тобто з розпростертими крилами)",
     "zh": "展翅"
-  },
-  "verses": [
-    "ezekiel 28:14"
-  ]
+  }
 }

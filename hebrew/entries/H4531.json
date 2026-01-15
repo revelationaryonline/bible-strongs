@@ -6,6 +6,13 @@
   "definition": "a testing, of men (judicial) or of God (querulous)",
   "kjvTranslation": "temptation, trial.",
   "hebrew": "מַסָּה",
+  "verses": [
+    "deuteronomy 29:2",
+    "deuteronomy 4:34",
+    "deuteronomy 7:19",
+    "job 9:23",
+    "psalms 95:8"
+  ],
   "translations": {
     "bg": "изпитание - от хора (съдебно) или от Бога (разкошно)",
     "cs": "zkouška lidská (soudní) nebo Boží (kverulantská)",
@@ -35,12 +42,5 @@
     "tr": "insanların (yargısal) ya da Tanrı'nın (sorgulayıcı) sınaması",
     "uk": "випробування, людське (судове) або Боже (допитливе)",
     "zh": "考验，是人（司法）的考验，还是神（哓哓）的考验"
-  },
-  "verses": [
-    "deuteronomy 29:2",
-    "deuteronomy 4:34",
-    "deuteronomy 7:19",
-    "job 9:23",
-    "psalms 95:8"
-  ]
+  }
 }

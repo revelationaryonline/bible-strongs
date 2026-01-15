@@ -6,6 +6,10 @@
   "definition": "an axe",
   "kjvTranslation": "ax, tongs.",
   "hebrew": "מַעֲצָד",
+  "verses": [
+    "isaiah 44:12",
+    "jeremiah 10:3"
+  ],
   "translations": {
     "bg": "брадва",
     "cs": "sekeru",
@@ -35,9 +39,5 @@
     "tr": "bir balta",
     "uk": "сокира",
     "zh": "斧头"
-  },
-  "verses": [
-    "isaiah 44:12",
-    "jeremiah 10:3"
-  ]
+  }
 }

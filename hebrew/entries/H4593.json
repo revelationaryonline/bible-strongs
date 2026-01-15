@@ -6,6 +6,9 @@
   "definition": "thinned (as to the edge), i.e. sharp",
   "kjvTranslation": "wrapped up.",
   "hebrew": "מָעֹט",
+  "verses": [
+    "ezekiel 21:20"
+  ],
   "translations": {
     "bg": "изтънен (до ръба), т.е. остър",
     "cs": "ztenčené (až k okraji), tj. ostré",
@@ -35,8 +38,5 @@
     "tr": "inceltilmiş (kenara doğru), yani keskin",
     "uk": "стоншений (до краю), тобто гострий",
     "zh": "削薄，即锋利"
-  },
-  "verses": [
-    "ezekiel 21:20"
-  ]
+  }
 }

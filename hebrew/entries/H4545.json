@@ -6,6 +6,10 @@
   "definition": "something expanded, i.e. the warp in aloom (as stretched out to receive the woof)",
   "kjvTranslation": "web.",
   "hebrew": "מַסֶּכֶת",
+  "verses": [
+    "judges 16:13",
+    "judges 16:14"
+  ],
   "translations": {
     "bg": "нещо разширено, напр. основата в тъканта (разтеглена, за да приеме вътъка)",
     "cs": "něco roztaženého, tj. osnova v útku (roztažená, aby přijala útek)",
@@ -35,9 +39,5 @@
     "tr": "genişlemiş bir şey, örneğin aloom'daki çözgü (havı almak için gerilmiş olarak)",
     "uk": "щось розширене, тобто викривлення в алоумі (як витягнуте, щоб прийняти гавкіт)",
     "zh": "展开的东西，即内里的经纱（被拉开以接收纬纱）"
-  },
-  "verses": [
-    "judges 16:13",
-    "judges 16:14"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "abundance, i.e. (adverbially) liberally",
   "kjvTranslation": "tribute.",
   "hebrew": "מִסָּה",
+  "verses": [
+    "deuteronomy 16:10"
+  ],
   "translations": {
     "bg": "изобилие, т.е. (наречие) либерално",
     "cs": "hojně, tj. (příslovečně) liberálně",
@@ -35,8 +38,5 @@
     "tr": "bolluk, yani (zarf olarak) cömertçe",
     "uk": "рясно, тобто (прислівниково) щедро",
     "zh": "宽裕"
-  },
-  "verses": [
-    "deuteronomy 16:10"
-  ]
+  }
 }

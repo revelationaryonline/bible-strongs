@@ -6,6 +6,13 @@
   "definition": "to mix, especially wine (with spices)",
   "kjvTranslation": "mingle.",
   "hebrew": "מָסַךְ",
+  "verses": [
+    "isaiah 19:14",
+    "isaiah 5:22",
+    "proverbs 9:2",
+    "proverbs 9:5",
+    "psalms 102:10"
+  ],
   "translations": {
     "bg": "за смесване, особено на вино (с подправки)",
     "cs": "míchat, zejména víno (s kořením)",
@@ -35,12 +42,5 @@
     "tr": "karıştırmak, özellikle şarap (baharatlarla)",
     "uk": "змішувати, особливо вино (зі спеціями)",
     "zh": "调酒"
-  },
-  "verses": [
-    "isaiah 19:14",
-    "isaiah 5:22",
-    "proverbs 9:2",
-    "proverbs 9:5",
-    "psalms 102:10"
-  ]
+  }
 }

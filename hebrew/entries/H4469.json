@@ -6,6 +6,10 @@
   "definition": "mixture, i.e. (specifically) wine mixed (with water or spices)",
   "kjvTranslation": "drink-offering, mixed wine.",
   "hebrew": "מַמְסָךְ",
+  "verses": [
+    "isaiah 65:11",
+    "proverbs 23:30"
+  ],
   "translations": {
     "bg": "смес, т.е. (по-специално) вино, смесено (с вода или подправки)",
     "cs": "směs, tj. (konkrétně) víno smíchané (s vodou nebo kořením)",
@@ -35,9 +39,5 @@
     "tr": "karışım, yani (özellikle) (su veya baharatla) karıştırılmış şarap",
     "uk": "суміш, тобто (конкретно) вино, змішане (з водою або спеціями)",
     "zh": "搀合"
-  },
-  "verses": [
-    "isaiah 65:11",
-    "proverbs 23:30"
-  ]
+  }
 }

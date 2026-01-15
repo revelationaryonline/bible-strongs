@@ -6,6 +6,22 @@
   "definition": "rule; also (concretely in plural) a realm or a ruler",
   "kjvTranslation": "dominion, government, power, to rule.",
   "hebrew": "מֶמְשָׁלָה",
+  "verses": [
+    "daniel 11:5",
+    "firstKings 9:19",
+    "genesis 1:16",
+    "isaiah 22:21",
+    "isaiah 39:2",
+    "jeremiah 34:1",
+    "jeremiah 51:28",
+    "micah 4:8",
+    "psalms 103:22",
+    "psalms 114:2",
+    "psalms 136:8",
+    "psalms 136:9",
+    "psalms 145:13",
+    "secondChronicles 32:9"
+  ],
   "translations": {
     "bg": "управление; също (конкретно в множествено число) царство или владетел",
     "cs": "vláda; také (konkrétně v množném čísle) říše nebo vládce",
@@ -35,21 +51,5 @@
     "tr": "kural; ayrıca (somut olarak çoğul) bir krallık veya bir hükümdar",
     "uk": "правління; також (конкретно у множині) царство або правитель",
     "zh": "统治；也可（具体为复数）指王国或统治者"
-  },
-  "verses": [
-    "daniel 11:5",
-    "firstKings 9:19",
-    "genesis 1:16",
-    "isaiah 22:21",
-    "isaiah 39:2",
-    "jeremiah 34:1",
-    "jeremiah 51:28",
-    "micah 4:8",
-    "psalms 103:22",
-    "psalms 114:2",
-    "psalms 136:8",
-    "psalms 136:9",
-    "psalms 145:13",
-    "secondChronicles 32:9"
-  ]
+  }
 }

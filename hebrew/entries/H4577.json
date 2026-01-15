@@ -6,6 +6,9 @@
   "definition": "only in plural the bowels",
   "kjvTranslation": "belly.",
   "hebrew": "מְעָה",
+  "verses": [
+    "daniel 2:32"
+  ],
   "translations": {
     "bg": "само в множествено число на червата",
     "cs": "pouze v množném čísle střev",
@@ -35,8 +38,5 @@
     "tr": "sadece çoğul bağırsaklarda",
     "uk": "тільки у множині кишки",
     "zh": "大腹便便"
-  },
-  "verses": [
-    "daniel 2:32"
-  ]
+  }
 }

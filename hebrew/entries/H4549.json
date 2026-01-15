@@ -6,6 +6,28 @@
   "definition": "to liquefy; figuratively, to waste (with disease), to faint (with fatigue, fear or grief)",
   "kjvTranslation": "discourage, faint, be loosed, melt (away), refuse, [idiom] utterly.",
   "hebrew": "מָסַס",
+  "verses": [
+    "deuteronomy 1:28",
+    "deuteronomy 20:8",
+    "exodus 16:21",
+    "ezekiel 21:12",
+    "firstSamuel 15:9",
+    "isaiah 10:18",
+    "isaiah 13:7",
+    "isaiah 19:1",
+    "isaiah 34:3",
+    "joshua 2:11",
+    "joshua 5:1",
+    "joshua 7:5",
+    "judges 15:14",
+    "micah 1:4",
+    "nahum 2:11",
+    "psalms 112:10",
+    "psalms 22:15",
+    "psalms 68:3",
+    "psalms 97:5",
+    "secondSamuel 17:10"
+  ],
   "translations": {
     "bg": "да се втечнява; в преносен смисъл - да се разгражда (при болест), да се отслабва (при умора, страх или скръб)",
     "cs": "zkapalnit; přeneseně: zchátrat (nemocí), omdlít (únavou, strachem nebo zármutkem)",
@@ -35,27 +57,5 @@
     "tr": "sıvılaşmak; mecazi olarak, (hastalıkla) ziyan etmek, (yorgunluk, korku veya kederle) bayılmak",
     "uk": "розріджуватися; переносно - марніти (від хвороби), втрачати свідомість (від втоми, страху або горя)",
     "zh": "液化；比喻（因疾病）虚脱，（因疲劳、恐惧或悲伤）昏厥"
-  },
-  "verses": [
-    "deuteronomy 1:28",
-    "deuteronomy 20:8",
-    "exodus 16:21",
-    "ezekiel 21:12",
-    "firstSamuel 15:9",
-    "isaiah 10:18",
-    "isaiah 13:7",
-    "isaiah 19:1",
-    "isaiah 34:3",
-    "joshua 2:11",
-    "joshua 5:1",
-    "joshua 7:5",
-    "judges 15:14",
-    "micah 1:4",
-    "nahum 2:11",
-    "psalms 112:10",
-    "psalms 22:15",
-    "psalms 68:3",
-    "psalms 97:5",
-    "secondSamuel 17:10"
-  ]
+  }
 }

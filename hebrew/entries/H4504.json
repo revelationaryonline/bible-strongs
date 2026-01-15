@@ -6,6 +6,10 @@
   "definition": "a sacrificial offering",
   "kjvTranslation": "oblation, meat offering.",
   "hebrew": "מִנְחָה",
+  "verses": [
+    "daniel 2:46",
+    "ezra 7:17"
+  ],
   "translations": {
     "bg": "жертвено приношение",
     "cs": "obětní dar",
@@ -35,9 +39,5 @@
     "tr": "bir kurban sunusu",
     "uk": "жертовне приношення",
     "zh": "供奉"
-  },
-  "verses": [
-    "daniel 2:46",
-    "ezra 7:17"
-  ]
+  }
 }

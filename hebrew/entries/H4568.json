@@ -6,6 +6,9 @@
   "definition": "properly, compact (part of soil), i.e. loam",
   "kjvTranslation": "clay.",
   "hebrew": "מַעֲבֶה",
+  "verses": [
+    "firstKings 7:46"
+  ],
   "translations": {
     "bg": "правилно, уплътнено (част от почвата), т.е. глинесто",
     "cs": "správně zhutnit (část půdy), tj. hlína",
@@ -35,8 +38,5 @@
     "tr": "düzgün, kompakt (toprağın bir parçası), yani balçık",
     "uk": "власне, компактний (частина ґрунту), тобто суглинок",
     "zh": "适当压实（土壤的一部分），即壤土"
-  },
-  "verses": [
-    "firstKings 7:46"
-  ]
+  }
 }

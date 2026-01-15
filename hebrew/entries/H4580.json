@@ -6,6 +6,10 @@
   "definition": "a cake of bread; parasite",
   "kjvTranslation": "cake, feast.",
   "hebrew": "מָעוֹג",
+  "verses": [
+    "firstKings 17:12",
+    "psalms 35:16"
+  ],
   "translations": {
     "bg": "питка хляб; паразит",
     "cs": "chlebový koláč; parazit",
@@ -35,9 +39,5 @@
     "tr": "bir ekmek keki; parazit",
     "uk": "коржик хліба; паразит",
     "zh": "面包"
-  },
-  "verses": [
-    "firstKings 17:12",
-    "psalms 35:16"
-  ]
+  }
 }

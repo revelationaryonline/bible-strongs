@@ -6,6 +6,14 @@
   "definition": "quiet, i.e. (concretely) a settled spot, or (figuratively) a home",
   "kjvTranslation": "(place of) rest.",
   "hebrew": "מָנוֹחַ",
+  "verses": [
+    "deuteronomy 28:65",
+    "firstChronicles 6:16",
+    "genesis 8:9",
+    "isaiah 34:14",
+    "lamentations 1:3",
+    "ruth 3:1"
+  ],
   "translations": {
     "bg": "спокойствие, т.е. (конкретно) уредено място или (преносно) дом",
     "cs": "klid, tj. (konkrétně) osídlené místo nebo (přeneseně) domov",
@@ -35,13 +43,5 @@
     "tr": "sessiz, yani (somut olarak) yerleşilmiş bir yer veya (mecazi olarak) bir ev",
     "uk": "тиша, тобто (конкретно) обжите місце, або (образно) дім",
     "zh": "安静，即（具体地说）一个安顿的地方，或（比喻）一个家"
-  },
-  "verses": [
-    "deuteronomy 28:65",
-    "firstChronicles 6:16",
-    "genesis 8:9",
-    "isaiah 34:14",
-    "lamentations 1:3",
-    "ruth 3:1"
-  ]
+  }
 }

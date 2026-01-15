@@ -6,6 +6,11 @@
   "definition": "Manachath, the name of an Edomite and of a place in Moab",
   "kjvTranslation": "Manahath.",
   "hebrew": "מָנַחַת",
+  "verses": [
+    "firstChronicles 1:40",
+    "firstChronicles 8:6",
+    "genesis 36:23"
+  ],
   "translations": {
     "bg": "Манахат, име на едомит и на едно място в Моав",
     "cs": "Manachat, jméno Edómce a místa v Moábu",
@@ -35,10 +40,5 @@
     "tr": "Manachath, bir Edomlu'nun ve Moav'da bir yerin adı",
     "uk": "Манахет, ім'я едомітянина та місцевості в Моаві",
     "zh": "玛拿加，一个以东人的名字和摩押的一个地名"
-  },
-  "verses": [
-    "firstChronicles 1:40",
-    "firstChronicles 8:6",
-    "genesis 36:23"
-  ]
+  }
 }

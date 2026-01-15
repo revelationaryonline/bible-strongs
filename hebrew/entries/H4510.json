@@ -6,6 +6,9 @@
   "definition": "enumeration",
   "kjvTranslation": "number.",
   "hebrew": "מִנְיָן",
+  "verses": [
+    "ezra 6:17"
+  ],
   "translations": {
     "bg": "изброяване",
     "cs": "výčet",
@@ -35,8 +38,5 @@
     "tr": "numaralandırma",
     "uk": "перерахування",
     "zh": "枚举"
-  },
-  "verses": [
-    "ezra 6:17"
-  ]
+  }
 }

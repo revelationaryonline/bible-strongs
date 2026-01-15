@@ -6,6 +6,9 @@
   "definition": "a cloak",
   "kjvTranslation": "mantle.",
   "hebrew": "מַעֲטָפָה",
+  "verses": [
+    "isaiah 3:22"
+  ],
   "translations": {
     "bg": "наметало",
     "cs": "plášť",
@@ -35,8 +38,5 @@
     "tr": "bir pelerin",
     "uk": "плащ",
     "zh": "披风"
-  },
-  "verses": [
-    "isaiah 3:22"
-  ]
+  }
 }

@@ -6,6 +6,10 @@
   "definition": "a furrow",
   "kjvTranslation": "[phrase] acre, furrow.",
   "hebrew": "מַעֲנָה",
+  "verses": [
+    "firstSamuel 14:14",
+    "psalms 129:3"
+  ],
   "translations": {
     "bg": "бразда",
     "cs": "brázda",
@@ -35,9 +39,5 @@
     "tr": "bir karık",
     "uk": "борозну",
     "zh": "洫"
-  },
-  "verses": [
-    "firstSamuel 14:14",
-    "psalms 129:3"
-  ]
+  }
 }

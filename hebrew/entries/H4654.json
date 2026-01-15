@@ -6,6 +6,11 @@
   "definition": "something fallen, i.e. a ruin",
   "kjvTranslation": "ruin(-ous).",
   "hebrew": "מַפָּלָה",
+  "verses": [
+    "isaiah 17:1",
+    "isaiah 23:13",
+    "isaiah 25:2"
+  ],
   "translations": {
     "bg": "нещо паднало, т.е. развалина",
     "cs": "něco spadlého, tj. zřícenina",
@@ -35,10 +40,5 @@
     "tr": "düşmüş bir şey, yani bir harabe",
     "uk": "щось, що впало, тобто руїни",
     "zh": "陨"
-  },
-  "verses": [
-    "isaiah 17:1",
-    "isaiah 23:13",
-    "isaiah 25:2"
-  ]
+  }
 }

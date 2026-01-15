@@ -6,6 +6,9 @@
   "definition": "a satire",
   "kjvTranslation": "music.",
   "hebrew": "מַנְגִּינָה",
+  "verses": [
+    "lamentations 3:63"
+  ],
   "translations": {
     "bg": "сатира",
     "cs": "satira",
@@ -35,8 +38,5 @@
     "tr": "bir hiciv",
     "uk": "сатира",
     "zh": "讽刺"
-  },
-  "verses": [
-    "lamentations 3:63"
-  ]
+  }
 }

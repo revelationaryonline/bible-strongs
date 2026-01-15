@@ -6,6 +6,9 @@
   "definition": "admonition",
   "kjvTranslation": "instruction.",
   "hebrew": "מֹסָר",
+  "verses": [
+    "job 33:16"
+  ],
   "translations": {
     "bg": "наставление",
     "cs": "napomenutí",
@@ -35,8 +38,5 @@
     "tr": "öğüt",
     "uk": "застереження",
     "zh": "训诫"
-  },
-  "verses": [
-    "job 33:16"
-  ]
+  }
 }

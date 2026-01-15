@@ -6,6 +6,16 @@
   "definition": "a reply (favorable or contradictory)",
   "kjvTranslation": "answer, [idiom] himself.",
   "hebrew": "מַעֲנֶה",
+  "verses": [
+    "job 32:3",
+    "job 32:5",
+    "micah 3:7",
+    "proverbs 15:1",
+    "proverbs 15:23",
+    "proverbs 16:1",
+    "proverbs 16:4",
+    "proverbs 29:19"
+  ],
   "translations": {
     "bg": "отговор (положителен или противоречив)",
     "cs": "odpověď (příznivou nebo protichůdnou)",
@@ -35,15 +45,5 @@
     "tr": "bir yanıt (olumlu veya çelişkili)",
     "uk": "відповідь (позитивна або негативна)",
     "zh": "回音"
-  },
-  "verses": [
-    "job 32:3",
-    "job 32:5",
-    "micah 3:7",
-    "proverbs 15:1",
-    "proverbs 15:23",
-    "proverbs 16:1",
-    "proverbs 16:4",
-    "proverbs 29:19"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "(only in plural as singular) the setting (of the sun)",
   "kjvTranslation": "going down.",
   "hebrew": "מֵעָל",
+  "verses": [
+    "daniel 6:15"
+  ],
   "translations": {
     "bg": "(само в множествено число като единствено число) залезът (на слънцето)",
     "cs": "(pouze v množném čísle jako jednotném čísle) západ (slunce)",
@@ -35,8 +38,5 @@
     "tr": "(tekil olarak sadece çoğulda) (güneşin) batışı",
     "uk": "(тільки у множині як однина) захід (сонця)",
     "zh": "日落"
-  },
-  "verses": [
-    "daniel 6:15"
-  ]
+  }
 }

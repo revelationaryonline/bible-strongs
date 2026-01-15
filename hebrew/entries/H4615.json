@@ -6,6 +6,13 @@
   "definition": "a deep",
   "kjvTranslation": "deep, depth.",
   "hebrew": "מַעֲמָק",
+  "verses": [
+    "ezekiel 27:34",
+    "isaiah 51:10",
+    "psalms 130:1",
+    "psalms 69:15",
+    "psalms 69:3"
+  ],
   "translations": {
     "bg": "дълбока",
     "cs": "hluboký",
@@ -35,12 +42,5 @@
     "tr": "derin",
     "uk": "глибоке",
     "zh": "深沉"
-  },
-  "verses": [
-    "ezekiel 27:34",
-    "isaiah 51:10",
-    "psalms 130:1",
-    "psalms 69:15",
-    "psalms 69:3"
-  ]
+  }
 }

@@ -6,6 +6,9 @@
   "definition": "a refuge",
   "kjvTranslation": "covert.",
   "hebrew": "מִסְתּוֹר",
+  "verses": [
+    "isaiah 4:6"
+  ],
   "translations": {
     "bg": "убежище",
     "cs": "útočiště",
@@ -35,8 +38,5 @@
     "tr": "bir sığınak",
     "uk": "притулок",
     "zh": "避难所"
-  },
-  "verses": [
-    "isaiah 4:6"
-  ]
+  }
 }

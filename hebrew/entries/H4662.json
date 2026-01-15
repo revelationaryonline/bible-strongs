@@ -6,6 +6,12 @@
   "definition": "an appointment, i.e. mandate; concretely, a designated spot; specifically, a census",
   "kjvTranslation": "appointed place, commandment, number.",
   "hebrew": "מִפְקָד",
+  "verses": [
+    "ezekiel 43:21",
+    "firstChronicles 21:5",
+    "secondChronicles 31:13",
+    "secondSamuel 24:9"
+  ],
   "translations": {
     "bg": "назначение, т.е. мандат; конкретно, определено място; по-специално, преброяване",
     "cs": "jmenování, tj. pověření; konkrétně určené místo; konkrétně sčítání lidu",
@@ -35,11 +41,5 @@
     "tr": "bir atama, yani yetki; somut olarak, belirlenmiş bir nokta; özellikle, bir nüfus sayımı",
     "uk": "призначення, тобто мандат; конкретно - визначене місце; конкретно - перепис",
     "zh": "任命，即授权；具体而言，指定地点；具体而言，人口普查"
-  },
-  "verses": [
-    "ezekiel 43:21",
-    "firstChronicles 21:5",
-    "secondChronicles 31:13",
-    "secondSamuel 24:9"
-  ]
+  }
 }

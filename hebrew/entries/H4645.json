@@ -6,6 +6,9 @@
   "definition": "an object of attack",
   "kjvTranslation": "mark.",
   "hebrew": "מִפְגָּע",
+  "verses": [
+    "job 7:20"
+  ],
   "translations": {
     "bg": "обект на атака",
     "cs": "objekt útoku",
@@ -35,8 +38,5 @@
     "tr": "bir saldırı nesnesi",
     "uk": "об'єкт атаки",
     "zh": "攻击目标"
-  },
-  "verses": [
-    "job 7:20"
-  ]
+  }
 }

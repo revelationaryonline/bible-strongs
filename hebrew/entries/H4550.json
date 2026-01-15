@@ -6,6 +6,19 @@
   "definition": "a departure (from striking the tents), i.e. march (not necessarily a single day's travel); by implication, a station (or point of departure)",
   "kjvTranslation": "journey(-ing).",
   "hebrew": "מַסַּע",
+  "verses": [
+    "deuteronomy 10:11",
+    "exodus 17:1",
+    "exodus 40:36",
+    "exodus 40:38",
+    "genesis 13:3",
+    "numbers 10:12",
+    "numbers 10:2",
+    "numbers 10:28",
+    "numbers 10:6",
+    "numbers 33:1",
+    "numbers 33:2"
+  ],
   "translations": {
     "bg": "тръгване (от палатките), т.е. поход (не непременно за един ден); по подразбиране - станция (или отправна точка)",
     "cs": "odchod (ze stanů), tj. pochod (ne nutně na jeden den cesty); implicitně stanice (nebo výchozí bod)",
@@ -35,18 +48,5 @@
     "tr": "(çadırları vurarak) ayrılış, yani yürüyüş (tek bir günlük yolculuk olması gerekmez); ima yoluyla, bir istasyon (veya kalkış noktası)",
     "uk": "відправлення (від нанесення ударів по наметах), тобто марш (не обов'язково одноденна подорож); імпліцитно - станція (або пункт відправлення)",
     "zh": "出发（从打帐篷出发），即行军（不一定是一天的行程）；暗指车站（或出发点）"
-  },
-  "verses": [
-    "deuteronomy 10:11",
-    "exodus 17:1",
-    "exodus 40:36",
-    "exodus 40:38",
-    "genesis 13:3",
-    "numbers 10:12",
-    "numbers 10:2",
-    "numbers 10:28",
-    "numbers 10:6",
-    "numbers 33:1",
-    "numbers 33:2"
-  ]
+  }
 }

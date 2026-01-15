@@ -6,6 +6,9 @@
   "definition": "a parapet",
   "kjvTranslation": "battlement.",
   "hebrew": "מַעֲקֶה",
+  "verses": [
+    "deuteronomy 22:8"
+  ],
   "translations": {
     "bg": "парапет",
     "cs": "parapet",
@@ -35,8 +38,5 @@
     "tr": "bir parapet",
     "uk": "парапет",
     "zh": "栏杆"
-  },
-  "verses": [
-    "deuteronomy 22:8"
-  ]
+  }
 }

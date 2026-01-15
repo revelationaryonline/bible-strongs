@@ -6,6 +6,9 @@
   "definition": "a breathing out (of life), i.e. expiring",
   "kjvTranslation": "giving up.",
   "hebrew": "מַפָּח",
+  "verses": [
+    "job 11:20"
+  ],
   "translations": {
     "bg": "издишване (на живота), т.е. изтичане",
     "cs": "vydechnutí (života), tj. vyprchání",
@@ -35,8 +38,5 @@
     "tr": "(yaşamdan) nefes alma, yani sona erme",
     "uk": "видих (життя), тобто закінчення",
     "zh": "寿终正寝"
-  },
-  "verses": [
-    "job 11:20"
-  ]
+  }
 }

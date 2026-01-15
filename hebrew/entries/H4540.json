@@ -6,6 +6,9 @@
   "definition": "a covering, i.e. garniture",
   "kjvTranslation": "covering.",
   "hebrew": "מְסֻכָּה",
+  "verses": [
+    "ezekiel 28:13"
+  ],
   "translations": {
     "bg": "покриване, т.е. запор",
     "cs": "krytí, tj. garnitura",
@@ -35,8 +38,5 @@
     "tr": "bir örtü, yani haciz",
     "uk": "покриття, тобто гарнітур",
     "zh": "封口费"
-  },
-  "verses": [
-    "ezekiel 28:13"
-  ]
+  }
 }

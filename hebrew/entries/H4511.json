@@ -6,6 +6,10 @@
   "definition": "Minnith, a place East of the Jordan",
   "kjvTranslation": "Minnith.",
   "hebrew": "מִנִּית",
+  "verses": [
+    "ezekiel 27:17",
+    "judges 11:33"
+  ],
   "translations": {
     "bg": "Минит, място на изток от Йордан",
     "cs": "Minnith, místo na východ od Jordánu",
@@ -35,9 +39,5 @@
     "tr": "Minnith, Ürdün'ün doğusunda bir yer",
     "uk": "Мінніт, місце на схід від Йордану",
     "zh": "米尼提，约旦河东的一个地方"
-  },
-  "verses": [
-    "ezekiel 27:17",
-    "judges 11:33"
-  ]
+  }
 }

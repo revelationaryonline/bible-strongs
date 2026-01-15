@@ -6,6 +6,9 @@
   "definition": "Miphkad, the name of a gate in Jerusalem",
   "kjvTranslation": "Miphkad.",
   "hebrew": "מִפְקָד",
+  "verses": [
+    "nehemiah 3:31"
+  ],
   "translations": {
     "bg": "Мифкад, име на порта в Йерусалим",
     "cs": "Mifkad, jméno brány v Jeruzalémě",
@@ -35,8 +38,5 @@
     "tr": "Miphkad, Kudüs'te bir kapının adı",
     "uk": "Міфкад, назва брами в Єрусалимі",
     "zh": "米普卡德，耶路撒冷一个城门的名字"
-  },
-  "verses": [
-    "nehemiah 3:31"
-  ]
+  }
 }

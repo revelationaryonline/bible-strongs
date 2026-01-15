@@ -6,6 +6,9 @@
   "definition": "a mixture, i.e. of wine with spices",
   "kjvTranslation": "mixture.",
   "hebrew": "מֶסֶךְ",
+  "verses": [
+    "psalms 75:9"
+  ],
   "translations": {
     "bg": "смес, т.е. вино с подправки",
     "cs": "směs, tj. vína s kořením",
@@ -35,8 +38,5 @@
     "tr": "bir karışım, yani baharatlı şarap",
     "uk": "суміш, тобто вина зі спеціями",
     "zh": "拌酒"
-  },
-  "verses": [
-    "psalms 75:9"
-  ]
+  }
 }

@@ -6,6 +6,10 @@
   "definition": "something sweet (literally or figuratively)",
   "kjvTranslation": "(most) sweet.",
   "hebrew": "מַמְתַּק",
+  "verses": [
+    "nehemiah 8:10",
+    "solomon 5:16"
+  ],
   "translations": {
     "bg": "нещо сладко (в буквален или преносен смисъл)",
     "cs": "něco sladkého (doslova nebo obrazně)",
@@ -35,9 +39,5 @@
     "tr": "tatlı bir şey (gerçek veya mecazi anlamda)",
     "uk": "щось солодке (в прямому чи переносному сенсі)",
     "zh": "甜头"
-  },
-  "verses": [
-    "nehemiah 8:10",
-    "solomon 5:16"
-  ]
+  }
 }

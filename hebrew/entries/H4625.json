@@ -6,6 +6,9 @@
   "definition": "a crook (in a road)",
   "kjvTranslation": "crooked thing.",
   "hebrew": "מַעֲקָשׁ",
+  "verses": [
+    "isaiah 42:16"
+  ],
   "translations": {
     "bg": "крива (на пътя)",
     "cs": "křivka (na silnici)",
@@ -35,8 +38,5 @@
     "tr": "bir dolandırıcı (bir yolda)",
     "uk": "шахрай (на дорозі)",
     "zh": "岔路"
-  },
-  "verses": [
-    "isaiah 42:16"
-  ]
+  }
 }

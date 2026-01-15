@@ -6,6 +6,15 @@
   "definition": "an allotment (by courtesy, law or providence)",
   "kjvTranslation": "portion.",
   "hebrew": "מְנָת",
+  "verses": [
+    "nehemiah 12:44",
+    "nehemiah 12:47",
+    "nehemiah 13:10",
+    "psalms 11:6",
+    "psalms 63:11",
+    "secondChronicles 31:3",
+    "secondChronicles 31:4"
+  ],
   "translations": {
     "bg": "разпределение (по благоволение, закон или провидение)",
     "cs": "příděl (ze zdvořilosti, ze zákona nebo od prozřetelnosti)",
@@ -35,14 +44,5 @@
     "tr": "bir tahsis (nezaket, yasa veya takdir yoluyla)",
     "uk": "виділення (за ввічливістю, законом або провидінням)",
     "zh": "配给"
-  },
-  "verses": [
-    "nehemiah 12:44",
-    "nehemiah 12:47",
-    "nehemiah 13:10",
-    "psalms 11:6",
-    "psalms 63:11",
-    "secondChronicles 31:3",
-    "secondChronicles 31:4"
-  ]
+  }
 }
